@@ -1,263 +1,262 @@
-_An adventure for five 7th-level characters._
+_Dobrodružství pro pět postav 7. úrovně._
 
-In this arc, upon returning from Castle Ravenloft in [[Arc P - Ravenloft Heist]], the players learn that the Abbot of the Abbey of St. Markovia plans to seize Baroness Anna Krezkova’s heart before nightfall. Meanwhile, the mutated werewolf Kiril Stoyanovich hunts the players down, even as Commander Vladimir Horngaard gathers his revenant knights to execute a warrant for their deaths. Can the players redeem the Abbot, overthrow Kiril, and light the beacon of Argynvostholt—or will their efforts to return light to the Barovian valley come to a gruesome and bloody end?
-# Q1. Flight From Ravenloft
-Depending on their means of escape, players who flee from Castle Ravenloft following [[Arc P - Ravenloft Heist]] can attempt to rest for the night in a number of different locations.
-## Q1a. The Teleportation Brazier
-Players who escape Castle Ravenloft via the teleportation brazier in <span class="citation">K78. Brazier Room (p. 82)</span> can teleport to the locations described in [[Arc P - Ravenloft Heist#P11e. Brazier Room|Arc P - Ravenloft Heist]]. From there, they can find shelter as follows:
+V tomto oblouku se hráči po návratu z hradu Ravenloft v [[Arc P - Ravenloft Heist|Oblouk P – Loupež v Ravenloftu]] dozvědí, že Opat z Opatství svaté Markovie se chystá zmocnit se srdce baronky Anny Krezkové ještě před setměním. Mezitím hráče pronásleduje zmutovaný vlkodlak Kiril Stoyanovich a velitel Vladimír Horngaard shromažďuje své rytíře-revenanty, aby vykonal rozsudek smrti nad nimi. Dokážou hráči Opata vykoupit, svrhnout Kirila a zažehnout maják Argynvostholtu – nebo jejich snaha navrátit barovskému údolí světlo skončí hrůzným a krvavým koncem?
+# Q1. Útěk z Ravenloftu
+Podle toho, jakým způsobem unikli, se hráči, kteří po [[Arc P - Ravenloft Heist|Oblouk P – Loupež v Ravenloftu]] prchají z hradu Ravenloft, mohou pokusit přečkat noc na několika různých místech.
+## Q1a. Teleportační pánev
+Hráči, kteří z hradu Ravenloft uniknou pomocí teleportační pánve v <span class="citation">K78. Brazier Room (p. 82)</span>, se mohou teleportovat na místa popsaná v [[Arc P - Ravenloft Heist#P11e. Brazier Room|Oblouk P – Loupež v Ravenloftu]]. Odtud mohou najít úkryt takto:
 
-***Village of Barovia.*** If the players teleport to the graveyard in the village of Barovia, Ismark Kolyanovich is happy to let them rest in the guest rooms of the burgomaster's mansion. Though surprised to learn that Ireena has joined the players in their quest to defeat Strahd, he is comforted by the fact that Ireena has grown in strength, confidence, and will through her time at the players' side.
+***Vesnice Barovie.*** Pokud se hráči teleportují na hřbitov ve vesnici Barovii, Ismark Kolyanovich je rád nechá odpočinout v pokojích pro hosty v purkmistrově sídle. Přestože ho překvapí, že se Ireena k hráčům přidala v jejich výpravě za porážkou Strahda, utěšuje ho, že Ireena za dobu strávenou po boku hráčů zesílila a nabyla sebedůvěry i vůle.
 
-***Town of Vallaki.*** If the players teleport to the coffin-maker's shop in the town of Vallaki, they can find shelter at the Blue Water Inn, St. Andral's Church, or (if they are on friendly terms with Lady Fiona Wachter and do not disclose their assault on Castle Ravenloft) Wachterhaus.
+***Město Vallaki.*** Pokud se hráči teleportují do rakvářovy dílny ve městě Vallaki, mohou najít úkryt v hostinci U Modré vody, v kostele svatého Andrala nebo (pokud mají s lady Fionou Wachter přátelské vztahy a neprozradí jí svůj útok na hrad Ravenloft) ve Wachterhausu.
 
-***Village of Krezk.*** If the players teleport to the Shrine of the White Sun in the village of Krezk, they can find shelter at the Krezkovs' cottage, which is as described in [[Arc K - The Fallen Abbey#K1a. The Krezkovs’ Cottage|Arc K - The Fallen Abbey]]. The Krezkovs are heartened if the players share that they have obtained the *Icon of Dawn's Grace* from St. Markovia's crypt in Castle Ravenloft and hope to use it to cleanse the Abbot's madness. If the players are joined by Emil Toranescu, Baron Dmitri Krezkov angrily recognizes him as "the wolf that stole his sister," Zuleika, and insists that Emil sleep outside unless convinced otherwise.
+***Vesnice Krezk.*** Pokud se hráči teleportují ke svatyni Bílého slunce ve vesnici Krezk, mohou najít úkryt v chalupě Krezkovových, která odpovídá popisu v [[Arc K - The Fallen Abbey#K1a. Chalupa Krezkovových|Oblouk K – Padlé opatství]]. Krezkovovy povzbudí, pokud jim hráči prozradí, že v kryptě svaté Markovie na hradě Ravenloft získali *Ikonu Jitřní milosti* a doufají, že s její pomocí očistí Opata od šílenství. Pokud hráče doprovází Emil Toranescu, baron Dmitri Krezkov v něm rozhněvaně pozná „vlka, který mu ukradl sestru“ Zuleiku, a trvá na tom, aby Emil spal venku, pokud ho nepřesvědčí jinak.
 
-> [!lore]+ **Dmitri & Emil**
-> Dmitri doesn't seriously believe that Emil kidnapped Zuleika or forced her to join the werewolf pack against her will. However, Dmitri resents Emil for "luring" Zuleika away from Krezk with tall tales of the "gift" of lycanthropy, which Dmitri believes is a curse. If challenged, Dmitri grits his teeth, and spits, "He convinced my sister that it was a *gift* to be a monster—a *beast*. He filled her head with lies and mad tales, and took her from me—from all of us."
+> [!lore]+ **Dmitri a Emil**
+> Dmitri vážně nevěří, že Emil Zuleiku unesl nebo ji proti její vůli donutil přidat se k vlkodlačí smečce. Zazlívá však Emilovi, že Zuleiku „vylákal“ z Krezku smyšlenkami o „daru“ lykantropie, kterou Dmitri považuje za prokletí. Pokud ho někdo vyzve, Dmitri zatne zuby a procedí: „Namluvil mé sestře, že být nestvůrou – *bestií* – je *dar*. Naplnil jí hlavu lžemi a šílenými povídačkami a vzal mi ji – vzal ji nám všem.“
 
-***Van Richten's Tower.*** If the players teleport to Van Richten's Tower, they can take shelter in the tower itself, or travel to the village of Krezk. The journey from the tower to Krezk is three-and-one-half miles long and takes one hour and ten minutes.
+***Van Richtenova věž.*** Pokud se hráči teleportují do Van Richtenovy věže, mohou se ukrýt v samotné věži nebo se vydat do vesnice Krezk. Cesta od věže do Krezku měří tři a půl míle a trvá hodinu a deset minut.
 
-***Ruins of Berez.*** If the players teleport to Marina's Monument in Berez, they can take shelter in <span class="citation">U2. Ulrich Mansion (p. 162)</span> or <span class="citation">U4. Churchyard (p. 164)</span>, their arrival hidden by the thick fog that clings to the swamp.
+***Trosky Berezu.*** Pokud se hráči teleportují k Marinině památníku v Berezu, mohou se ukrýt v <span class="citation">U2. Ulrich Mansion (p. 162)</span> nebo v <span class="citation">U4. Churchyard (p. 164)</span>; jejich příchod skryje hustá mlha, která lpí nad bažinou.
 
-> [!abstract]+ **Ruins of Berez**
-> Should the players attempt to explore the other structures within Berez, those ruins are largely as described in <span class="citation">U1. Abandoned Cottages (p. 162)</span>, <span class="citation">U4. Churchyard (p. 164)</span>, and <span class="citation">U5. Marina's Monument (p. 164)</span>. However, the abandoned cottages house four witches as detailed below, Lazlo Ulrich's ghost does not appear in the Ulrich mansion, and Baba Lysaga's goat pen is as described in [[Arc I - The Walls of Krezk#I4c. The Scrying Spell|I4c. The Scrying Spell]].
+> [!abstract]+ **Trosky Berezu**
+> Pokud se hráči pokusí prozkoumat další stavby v Berezu, tyto trosky do značné míry odpovídají popisu v <span class="citation">U1. Abandoned Cottages (p. 162)</span>, <span class="citation">U4. Churchyard (p. 164)</span> a <span class="citation">U5. Marina's Monument (p. 164)</span>. V opuštěných chalupách však přebývají čtyři čarodějnice, jak je uvedeno níže, v Ulrichově sídle se neobjevuje duch Lazla Ulricha a kozí ohrada Baby Lysagy odpovídá popisu v [[Arc I - The Walls of Krezk#I4c. The Scrying Spell|I4c. Věštecké kouzlo]].
 
-If the players attempt to take shelter in <span class="citation">U1. Abandoned Cottages (p. 162)</span>, they are attacked by two **Barovian hexwitches** and two **Barovian bogwitches**, who are as described in [[Arc P - Ravenloft Heist#P9c. Cauldron Room|Arc P - Ravenloft Heist]]. The tumult attracts the attention of the seven **scarecrows** standing guard in the marsh, which arrive three rounds after combat begins.
+Pokud se hráči pokusí ukrýt v <span class="citation">U1. Abandoned Cottages (p. 162)</span>, napadnou je dvě barovské kletbářky (**Barovian hexwitches**) a dvě barovské močálové čarodějnice (**Barovian bogwitches**), které odpovídají popisu v [[Arc P - Ravenloft Heist#P9c. Cauldron Room|Oblouk P – Loupež v Ravenloftu]]. Vřava přiláká pozornost sedmi strašáků (**scarecrows**), kteří v močálu drží stráž a dorazí tři kola po začátku boje.
 
  
- > [!combat]- **Combat - The Ruins of Berez**  
-> **Combat Level**: Mild (first wave), Bruising (second wave)
-> **Expected Character Level**: 7
-> **Allies:** Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4)
-> **Expected HP Consumption:** 4% (first wave), 29% (first wave), for a total of 33%
+ > [!combat]- **Boj – Trosky Berezu**  
+> **Úroveň boje**: Mírný (první vlna), Bolestivý (druhá vlna)
+> **Očekávaná úroveň postav**: 7
+> **Spojenci:** Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4)
+> **Očekávaná ztráta HP:** 4 % (první vlna), 29 % (druhá vlna), celkem 33 %
 > 
-> ### **Enemies:**
+> ### **Nepřátelé:**
 > 
-> | |3 Players | 4 Players | 5 Players | 6 Players |
+> | |3 hráči | 4 hráči | 5 hráčů | 6 hráčů |
 > |-|-|-|-|-|
 > | Barovian Bogwitch | 1 | 2 | 2 | 2 |
 > | Barovian Hexwitch | 2 | 1 | 2 | 2 |
 > | Barovian Stormwitch | 0 | 0 | 0 | 1 |
 > | Scarecrow | 5 | 6 | 7 | 8 |
 >
-> ### **Balancing:**
-> If you have more than 5 players, modify the encounter in the following ways:
+> ### **Vyvážení:**
+> Pokud máte víc než 5 hráčů, upravte střetnutí takto:
 >
-> | Number of Players | Modification |
+> | Počet hráčů | Úprava |
 > |-|-|
-> | 6 | Add one stormwitch to the first wave. |
+> | 6 | Do první vlny přidejte jednu bouřnou čarodějnici (stormwitch). |
 
-The players can also travel from Berez to the town of Vallaki, Van Richten's Tower, or the village of Krezk:
+Hráči se také mohou z Berezu vydat do města Vallaki, k Van Richtenově věži nebo do vesnice Krezk:
 
-* The journey from Berez to Vallaki is four-and-one-half miles long and takes one hour and thirty minutes.
-* The journey from Berez to Lake Baratok is seven miles long and takes two hours and twenty minutes. 
-* The journey from Berez to Krezk is eight-and-three-quarter miles long and takes three hours.
+* Cesta z Berezu do Vallaki měří čtyři a půl míle a trvá hodinu a třicet minut.
+* Cesta z Berezu k jezeru Baratok měří sedm mil a trvá dvě hodiny a dvacet minut. 
+* Cesta z Berezu do Krezku měří osm a tři čtvrtě míle a trvá tři hodiny.
 
-***Old Svalich Road.*** If the players teleport to Marina's Monument in Berez, they can make camp on or near the Old Svalich Road. If they do, they experience the <span class="citation">Strahd Zombies (p. 31)</span> random encounter one hour after making camp, but with eight **zombies** instead of **Strahd zombies**.
+***Stará svalichská cesta.*** Pokud se hráči teleportují k Marinině památníku v Berezu, mohou se utábořit na Staré svalichské cestě nebo v její blízkosti. Pokud tak učiní, hodinu poté, co se utáboří, zažijí náhodné střetnutí <span class="citation">Strahd Zombies (p. 31)</span>, ale s osmi zombie (**zombies**) místo Strahdových zombie (**Strahd zombies**).
 
-***Wizard of Wines.*** If the players teleport to the Wizard of Wines, the Martikovs are glad to give them a place to sleep for the night. When the players depart the next morning, Davian sends two **swarms of ravens** to accompany them to their destination. (The ravens depart when the players next arrive at Vallaki, Krezk, or Argynvostholt, whichever comes first.)
+***Čaroděj vín.*** Pokud se hráči teleportují do vinařství Čaroděj vín, Martikovovi jim rádi poskytnou místo, kde přespat. Když hráči příštího rána odcházejí, pošle s nimi Davian dva roje havranů (**swarms of ravens**), aby je doprovodily do cíle jejich cesty. (Havrani odletí, jakmile hráči příště dorazí do Vallaki, do Krezku nebo do Argynvostholtu – podle toho, kam dorazí dřív.)
 
-***Tsolenka Pass.*** If the players teleport to Tsolenka Pass, they can sleep in the guard tower there. The petrified **vrocks** don't attack players who bypass the gatehouse from the east side of the portcullis.
+***Průsmyk Tsolenka.*** Pokud se hráči teleportují do průsmyku Tsolenka, mohou přespat v tamní strážní věži. Zkamenělí vrockové (**vrocks**) nenapadnou hráče, kteří obejdou strážnici z východní strany padací mříže.
 
-The players can also travel from the guard tower to the town of Vallaki, Van Richten's Tower, or the village of Krezk:
+Hráči se také mohou ze strážní věže vydat do města Vallaki, k Van Richtenově věži nebo do vesnice Krezk:
 
-* The journey from the tower to Krezk is eleven miles long and takes three hours and forty minutes.
-* The journey from the tower to Lake Baratok is ten-and-one-half miles long and takes three hours and thirty minutes.
-* The journey from the tower to Vallaki is thirteen and one-quarter miles long and takes four hours and thirty minutes.
-## Q1b. The Pillarstone
-Players who escape Castle Ravenloft by descending the southeastern cliff of the Pillarstone of Ravenloft land just north of the village of Barovia, a short distance from the northern edge of <span class="citation">E6. Cemetery (p. 48)</span>. They can find shelter in the village as described in [[#Q1a. The Teleportation Brazier]].
-## Q1c. The Drawbridge
-Players who escape Castle Ravenloft by crossing the western chasm can find shelter as follows:
+* Cesta od věže do Krezku měří jedenáct mil a trvá tři hodiny a čtyřicet minut.
+* Cesta od věže k jezeru Baratok měří deset a půl míle a trvá tři hodiny a třicet minut.
+* Cesta od věže do Vallaki měří třináct a čtvrt míle a trvá čtyři hodiny a třicet minut.
+## Q1b. Skalní pilíř
+Hráči, kteří z hradu Ravenloft uniknou sestupem po jihovýchodním útesu Skalního pilíře Ravenloftu, přistanou těsně severně od vesnice Barovie, kousek od severního okraje <span class="citation">E6. Cemetery (p. 48)</span>. Úkryt ve vesnici mohou najít tak, jak je popsáno v [[#Q1a. Teleportační pánev|Q1a. Teleportační pánev]].
+## Q1c. Padací most
+Hráči, kteří z hradu Ravenloft uniknou přes západní propast, mohou najít úkryt takto:
 
-***Old Svalich Road.*** The players can make camp on or near the Old Svalich Road as described in [[#Q1a. The Teleportation Brazier]].
+***Stará svalichská cesta.*** Hráči se mohou utábořit na Staré svalichské cestě nebo v její blízkosti, jak je popsáno v [[#Q1a. Teleportační pánev|Q1a. Teleportační pánev]].
 
-***Town of Vallaki.*** The journey from Castle Ravenloft to Vallaki is eleven and one-quarter miles long and takes three hours and forty-five minutes. Players can find shelter in Vallaki as described in [[#Q1a. The Teleportation Brazier]].
+***Město Vallaki.*** Cesta z hradu Ravenloft do Vallaki měří jedenáct a čtvrt míle a trvá tři hodiny a čtyřicet pět minut. Úkryt ve Vallaki mohou hráči najít tak, jak je popsáno v [[#Q1a. Teleportační pánev|Q1a. Teleportační pánev]].
 
-***Village of Barovia.*** The journey from Castle Ravenloft to Barovia is thirteen-and-one-quarter miles long and takes four hours and thirty minutes. Players can find shelter in Barovia as described in [[#Q1a. The Teleportation Brazier]].
+***Vesnice Barovie.*** Cesta z hradu Ravenloft do Barovie měří třináct a čtvrt míle a trvá čtyři hodiny a třicet minut. Úkryt v Barovii mohou hráči najít tak, jak je popsáno v [[#Q1a. Teleportační pánev|Q1a. Teleportační pánev]].
 
-***Tser Pool Encampment.*** The journey from Castle Ravenloft to Tser Pool is twelve miles long and takes four hours. Arturi Radanavich is no longer present, having departed three days prior without forewarning.
+***Tábor u Tserského jezírka.*** Cesta z hradu Ravenloft k Tserskému jezírku měří dvanáct mil a trvá čtyři hodiny. Arturi Radanavich už tu není – před třemi dny bez varování odjel.
 
-If visited, Madam Eva declines to read the players' fortunes a second time, and merely warns them that they have entered the "final threshold of the path they have chosen." If the players inform her that they have learned her true name (Katarina), Madam Eva wryly congratulates them on their perceptiveness and can share the information regarding her relationship with Varushka in [[Arc O - Dinner with the Devil]]. 
+Pokud ji hráči navštíví, madam Eva odmítne vyložit jim osud podruhé a jen je varuje, že vstoupili na „poslední práh cesty, kterou si zvolili“. Pokud jí hráči prozradí, že zjistili její pravé jméno (Katarina), madam Eva jim s úšklebkem poblahopřeje k jejich bystrosti a může jim prozradit informace o svém vztahu s Varuškou uvedené v [[Arc O - Dinner with the Devil|Oblouk O – Večeře s ďáblem]]. 
 
-If the players suggest that she is associated with the Ladies of the Fanes, Madam Eva's gaze tightens and she stonily warns the players "not to invoke the names of the ancient, lest they rouse undesired attentions." (Madam Eva doesn't explain further.)
-# Q2. Dmitri's Plea
-## Q2a. A Dark Omen
-At dawn on the first day after the players raid Castle Ravenloft, a snow-white feather descends from the Abbey of Saint Markovia and lands on the kitchen windowsill of the Krezkovs' cottage. Anna and Dmitri recognize the feather as a promised message from the Abbot signaling that he intends to collect Anna's heart at dusk. 
+Pokud hráči naznačí, že má něco společného s Paními svatyní, madam Eva přimhouří oči a kamenně hráče varuje, „ať nevzývají jména prastarých, aby nevzbudili nechtěnou pozornost“. (Madam Eva to dál nevysvětluje.)
+# Q2. Dmitriho prosba
+## Q2a. Temné znamení
+Za úsvitu prvního dne poté, co hráči vyplenili hrad Ravenloft, se z Opatství svaté Markovie snese sněhobílé pero a dopadne na kuchyňský parapet chalupy Krezkovových. Anna a Dmitri v peru poznají slíbenou zprávu od Opata, která oznamuje, že si za soumraku přijde pro Annino srdce. 
 
-If the players aren't already in Krezk, Dmitri sets out for Vallaki accompanied by two Krezkian **guards**, hoping to find the players there.
+Pokud hráči ještě nejsou v Krezku, vydá se Dmitri v doprovodu dvou krezkských strážných (**guards**) do Vallaki v naději, že tam hráče najde.
 
-* If the players are traveling to Krezk from Berez, Tsolenka Pass, Van Richten's Tower, or a section of the Old Svalich Road west of Vallaki, they encounter Dmitri and his companions at <span class="citation">R. Raven River Crossroads (p. 40)</span>. 
-* Otherwise, Dmitri and his companions arrive in Vallaki two hours after dawn, whereupon they leave a message with the guards at the western gate and travel to the Blue Water Inn, hoping to find the players there.
+* Pokud hráči cestují do Krezku z Berezu, z průsmyku Tsolenka, od Van Richtenovy věže nebo z úseku Staré svalichské cesty západně od Vallaki, potkají Dmitriho a jeho společníky na <span class="citation">R. Raven River Crossroads (p. 40)</span>. 
+* Jinak Dmitri se svými společníky dorazí do Vallaki dvě hodiny po úsvitu, zanechá u stráží západní brány zprávu a vydá se do hostince U Modré vody v naději, že tam hráče najde.
 
-If the players slept at the Krezkovs' cottage the night before, they are awoken by the sound of quiet sobs from the kitchen, where Anna attempts to reassure Dmitri that "everything will be alright," while a tearful Dmitri desperately vows that he "won't let anything happen" to her.
+Pokud hráči předchozí noc přespali v chalupě Krezkovových, probudí je zvuk tichého vzlykání z kuchyně, kde se Anna snaží Dmitriho ujistit, že „všechno bude v pořádku“, zatímco uslzený Dmitri zoufale přísahá, že „nedovolí, aby se jí cokoli stalo“.
 
-Regardless of where he encounters the players, an anxious Dmitri informs them that the Abbot intends to collect Anna's heart at dusk, and will likely lay waste to Krezk unless Anna makes the journey to the Abbey of Saint Markovia by that time. If the players don't offer to do so, Dmitri begs them to intercede on Anna's behalf—"if not for us, then for our children."
-## Q2b. The Old Svalich Road
-### Journey to Vallaki
-#### The Raven Guard
-If the players slept east of Vallaki after escaping Castle Ravenloft, such as in the village of Barovia or at the Tser Pool encampment, they awake to find four **swarms of ravens** standing watch from nearby rooftops or trees. The ravens, which have heard of the players' heroics from the Keepers of the Feather, accompany the players as an honor guard until they reach the town of Vallaki.
-#### The Wolves' Ambush
-One hour before the players reach Vallaki, they encounter three corpses scattered across the road, as described in <span class="citation">Corpse (p. 30)</span>. Two of the corpses belong to Barovian adults killed by dire wolves, while the third resembles whichever player has displeased Strahd the most.
+Ať už hráče potká kdekoli, úzkostný Dmitri jim oznámí, že Opat si za soumraku přijde pro Annino srdce a nejspíš Krezk srovná se zemí, pokud se Anna do té doby nevydá do Opatství svaté Markovie. Pokud se k tomu hráči sami nenabídnou, Dmitri je prosí, aby se za Annu přimluvili – „když ne kvůli nám, tak kvůli našim dětem“.
+## Q2b. Stará svalichská cesta
+### Cesta do Vallaki
+#### Havraní stráž
+Pokud hráči po útěku z hradu Ravenloft přespali východně od Vallaki, například ve vesnici Barovii nebo v táboře u Tserského jezírka, probudí se a zjistí, že z okolních střech či stromů nad nimi drží stráž čtyři roje havranů (**swarms of ravens**). Havrani, kteří o hrdinských činech hráčů slyšeli od Strážců pera, doprovázejí hráče jako čestná stráž, dokud nedorazí do města Vallaki.
+#### Přepadení vlky
+Hodinu předtím, než hráči dorazí do Vallaki, narazí na tři mrtvoly rozházené po cestě, jak je popsáno v <span class="citation">Corpse (p. 30)</span>. Dvě z mrtvol patří dospělým Barovanům zabitým obřími vlky, kdežto třetí se podobá tomu z hráčů, který Strahda rozhněval nejvíc.
 
-If the third corpse melts away, or when the players first move to depart the corpses, they are attacked by six **dire wolves**, as described in <span class="citation">Dire Wolves (p. 30)</span>, accompanied by two **scarecrows**, which are as described in <span class="citation">Scarecrows (p. 31)</span>. The wolves and scarecrows fight to the death, as do the swarms of ravens, which fight fiercely to defend the players.
+Pokud se třetí mrtvola rozplyne, nebo když se hráči poprvé chystají od mrtvol odejít, napadne je šest obřích vlků (**dire wolves**), jak je popsáno v <span class="citation">Dire Wolves (p. 30)</span>, v doprovodu dvou strašáků (**scarecrows**), kteří odpovídají popisu v <span class="citation">Scarecrows (p. 31)</span>. Vlci i strašáci bojují až do smrti, stejně jako roje havranů, které hráče zuřivě brání.
 
-> [!combat]- **Balancing the Old Svalich Road**
-> This combat encounter is a **bruising** combat encounter against a party of five 7th-level players, a CR 2 ally (Ireena Kolyana), and a CR 4 ally (Ezmerelda d’Avenir), and will consume approximately 37% of their total maximum hit points. For parties of smaller or larger sizes, modify the encounter as follows:
+> [!combat]- **Vyvážení Staré svalichské cesty**
+> Toto bojové střetnutí je **bolestivým** střetnutím pro družinu pěti hráčů 7. úrovně, spojence s CR 2 (Ireena Kolyana) a spojence s CR 4 (Ezmerelda d’Avenir) a spotřebuje přibližně 37 % jejich celkového maxima HP. Pro menší či větší družiny upravte střetnutí takto:
 > 
-> * Three Players. Reduce the number of dire wolves to 5, and the number of scarecrows to one.
-> * Four Players. Reduce the number of scarecrows to one.
-> * Six Players. Increase the number of scarecrows to three.
+> * Tři hráči. Snižte počet obřích vlků na 5 a počet strašáků na jednoho.
+> * Čtyři hráči. Snižte počet strašáků na jednoho.
+> * Šest hráčů. Zvyšte počet strašáků na tři.
 
 
-> [!combat]- **Combat - The Old Svalich Road**  
-> **Combat Level**: Bruising
-> **Expected Character Level**: 7
-> **Allies:** Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4)
-> **Expected HP Consumption:** 37%
+> [!combat]- **Boj – Stará svalichská cesta**  
+> **Úroveň boje**: Bolestivý
+> **Očekávaná úroveň postav**: 7
+> **Spojenci:** Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4)
+> **Očekávaná ztráta HP:** 37 %
 > 
-> ### **Enemies:**
+> ### **Nepřátelé:**
 > 
-> | |3 Players | 4 Players | 5 Players | 6 Players |
+> | |3 hráči | 4 hráči | 5 hráčů | 6 hráčů |
 > |-|-|-|-|-|
 > | Dire Wolf | 5 | 6 | 6 | 6 |
 > | Scarecrow | 1 | 1 | 2 | 3 |
-> | Swarm of Ravens | 4 | 4  4 | 4 |
+> | Swarm of Ravens | 4 | 4 | 4 | 4 |
+#### Příchod do Vallaki
+Po příchodu hráčů do Vallaki jim stráže u brány oznámí, že je v hostinci U Modré vody očekává baron Dmitri Krezkov z Krezku. Pokud se tam hráči vydají, najdou barona Krezkova v šenku, jak úzkostně sedí u výčepu nad nedotčeným pitím, zatímco se ho Danika snaží utěšit. Scéna se pak odvíjí tak, jak je popsáno v [[#Q2a. Temné znamení|Q2a. Temné znamení]].
+## Cesta do Krezku
+Když hráči putují do Krezku, znovu narazí na revenanta (**revenant**), který drží stráž u mostu přes Havraní řeku, jak je popsáno v [[Arc I - The Walls of Krezk#I1. The Road to Krezk|Oblouk I – Hradby Krezku]]. Revenant hráče vřele pozdraví, ale – zatímco mu přes tvář přejde stín – je varuje, že ve větru se nesou „temné zvěsti“ a že může být ze svého stanoviště odvolán dřív, než by čekal.
 
-#### Arrival in Vallaki
-Upon the players' arrival at Vallaki, the guards at the gate inform them that Baron Dmitri Krezkov of Krezk is awaiting them at the Blue Water Inn. If they venture there, the players can find Baron Krezkov in the taproom, sitting anxiously at the bar with an untouched drink as Danika attempts to comfort him. The scene then unfolds as described in [[#Q2a. A Dark Omen]].
-## Journey to Krezk
-As the players journey to Krezk, they again encounter the **revenant** standing guard at the bridge over the Raven River, as described in [[Arc I - The Walls of Krezk#I1. The Road to Krezk|Arc I - The Walls of Krezk]]. The revenant greets the players warmly, but warns them, as a shadow crosses its face, that "dark tidings" are alight on the wind, and that it may be recalled from its post sooner than expected.
+Revenant neví jistě, jaké temné zvěsti to jsou, ale může prozradit, že velitel Vladimír Horngaard zuří kvůli útoku hráčů na hrad Ravenloft. Revenant neví, jak se mohl Vladimír o činech hráčů dozvědět, ale naznačí, že se to mohl dozvědět od přízračných válečníků (**phantom warriors**), kteří mu v Ethereal Plane slouží jako oči a uši.
 
-The revenant isn't sure what the dark tidings are, but can share that Commander Vladimir Horngaard is enraged by the players' assault on Castle Ravenloft. The revenant doesn't know how Vladimir might have learned of the players' actions, but suggests that he may have learned it from the **phantom warriors** that serve as his eyes and ears in the Ethereal Plane.
+Když hráči odcházejí, revenant jim popřeje mnoho štěstí, vážně se s nimi rozloučí a téměř toužebně dodá: „Kéž vás Jitřní pán chrání ve světle své milosti.“
+# Q3. Návrat do Krezku
+Po příchodu do Krezku hráče u brány přivítá Anna Krezková, která úzkostně čekala na Dmitriho návrat. Když se vrátí, obejme ho s vděčností, že se vrátil v bezpečí, a hráčům upřímně poděkuje, že podnikli tu cestu. 
 
-As the players depart, the revenant wishes them well, solemnly bidding them farewell and adding, almost wistfully, "May the Morninglord shelter you in the light of His grace."
-# Q3. Return to Krezk
-Upon arriving in Krezk, the players are met at the gate by Anna Krezkova, who has been waiting anxiously for Dmitri to return. When he does, she embraces him in gratitude for his safe return and thanks the players sincerely for making the journey. 
+Anna a Dmitri, dva šlechtici (**nobles**) se Strength 14 (+2), ozbrojení postříbřenou bitevní sekerou (***silvered battleaxe***), respektive dlouhým mečem (***longsword***) (+4 k zásahu, každá zbraň 1d10 + 2 sečného (slashing) zranění), hráče na požádání rádi doprovodí do opatství. Rozpačitě je však varují, že v boji jim nejspíš budou jen málo platní.
 
-Anna and Dmitri, two **nobles** with Strength scores of 14 (+2) and wielding a ***silvered battleaxe*** and ***longsword***, respectively (+4 to hit, 1d10 + 2 slashing damage each), are glad to accompany the players to the Abbey if asked. However, they warn the players abashedly that they will likely be of little help in a fight.
-
-> [!abstract]+ **Emil Helps Out**
-> If Emil is present, the players can convince him to assist them in confronting the Abbot by referencing his obligations as the Krezkovs’ brother-in-law and succeeding on a DC 10 Charisma (Persuasion) check. (Emil, who dislikes Dmitri for his “cowardice" and “resignation" to his family’s curse, and for Dmitri’s efforts to make Zuleika avoid Emil and feel ashamed of her lycanthropy, feels no obligation to assist the Krezkovs initially.)
+> [!abstract]+ **Emil pomáhá**
+> Pokud je Emil přítomen, mohou ho hráči přesvědčit, aby jim pomohl postavit se Opatovi, pokud se odvolají na jeho povinnosti švagra Krezkovových a uspějí v ověření Charisma (Persuasion) se DC 10. (Emil, který Dmitriho nemá rád pro jeho „zbabělost“ a „odevzdanost“ vůči rodové kletbě a pro to, jak se Dmitri snažil přimět Zuleiku, aby se Emilovi vyhýbala a styděla se za svou lykantropii, zpočátku necítí žádnou povinnost Krezkovovým pomáhat.)
 >
-> The players make the check with advantage if they argue that Zuleika would want him to help her brother. The players succeed automatically if they inform Emil that the Abbot used the appearance of his wife, Zuleika, to manipulate Ilya into killing Kala (Emil’s niece).
-## Q3a. Return to the Abbey
-As the players ascend <span class="citation">S5. Winding Road (p. 147)</span>, the shard of divinity in the *Icon of Dawn’s Grace* speaks to them, asking:
+> Hráči si na ověření hází s výhodou, pokud argumentují tím, že by si Zuleika přála, aby jejímu bratrovi pomohl. Hráči uspějí automaticky, pokud Emilovi prozradí, že Opat použil podobu jeho ženy Zuleiky, aby Ilju zmanipuloval k zabití Kaly (Emilovy neteře).
+## Q3a. Návrat do opatství
+Když hráči stoupají po <span class="citation">S5. Winding Road (p. 147)</span>, promluví k nim střípek božství v *Ikoně Jitřní milosti* a zeptá se jich:
 
-* what became of the Abbey of St. Markovia following Markovia’s death at Castle Ravenloft
-* how the Abbot came to reside in Krezk at the Abbey
-* what became of the Abbot after he came to the Abbey, and how he descended into madness
+* co se stalo s Opatstvím svaté Markovie po Markoviině smrti na hradě Ravenloft
+* jak se Opat dostal do Krezku a usadil se v opatství
+* co se s Opatem stalo poté, co přišel do opatství, a jak upadl do šílenství
 
-Regardless of the players’ answers, the shard warns them that the Abbot, like all creatures of celestial creation, is likely to be zealous, inflexible, and utterly devoted to his perceived cause. “Tread carefully, and ready your steel," the shard whispers telepathically. “For the Morninglord’s rays flare only brighter when they perceive darkness before them."
-### The North Gate
-The players are met at <span class="citation">S6. North Gate (p. 147)</span> by Otto and Zygfrek Belview. If the players agreed to investigate Cyrus’s “perfection" in [[Arc K - The Fallen Abbey#The Eavesdroppers|Arc K - The Fallen Abbey]], Otto (excitedly) and Zygfrek (anxiously) ask the players whether they’ve seen Cyrus since departing the Abbey, and how the Abbot’s “perfection" has transformed him. “Is he strong?" Otto hee-haws happily. “Is he beautiful?" Zygfrek whispers, her voice trembling.
+Ať už hráči odpovědí jakkoli, střípek je varuje, že Opat bude jako všichni tvorové nebeského původu nejspíš horlivý, neústupný a bezvýhradně oddaný věci, kterou za svou považuje. „Kráčejte opatrně a mějte ocel připravenou,“ zašeptá střípek telepaticky. „Neboť paprsky Jitřního pána vzplanou o to jasněji, když před sebou spatří temnotu.“
+### Severní brána
+U <span class="citation">S6. North Gate (p. 147)</span> hráče přivítají Otto a Zygfrek Belviewovi. Pokud hráči v [[Arc K - The Fallen Abbey#Slídilové|Oblouk K – Padlé opatství]] slíbili, že prověří Cyrusovu „dokonalost“, Otto (nadšeně) a Zygfrek (úzkostně) se hráčů zeptají, zda od odchodu z opatství Cyruse viděli a jak ho Opatova „dokonalost“ proměnila. „Je silný?“ hýká Otto radostně. „Je krásný?“ zašeptá Zygfrek roztřeseným hlasem.
 
-If the players share the truth of Cyrus’s situation, Otto and Zygfrek are horrified, with Zygfrek falling silent and clutching her cloak around her while Otto angrily demands the players recant their “lie." “The Abbot would never lie to us!" Otto howls, with tears beading at the corners of his eyes.
+Pokud hráči prozradí pravdu o Cyrusově situaci, Otto a Zygfrek jsou zděšeni: Zygfrek zmlkne a pevně se zahalí do pláště, zatímco Otto rozhořčeně požaduje, aby hráči svou „lež“ odvolali. „Opat by nám nikdy nelhal!“ vyje Otto a v koutcích očí se mu perlí slzy.
 
-The players can convince Otto and Zygfrek that they are telling the truth with a successful DC 10 Charisma (Persuasion) check, succeeding automatically if they describe Cyrus’s appearance, personality, or other details they could have gleaned only by encountering him. If they do, Otto and Zygfrek utterly deflate, appearing heartbroken. “We’ve been waiting for so long," Otto mumbles, sniffling. “What do we wait for now?" As he speaks, Zygfrek pulls her hood down to cover her face, leaves the gate, and sits at the edge of the cliff, staring out at the village below with sorrow, shame, and self-loathing. Otto and Zygfrek are grateful for any guidance or encouragement the players can provide.
+Hráči mohou Otta a Zygfrek přesvědčit, že mluví pravdu, úspěšným ověřením Charisma (Persuasion) se DC 10; uspějí automaticky, pokud popíšou Cyrusův vzhled, povahu či jiné podrobnosti, které mohli zjistit jedině tak, že se s ním setkali. Pokud se jim to podaří, Otto a Zygfrek naprosto splasknou a vypadají zdrceně. „Čekali jsme tak dlouho,“ zamumlá Otto a popotáhne. „Na co teď budeme čekat?“ Zatímco mluví, Zygfrek si stáhne kápi přes obličej, opustí bránu a posadí se na okraj útesu, odkud s žalem, hanbou a nenávistí k sobě samé hledí dolů na vesnici. Otto a Zygfrek jsou vděční za jakoukoli radu či povzbuzení, které jim hráči mohou dát.
 
-Otto and Zygfrek are glad to bring the players to the Abbot if asked to do so, though Zygfrek prefers to linger by the cliffside if told of the Abbot’s duplicity. 
-### The Courtyard
-Upon entering <span class="citation">S12. Courtyard (p. 150)</span>, the players encounter Clovin Belview, who is delivering bowls of cold porridge to the Belviews in the padlocked stone sheds. Clovin greets the players and informs them that the Abbot is in the asylum, located in <span class="citation">S15. Madhouse (p. 151)</span>, tending and ministering to Clovin’s family therein.
+Otto a Zygfrek hráče na požádání rádi dovedou k Opatovi, ačkoli Zygfrek raději zůstane na okraji útesu, pokud se dozvěděla o Opatově dvojakosti. 
+### Nádvoří
+Po vstupu na <span class="citation">S12. Courtyard (p. 150)</span> narazí hráči na Clovina Belviewa, který roznáší misky studené kaše Belviewovým v kamenných kůlnách zamčených na visací zámky. Clovin hráče pozdraví a oznámí jim, že Opat je v blázinci v <span class="citation">S15. Madhouse (p. 151)</span>, kde pečuje o Clovinovu rodinu a duchovně jí slouží.
 
-If the players agreed to investigate Cyrus’s “perfection" in [[Arc K - The Fallen Abbey#The Eavesdroppers|Arc K - The Fallen Abbey]], Clovin eagerly asks the players whether they’ve seen Cyrus since departing the Abbey. “Is he well?" he asks, adding, “Has he taken to his new form?" 
+Pokud hráči v [[Arc K - The Fallen Abbey#Slídilové|Oblouk K – Padlé opatství]] slíbili, že prověří Cyrusovu „dokonalost“, Clovin se jich dychtivě zeptá, zda od odchodu z opatství Cyruse viděli. „Daří se mu dobře?“ zeptá se a dodá: „Zvykl si na svou novou podobu?“ 
 
-If the players share the truth of Cyrus’s situation, Clovin’s face briefly falls, and then becomes cold and carefully composed. “I see," he notes, even as the infant head upon his shoulder begins to wail. 
+Pokud hráči prozradí pravdu o Cyrusově situaci, Clovinovi na okamžik spadne tvář, ale vzápětí ztuhne v chladný, pečlivě ovládaný výraz. „Chápu,“ poznamená, zatímco nemluvněcí hlava na jeho rameni začne kvílet. 
 
-Regardless of his own disappointment, Clovin is determined to make good on his promise should the players bring news of Cyrus. If they do, before bringing them to the Abbot, he brings them to a wooden stand covered with black cloth in the southeast corner of the <span class="citation">S17. Loft and Belfry (p. 152)</span>. From the stand hang two sets of *wings of flying* with animal-bone frames. (The Abbot crafted the wings as part of his original experiments with the Belviews, but abandoned them long ago.) They have the following changes:
+Navzdory vlastnímu zklamání je Clovin odhodlán dostát svému slibu, pokud mu hráči přinesou zprávy o Cyrusovi. Pokud tak učiní, zavede je dřív, než je dovede k Opatovi, k dřevěnému stojanu zakrytému černou látkou v jihovýchodním rohu <span class="citation">S17. Loft and Belfry (p. 152)</span>. Na stojanu visí dva páry *wings of flying* s kostrou ze zvířecích kostí. (Opat křídla vyrobil v rámci svých původních pokusů s Belviewovými, ale už dávno je opustil.) Mají následující změny:
 
-* The wings are artificial wings, rather than cloaks, and animate when activated instead of transforming.
-* A set of wings animates for 1 minute, rather than 1 hour
-* Once a set of wings has been used, it can't be used again until the next dawn.
-* One set resembles bird wings and bears hundreds of large, downy feathers plucked from the Abbot's giant eagle form, while the other resembles bat wings and bears long membranes of tanned animal hide.
-* A creature can attune itself to the wings in 1 minute.
-## Q3b. Confronting the Abbot
-The players can find the Abbot in the Abbey’s asylum, which is largely as described in <span class="citation">S15. Madhouse (p. 151)</span>, however the cells housing the Belviews have iron bars that allow them to witness the scene. Also, the players overhear the following conversation as they approach and enter this area:
+* Křídla jsou umělá křídla, nikoli pláště, a při aktivaci ožijí, místo aby se proměnila.
+* Pár křídel ožije na 1 minutu, nikoli na 1 hodinu
+* Jakmile byl pár křídel použit, nelze ho znovu použít až do příštího úsvitu.
+* Jeden pár připomíná ptačí křídla a nese stovky velkých, prachových per vyškubaných z Opatovy podoby obřího orla, kdežto druhý připomíná netopýří křídla a nese dlouhé blány z vydělané zvířecí kůže.
+* Tvor se může s křídly sladit (attune) za 1 minutu.
+## Q3b. Střet s Opatem
+Opata najdou hráči v blázinci opatství, který do značné míry odpovídá popisu v <span class="citation">S15. Madhouse (p. 151)</span>; cely, v nichž jsou Belviewovi drženi, však mají železné mříže, takže Belviewovi mohou scénu sledovat. Když se hráči k této oblasti blíží a vstupují do ní, zaslechnou navíc následující rozhovor:
 
 <div class="description">
-<p>A handsome young man in monk’s robes stands halfway down the hall, a prayer book tucked beneath one arm—the Abbot. Before him stands a dainty woman wearing a tattered gown, her head bowed in silent acquiescence—Vasilka. The flesh golem stands behind them, its grotesque form towering above them in the shadows.</p>
-<p>"I’ve told you not to sully yourself with the unclean," the Abbot scolds her, his voice harsh. “Especially not today, of all days. Have you forgotten the operation you’re to undergo tonight? One iota of blight from these creatures could bring damnation to the land you’re meant to serve."</p>
-<p>"I’m sorry," Vasilka whispers, trembling. “I didn’t think—"</p>
-<p>"No," the Abbot says coldly. “You didn’t."</p>
+<p>V polovině chodby stojí pohledný mladý muž v mnišském rouchu s modlitební knihou pod paží – Opat. Před ním stojí útlá žena v potrhaných šatech se skloněnou hlavou v tichém podvolení – Vasilka. Za nimi stojí masový golem a jeho groteskní postava se nad nimi tyčí ve stínech.</p>
+<p>„Říkal jsem ti, aby ses neposkvrňovala nečistými,“ kárá ji Opat příkrým hlasem. „Zvlášť ne dnes, ze všech dnů. Zapomněla jsi snad na zákrok, který tě dnes v noci čeká? Jediná špetka nákazy od těchto tvorů by mohla uvrhnout do zatracení zemi, které máš sloužit.“</p>
+<p>„Promiňte,“ zašeptá Vasilka roztřeseně. „Nemyslela jsem…“</p>
+<p>„Ne,“ řekne Opat chladně. „Nemyslela.“</p>
 </div>
 
-Unless the players interrupt, the conversation proceeds as follows:
+Pokud hráči rozhovor nepřeruší, pokračuje takto:
 
-* The Abbot sighs, rubs his temples, and places a fatherly hand on Vasilka’s shoulder. “Fear not," he says softly. “The Morninglord’s forgiveness and grace are eternal, so long as we remember our proper places." 
-* The Abbot gestures to the flesh golem and the Belviews in the cells, adding: “Theirs is here. And yours is . . . ?" 
-* Vasilka’s head bows deeper as she replies, “In the hall, waiting to be wed."
-* The Abbot smiles, nods, and squeezes her shoulder. “Good. So long as you remember that, you cannot be led astray."
+* Opat si povzdechne, promne si spánky a otcovsky položí Vasilce ruku na rameno. „Neboj se,“ řekne tiše. „Odpuštění a milost Jitřního pána jsou věčné, dokud pamatujeme na svá náležitá místa.“ 
+* Opat ukáže na masového golema a na Belviewovy v celách a dodá: „Jejich místo je zde. A tvé je…?“ 
+* Vasilka skloní hlavu ještě níž a odpoví: „V síni, kde čekám na sňatek.“
+* Opat se usměje, přikývne a stiskne jí rameno. „Dobře. Dokud na to pamatuješ, nemůžeš sejít z cesty.“
 
-The Abbot then turns to the players and greets them warmly, welcoming them back to the Abbey of St. Markovia and inquiring as to the reason for their presence. If the players insist that he spare Anna and forgo his mission to retrieve her heart, he laughs softly and chides them gently, noting that “the ways of the gods may seem callous, or even cruel to the unenlightened, but faith shall always guide us to salvation." 
+Pak se Opat obrátí k hráčům, vřele je pozdraví, přivítá je zpět v Opatství svaté Markovie a otáže se, co je sem přivádí. Pokud hráči trvají na tom, aby Annu ušetřil a vzdal se svého úmyslu získat její srdce, tiše se zasměje a jemně je pokárá s poznámkou, že „cesty bohů se mohou neosvíceným zdát bezcitné, ba i kruté, avšak víra nás vždy dovede ke spáse“. 
 
-> [!abstract]+ **Revealing the Truth**
-> If the players confront the Abbot for his lies to the Belviews regarding Cyrus and the promise of “perfection," the Belviews in the cells fall silent. The Abbot’s face grows stony, and he coldly asks the players how they came by such “tall tales." 
+> [!abstract]+ **Odhalení pravdy**
+> Pokud hráči Opata obviní z toho, jak Belviewovým lhal o Cyrusovi a o příslibu „dokonalosti“, Belviewovi v celách zmlknou. Opatova tvář zkamení a chladně se hráčů zeptá, kde přišli k takovým „povídačkám“. 
 > 
-> Regardless of the players’ answer, the Abbot then turns to the Belviews in the cells and says, “Do not allow these outsiders to lead you astray. In the Morninglord, all things are possible." The Belviews in the cells then begin howling and gnashing their teeth, pounding against the metal bars as they demand for the “filthy, lying outsiders" to be “butchered, quartered, and stewed."
+> Ať už hráči odpovědí jakkoli, Opat se pak obrátí k Belviewovým v celách a řekne: „Nedovolte těmto cizincům, aby vás svedli z cesty. V Jitřním pánu je možné všechno.“ Belviewovi v celách pak začnou výt a skřípat zuby, buší do kovových mříží a žádají, aby „prolhaní, špinaví cizinci“ byli „rozsekáni, rozčtvrceni a uvařeni“.
 > 
-> The players can calm the Belviews and convince them of the truth by succeeding on a DC 20 Charisma (Persuasion) check. The DC falls to 10 if the players first challenge the Abbot to tell the Belviews whether he can “perfect" them. (The Abbot, who cannot lie, refuses to do so, insisting only that “his flock" knows and trusts the words of its “shepherd.") If Otto, Zygfrek, or Clovin are present, the players succeed automatically as their companions confront the Abbot for his “lies," proclaiming to their family that Cyrus has not been “perfected" and the Abbot has no means of completing their transformation.
+> Hráči mohou Belviewovy uklidnit a přesvědčit je o pravdě úspěšným ověřením Charisma (Persuasion) se DC 20. DC klesne na 10, pokud hráči nejprve vyzvou Opata, aby Belviewovým řekl, zda je dokáže „zdokonalit“. (Opat, který neumí lhát, to odmítne a trvá jen na tom, že „jeho stádce“ zná slova svého „pastýře“ a důvěřuje jim.) Pokud jsou přítomni Otto, Zygfrek nebo Clovin, hráči uspějí automaticky, neboť jejich společníci Opata obviní z „lží“ a prohlásí před svou rodinou, že Cyrus nebyl „zdokonalen“ a že Opat nemá jak jejich proměnu dokončit.
 
-If the players present the *Icon of Dawn’s Grace* and tell him that his spirit has been corrupted and must be restored through use of the *Icon*, the Abbot’s expression grows icy, and he warns them softly that they “speak the words of false prophets." “This artifact has lain in the vampire’s castle for centuries," he intones. “Cast it aside, and excise the poisons it has instilled in your minds."
+Pokud hráči ukážou Opatovi *Ikonu Jitřní milosti* a řeknou mu, že jeho duch byl zkažen a musí být pomocí *Ikony* obnoven, Opatův výraz ztuhne mrazem a tiše je varuje, že „mluví slovy falešných proroků“. „Tento artefakt ležel po staletí v upírově hradu,“ pronese. „Odvrhněte ho a vyřízněte jed, který vám vštípil do myslí.“
 
-If the players insist on cleansing the Abbot’s spirit or otherwise continue to challenge him, the Abbot’s eyes narrow, and he demands softly that the players depart the Abbey at once, “lest they overstay their welcome." As he does, read:
-
-<div class="description">
-<p>A palpable tension fills the air as the shadows of the room darken. The floors and walls seem to hum with power, and the Abbot’s eyes glimmer briefly with golden madness.</p>
-</div>
-
-***Vasilka Intercedes.*** If the players decline to depart and previously delivered Vasilka’s garland necklace to the **flesh golem** in [[Arc K - The Fallen Abbey#Vasilka’s Lesson|Arc K - The Fallen Abbey]], she steps between the Abbot and the players and begs the Abbot not to harm them. “They are brave and kind and wise," she says, her voice trembling. “Surely it would not be folly to listen to them?"
-
-Unless the players interrupt, the following exchange then occurs:
-
-* The Abbot instructs Vasilka: “Step aside, foolish creature. Do not allow their words to cloud your mind and obscure your duties."
-* Vasilka shakes her head silently. The Abbot’s expression darkens, and he asks Vasilka whether she is defying him. She hesitates, then slowly nods her head, tears falling from the corners of her eyes.
-* A shadow crosses the Abbot’s face, and his eyes narrow. “Then you are defective—and must be disposed of." Read:
+Pokud hráči trvají na očištění Opatova ducha nebo se mu jinak dál vzpírají, Opat přimhouří oči a tiše požaduje, aby hráči okamžitě opustili opatství, „aby nezneužili jeho pohostinnosti“. Přitom přečtěte:
 
 <div class="description">
-<p>The Abbot’s hand lashes forward, gripping Vasilka around the throat and lifting her into the air. A shroud of radiant shadows swirls in his palm, then congeals into a platinum mace that glitters cruelly. “Perhaps I was too patient with you," he intones lifelessly, “too compassionate. I can always start again, with better parts and training."</p>
+<p>Vzduch naplní hmatatelné napětí a stíny v místnosti potemní. Podlaha i stěny jako by bzučely mocí a v Opatových očích na okamžik zaplane zlaté šílenství.</p>
 </div>
 
-Unless prevented by the players, the Abbot then grapples Vasilka (who does not resist) and drags her out into the courtyard, where he proceeds to attack her with his ***mace***. (See below for more information regarding the Abbot’s attack.)
+***Vasilka se přimlouvá.*** Pokud hráči odmítnou odejít a dříve v [[Arc K - The Fallen Abbey#Vasilčina lekce|Oblouk K – Padlé opatství]] dali Vasilčin květinový věneček masovému golemovi (**flesh golem**), Vasilka vstoupí mezi Opata a hráče a prosí Opata, aby jim neubližoval. „Jsou stateční, laskaví a moudří,“ řekne roztřeseným hlasem. „Jistě by nebylo pošetilostí je vyslechnout?“
 
-***The Players’ Defiance.*** If the players decline to depart and did not previously deliver Vasilka’s garland necklace to the **flesh golem** in [[Arc K - The Fallen Abbey#Vasilka’s Lesson|Arc K - The Fallen Abbey]], a shadow crosses the Abbot’s face, and his eyes narrow. Read:
+Pokud hráči nezasáhnou, odehraje se pak tato výměna:
+
+* Opat Vasilce přikáže: „Ustup, pošetilé stvoření. Nedovol jejich slovům, aby ti zakalila mysl a zastřela tvé povinnosti.“
+* Vasilka mlčky zavrtí hlavou. Opatův výraz potemní a zeptá se Vasilky, zda se mu vzpírá. Zaváhá a pak pomalu přikývne; z koutků očí jí kanou slzy.
+* Přes Opatovu tvář přejde stín a jeho oči se přimhouří. „Pak jsi vadná – a je třeba tě zlikvidovat.“ Přečtěte:
 
 <div class="description">
-<p>The Abbot steps forward, his single footstep echoing like a crack of thunder through the darkened hall. A shroud of radiant shadows swirls in his palm, then congeals into a platinum mace that glitters cruelly.</p>
-<p>"If you will not obey," he intones, “then you will be made to."</p>
+<p>Opatova ruka vystřelí vpřed, sevře Vasilku pod krkem a zvedne ji do vzduchu. V jeho dlani zavíří závoj zářivých stínů a pak se srazí v platinový palcát, který se krutě třpytí. „Možná jsem s tebou měl příliš mnoho trpělivosti,“ pronese bez života, „příliš mnoho soucitu. Vždy mohu začít znovu, s lepšími částmi a lepší výukou.“</p>
 </div>
 
-The Abbot then attacks.
-## Q3c. The Abbot's Rage
-When the Abbot attacks, he sheds his monk’s robes and transforms, revealing his true angelic form. Read:
+Pokud mu v tom hráči nezabrání, Opat pak Vasilku uchvátí (Vasilka se nebrání), vyvleče ji na nádvoří a tam na ni zaútočí svým ***mace***. (Více o Opatově útoku viz níže.)
+
+***Vzdor hráčů.*** Pokud hráči odmítnou odejít a dříve v [[Arc K - The Fallen Abbey#Vasilčina lekce|Oblouk K – Padlé opatství]] nedali Vasilčin květinový věneček masovému golemovi (**flesh golem**), přejde přes Opatovu tvář stín a jeho oči se přimhouří. Přečtěte:
 
 <div class="description">
-<p>A brilliant cascade of divine light shines from the Abbot’s form, and towering wings unfurl from his shoulders, each massive feather snow-white and perfectly formed. His mortal vestments fall away, revealing white, luminous flesh that seems chiseled from marble itself. Golden gauntlets inscribed with celestial runes encircle his forearms, and a golden sarong wraps gently around his waist, its fabric whipping in a rising, churning wind.</p>
-<p>The Abbot’s hair grows until it reaches his shoulders, shimmering like spun gold. As his shoulders and torso grow broader, he seems to stand up straighter, ascending until he stands near seven feet in height. The air seems to crackle with power, the very walls seeming to bend closer toward him as his eyes blaze with celestial wrath.</p>
+<p>Opat vykročí vpřed a jeho jediný krok se potemnělou síní rozlehne jako úder hromu. V jeho dlani zavíří závoj zářivých stínů a pak se srazí v platinový palcát, který se krutě třpytí.</p>
+<p>„Nebudete-li poslouchat,“ pronese, „budete k tomu přinuceni.“</p>
 </div>
 
-If the Abbot initiated combat by attacking Vasilka, he continues to do so until he has reduced her to 0 hit points or a player deals him 20 points of damage in a single turn, at which point he turns his attention to the players. (Vasilka doesn’t fight back under any circumstances.)
+Opat pak zaútočí.
+## Q3c. Opatův hněv
+Když Opat zaútočí, odhodí mnišské roucho a promění se – odhalí svou pravou andělskou podobu. Přečtěte:
 
-In combat, the Abbot prefers to fight in the Abbey’s courtyard, but might be lured into one of the adjoining wings if a player succeeds on a DC 20 Charisma (Performance) check.
+<div class="description">
+<p>Z Opatovy postavy vytryskne oslnivý vodopád božského světla a z ramen se mu rozvinou mohutná křídla, každé obrovské pero sněhobílé a dokonale utvářené. Jeho smrtelný oděv spadne a odhalí bílé, zářící tělo, jako by vytesané ze samotného mramoru. Předloktí mu obepínají zlaté rukavice s vyrytými nebeskými runami a kolem pasu se mu jemně ovíjí zlatý sarong, jehož látka vlaje v sílícím, vířícím větru.</p>
+<p>Opatovy vlasy rostou, až mu sahají po ramena, a třpytí se jako spředené zlato. Jak se mu ramena a trup rozšiřují, jako by se napřimoval, stoupá vzhůru, až měří téměř sedm stop. Vzduch jako by praskal mocí a samy stěny jako by se k němu nakláněly, zatímco jeho oči planou nebeským hněvem.</p>
+</div>
 
-> [!combat]- **Combat - The Fallen Star**  
-> **Combat Level**: Bloody (first phase), Bloody (second phase)
-> **Expected Character Level**: 7
-> **Allies:** Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4)
-> **Expected HP Consumption:** 42% (first phase), 51% (second phase), for a total of 93%
+Pokud Opat zahájil boj útokem na Vasilku, útočí na ni dál, dokud ji nesrazí na 0 HP nebo dokud mu některý z hráčů v jediném tahu nezpůsobí 20 bodů zranění; pak obrátí svou pozornost k hráčům. (Vasilka se za žádných okolností nebrání.)
+
+V boji dává Opat přednost nádvoří opatství, ale úspěšným ověřením Charisma (Performance) se DC 20 ho lze vylákat do některého z přilehlých křídel.
+
+> [!combat]- **Boj – Padlá hvězda**  
+> **Úroveň boje**: Krvavý (první fáze), Krvavý (druhá fáze)
+> **Očekávaná úroveň postav**: 7
+> **Spojenci:** Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4)
+> **Očekávaná ztráta HP:** 42 % (první fáze), 51 % (druhá fáze), celkem 93 %
 > 
-> ### **Balancing:**
-> If you have fewer or more than 5 players, modify the encounter in the following ways:
+> ### **Vyvážení:**
+> Pokud máte méně nebo více než 5 hráčů, upravte střetnutí takto:
 >
-> | Number of Players | Modification |
+> | Počet hráčů | Úprava |
 > |-|-|
-> | 3 | Reduce the Abbot’s hit points in each phase to 181. Remove his Multiattack action in each phase, and reduce the damage of his Phase 1 bonus actions to 10 (3d6). Reduce the damage of his Erupt Earth bonus action in Phase 2 to 5 (2d4) and his Eclipse Beam bonus action to 7 (2d6) damage of each damage type. |
-> | 4 | Reduce the Abbot’s hit points in each phase to 218. In his first phase, limit his Punish reaction to only 2/round. In his second phase, limit his Tail reaction to only 2/round. Additionally, decrease the damage of his Eclipse Beam bonus action to 2d6 damage of each damage type. |
-> | 6 | Increase the Abbot’s hit points to 292 in each phase. Increase his first phase’s Multiattack to three attacks, but reduce each of its bonus actions to 10 (3d6) damage. In his second phase, increase his Multiattack to include two Claw attacks, but reduce Erupt Earth to 5 (2d4) damage. |
+> | 3 | Snižte Opatovy HP v každé fázi na 181. V každé fázi mu odeberte akci Multiattack a snižte zranění jeho bonusových akcí v 1. fázi na 10 (3d6). Snižte zranění jeho bonusové akce Erupt Earth ve 2. fázi na 5 (2d4) a jeho bonusové akce Eclipse Beam na 7 (2d6) zranění každého typu. |
+> | 4 | Snižte Opatovy HP v každé fázi na 218. V první fázi omezte jeho reakci Punish na 2/kolo. Ve druhé fázi omezte jeho reakci Tail na 2/kolo. Navíc snižte zranění jeho bonusové akce Eclipse Beam na 2d6 zranění každého typu. |
+> | 6 | Zvyšte Opatovy HP v každé fázi na 292. V první fázi zvyšte jeho Multiattack na tři útoky, ale zranění každé z jeho bonusových akcí snižte na 10 (3d6). Ve druhé fázi rozšiřte jeho Multiattack o dva útoky Claw, ale snižte zranění Erupt Earth na 5 (2d4). |
 
-> [!abstract]+ **The Flesh Golem’s Loyalty**
-> If the players gave Vasilka’s flower garland to the **flesh golem** in [[Arc K - The Fallen Abbey]], it joins them in battle against the Abbot when the Abbot enters his second phase.
+> [!abstract]+ **Věrnost masového golema**
+> Pokud hráči v [[Arc K - The Fallen Abbey|Oblouk K – Padlé opatství]] dali Vasilčin květinový věneček masovému golemovi (**flesh golem**), golem se k nim v boji proti Opatovi přidá, jakmile Opat vstoupí do své druhé fáze.
 
 ![[Ithuriel.png]]
-<span class="credit">"Ithuriel" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">„Ithuriel“ – autor: Caleb Cleveland. Podpořte ho na <a href="https://patreon.com/calebisdrawing/">Patreonu!</a></span>
 
 <div class="statblock">
 <h2>Ithuriel, the Dawnbringer</h2>
@@ -326,8 +325,8 @@ At will: detect evil and good<br>
 <p><strong><em>Shift (Costs 2 Reactions).</em></strong> In response to suffering one of the following conditions, Ithuriel momentarily assumes the form of the corresponding beast, ending the condition: blinded (giant bat), grappled (octopus), paralyzed (giant poisonous snake), prone (giant spider), restrained (mouse), or stunned (jellyfish). Ithuriel then immediately returns to his true form.</p>
 </div>
 
-> [!warning]+ **Grappling Enemies**
-> Remember that Ithuriel's speed is halved when grappling a creature, including when using his ***descend*** reaction unless the creature is two or more sizes smaller than Ithuriel.
+> [!warning]+ **Uchvacování nepřátel**
+> Pamatujte, že Ithurielova rychlost se sníží na polovinu, když drží uchváceného tvora (grapple), a to i při použití jeho reakce ***descend***, pokud tvor není o dvě či více velikostních kategorií menší než Ithuriel.
 
 <div class="statblock">
 <h2>Ithuriel, the Fallen Star</h2>
@@ -393,354 +392,354 @@ At will: detect evil and good<br>
 
 ![[Ithuriel2.png]]
 
-<span class="credit">"Ithuriel" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">„Ithuriel“ – autor: Caleb Cleveland. Podpořte ho na <a href="https://patreon.com/calebisdrawing/">Patreonu!</a></span>
 
-> [!info]+ **Defeating the Abbot**
-> ***Milestone.*** Defeating the Abbot completes a story milestone. When the players free the Abbey and Krezk from the Abbot’s control, award each player 2,000 XP, or 2,500 XP if they also redeemed the Abbot (see below).
-### The Abbot's Redemption
-When the players reduce the Abbot’s second phase to 0 hit points, read:
-
-<div class="description">
-<p>The beast roars, its terrible form twisting and writhing. Then, with a final, shrieking cry, it falls to the ground, unmoving.</p>
-</div>
-
-Shortly after the Abbot is defeated, if the *Icon of Dawn’s Grace* is present, his soul reacts to its presence of the *Icon of Dawn’s Grace*.
+> [!info]+ **Porážka Opata**
+> ***Milník.*** Porážka Opata je milníkem příběhu. Když hráči osvobodí opatství a Krezk od Opatovy nadvlády, udělte každému hráči 2 000 XP, nebo 2 500 XP, pokud Opata také vykoupili (viz níže).
+### Opatovo vykoupení
+Když hráči sníží HP Opatovy druhé fáze na 0, přečtěte:
 
 <div class="description">
-<p>Small motes of golden light begin to glimmer across the beast’s still form. Slowly, they come together to form an orb of golden flame that hovers above the Abbot’s chest.</p>
+<p>Bestie zařve a její strašlivá postava se svíjí a zmítá. Pak s posledním pronikavým výkřikem padne k zemi a znehybní.</p>
 </div>
 
-The *Icon of Dawn’s Grace* begins to shine with golden light, and the shard of divinity within asks the players to touch the *Icon* to the orb. “He has suffered greatly, and lost himself in the mists and shadows," the shard says mournfully. “But perhaps he is not so far gone as to be lost forever."
-
-If the players touch the *Icon* to the orb, their spirits are transported to a demiplane within the Abbot’s soul. Read:
+Krátce poté, co je Opat poražen, jeho duše zareaguje na přítomnost *Ikony Jitřní milosti*, pokud je nablízku.
 
 <div class="description">
-<p>You blink—and when your eyes open again, you find that the Abbey around you has vanished. In its place, a dark, endless void unfolds in all directions, its floor covered by a softly rolling covering of mist, and its silence disturbed only by the sound of distant sobs. Beside you, an orb of golden flame hovers quietly.</p>
+<p>Po nehybném těle bestie se začnou třpytit drobné jiskřičky zlatého světla. Pomalu se slévají v kouli zlatého plamene, která se vznáší nad Opatovou hrudí.</p>
 </div>
 
-The orb holds the shard of divinity that dwells within the *Icon*. It follows the players as they move and can communicate with them through telepathy. As it does, it informs them that, if they can find the Abbot and persuade him to reunite with it, it can restore him to his former glory and cleanse the corruption from his soul.
+*Ikona Jitřní milosti* začne zářit zlatým světlem a střípek božství v ní požádá hráče, aby se *Ikonou* dotkli koule. „Mnoho vytrpěl a ztratil se v mlhách a stínech,“ praví střípek truchlivě. „Ale možná není ztracen tak docela, aby byl ztracen navždy.“
 
-The players can track the sound of sobbing to the Abbot. Read:
+Pokud se hráči *Ikonou* koule dotknou, jejich duchové jsou přeneseni do demiplánu v Opatově duši. Přečtěte:
 
 <div class="description">
-<p>The sound echoes from a gaunt, pale figure seated on the ground a short distance away—a young man. His monk’s robes are tattered and threadbare, his cheeks blotchy and red beneath the thin blindfold of mist that encircles his eyes.</p>
-<p>A pair of once-majestic wings hang limply at his sides, their feathers frayed, dulled, and discolored. Twin shackles forged of mist bind his wings to the ground, and a dark cloud of shadows clings to him like a burial shroud.</p>
+<p>Mrknete – a když znovu otevřete oči, zjistíte, že opatství kolem vás zmizelo. Na jeho místě se do všech stran rozprostírá temná, nekonečná prázdnota, jejíž dno pokrývá jemně se valící přikrývka mlhy a jejíž ticho ruší jen zvuk vzdáleného vzlykání. Vedle vás se tiše vznáší koule zlatého plamene.</p>
 </div>
 
-The players recognize the man as the Abbot’s ordinary mortal guise. As they approach him, they can hear him muttering to himself, over and over: “I have failed you." As he does, he clutches his knees to his chest and rocks back and forth, tears falling from behind the misty blindfold across his eyes.
+V kouli dlí střípek božství, který přebývá v *Ikoně*. Následuje hráče, kamkoli se pohnou, a může s nimi komunikovat telepaticky. Přitom jim oznámí, že pokud Opata najdou a přesvědčí ho, aby se s ním znovu sjednotil, dokáže mu navrátit jeho někdejší slávu a očistit jeho duši od zkaženosti.
 
-The Abbot believes that he has failed the Morninglord and fallen from grace, and that he is therefore damned. If the players greet him, he whirls in fear, demanding that they “reveal themselves," for “they walk in darkness, and he cannot see them."
-
-If the players tell the Abbot that he is blindfolded, he is briefly stunned, then shakes his head. “I see," he murmurs. “I am damned, then. Begone, then, and trouble yourselves with my wretchedness no more." 
-
-If the players ask the Abbot to reunite with the shard of divinity, he hesitates, then asks to feel its warmth. If the players direct the orb to move toward the Abbot, he cups his hands around it, then begins to weep with joy, murmuring that it is “beautiful." 
-
-As he does, if any player has a passive Wisdom (Perception) score of 13 or greater, add:
+Hráči mohou jít po zvuku vzlykání až k Opatovi. Přečtěte:
 
 <div class="description">
-<p>The shroud of shadow curls ever-closer around him, and you realize that it is not a single shadow, but an assembly of countless overlapping, amorphous, indistinct silhouettes. They whisper into his ears, their cold, hollow voices echoing into the void.</p>
+<p>Zvuk vychází z vyzáblé, bledé postavy, která kousek opodál sedí na zemi – z mladého muže. Jeho mnišské roucho je potrhané a prodřené, tváře má flekaté a zarudlé pod tenkou páskou z mlhy, která mu ovíjí oči.</p>
+<p>Po stranách mu bezvládně visí pár kdysi majestátních křídel, jejichž pera jsou roztřepená, zmatnělá a vybledlá. Dvojice okovů ukovaných z mlhy mu poutá křídla k zemi a lpí na něm temný mrak stínů jako pohřební rubáš.</p>
 </div>
 
-The Abbot pauses, then recoils, scurrying back and away from the orb with a fearful cry. As he does, any player with a passive Wisdom (Perception) score of 14 or greater sees a nearby cloud of mist briefly curl into the shape of a face—a woman’s—before the face is torn apart by swirling shadows. A player who saw the face and has a passive DC 15 Wisdom (Insight) score discerns that it bore an expression of grief and concern—and appeared to be calling out.
+Hráči v muži poznají obyčejnou smrtelnou podobu Opata. Když se k němu blíží, slyší ho, jak si pro sebe stále dokola mumlá: „Selhal jsem.“ Přitom si tiskne kolena k hrudi a kolébá se sem a tam a zpoza mlžné pásky přes oči mu kanou slzy.
 
-A player who asks the Abbot or has a passive DC 13 Wisdom (Insight) score learns that the Abbot neither perceives the whispers nor realizes that they’re there. A player who approaches the Abbot or who succeeds on a DC 15 Wisdom (Perception) check can make out a few words and phrases from the cacophony of whispers:
+Opat věří, že selhal před Jitřním pánem a padl z milosti, a že je proto zatracen. Pokud ho hráči pozdraví, ve strachu se otočí a požaduje, aby „se ukázali“, neboť „kráčejí ve tmě a on je nevidí“.
 
-* “The light has abandoned you, as you abandoned it."
-* “Their lies are comforting, but lies nonetheless."
-* “You have earned your damnation. You know that you have."
+Pokud hráči Opatovi řeknou, že má zavázané oči, na okamžik oněmí a pak zavrtí hlavou. „Chápu,“ zamumlá. „Jsem tedy zatracen. Odejděte tedy a netrapte se již mou ubohostí.“ 
 
-If confronted, the Abbot replies, his voice quavering: “It is too late. I have betrayed my purpose and discarded my grace. I cannot find my way back into the light—and the Morninglord would not have me if I could."
+Pokud hráči Opata požádají, aby se znovu sjednotil se střípkem božství, zaváhá a pak požádá, aby směl pocítit jeho teplo. Pokud hráči kouli nasměrují k Opatovi, sevře ji do dlaní a začne radostí plakat; mumlá, že je „krásná“. 
 
-> [!lore]+ **Dark Whispers**
-> The whispering shadows are a manifestation of the [[Lore of Barovia#Dark Powers|Dark Powers]], which lured the Abbot’s spirit into evil long ago to prevent him from challenging Strahd or healing the land of its corruption.
-
-As the Abbot finishes his protest, a nearby cloud of mist—a short distance from the first—briefly rises to form the shape of a robed female silhouette before it is torn apart by swirling shadows. A player with a passive Wisdom (Perception) score of 13 or greater discerns that it appeared to be reaching a hand toward the players, and that it appeared to be calling out. A player who saw the face and has a passive DC 13 Wisdom (Insight) score discerns that it bore an expression of grief and concern.
-
-As the silhouette vanishes, a single Tarokka card floats down from the void and lands before one of the players. If a player inspects the card, read:
+Přitom, pokud má některý hráč pasivní hodnotu Wisdom (Perception) 13 nebo vyšší, doplňte:
 
 <div class="description">
-<p>The Tarokka card is the Four of Glyphs: the Shepherd. It depicts a middle-aged woman in a plain, white robe standing amidst a flock of sheep on a hilltop before a rising sun.</p>
+<p>Rubáš stínů se kolem něj stáčí stále těsněji a vy si uvědomíte, že to není jediný stín, nýbrž shromáždění nesčetných překrývajících se, beztvarých, neurčitých siluet. Šeptají mu do uší a jejich chladné, duté hlasy se rozléhají prázdnotou.</p>
 </div>
 
-If Ezmerelda is shown the card, she shares that it is “odd" for the Shepherd to be depicted with a rising sun in the background. “That kind of iconography would be more appropriate for the Priest card," she muses. “And the Shepherd is usually young—in the suit of Glyphs, only the Missionary or the Bishop are traditionally portrayed as old."
+Opat se zarazí, pak ucukne a se zděšeným výkřikem od koule odleze pryč. Přitom každý hráč s pasivní hodnotou Wisdom (Perception) 14 nebo vyšší uvidí, jak se nedaleký obláček mlhy na okamžik stočí do podoby tváře – ženské –, než ji roztrhají vířící stíny. Hráč, který tvář viděl a má pasivní hodnotu Wisdom (Insight) 15 nebo vyšší, rozpozná, že nesla výraz žalu a starosti – a zdálo se, že volá.
 
-> [!lore]+ **The Shepherd**
-> The Tarokka card is a message sent by the spirit of Saint Markovia. While she cannot enter the Abbot’s soul herself, she hopes that the players will conjure her so that she may speak with the Abbot on their behalf.
+Hráč, který se Opata zeptá nebo má pasivní hodnotu Wisdom (Insight) 13 nebo vyšší, zjistí, že Opat šepot nevnímá a ani si neuvědomuje, že tu je. Hráč, který se k Opatovi přiblíží nebo uspěje v ověření Wisdom (Perception) se DC 15, rozezná z té kakofonie šepotů několik slov a frází:
 
-The players can successfully persuade the Abbot to reunite with the shard of divinity by making any reasonable argument, such as directly rebutting the Dark Powers’ whispers or if they mention St. Markovia’s seance, or by succeeding on a DC 15 Charisma (Persuasion) check.
+* „Světlo tě opustilo, jako jsi ty opustil je.“
+* „Jejich lži jsou útěšné, ale přesto jsou to lži.“
+* „Své zatracení sis zasloužil. Víš, že ano.“
 
-> [!abstract]+ **Redemption Failed**
-> If the players attempt to persuade the Abbot here without first summoning St. Markovia and fail, the darkness grows deeper and more oppressive, while the Abbot curls further into himself, his wings seeming to wither and crack. “Do you not see?" he whispers, his voice barely audible. “Even you cannot deny my damnation. It is ended."
+Pokud ho s tím hráči konfrontují, Opat odpoví roztřeseným hlasem: „Je příliš pozdě. Zradil jsem své poslání a odvrhl svou milost. Nemohu najít cestu zpět do světla – a i kdybych mohl, Jitřní pán by mě nepřijal.“
+
+> [!lore]+ **Temné šepoty**
+> Šeptající stíny jsou projevem [[Lore of Barovia#Dark Powers|Temných mocností]], které Opatova ducha už dávno vlákaly do zla, aby mu zabránily postavit se Strahdovi nebo zemi zahojit z její zkaženosti.
+
+Když Opat dokončí svůj protest, nedaleký obláček mlhy – kousek od prvního – se na okamžik zvedne do podoby siluety ženy v rouchu, než ji roztrhají vířící stíny. Hráč s pasivní hodnotou Wisdom (Perception) 13 nebo vyšší rozpozná, že se zdálo, jako by k hráčům natahovala ruku a volala. Hráč, který tvář viděl a má pasivní hodnotu Wisdom (Insight) 13 nebo vyšší, rozpozná, že nesla výraz žalu a starosti.
+
+Když silueta zmizí, snese se z prázdnoty jediná karta Tarokky a dopadne před jednoho z hráčů. Pokud si některý hráč kartu prohlédne, přečtěte:
+
+<div class="description">
+<p>Karta Tarokky je Čtyřka glyfů: Pastýř. Zobrazuje ženu středních let v prostém bílém rouchu, která stojí uprostřed stáda ovcí na vrcholu kopce před vycházejícím sluncem.</p>
+</div>
+
+Pokud je karta ukázána Ezmereldě, poznamená, že je „zvláštní“, aby byl Pastýř zobrazen s vycházejícím sluncem v pozadí. „Taková ikonografie by se spíš hodila ke kartě Kněz,“ zamyslí se. „A Pastýř bývá mladý – v barvě glyfů jsou tradičně zobrazováni jako staří jen Misionář nebo Biskup.“
+
+> [!lore]+ **Pastýř**
+> Karta Tarokky je poselstvím, které poslal duch svaté Markovie. Přestože sama do Opatovy duše vstoupit nemůže, doufá, že ji hráči vyvolají, aby mohla s Opatem promluvit v jejich prospěch.
+
+Hráči mohou Opata úspěšně přesvědčit, aby se znovu sjednotil se střípkem božství, jakýmkoli rozumným argumentem – například tím, že přímo vyvrátí šepoty Temných mocností nebo že zmíní seanci se svatou Markovií – nebo úspěšným ověřením Charisma (Persuasion) se DC 15.
+
+> [!abstract]+ **Nezdařené vykoupení**
+> Pokud se hráči pokusí Opata přesvědčit, aniž by nejprve vyvolali svatou Markovii, a neuspějí, temnota zhoustne a stane se tíživější, zatímco se Opat stáčí ještě víc do sebe a jeho křídla jako by vadla a praskala. „Copak to nevidíte?“ zašeptá sotva slyšitelným hlasem. „Ani vy nemůžete popřít mé zatracení. Je konec.“
 >
-> As the whispering shadows grow stronger, the golden orb begins to flicker and dim, and the mist begins to encircle the Abbot’s body, consuming him entirely in two rounds. While the mist is rising, the DC for any further Charisma (Persuasion) checks made to convince the Abbot increases to 20. 
+> Jak šeptající stíny sílí, zlatá koule začne blikat a pohasínat a mlha začne obklopovat Opatovo tělo; za dvě kola ho zcela pohltí. Dokud mlha stoupá, DC všech dalších ověření Charisma (Persuasion), jimiž se hráči snaží Opata přesvědčit, se zvýší na 20. 
 >
->The players can cause the mist to recede by convincing the Abbot to reunite with the shard or by using the Shepherd card to call forth the spirit of St. Markovia (see below). If they fail to do so before the Abbot’s body is consumed, they vanish from the void and reappear in the Abbey of St. Markovia, where the Abbot’s corpse swiftly dissipates into mist.
+>Hráči mohou mlhu zahnat tím, že Opata přesvědčí, aby se se střípkem znovu sjednotil, nebo tím, že pomocí karty Pastýře vyvolají ducha svaté Markovie (viz níže). Pokud se jim to nepodaří dřív, než je Opatovo tělo pohlceno, zmizí z prázdnoty a znovu se objeví v Opatství svaté Markovie, kde se Opatova mrtvola rychle rozplyne v mlhu.
 
-Alternatively, the players can also use the card to call forth the spirit of St. Markovia. (No particular ceremony or incantation is required—merely a summons and an invocation of St. Markovia’s name while holding the card.) If they do, read:
-
-<div class="description">
-<p>The darkness roils in fury, the void twisting at the sudden intrusion—and then stills, falling silent once more.</p>
-<p>A woman appears behind you. She wears a simple white robe tied with a plain, rope cord. Though her face has begun to wrinkle and her brown hair has begun to grey, her eyes are kind and strong.</p>
-<p>"You called for me?" she says.</p>
-</div>
-
-Markovia greets the players warmly, thanking them for their summons. She can share the following information if asked:
-
-* The angel the players call “Abbot" was once among the greatest servants of the Morninglord. It was he who chose her as the Morninglord’s prophet.
-* It breaks her heart to see the Abbot reduced to such a state, but she is grateful for the players’ efforts to rescue him. “He has sinned," she murmurs, “but only because he was lost in the mists. The dark powers that rule this land have clouded his mind and led him astray from his true path. It is thanks to you that he has an opportunity to be otherwise again." (Markovia doesn’t know anything more about the “dark powers" that rule Barovia, except that they aren’t Strahd, and either control the Mists or are the Mists themselves.)
-
-If the players permit her to, Markovia approaches the Abbot. Read:
+Hráči mohou také kartu použít k vyvolání ducha svaté Markovie. (Není k tomu třeba žádný zvláštní obřad ani zaříkání – stačí ji přivolat a vyslovit jméno svaté Markovie s kartou v ruce.) Pokud tak učiní, přečtěte:
 
 <div class="description">
-<p>"Ithuriel," she says, and the name is like a bell that sings amidst the darkness, the shadows cowering with each step she takes toward him. “I am here."</p>
+<p>Temnota se zmítá v zuřivosti, prázdnota se pod náhlým vpádem kroutí – a pak se uklidní a znovu utichne.</p>
+<p>Za vámi se objeví žena. Má na sobě prosté bílé roucho převázané obyčejnou provazovou šňůrou. Přestože se jí tvář začala vrásčit a hnědé vlasy šedivět, její oči jsou laskavé a silné.</p>
+<p>„Volali jste mě?“ řekne.</p>
 </div>
 
-Unless the players interrupt, the following exchange then occurs:
+Markovia hráče vřele pozdraví a poděkuje jim, že ji přivolali. Na požádání může prozradit následující:
 
-* The Abbot whirls at the sound of Markovia’s voice. “Markovia?" he says weakly, his voice cracking. “Please—do not look upon me. I am sullied and broken."
-* Markovia then approaches him and kneels on one knee beside him. “Was I not the same when you first found me?" she replies gently. “Lost and broken and despairing?"
-* “It was my duty to guide you," the Abbot murmurs. “A duty I have forsaken."
-* “Hush, old friend," Markovia says. She places a hand on the Abbot’s shoulder, and he stiffens. “Was it not you who once told me that we were never meant to be less than equals before the divine?^[Inspired by *High Wizardry*, by Diane Duane] You showed me the path once before. Now, let my friends do the same for you."
-* The Abbot’s shoulders tremble, and he hesitates—and then slowly nods. Markovia then turns toward the players and gestures for them to bring the orb of flame forward.
+* Anděl, jemuž hráči říkají „Opat“, byl kdysi jedním z největších služebníků Jitřního pána. Byl to on, kdo ji vyvolil za prorokyni Jitřního pána.
+* Puká jí srdce, když vidí Opata v takovém stavu, ale je hráčům vděčná za jejich snahu ho zachránit. „Zhřešil,“ zamumlá, „ale jen proto, že se ztratil v mlhách. Temné mocnosti, které vládnou této zemi, mu zatemnily mysl a svedly ho z jeho pravé cesty. Jen díky vám má příležitost být opět jiným.“ (Markovia o „temných mocnostech“, které vládnou Barovii, neví nic víc, než že to není Strahd a že buď ovládají mlhy, nebo jsou samy mlhami.)
 
-Whether the players summon St. Marokia or not, before accepting the orb, the Abbot hesitates, then asks the players: “I threatened your friends. I sought to bring harm upon you. I separated parents from their children and abused the faith of those who trusted me. How can you offer me this second chance, knowing what I have done?"
-
-If the players offer the Abbot forgiveness, or otherwise indicate a belief that he deserves such a chance, the Abbot once more takes the orb of flame in his hands. Read:
+Pokud jí to hráči dovolí, Markovia přistoupí k Opatovi. Přečtěte:
 
 <div class="description">
-<p>The flickering flame casts a warm, cheerful glow across the Abbot’s face. In an instant, the mist burns away from his eyes, revealing a visage that appears youthful once more, with every crease of worry or fear banished. A golden light dances in his eyes—but rather than madness or cruelty, it is full of hope and wonder.</p>
-<p>"I see," he whispers reverently. Joyous tears began to fall down his cheeks as the light grows stronger—fiercer—<em>purer</em>. “I can see!"</p>
+<p>„Ithurieli,“ řekne a to jméno je jako zvon, který zpívá uprostřed temnoty; stíny se krčí s každým krokem, který k němu udělá. „Jsem tu.“</p>
 </div>
 
-The void then evaporates in a flash of white light, and the players find themselves once more in the Abbey of St. Markovia.
-### The Abbot’s Penance
-When the players return to the Abbey, read:
+Pokud hráči nezasáhnou, odehraje se pak tato výměna:
+
+* Opat se při zvuku Markoviina hlasu prudce otočí. „Markovio?“ řekne slabě a hlas se mu zlomí. „Prosím – nehleď na mě. Jsem poskvrněný a zlomený.“
+* Markovia k němu přistoupí a poklekne vedle něj na jedno koleno. „Nebyla jsem stejná, když jsi mě poprvé našel?“ odpoví jemně. „Ztracená, zlomená a zoufalá?“
+* „Mou povinností bylo tě vést,“ zamumlá Opat. „Povinnost, které jsem se zpronevěřil.“
+* „Tiše, starý příteli,“ řekne Markovia. Položí Opatovi ruku na rameno a on ztuhne. „Nebyl jsi to ty, kdo mi kdysi řekl, že před božstvím nám nikdy nebylo souzeno být menšími než rovnými?^[Inspirováno knihou *High Wizardry* od Diane Duane] Jednou jsi mi tu cestu ukázal. Teď nech mé přátele, aby totéž udělali pro tebe.“
+* Opatova ramena se zachvějí a on zaváhá – a pak pomalu přikývne. Markovia se pak obrátí k hráčům a pokyne jim, aby kouli plamene přinesli blíž.
+
+Ať už hráči svatou Markovii přivolají, nebo ne, Opat před přijetím koule zaváhá a pak se hráčů zeptá: „Vyhrožoval jsem vašim přátelům. Snažil jsem se vám ublížit. Odloučil jsem rodiče od jejich dětí a zneužil víru těch, kdo mi důvěřovali. Jak mi můžete nabídnout tuto druhou šanci, když víte, co jsem udělal?“
+
+Pokud hráči Opatovi nabídnou odpuštění nebo jinak dají najevo, že podle nich si takovou šanci zaslouží, Opat znovu vezme kouli plamene do dlaní. Přečtěte:
 
 <div class="description">
-<p>The twisted beast that once lay upon the ground has vanished. In its place, a white-winged youth clad in plain, white robes lies still across the earth.</p>
+<p>Mihotavý plamen vrhá na Opatovu tvář teplou, veselou záři. V mžiku mlha z jeho očí vyhoří a odhalí tvář, která se opět zdá mladistvá, zbavená každé vrásky starostí či strachu. V jeho očích tančí zlaté světlo – ale místo šílenství či krutosti je plné naděje a úžasu.</p>
+<p>„Vidím,“ zašeptá uctivě. Po tvářích mu začnou kanout slzy radosti, zatímco světlo sílí – je stále prudší – <em>čistší</em>. „Vidím!“</p>
 </div>
 
-The youth, who appears to be no more than nineteen or twenty years of age and resembles a younger version of the Abbot’s ordinary mortal guise, is the restored Abbot. He awakens if touched, or naturally shortly after the players return.
+Prázdnota se pak rozplyne v záblesku bílého světla a hráči se znovu ocitnou v Opatství svaté Markovie.
+### Opatovo pokání
+Když se hráči vrátí do opatství, přečtěte:
 
-Once awoken, the youth—who asks the players to call him Ithuriel, rather than the Abbot—expresses momentary disorientation as the shard of divinity gradually integrates his memories and sense of self.
+<div class="description">
+<p>Zkroucená bestie, která tu ležela na zemi, zmizela. Na jejím místě leží nehybně na zemi mladík s bílými křídly, oděný do prostého bílého roucha.</p>
+</div>
 
-> [!info]+ **Ithuriel, Restored**
-> Ithuriel uses the statistics of a **pegasus**, but with the **healing touch** feature of a **unicorn** and the size, languages, and ***change shape*** feature of a **deva**. Replace the pegasus’s ***hooves*** attack with the following: ***Mace.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit*: 1d6 + 4 bludgeoning damage plus 4 (1d8) radiant damage. In addition, Ithuriel can cast *raise dead* once per day, but no more than three times per year.
+Mladík, kterému je zdánlivě nanejvýš devatenáct či dvacet let a který připomíná mladší verzi Opatovy obyčejné smrtelné podoby, je obnovený Opat. Probudí se, pokud se ho někdo dotkne, nebo sám od sebe krátce po návratu hráčů.
+
+Jakmile se mladík – který hráče požádá, aby mu říkali Ithuriel, a ne Opat – probudí, je chvíli dezorientovaný, zatímco střípek božství postupně splývá s jeho vzpomínkami a vědomím sebe sama.
+
+> [!info]+ **Obnovený Ithuriel**
+> Ithuriel používá statistiky pegase (**pegasus**), ale se schopností **healing touch** jednorožce (**unicorn**) a s velikostí, jazyky a schopností ***change shape*** devy (**deva**). Útok pegase ***hooves*** nahraďte následujícím: ***Mace.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit*: 1d6 + 4 bludgeoning damage plus 4 (1d8) radiant damage. Ithuriel navíc může jednou denně seslat *raise dead*, ale nanejvýš třikrát do roka.
 >
-> When first restored, Ithuriel awakens with 1 hit point and four levels of exhaustion.
+> Když je Ithuriel poprvé obnoven, probudí se s 1 HP a čtyřmi stupni vyčerpání (exhaustion).
 
-Ithuriel is deeply grateful to the players, and bows deeply before them in gratitude for their kindness and mercy. 
+Ithuriel je hráčům hluboce vděčný a na znamení vděku za jejich laskavost a milosrdenství se před nimi hluboce ukloní. 
 
-If permitted, Ithuriel heals and apologizes profusely to Vasilka (“For seeking to control you, for inflicting terror upon you, and for forcing you into a role you never wished for"), the Krezkovs (“For the terrible evils I have wrought upon your family, for which I can never atone"), to the Belviews (“For the curse I brought upon your family, for my manipulations and deceit, and for my cruelty and callousness"), and to the players (“For the shadows I cast upon your lives, and the lives of those you cared for").
+Pokud mu to dovolí, Ithuriel vyléčí Vasilku a horoucně se jí omluví („Za to, že jsem se tě snažil ovládat, že jsem tě naplňoval hrůzou a že jsem tě nutil do role, kterou sis nikdy nepřála“), stejně jako Krezkovovým („Za strašlivá zla, která jsem napáchal na vaší rodině a která nikdy nedokážu odčinit“), Belviewovým („Za kletbu, kterou jsem uvalil na vaši rodinu, za své manipulace a lsti a za svou krutost a bezcitnost“) a hráčům („Za stíny, které jsem vrhl na vaše životy a na životy těch, na nichž vám záleželo“).
 
-Ithuriel can also share the following information if asked:
+Na požádání může Ithuriel prozradit i následující:
 
-* He is not quite the Abbot, nor is he entirely the shard that dwelled in the *Icon*. “I am both, and yet neither," he muses. “The same sun rising, but upon a new dawn."
-* He intends to free Vasilka from his orders. “She shall be free to find her own path," he says wistfully, “as all creatures must be." 
-* He similarly has no intention of taking Anna Krezkova’s heart. “I cannot see the way by which this land shall be freed," he says, bowing his head. “But I know that darkness cannot drive out darkness—only light."
-* He is unsure how to heal the Belviews’ condition. “However, I shall do what I can to heal the minds of those I can, and allow their family to be whole again," he says. “In time, and by the Morninglord’s grace, I shall find the wisdom and strength to remove the affliction I once placed upon them."
-* He intends to remain at the Abbey and in Krezk. “I have an obligation to these people that I might never repay," he says solemnly. “My place is here—and I sense that, perhaps soon, I shall be called upon to defend those I once tormented."
+* Není tak docela Opatem, ani zcela střípkem, který dlel v *Ikoně*. „Jsem obojím, a přece ničím z toho,“ přemítá. „Totéž slunce vychází, ale nad novým úsvitem.“
+* Hodlá Vasilku zprostit svých rozkazů. „Bude smět najít svou vlastní cestu,“ říká toužebně, „jako to musí smět všichni tvorové.“ 
+* Stejně tak nemá v úmyslu vzít srdce Anny Krezkové. „Nevidím cestu, po níž bude tato země vysvobozena,“ říká a sklání hlavu. „Ale vím, že temnotu nelze zahnat temnotou – jen světlem.“
+* Neví jistě, jak vyléčit stav Belviewových. „Učiním však, co mohu, abych uzdravil mysl těch, u nichž to dokážu, a dovolil jejich rodině být opět celou,“ říká. „Časem a z milosti Jitřního pána naleznu moudrost a sílu sejmout z nich neduh, jímž jsem je kdysi stihl.“
+* Hodlá zůstat v opatství a v Krezku. „Mám vůči těmto lidem závazek, který možná nikdy nesplatím,“ říká vážně. „Mé místo je zde – a tuším, že možná brzy budu povolán bránit ty, které jsem kdysi trýznil.“
 
-Before the players depart, Ithuriel freely offers them healing through the use of his ***healing touch***, and offers them the use of his *raise dead* feature should they require it. “My abilities are sorely limited following my rebirth," he says, plucking three snow-white feathers from his wings, “but should you require rebirth of your own, you need merely speak my name while you hold this feather aloft, and I shall be there."
+Než hráči odejdou, Ithuriel jim ochotně nabídne uzdravení svou schopností ***healing touch*** a nabídne jim i svou schopnost *raise dead*, kdyby ji potřebovali. „Mé schopnosti jsou po mém znovuzrození krutě omezené,“ říká a vytrhne si z křídel tři sněhobílá pera, „ale budete-li sami potřebovat znovuzrození, stačí vyslovit mé jméno, zatímco budete držet toto pero nad hlavou, a já přijdu.“
 
-> [!info]+ **The Icon of Dawn's Grace**
-> The *Icon of Dawn's Grace* retains its magical abilities but loses its sentience as the shard of Ithuriel's consciousness is transferred to the redeemed Abbot.
+> [!info]+ **Ikona Jitřní milosti**
+> *Ikona Jitřní milosti* si ponechává své magické schopnosti, ale ztrácí vědomí, neboť střípek Ithurielova vědomí přešel do vykoupeného Opata.
 
-> [!info]+ **Ithuriel’s Feathers**
-> If a player speak’s Ithuriel’s name while holding one of his feathers aloft, the feather burns up into radiant embers. Ithuriel then flies to the players’ location, arriving within five minutes if the players are in the western portion of the valley (e.g., the Wizard of Wines, Yester Hill, or Lake Baratok), fifteen minutes if the players are in the central portion of the valley (e.g., Vallaki, Berez, or Mt. Ghakis), and thirty minutes if the players are in the eastern portion of the valley (e.g., the village of Barovia, Castle Ravenloft, or Tser Pool).
+> [!info]+ **Ithurielova pera**
+> Pokud hráč vysloví Ithurielovo jméno, zatímco drží jedno z jeho per nad hlavou, pero shoří na zářící uhlíky. Ithuriel pak přiletí za hráči: dorazí do pěti minut, pokud jsou hráči v západní části údolí (např. ve vinařství Čaroděj vín, na Yesterském vrchu nebo u jezera Baratok), do patnácti minut, pokud jsou ve střední části údolí (např. ve Vallaki, v Berezu nebo na hoře Ghakis), a do třiceti minut, pokud jsou ve východní části údolí (např. ve vesnici Barovii, na hradě Ravenloft nebo u Tserského jezírka).
 >
-> Once summoned, Ithuriel lingers only long enough to cast *raise dead* and provide the players with words of faith and encouragement for the trials they face ahead. If requested, he is also glad to provide one or more uses of his ***healing touch*** feature. 
+> Po přivolání se Ithuriel zdrží jen tak dlouho, aby seslal *raise dead* a dal hráčům slova víry a povzbuzení do zkoušek, které je čekají. Na požádání jim také rád poskytne jedno či více použití své schopnosti ***healing touch***. 
 >
-> If asked to linger or fight alongside the players, Ithuriel politely declines, insisting that his place is at the Abbey, and he cannot leave his wards or neighbors without his protection. “Do not fear," he reassures the players before departing. “The Morninglord is with you."
+> Pokud ho hráči požádají, aby zůstal nebo bojoval po jejich boku, Ithuriel zdvořile odmítne a trvá na tom, že jeho místo je v opatství a že nemůže nechat své svěřence a sousedy bez své ochrany. „Nebojte se,“ ujistí hráče před odchodem. „Jitřní pán je s vámi.“
 
-> [!profile]+ **Profile: Ithuriel**
-> **Roleplaying Information**
-> ***Resonance.*** Ithuriel should inspire endearment for his determination to repair the harm he has done, comfort for his deep compassion and care, and gratitude for his earnest efforts to aid the players.
+> [!profile]+ **Profil: Ithuriel**
+> **Pro hraní role**
+> ***Vyznění.*** Ithuriel by měl budit náklonnost svým odhodláním napravit škody, které způsobil, pocit útěchy svým hlubokým soucitem a péčí a vděčnost svou upřímnou snahou hráčům pomáhat.
 >
-> ***Emotions.*** Ithuriel most often feels thoughtful, sorrowful, cheerful, guilty, ashamed, apprehensive, defiant, bold, or serene.
+> ***Emoce.*** Ithuriel nejčastěji cítí zamyšlení, smutek, veselost, vinu, stud, obavy, vzdor, odvahu nebo vyrovnanost.
 >
-> ***Motivations.*** Ithuriel wants to repair the harm he has done to Vasilka, the Belviews, the Krezkovs, and the players, and to defend the Abbey and the village of Krezk from those who might wish them harm.
+> ***Motivace.*** Ithuriel chce napravit škody, které způsobil Vasilce, Belviewovým, Krezkovovým a hráčům, a bránit opatství i vesnici Krezk před těmi, kdo by jim mohli chtít ublížit.
 >
-> ***Inspirations.*** When roleplaying Ithuriel, channel Zuko (*Avatar: The Last Airbender*), Neji Hyuuga (*Naruto*), and Father Forthill (*The Dresden Files*).
+> ***Inspirace.*** Při hraní Ithuriela čerpejte z postav Zuko (*Avatar: The Last Airbender*), Neji Hyuuga (*Naruto*) a Father Forthill (*The Dresden Files*).
 >
-> **Character Information**
-> ***Persona.*** To the world, Ithuriel is a mature, contemplative youth with a strong sense of humility and a deep compassion for others. To those he trusts, Ithuriel is a young angel persevering to reassemble his purpose and identity following his corruption, defeat, and restoration.
+> **O postavě**
+> ***Tvář.*** Před světem je Ithuriel vyzrálý, přemýšlivý mladík se silným smyslem pro pokoru a hlubokým soucitem s ostatními. Pro ty, jimž důvěřuje, je mladým andělem, který po svém zkažení, porážce a obnovení vytrvale skládá dohromady své poslání a svou identitu.
 >
-> ***Morale.*** In a fight, Ithuriel would seek to calm his foe, but would not hesitate to forcefully defend an innocent threatened by enemies of ill intent.
-## Q3d. St. Markovia’s Gratitude
-When the players first descend the switchback road and enter the village of Krezk after defeating the Abbot, whether they redeem the Abbot or not, St. Markovia calls them to the Shrine of the White Sun. Read:
+> ***Morálka.*** V boji by se Ithuriel snažil svého protivníka uklidnit, ale neváhal by rázně bránit nevinného, kterého ohrožují nepřátelé se zlými úmysly.
+## Q3d. Vděčnost svaté Markovie
+Když hráči po porážce Opata poprvé sestoupí po klikaté cestě a vstoupí do vesnice Krezk – ať už Opata vykoupili, nebo ne –, svatá Markovia je povolá ke svatyni Bílého slunce. Přečtěte:
 
 <div class="description">
-<p>A warm, pleasant breeze rustles through the pines as a woman’s voice, gentle and kind, whispers into your ears: “Find me at the Shrine of the White Sun, by the water’s edge. As you have healed this place, allow me to bring you healing in turn."</p>
+<p>Borovicemi zašumí teplý, příjemný vánek a do uší vám zašeptá ženský hlas, jemný a laskavý: „Najděte mě u svatyně Bílého slunce, na břehu vody. Jako jste vy uzdravili toto místo, dovolte mi, abych na oplátku uzdravila vás.“</p>
 </div>
 
-Players who spoke with St. Markovia in [[Arc Q - A Shining Beacon#The Abbot's Redemption|The Abbot's Redemption]] recognize her voice.
-### Markovia’s Gift
-If the players follow St. Markovia’s invitation to <span class="citation">S4. Pool and Shrine (p. 146)</span>, read:
+Hráči, kteří se svatou Markovií mluvili v části [[Arc Q - A Shining Beacon#Opatovo vykoupení|Opatovo vykoupení]], její hlas poznají.
+### Markoviin dar
+Pokud hráči uposlechnou pozvání svaté Markovie k <span class="citation">S4. Pool and Shrine (p. 146)</span>, přečtěte:
 
 <div class="description">
-<p>As you reach the pool’s edge, an image appears in its sparkling blue waters: an older woman clad in a plain white robe, her wavy brown hair beginning to gray. Creases line the edges of her eyes, but age does not mar the kindness and compassion that dwells there.</p>
+<p>Když dojdete na břeh jezírka, objeví se v jeho jiskřivě modrých vodách obraz: starší žena v prostém bílém rouchu, jejíž vlnité hnědé vlasy začínají šedivět. Koutky očí jí lemují vrásky, ale věk nekalí laskavost a soucit, které v nich dlí.</p>
 </div>
 
-Any players who received visions of St. Markovia in Ezmerelda’s seance in [[Arc K - The Fallen Abbey]] recognize her visage.
+Hráči, kteří při Ezmereldině seanci v [[Arc K - The Fallen Abbey|Oblouk K – Padlé opatství]] spatřili vidiny svaté Markovie, poznají její tvář.
 
-If she did not speak with the players in [[Arc Q - A Shining Beacon#The Abbot's Redemption|The Abbot's Redemption]], St. Markovia introduces herself to the players and thanks them for freeing the Abbey and Krezk of the “shadow that lay upon it." If the Abbot was defeated, but not redeemed, she expresses sorrow for “Ithuriel’s passing," but notes that she finds comfort in the fact that “his memory will live on in the stones of the Abbey."
+Pokud s hráči nemluvila v části [[Arc Q - A Shining Beacon#Opatovo vykoupení|Opatovo vykoupení]], svatá Markovia se hráčům představí a poděkuje jim, že opatství a Krezk vysvobodili ze „stínu, který na nich spočíval“. Pokud byl Opat poražen, ale nebyl vykoupen, vyjádří smutek nad „Ithurielovým skonem“, ale poznamená, že ji utěšuje, že „jeho památka bude žít dál v kamenech opatství“.
 
-Markovia invites each player to fill a single waterskin from the waters of the pool. “These waters once carried far greater magic. While that magic faded long ago, your victory has allowed me to remind them of the blessing they once carried—if only for a time."
+Markovia vyzve každého hráče, aby si z jezírka naplnil jeden měch na vodu. „Tyto vody kdysi nesly mnohem větší magii. Přestože ta magie dávno vyprchala, vaše vítězství mi dovolilo připomenout jim požehnání, které kdysi nesly – byť jen na čas.“
 
-> [!item]+ **Water of the White Sun**
-> As an action, a player can drink the full contents of a waterskin containing water from the blessed pool. When they do, they immediately gain the benefits of a long rest, as well as the benefit of a *lesser restoration* spell. 
-### Cleansing of the White Sun
-Once the players have filled their waterskins from the pool, if the players redeemed the Abbot and any player has received a vestige’s boon and condition after reaching Stage Three of an amber shard’s corruption, St. Markovia addresses that player personally. Read:
+> [!item]+ **Voda Bílého slunce (Water of the White Sun)**
+> Hráč může akcí vypít celý obsah měchu s vodou z požehnaného jezírka. Když tak učiní, okamžitě získá výhody dlouhého odpočinku a také účinek kouzla *lesser restoration*. 
+### Očista Bílého slunce
+Jakmile si hráči z jezírka naplní měchy, a pokud hráči Opata vykoupili a některý hráč po dosažení třetí fáze zkaženosti jantarového střepu získal dar a stav pozůstatku (vestige), osloví ho svatá Markovia osobně. Přečtěte:
 
 <div class="description">
-<p>"You carry a great weight upon your shoulders," she says, her eyes sorrowful as they seek to meet yours. “That you have chosen to bear it makes it no less heavy. If you would discard the yoke of the power you have chained yourself to, I can aid you in doing so while the water’s magic lingers."</p>
+<p>„Neseš na svých bedrech velké břemeno,“ řekne a její smutné oči hledají ty tvé. „To, žes ho rozhodl nést, ho nečiní o nic lehčím. Pokud chceš odhodit jho moci, k níž ses připoutal, mohu ti v tom pomoci, dokud v této vodě přetrvává magie.“</p>
 </div>
 
-If the player expresses interest in doing so, Markovia directs them to stand in the pool’s waters, speak a prayer to the Morninglord, and submerge themselves. “When you arise from the water," she says, “your affliction shall be healed—so long as you speak truly and have faith that, as you once were, you can be again." 
+Pokud hráč projeví zájem, Markovia mu poradí, aby vstoupil do vod jezírka, pronesl modlitbu k Jitřnímu pánu a ponořil se. „Až vystoupíš z vody,“ říká, „tvůj neduh bude uzdraven – pokud budeš mluvit pravdivě a věřit, že jaký jsi kdysi byl, takový můžeš být opět.“ 
 
-If the player isn’t sure what prayer to use, Markovia suggests: “As the sun banishes the darkness of night, banish the shadow from my soul, and let the light embrace me once again."
+Pokud si hráč není jistý, jakou modlitbu použít, Markovia navrhne: „Jako slunce zahání temnotu noci, zažeň stín z mé duše a dovol, aby mě světlo opět objalo.“
 
-As the player submerges themselves after speaking a prayer, read:^[Inspired by *Critical Role*]
+Když se hráč po pronesení modlitby ponoří, přečtěte:^[Inspirováno pořadem *Critical Role*]
 
 <div class="description">
-<p>The water ripples around you, the sounds of the world above muffled and muted. You hear the distant wash of gentle waves against the shores, and the pounding of the blood in your ears. Then—a whisper, quiet and gentle, echoes through the water.</p>
-<p><em>"You have been lost, ensnared in a shadow of ancient evil. Its tendrils have seeded your mind with chaos, desperation, and fear, and left your soul in darkness."</em></p>
-<p>Your own heartbeat echoes in your ears, and amidst the darkness, you see a faint and flickering light in the void, its surface choked with the tendrils of a thick and oily shadow.</p>
+<p>Voda se kolem vás zvlní a zvuky světa nad hladinou se ztlumí a utichnou. Slyšíte vzdálené šplouchání jemných vln o břehy a tepání krve v uších. Pak se vodou rozlehne šepot, tichý a jemný.</p>
+<p><em>„Byl jsi ztracen, polapen ve stínu prastarého zla. Jeho úponky zasely do tvé mysli chaos, zoufalství a strach a nechaly tvou duši v temnotě.“</em></p>
+<p>V uších se vám rozléhá tlukot vlastního srdce a uprostřed temnoty spatříte v prázdnotě slabé, mihotavé světlo, jehož povrch dusí úponky hustého, olejovitého stínu.</p>
 </div>
 
-Allow the player a brief moment to respond. Whether they do or not, continue:
+Dejte hráči krátkou chvíli na odpověď. Ať už odpoví, nebo ne, pokračujte:
 
 <div class="description">
-<p><em>"This darkness I cannot heal—but I can allow the light within you to drive it out, if you would but embrace it."</em></p>
-<p><em>"Will you seek hope over despair, claim courage before fear, and forsake this darkness for light?"</em></p>
+<p><em>„Tuto temnotu uzdravit nedokážu – ale mohu dovolit světlu v tobě, aby ji vyhnalo, pokud je jen přijmeš.“</em></p>
+<p><em>„Budeš hledat naději místo zoufalství, zvolíš odvahu před strachem a zřekneš se této temnoty pro světlo?“</em></p>
 </div>
 
-If the player truthfully agrees to do so, the whisper replies:
+Pokud hráč pravdivě souhlasí, šepot odpoví:
 
 <div class="description">
-<p><em>"Then my blessing is yours—for as long as you wish to keep it."</em></p>
-<p>The light in the void flickers brighter, its surface glimmering, and then <em>flares</em> with a pure, piercing light. The shadow shrieks, its tendrils writhing as the light burns them away—until nothing remains but the light, shining and pulsating to the beat of your heart.</p>
+<p><em>„Pak je mé požehnání tvé – tak dlouho, jak si ho budeš přát ponechat.“</em></p>
+<p>Světlo v prázdnotě zazáří jasněji, jeho povrch se zatřpytí a pak <em>vzplane</em> čistým, pronikavým světlem. Stín zaječí a jeho úponky se svíjejí, jak je světlo spaluje – dokud nezůstane nic než světlo, které září a pulzuje v rytmu tvého srdce.</p>
 </div>
 
-The player then loses all stages of amber corruption, including any conditions or boons gained from that corruption.
+Hráč pak přijde o všechny fáze jantarové zkaženosti, včetně všech stavů a darů, které díky této zkaženosti získal.
 
-Before the players depart, as St. Markovia’s visage begins to fade from the surface of the pool, she warns any cleansed player that the shadow has been cleansed from their soul, but can return if reinvited. “Just as night follows day," she warns, “so too does darkness pursue our hearts. You must be stalwart, vigilant, and brave, for darkness is not so easily removed a second time. Do you understand?"
+Než hráči odejdou, zatímco obraz svaté Markovie začíná z hladiny jezírka mizet, varuje každého očištěného hráče, že stín byl z jeho duše smyt, ale může se vrátit, bude-li znovu pozván. „Jako noc následuje den,“ varuje, „tak i temnota pronásleduje naše srdce. Musíš být neochvějný, bdělý a statečný, neboť podruhé se temnota tak snadno odstranit nedá. Rozumíš?“
 
-Regardless of the player’s answer, Markovia wishes them luck and bids them farewell before vanishing from the surface of the pool.
-# Q4. The Revenant's Warning
-Shortly after the players defeat the Abbot, the **revenant** from the Raven River Crossroads travels to Krezk and requests an audience with them. A **guard** named Harkus Grejenko is dispatched to locate the players and summon them to speak with the revenant.
+Ať už hráč odpoví jakkoli, Markovia jim popřeje hodně štěstí a rozloučí se, než z hladiny jezírka zmizí.
+# Q4. Varování revenanta
+Krátce poté, co hráči porazí Opata, přijde revenant (**revenant**) od rozcestí u Havraní řeky do Krezku a požádá o slyšení u hráčů. Strážný (**guard**) jménem Harkus Grejenko je vyslán, aby hráče vyhledal a přivedl je k revenantovi.
 
-If the players do so, the revenant gravely informs them that it has received a message from a **phantom warrior** of Argynvostholt, and shares the following information:
+Pokud hráči přijdou, revenant jim vážně oznámí, že obdržel zprávu od přízračného válečníka (**phantom warrior**) z Argynvostholtu, a prozradí následující:
 
-* Commander Vladimir Horngaard has commanded all knights of the Order of the Silver Dragon to return to Argynvostholt no later than tomorrow noon.
-* Commander Horngaard is enraged following the players’ recent incursion into Castle Ravenloft, and seeks their deaths, so that they shall meddle with Strahd von Zarovich no further.
-* Commander Horngaard is expected to issue his knights a new command: to seek out the players’ destruction, at any cost.
+* Velitel Vladimír Horngaard přikázal všem rytířům Řádu stříbrného draka, aby se nejpozději zítra v poledne vrátili do Argynvostholtu.
+* Velitel Horngaard zuří kvůli nedávnému vpádu hráčů na hrad Ravenloft a usiluje o jejich smrt, aby se už nikdy nepletli do záležitostí Strahda von Zaroviche.
+* Očekává se, že velitel Horngaard vydá svým rytířům nový rozkaz: za každou cenu usilovat o zkázu hráčů.
 
-The revenant apologizes sincerely to the players “for the harm it may be forced to visit upon them if they meet again." If the players share or indicate that they have been to Argynvostholt, it asks whether they have spoken with Sir Godfrey Gwilym and learned of the mission he sought to fulfill. If told that the players have recovered the skull of Argynvost in accordance with the dragon’s wishes, the revenant urges the players to fulfill the dragon’s prophecy before Commander Horngaard “releases his full wrath upon them."
+Revenant se hráčům upřímně omluví „za škodu, kterou jim možná bude nucen způsobit, pokud se znovu setkají“. Pokud hráči prozradí nebo naznačí, že v Argynvostholtu byli, zeptá se, zda mluvili se sirem Godfreyem Gwilymem a dozvěděli se o poslání, které se snažil naplnit. Pokud se dozví, že hráči v souladu s drakovým přáním získali Argynvostovu lebku, naléhá na hráče, aby naplnili drakovo proroctví dřív, než na ně velitel Horngaard „sešle plnou sílu svého hněvu“.
 
-The revenant, bound to obey Vladimir’s orders, can’t be convinced to remain in Krezk, and departs once it has conveyed its message.
-# Q5. Pack Attack
+Revenanta, který je vázán povinností poslouchat Vladimírovy rozkazy, nelze přesvědčit, aby zůstal v Krezku, a jakmile předá svou zprávu, odejde.
+# Q5. Útok smečky
 
-> [!abstract]+ **Does the Pack Attack?**
-> This scene only occurs if (1) the players took the *Holy Symbol* from the werewolf den, therefore indicating that someone had stolen from Mother Night’s shrine, or (2) the players failed to disguise their scents (e.g., using *pass without trace*) while infiltrating the werewolf den in [[Arc L - The Den of Wolves]], thereby allowing Kiril to detect that outsiders had entered the den.
-## Q5a. The Pack Arrives
-At nightfall on the day the players confront the Abbot, if the players have not yet defeated him, Kiril Stoyanovich rouses the werewolf pack—including eighteen **wolves** and eight **werewolves**—and leads them to the ruins of Berez. There, he consults with Baba Lysaga, who uses her magic to discern the players’ current location. Kiril then leads his pack to that location, hoping to kill and eat the intruders that infiltrated the den previously.
+> [!abstract]+ **Zaútočí smečka?**
+> K této scéně dojde jen tehdy, pokud (1) hráči odnesli z vlčího doupěte *Svatý symbol*, z čehož je zřejmé, že někdo okradl svatyni Matky Noci, nebo (2) hráči při pronikání do vlčího doupěte v [[Arc L - The Den of Wolves|Oblouk L – Vlčí doupě]] nezakryli svůj pach (např. pomocí *pass without trace*), takže Kiril vycítil, že do doupěte vnikli cizinci.
+## Q5a. Příchod smečky
+Za soumraku dne, kdy se hráči postaví Opatovi, pokud ho ještě neporazili, vyburcuje Kiril Stoyanovich vlkodlačí smečku – včetně osmnácti vlků (**wolves**) a osmi vlkodlaků (**werewolves**) – a vede ji k troskám Berezu. Tam se poradí s Babou Lysagou, která svou magií zjistí, kde se hráči právě nacházejí. Kiril pak vede smečku na to místo v naději, že zabije a sežere vetřelce, kteří předtím pronikli do doupěte.
 
-***Outside the Walls.*** If the players have made camp at Van Richten’s Tower or Argynvostholt, they are awoken by a chorus of howls led by a deep, terrible roar.
+***Za hradbami.*** Pokud se hráči utábořili u Van Richtenovy věže nebo v Argynvostholtu, probudí je sbor vytí, kterému vévodí hluboký, strašlivý řev.
 
-When the players first approach the pack, read:
+Když se hráči ke smečce poprvé přiblíží, přečtěte:
 
 <div class="description">
-<p>More than two dozen wolves emerge from the thick, souplike fog that clings to the earth outside, their golden eyes glinting in the faint moonlight. A monstrous, two-legged silhouette stands at their head, its shaggy head nearly a full story high.</p>
+<p>Z husté, mléčné mlhy, která venku lpí při zemi, se vynoří víc než dva tucty vlků, jejichž zlaté oči se lesknou ve slabém měsíčním světle. V jejich čele stojí zrůdná dvounohá silueta, jejíž huňatá hlava se tyčí téměř do výšky celého patra.</p>
 </div>
 
-If Emil Toranescu is accompanying the players, his hand tightens into a fist at his side, his fingernails lengthening into claws. “Kiril," he whispers.
+Pokud hráče doprovází Emil Toranescu, sevře ruku v pěst a nehty se mu prodlouží v drápy. „Kiril,“ zašeptá.
 
-***Within the Walls.*** If the players are resting in Krezk or Vallaki, Kiril arrives outside the gates with the pack, then demands that the guards bring him “the outsiders—the vermin that trampled through his den." A terrified guard then delivers the message to the Krezkovs’ cottage (if in Krezk) or the Blue Water Inn (if in Vallaki), hoping to find the players there. (If the players aren’t there, Baron Krezkov or Urwin Martikov delivers the message themselves.) 
+***Uvnitř hradeb.*** Pokud hráči odpočívají v Krezku nebo ve Vallaki, Kiril se smečkou dorazí před brány a pak po strážích požaduje, aby mu vydaly „ty cizince – tu havěť, která mu dupala po doupěti“. Vyděšený strážný pak zprávu doručí do chalupy Krezkovových (je-li to v Krezku) nebo do hostince U Modré vody (je-li to ve Vallaki) v naději, že tam hráče najde. (Pokud tam hráči nejsou, doručí jim zprávu osobně baron Krezkov, respektive Urwin Martikov.) 
 
-When the players first approach the pack, read:
+Když se hráči ke smečce poprvé přiblíží, přečtěte:
 
 <div class="description">
-<p>More than two dozen wolves emerge from the thick, souplike fog that clings to the earth outside, their golden eyes glinting in the faint moonlight.</p>
+<p>Z husté, mléčné mlhy, která venku lpí při zemi, se vynoří víc než dva tucty vlků, jejichž zlaté oči se lesknou ve slabém měsíčním světle.</p>
 </div>
 
-The wolves bare their teeth at the players, but don’t immediately attack. A player with a passive Wisdom (Perception) score of 12 or greater notices that the wolves appear surprisingly ill-fed, with some wolves’ ribs showing through their hides. If Emil Toranescu is with them, a player with a passive DC 13 Wisdom (Insight) score notices that the wolves seem to regard him with apprehension and surprise. If Bianca Stoyanovich is still alive, she is standing stiffly to the side of the pack, pale-faced and silent.
+Vlci na hráče vycení zuby, ale hned nezaútočí. Hráč s pasivní hodnotou Wisdom (Perception) 12 nebo vyšší si všimne, že vlci vypadají překvapivě podvyživení – některým prosvítají žebra pod kůží. Pokud je s hráči Emil Toranescu, hráč s pasivní hodnotou Wisdom (Insight) 13 nebo vyšší si všimne, že vlci na něj hledí s obavami a překvapením. Pokud je Bianca Stoyanovich stále naživu, stojí strnule stranou smečky, bledá a mlčenlivá.
 
-> [!info]+ **The Starving Wolves**
-> Due to his gluttony and pride, Kiril has claimed the first—and, by far, the largest—share of each meal the pack has hunted since Emil’s disappearance. As a result, the other members of the pack, other than Bianca, have suffered from ill nutrition and deprivation for the past several weeks, forcing them to survive off rabbits, rats, and other small game while losing notable amounts of weight.
+> [!info]+ **Hladovějící vlci**
+> Kiril si ze své nenasytnosti a pýchy od Emilova zmizení přivlastňuje první – a zdaleka největší – podíl z každého úlovku smečky. V důsledku toho ostatní členové smečky, kromě Biancy, už několik týdnů trpí podvýživou a strádáním a jsou nuceni živit se králíky, krysami a další drobnou zvěří, přičemž znatelně zhubli.
 
-Shortly after the players approach the wolves, or when they first call out for Kiril, read:
+Krátce poté, co se hráči k vlkům přiblíží, nebo jakmile poprvé zavolají na Kirila, přečtěte:
 
 <div class="description">
-<p>A monstrous, two-legged silhouette lumbers out of the mist, its shaggy head nearly a full story high.</p>
+<p>Z mlhy se vypotácí zrůdná dvounohá silueta, jejíž huňatá hlava se tyčí téměř do výšky celého patra.</p>
 </div>
 
-If Emil Toranescu is accompanying the players, his hand tightens into a fist at his side, his fingernails lengthening into claws. “Kiril," he whispers.
-## Q5b. Kiril’s Challenge
+Pokud hráče doprovází Emil Toranescu, sevře ruku v pěst a nehty se mu prodlouží v drápy. „Kiril,“ zašeptá.
+## Q5b. Kirilova výzva
 
-> [!abstract]+ **Impatient Players**
-> Kiril doesn’t feel threatened by the players. As such, if any individual player attacks him for the first time using a non-silvered weapon, a spell below 3rd-level, or any attack or spell that doesn’t deal necrotic damage, Kiril laughs as his natural regeneration heals his wounds, rather than responding in kind. “Your flailing tickles me, little morsel," he rumbles. He licks his chops, fixing them with a steady look of anticipation. “Perhaps I’ll let you tickle my teeth next—I’ve got a scrap or two of meat in there that I could use some help in getting out."
+> [!abstract]+ **Netrpěliví hráči**
+> Kiril se hráčů nebojí. Proto pokud na něj kterýkoli hráč poprvé zaútočí nepostříbřenou zbraní, kouzlem nižší než 3. úrovně nebo jakýmkoli útokem či kouzlem, které nezpůsobuje nekrotické (necrotic) zranění, Kiril se jen zasměje, zatímco mu přirozená regenerace hojí rány, místo aby útok oplatil. „Tvoje plácání mě lechtá, drobečku,“ zaduní. Olízne si tlamu a upře na hráče pohled plný dychtivého očekávání. „Možná tě nechám polechtat mi i zuby – mám tam zaseklý kousek či dva masa a pomoc s jejich vytažením by se mi hodila.“
 >
-> The second time a player attacks, or if a player attacks him with a silvered weapon, an attack or spell that deals necrotic damage, or a spell of 3rd-level or above, Kiril snarls, his nostrils flaring as his eyes snap wide open. “Impatient to die, little morsel? Then I won’t keep you waiting." Kiril then attacks.
+> Když hráč zaútočí podruhé, nebo pokud na Kirila zaútočí postříbřenou zbraní, útokem či kouzlem, které způsobuje nekrotické (necrotic) zranění, nebo kouzlem 3. či vyšší úrovně, Kiril zavrčí, nozdry se mu rozšíří a oči doširoka rozevřou. „Nemůžeš se dočkat smrti, drobečku? Tak tě nenechám čekat.“ Kiril pak zaútočí.
 
 > [!info]+ **Moonbeam**
-> Due to Kiril’s corruption, his hybrid form—not his human form—has become his “true form." As such, while he takes damage from *moonbeam* normally, the spell cannot cause him to revert to his human form.
+> Kvůli Kirilově zkaženosti se jeho „pravou podobou“ stala jeho hybridní podoba – nikoli lidská. Proto mu kouzlo *moonbeam* sice způsobuje zranění normálně, ale nedokáže ho přimět vrátit se do lidské podoby.
 
-When the players first approach Kiril, or vice-versa, read:
-
-<div class="description">
-<p>The monstrous silhouette steps forward, a sliver of silvery moonlight illuminating the charcoal-black fur that covers its hide.</p>
-<p>It stands just over nine feet tall, its arms, legs, and torso layered with thick, ropy muscle. Its scimitar-shaped fangs jut out beyond its muzzle, descending so far beneath its jaw that they seem almost like tusks. Its claws, long, dark, and stained with layers of blood, twitch and flex eagerly, as if ready to slice through flesh once more.</p>
-<p>The beast’s scarlet irises pierce through the mist that swirls around and below it, and its lupine muzzle curls into a bestial grin. When it speaks, its voice is a low, snarling rumble that echoes through the gloomy night.</p>
-<p>"So you’re the little mice that scampered through my den," the beast rumbles. It licks its lips in obvious anticipation, a line of saliva drooling from its jagged teeth. “Seems you couldn’t run forever."</p>
-</div>
-
-> [!info]+ **Kiril’s Keys**
-> Players who scrutinize Kiril’s neck notice two keys hanging from a chain around his neck. The chain snaps when Kiril enters his second phase (see below), allowing the players to retrieve them. If retrieved, the keys can unlock the *silverthorn collars* imprisoning Ilya and Zuleika in the werewolf den.
-
-The beast is Kiril in his first phase (see below). If Ezmerelda is present, her eyes widen, and she hisses to the players that she recognizes his fur pattern. “The bastard’s bigger than he was two years ago," she whispers through gritted teeth, “but that’s the Black Terror." (Ezmerelda can quietly remind the players, if asked, that the Black Terror was the moniker of the werewolf that bit off her leg.)
-
-Like a cat playing with its prey, Kiril is in no immediate hurry to kill the players, and hopes to taunt, demean, and demoralize them before he attacks. As the conversation unfolds, if Emil Toranescu is present, read:
+Když se hráči ke Kirilovi poprvé přiblíží, nebo on k nim, přečtěte:
 
 <div class="description">
-<p>Kiril’s eyes slide toward the man at your side, and his black lip curls. He stares for a moment, then throws his head back in uproarious laughter.</p>
-<p>"You brought the whelp back with you!" he booms. “Congratulations, weakling. How does it feel to know that you needed these <em>mice</em> to rescue you? Though I’m impressed—how <em>did</em> they do it?</p>
+<p>Zrůdná silueta vykročí vpřed a pruh stříbřitého měsíčního světla ozáří uhlově černou srst, která pokrývá její kůži.</p>
+<p>Měří něco přes devět stop, paže, nohy i trup má obalené silnými, provazovitými svaly. Tesáky ve tvaru šavlí mu trčí z tlamy a sahají tak hluboko pod čelist, že připomínají spíš kly. Drápy, dlouhé, tmavé a potřísněné vrstvami krve, se dychtivě škubou a natahují, jako by se už nemohly dočkat, až znovu proseknou maso.</p>
+<p>Šarlatové duhovky bestie probodávají mlhu, která kolem ní a pod ní víří, a vlčí tlama se zkřiví v zvířecí úšklebek. Když promluví, její hlas je hluboké, vrčivé dunění, které se rozléhá pochmurnou nocí.</p>
+<p>„Tak vy jste ty myšky, co mi pobíhaly po doupěti,“ zaduní bestie. Se zjevným očekáváním si olízne pysky a z rozeklaných zubů jí skane pramínek slin. „Vypadá to, že utíkat napořád jste nemohli.“</p>
 </div>
 
-> [!abstract]+ **Imprisoned Emil**
-> If the players failed to rescue Emil from Castle Ravenloft, when Kiril feels that the time has come for the conversation to end, he commands the wolves flanking him to kill the players. Players who point out the wolves’ obvious hunger and succeed on a DC 18 Charisma (Persuasion) check can convince the pack to stand back while the players deal with Kiril directly. Otherwise, the wolves and werewolves (excepting Kiril) then attack. Kiril attacks the players as soon as the rest of the pack has been defeated or slain.
+> [!info]+ **Kirilovy klíče**
+> Hráči, kteří si pozorně prohlédnou Kirilův krk, si všimnou dvou klíčů, které mu visí na řetízku kolem krku. Řetízek praskne, když Kiril vstoupí do své druhé fáze (viz níže), takže hráči mohou klíče sebrat. Klíči lze odemknout *obojky se stříbrnými trny*, které ve vlčím doupěti věznily Ilju a Zuleiku.
 
-At a suitable point in the conversation, if he is present, Emil challenges Kiril for the leadership of the pack. Unless the players interrupt, the following exchange then occurs:
+Bestie je Kiril ve své první fázi (viz níže). Pokud je přítomna Ezmerelda, rozšíří se jí oči a sykne na hráče, že poznává vzor jeho srsti. „Ten parchant je větší, než byl před dvěma lety,“ šeptá skrz zaťaté zuby, „ale je to Černá hrůza.“ (Na požádání může Ezmerelda hráčům tiše připomenout, že Černá hrůza byla přezdívka vlkodlaka, který jí ukousl nohu.)
 
-* Emil steps forward, his eyes glinting gold in the dim light. “Kiril," he intones. “I cannot stand by and watch what you have done to our pack—our family. You have betrayed them for your own pride, hunger, and ego."
-* Kiril’s muzzle curls into a wolfish, toothy grin. “Pride? Hunger? Those are *strength*, weakling. I have brought the pack nothing but glory."
-* Emil’s eyes narrow. “You have sought to bring *yourself* glory."
-* Kiril snarls. “I am alpha! In my glory, the pack is exalted."
-* “A leader *cares* for his pack," Emil replies cooly. “He hunts for them, not himself."
-* “Do you challenge me, then, whelp?" Kiril responds. “You and your little mice?"
-* Emil then looks to the players to seek their assent. If they express an interest in fighting Kiril alongside him and don’t reply to Kiril themselves, Emil turns to Kiril and says, “We do."
-* Kiril laughs, and replies, “A wolf does not concern himself with the defiance of sheep." He glances toward the wolves flanking him, then gestures toward the players. “Kill them."
-* As the other members of the pack hesitantly step forward, Emil meets the largest wolf’s eyes and says, “Kellen—this is *your* choice, not his." The wolf falters, and Emil turns to face the rest of the pack, adding, “I failed you once before. I have no right to ask your loyalty. I ask only that you remain loyal to yourselves, and to each other—and not to any man who would demand your submission." He turns to face Kiril evenly, his clawed hand curling into a fist. “For we are wolves, not dogs—and obedience is a thing of men."
-* One by one, each wolf stops, turns, and returns to its original place, where it sits upon the ground—waiting.
-* Kiril’s eyes flash crimson, and his claws and fangs grow slightly longer, his massive body trembling with rage. “Cowards and traitors!" he snarls. He turns to face Emil and the players. “It’s a shame the vampire will never reclaim his prisoner," he rumbles—"because when I’m through with you, there won’t be a single bone left!"
+Kiril se jako kočka, která si hraje s kořistí, nijak nežene hráče zabít a doufá, že je před útokem nejprve vysměje, poníží a zlomí jim ducha. Pokud je během rozhovoru přítomen Emil Toranescu, přečtěte:
 
-Kiril then attacks.
+<div class="description">
+<p>Kirilovy oči sklouznou k muži po vašem boku a jeho černý pysk se ohrne. Chvíli zírá, pak zakloní hlavu a propukne v hřmotný smích.</p>
+<p>„Přivedli jste s sebou to štěně!“ zahřmí. „Blahopřeju, slabochu. Jaké to je, vědět, že tě musely zachránit tyhle <em>myšky</em>? I když musím uznat – jak se jim to <em>vůbec</em> povedlo?</p>
+</div>
+
+> [!abstract]+ **Uvězněný Emil**
+> Pokud hráči Emila z hradu Ravenloft nezachránili, Kiril ve chvíli, kdy usoudí, že je čas rozhovor ukončit, přikáže vlkům po svých bocích, aby hráče zabili. Hráči, kteří poukážou na zjevný hlad vlků a uspějí v ověření Charisma (Persuasion) se DC 18, mohou smečku přesvědčit, aby ustoupila stranou, zatímco se hráči s Kirilem vypořádají sami. Jinak pak vlci a vlkodlaci (kromě Kirila) zaútočí. Kiril na hráče zaútočí, jakmile je zbytek smečky poražen nebo pobit.
+
+Ve vhodnou chvíli rozhovoru, je-li přítomen, vyzve Emil Kirila o vedení smečky. Pokud hráči nezasáhnou, odehraje se pak tato výměna:
+
+* Emil vykročí vpřed a jeho oči se v šeru zlatě zalesknou. „Kirile,“ pronese. „Nemohu jen přihlížet tomu, co jsi udělal naší smečce – naší rodině. Zradil jsi ji kvůli své pýše, hladu a samolibosti.“
+* Kirilova tlama se zkřiví ve vlčí, zubatý úšklebek. „Pýše? Hladu? To je *síla*, slabochu. Smečce jsem nepřinesl nic než slávu.“
+* Emil přimhouří oči. „Snažil ses přinést slávu *sobě*.“
+* Kiril zavrčí. „Já jsem alfa! V mé slávě je smečka povznesena.“
+* „Vůdce o svou smečku *pečuje*,“ odpoví Emil chladně. „Loví pro ni, ne pro sebe.“
+* „Tak ty mě vyzýváš, štěně?“ odpoví Kiril. „Ty a ty tvoje myšky?“
+* Emil se pak podívá na hráče a hledá jejich souhlas. Pokud dají najevo, že chtějí s Kirilem bojovat po jeho boku, a sami Kirilovi neodpovědí, Emil se ke Kirilovi otočí a řekne: „Ano.“
+* Kiril se zasměje a odpoví: „Vlk si vzdorem ovcí hlavu neláme.“ Pohlédne na vlky po svých bocích a pak ukáže na hráče. „Zabijte je.“
+* Když ostatní členové smečky váhavě vykročí vpřed, Emil se podívá do očí největšímu vlkovi a řekne: „Kellene – tohle je *tvoje* volba, ne jeho.“ Vlk zaváhá a Emil se obrátí ke zbytku smečky a dodá: „Jednou jsem vás už zklamal. Nemám právo žádat vaši věrnost. Žádám jen, abyste zůstali věrní sami sobě a jeden druhému – a ne muži, který by po vás žádal poddanost.“ Klidně se obrátí čelem ke Kirilovi a jeho ruka s drápy se sevře v pěst. „Neboť jsme vlci, ne psi – a poslušnost je věcí lidí.“
+* Jeden po druhém se vlci zastaví, otočí se, vrátí se na svá původní místa a posadí se na zem – a čekají.
+* Kirilovy oči šarlatově zablesknou, drápy a tesáky se mu mírně prodlouží a jeho mohutné tělo se třese vzteky. „Zbabělci a zrádci!“ zavrčí. Otočí se čelem k Emilovi a hráčům. „Škoda, že si upír svého vězně už nikdy nevezme zpátky,“ zaduní, „protože až s vámi skončím, nezbude z vás ani kost!“
+
+Kiril pak zaútočí.
   
-> [!combat]- **Combat - The Mutant Lycan**  
-> **Combat Level**: Bloody (first phase), Bloody (second phase)
-> **Expected Character Level**: 7
-> **Allies:** Ireena Kolyana (CR 2), Emil Toranescu (CR 3), Ezmerelda d'Avenir (CR 4)
-> **Expected HP Consumption:** 58% (first phase), 52% (second phase), for a total of 110%
+> [!combat]- **Boj – Zmutovaný lykantrop**  
+> **Úroveň boje**: Krvavý (první fáze), Krvavý (druhá fáze)
+> **Očekávaná úroveň postav**: 7
+> **Spojenci:** Ireena Kolyana (CR 2), Emil Toranescu (CR 3), Ezmerelda d'Avenir (CR 4)
+> **Očekávaná ztráta HP:** 58 % (první fáze), 52 % (druhá fáze), celkem 110 %
 > 
-> ### **Balancing:**
-> If you have fewer or more than 5 players, modify the encounter in the following ways:
+> ### **Vyvážení:**
+> Pokud máte méně nebo více než 5 hráčů, upravte střetnutí takto:
 >
-> | Number of Players | Modification |
+> | Počet hráčů | Úprava |
 > |-|-|
-> | 3 | Reduce Kiril’s hit points to 227 in each phase. Reduce his **Multiattack** action in P1 to one attack and a use of **Alpha’s Howl**, but increase the damage of the attacks granted by **Alpha’s Howl** to 2d6 plus Strength mod for the claw and 1d10 plus Strength mod for the bite. Decrease his **Savage Frenzy** bonus action to 10 (3d6) damage. In his P2, remove the ability to make a **Claw** attack as part of his **Leap** reaction. Make sure he uses his **Leap** reaction once every round. |
-> | 4 | Reduce Kiril’s hit points to 267 in each phase. In his first phase, reduce his **Multiattack** to a total of 2 attacks and one use of **Alpha’s Howl**. In his second phase, remove his **Multiattack** action. |
-> | 6 | Increase Kiril’s hitpoints in each phase to 345. Increase his **Savage Frenzy** in P1 to 21 (6d6) slashing damage. Increase his **Multiattack** in P2 to two **Claw** attacks and one **Bite/Swallow** attack. |
+> | 3 | Snižte Kirilovy HP v každé fázi na 227. Jeho akci **Multiattack** v 1. fázi omezte na jeden útok a jedno použití **Alpha’s Howl**, ale zvyšte zranění útoků udělených schopností **Alpha’s Howl** na 2d6 plus modifikátor Strength u drápu a 1d10 plus modifikátor Strength u kousnutí. Snižte zranění jeho bonusové akce **Savage Frenzy** na 10 (3d6). Ve 2. fázi mu odeberte možnost provést útok **Claw** v rámci reakce **Leap**. Dbejte, aby svou reakci **Leap** použil každé kolo. |
+> | 4 | Snižte Kirilovy HP v každé fázi na 267. V první fázi omezte jeho **Multiattack** celkem na 2 útoky a jedno použití **Alpha’s Howl**. Ve druhé fázi mu odeberte akci **Multiattack**. |
+> | 6 | Zvyšte Kirilovy HP v každé fázi na 345. Zvyšte jeho **Savage Frenzy** v 1. fázi na 21 (6d6) sečného (slashing) zranění. Rozšiřte jeho **Multiattack** ve 2. fázi na dva útoky **Claw** a jeden útok **Bite/Swallow**. |
 
 <div class="statblock">
 <h2>Kiril, Werewolf Alpha</h2>
@@ -804,7 +803,7 @@ Kiril then attacks.
 <br>
 
 ![[The Black Terror.png]]
-<span class="credit">"Kiril, Mutant Lycan" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">„Kiril, zmutovaný lykantrop“ – autor: Caleb Cleveland. Podpořte ho na <a href="https://patreon.com/calebisdrawing/">Patreonu!</a></span>
 
 <div class="statblock">
 <h2>Kiril, Mutant Lycan</h2>
@@ -865,121 +864,120 @@ Kiril then attacks.
 <p><strong><em>Pin.</em></strong> In response to being missed by an attack made by a creature within reach or a creature leaving his reach, Kiril attacks it with his claws. If he grapples the creature, it must succeed on an additional DC 19 Strength saving throw or fall prone.</p>
 </div>
 
-> [!warning]+ **Leaping While Grappling**
+> [!warning]+ **Skok při uchvacování**
 > 
-> As a Huge creature, Kiril is able to land on Medium or smaller creatures, and can leap while grappling creatures with his claws or bite attacks
+> Jako tvor velikosti Huge může Kiril dopadnout na tvory velikosti Medium či menší a může skákat, i když drží uchvácené tvory svými útoky drápem či kousnutím.
 
-> [!warning] **Dragging Grappled Creatures**
-> Remember that Kiril's second phase, as a Huge creature, isn't slowed while grappling and dragging a Medium or smaller creature, as noted in <span class="citation">Moving a Grappled Target (Player's Handbook, p. 195)</span>.
+> [!warning] **Vlečení uchvácených tvorů**
+> Pamatujte, že Kirilova druhá fáze jako tvor velikosti Huge není zpomalena, když drží uchváceného tvora velikosti Medium či menšího a vleče ho, jak je uvedeno v <span class="citation">Moving a Grappled Target (Player's Handbook, p. 195)</span>.
+## Q5c. Kiril poražen
 
-## Q5c. Kiril Vanquished
-
-> [!info]+ **Bianca's Fate**
-> With Kiril struck down, Bianca’s reaction depends on the party’s past interactions with her. She is a woman caught between love, grief, and the trauma of a life under Kiril’s shadow.
+> [!info]+ **Biančin osud**
+> Když Kiril padne, Biančina reakce závisí na tom, jak s ní družina dříve jednala. Je to žena polapená mezi láskou, žalem a traumatem života v Kirilově stínu.
 > 
-> **If the party has shown kindness, patience, and compassion:**
+> **Pokud jí družina projevila laskavost, trpělivost a soucit:**
 > 
-> Bianca does not flee. She lingers among the werewolves, trembling, tears streaking her face as she stares at Kiril's body. "I mourn the monster he became," she says quietly, "but I still grieve the man I once loved." If asked about what she will do now, Bianca hesitates, then looks to the surviving werewolves. "If I stay," she says, hopefully, "perhaps I can help them toward a brighter future."
+> Bianca neuprchne. Zůstane mezi vlkodlaky, třese se a po tváři jí stékají slzy, zatímco zírá na Kirilovo tělo. „Truchlím nad nestvůrou, kterou se stal,“ řekne tiše, „ale pořád oplakávám muže, kterého jsem kdysi milovala.“ Pokud se jí hráči zeptají, co bude dělat teď, Bianca zaváhá a pak pohlédne na přeživší vlkodlaky. „Když zůstanu,“ řekne s nadějí, „možná jim pomůžu k lepší budoucnosti.“
 > 
-> **If the party remained distant or neutral:**
+> **Pokud družina zůstala odtažitá či neutrální:**
 > 
-> Bianca stands frozen in shock, her eyes wide. After a long moment, she turns without a word and walks toward the forest’s edge. If the characters call after her or follow, she stops but does not turn around. "How could I possibly go back, after all he did?" she asks. "They’ll see him every time they look at me." She falls quiet, staring into the trees. "I just need to be somewhere else for a while. Somewhere he never was." If the players do not challenge this, she slips away into the forest.
+> Bianca stojí jako přimražená šokem, oči doširoka rozevřené. Po dlouhé chvíli se beze slova otočí a vykročí k okraji lesa. Pokud na ni postavy zavolají nebo ji následují, zastaví se, ale neotočí se. „Jak bych se proboha mohla vrátit, po tom všem, co udělal?“ zeptá se. „Pokaždé, když se na mě podívají, uvidí jeho.“ Zmlkne a hledí mezi stromy. „Jen potřebuju být na chvíli někde jinde. Někde, kde on nikdy nebyl.“ Pokud jí v tom hráči nebrání, vytratí se do lesa.
 > 
-> **If the party alienated, threatened, or enraged her:**
+> **Pokud ji družina odcizila, ohrožovala nebo rozzuřila:**
 > 
-> When Kiril falls, Bianca’s grief transforms into fury. She screams, and in a blind surge of rage she launches herself at the players, fighting with abandon until she is slain
+> Když Kiril padne, Biančin žal se promění v zuřivost. Vykřikne a ve slepém návalu vzteku se vrhne na hráče a bojuje bez ohledu na sebe, dokud není zabita
 
 
-Shortly after Kiril is defeated, if Emil is present, the **werewolves** amongst the pack assume their human forms to greet him. Read:
+Krátce poté, co je Kiril poražen, pokud je přítomen Emil, přijmou vlkodlaci (**werewolves**) ze smečky lidskou podobu, aby ho pozdravili. Přečtěte:
 
 <div class="description">
-<p>Eight of the wolves stand higher—and then higher, rising upon their hind legs as fur falls away, muzzles compress into faces, and forelegs twist into arms.</p>
-<p>Where eight wolves once sat, eight men and women now stand, clad in animal skins and furs. They hesitate, briefly, regarding you with wariness and caution—until one of them, a broad-shouldered man with thick, shaggy sideburns steps forward and embraces Emil.</p>
-<p>"We thought you were dead," he says gruffly. “I’m sorry we didn’t—"</p>
-<p>"You have nothing to apologize for," Emil interrupts fiercly, embracing him in return. “It was I who failed you." He then gestures toward the players, adding, “And it was they who saved us both."
+<p>Osm vlků se zvedne výš – a ještě výš, vztyčí se na zadních nohách, zatímco srst opadává, čenichy se stlačují v tváře a přední tlapy se kroutí v paže.</p>
+<p>Kde předtím sedělo osm vlků, stojí teď osm mužů a žen oděných do zvířecích kůží a kožešin. Krátce zaváhají a hledí na vás ostražitě a obezřetně – dokud jeden z nich, muž širokých ramen s hustými, rozcuchanými licousy, nevykročí vpřed a Emila neobejme.</p>
+<p>„Mysleli jsme, že jsi mrtvý,“ řekne drsně. „Je mi líto, že jsme ne…“</p>
+<p>„Nemáte se za co omlouvat,“ přeruší ho Emil vášnivě a jeho objetí opětuje. „To já jsem selhal vůči vám.“ Pak ukáže na hráče a dodá: „A to oni zachránili nás oba.“
 </div>
 
-The broad-shouldered man, Kellen, leads the other werewolves in thanking the players for their efforts. As they do, he asks the players: “I don’t understand. Did the vampire allow you to return Emil from the castle? And if he didn’t—what will become of us, now that Kiril is dead?"
+Muž širokých ramen, Kellen, vede ostatní vlkodlaky v díkůvzdání hráčům za jejich úsilí. Přitom se hráčů zeptá: „Nechápu to. Dovolil vám upír odvést Emila z hradu? A pokud ne – co s námi bude teď, když je Kiril mrtvý?“
 
-If the players fail to do so, Emil claps a hand on Kellen’s shoulder and reassures him that the pack has nothing to fear, for the players are “great warriors" whose courage “will see to the vampire’s undoing." Although Kellen initially looks doubtful, he is grateful for any reassurances the players can provide.
+Pokud to neučiní hráči, Emil poplácá Kellena po rameni a ujistí ho, že se smečka nemá čeho bát, neboť hráči jsou „velcí válečníci“, jejichž odvaha „upíra přivede do záhuby“. Přestože Kellen zprvu vypadá pochybovačně, je vděčný za jakékoli ujištění, které mu hráči mohou dát.
 
-Emil is glad to allow the players to accompany him and the remainder of the pack back to the werewolf den. (See [[#Q7. Return to the Werewolf Den]] for more information if they do.) Otherwise, he thanks them again for their help before bidding them farewell. If the players give him the keys from the chain around Kiril’s neck, Emil promises to free both Zuleika and Ilya as soon as he returns to the den, and to personally see that Ilya is escorted back to his family in Krezk. 
+Emil hráče rád nechá, aby ho a zbytek smečky doprovodili zpět do vlčího doupěte. (Pokud tak učiní, více informací najdete v [[#Q7. Návrat do vlčího doupěte|Q7. Návrat do vlčího doupěte]].) Jinak jim ještě jednou poděkuje za pomoc a rozloučí se s nimi. Pokud mu hráči dají klíče z řetízku z Kirilova krku, Emil slíbí, že jakmile se vrátí do doupěte, osvobodí Zuleiku i Ilju a osobně dohlédne na to, aby byl Ilja doprovozen zpět ke své rodině do Krezku. 
 
-Emil is also happy to ask Zuleika to release the players from the *Oath of the New Moon*, if they took the oath before departing the werewolf den. If asked, Emil reassures the players that the pack will no longer hunt for human flesh. “We were never meant to prey upon our own kind," he promises. “Though we stand apart from you, we are your brethren—not your enemies."
+Emil také rád požádá Zuleiku, aby hráče zprostila *Přísahy novoluní*, pokud ji před odchodem z vlčího doupěte složili. Pokud se ho hráči zeptají, Emil je ujistí, že smečka už nebude lovit lidské maso. „Nikdy nám nebylo souzeno lovit vlastní druh,“ slibuje. „Ačkoli stojíme stranou od vás, jsme vaši bratři – ne vaši nepřátelé.“
 
-***Milestone.*** Defeating Kiril completes a story milestone. When the players do so, award each player 2,000 XP.
-# Q6. Return to Argynvostholt
+***Milník.*** Porážka Kirila je milníkem příběhu. Když se to hráčům podaří, udělte každému hráči 2 000 XP.
+# Q6. Návrat do Argynvostholtu
 
-> [!lore]+ **Vladimir’s Command**
-> When the players retrieve Argynvost’s skull from Castle Ravenloft, Vladimir Horngaard learns of it through his **phantom warrior** spies, who have heard of the players’ exploits through contacts in the Ethereal Plane. After interrogating Sir Godfrey Gwilym and learning of the players’ intent to place the skull in Argynvost’s mausoleum, Vladimir relocates to <span class="citation">Q15. Cemetery (p. 134)</span>, where he waits for the players to return to Argynvostholt.
-## Q6a. Return to the Foyer
-When the players first return to Argynvostholt after retrieving Argynvost’s skull in [[Arc P - Ravenloft Heist]], if they approach Argynvostholt’s cemetery by passing through <span class="citation">Q3. Dragon’s Foyer (p. 132)</span>, they encounter a number of **revenants** depending on the time of their return. After the players escape Castle Ravenloft:
+> [!lore]+ **Vladimírův rozkaz**
+> Když hráči získají Argynvostovu lebku z hradu Ravenloft, Vladimír Horngaard se o tom dozví od svých zvědů, přízračných válečníků (**phantom warrior**), kteří o skutcích hráčů slyšeli od svých kontaktů v Ethereal Plane. Poté, co vyslechne sira Godfreye Gwilyma a dozví se, že hráči hodlají uložit lebku do Argynvostova mauzolea, přesune se Vladimír na <span class="citation">Q15. Cemetery (p. 134)</span>, kde čeká, až se hráči do Argynvostholtu vrátí.
+## Q6a. Návrat do vstupní haly
+Když se hráči po získání Argynvostovy lebky v [[Arc P - Ravenloft Heist|Oblouk P – Loupež v Ravenloftu]] poprvé vrátí do Argynvostholtu, a pokud se k argynvostholtskému hřbitovu blíží přes <span class="citation">Q3. Dragon’s Foyer (p. 132)</span>, narazí na několik revenantů (**revenants**), jejichž počet závisí na době jejich návratu. Po útěku hráčů z hradu Ravenloft platí:
 
-* If they return to Argynvostholt before noon, no revenants are present in the foyer.
-* If they return to Argynvostholt before dusk, one revenant is present in the foyer.
-* If they return to Argynvostholt before midnight, two revenants are present in the foyer.
-* Otherwise, three revenants are present in the foyer.
+* Pokud se do Argynvostholtu vrátí před polednem, ve vstupní hale nejsou žádní revenanti.
+* Pokud se do Argynvostholtu vrátí před soumrakem, je ve vstupní hale jeden revenant.
+* Pokud se do Argynvostholtu vrátí před půlnocí, jsou ve vstupní hale dva revenanti.
+* Jinak jsou ve vstupní hale tři revenanti.
 
-Read the following, modifying the text as needed depending on the number of revenants present:
+Přečtěte následující text a podle počtu přítomných revenantů ho podle potřeby upravte:
 
 <div class="description">
-<p>A thick fog covers the floor of the chamber. Through the fog, you see three armored figures standing at the northern end of the chamber—one before the western doors, one before the eastern doors, and one at the foot of the once-grand staircase.</p>
-<p>Each gaunt, ashen figure is clad in tattered chain mail and bears an ancient, rusted longsword. Red eyes glint solemnly behind beaten helms, each figure’s head downcast in sorrow and shame.</p>
-<p>As each revenant lifts a head in greeting, you notice strands of black, spiked wire encircling their limbs and torsos in a web, looping around armor and gauntlets before wrapping around the hilts of their swords. As you watch, the wire seems to crawl along their flesh, flexing and writhing like a puppet’s strings.</p>
-<p>"May you greet your deaths with honor and courage," one revenant rasps, “as our general has commanded."</p>
+<p>Podlahu komnaty pokrývá hustá mlha. Mlhou spatříte na severním konci komnaty tři postavy ve zbroji – jednu před západními dveřmi, jednu před východními dveřmi a jednu u paty kdysi velkolepého schodiště.</p>
+<p>Každá z vyzáblých, popelavých postav má na sobě potrhanou kroužkovou košili a třímá prastarý, zrezivělý dlouhý meč. Za otlučenými přilbami se vážně lesknou rudé oči a hlava každé z postav je sklopená v žalu a hanbě.</p>
+<p>Když každý z revenantů zvedne hlavu na pozdrav, všimnete si pramenů černého ostnatého drátu, které jim jako pavučina obepínají údy i trup, ovíjejí se smyčkami kolem zbroje a rukavic a pak se obtáčejí kolem jílců jejich mečů. Zatímco se díváte, drát jako by se jim plazil po těle, napínal se a svíjel jako provázky loutky.</p>
+<p>„Kéž přivítáte svou smrt se ctí a odvahou,“ zachraptí jeden z revenantů, „jak nám přikázal náš generál.“</p>
 </div>
 
-The revenants then attack.
+Revenanti pak zaútočí.
 
-> [!combat]- **Combat - The Return to the Foyer**  
-> **Combat Level**: Bloody
-> **Expected Character Level**: 7
-> **Allies:** Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4)
-> **Expected HP Consumption:** 44%
+> [!combat]- **Boj – Návrat do vstupní haly**  
+> **Úroveň boje**: Krvavý
+> **Očekávaná úroveň postav**: 7
+> **Spojenci:** Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4)
+> **Očekávaná ztráta HP:** 44 %
 > 
-> ### **Balancing:**
-> If you have fewer than 5 players, modify the encounter in the following ways:
+> ### **Vyvážení:**
+> Pokud máte méně než 5 hráčů, upravte střetnutí takto:
 >
-> | Number of Players | Modification |
+> | Počet hráčů | Úprava |
 > |-|-|
-> | 3 | Reduce the number of revenants in the foyer by one, to a minimum of one. |
-> | 4 | Reduce the number of revenants in the foyer by one, to a minimum of one. ||
+> | 3 | Snižte počet revenantů ve vstupní hale o jednoho, nejméně však na jednoho. |
+> | 4 | Snižte počet revenantů ve vstupní hale o jednoho, nejméně však na jednoho. ||
 
-In combat, the revenants attack with their longswords as described in <span class="citation">Q13. Chapel of Morning (p. 134)</span>. A player with a passive Wisdom (Perception) score of 13 or greater notices that, each time a revenant attacks, its cheeks are streaked with tears. In addition, a player who succeeds on a DC 13 Wisdom (Insight) check notices that the revenants don’t appear to be moving of their own volition, but move jerkily, as though the black wires are controlling their movements directly.
+V boji útočí revenanti svými dlouhými meči, jak je popsáno v <span class="citation">Q13. Chapel of Morning (p. 134)</span>. Hráč s pasivní hodnotou Wisdom (Perception) 13 nebo vyšší si všimne, že pokaždé, když revenant zaútočí, stékají mu po tvářích slzy. Navíc hráč, který uspěje v ověření Wisdom (Insight) se DC 13, si všimne, že se revenanti nezdají pohybovat z vlastní vůle, ale trhaně, jako by jejich pohyby přímo ovládaly černé dráty.
 
-A player can attempt a DC 15 Charisma (Persuasion) check to convince the revenants to fight back against the wires’ control. The check is made with advantage if the players share that they’ve recovered Argynvost’s skull from Castle Ravenloft and intend to restore it to his mausoleum. If the check succeeds, the revenants make attacks and Dexterity saving throws with disadvantage, and grant advantage on any attacks made against them.
+Hráč se může pokusit o ověření Charisma (Persuasion) se DC 15, aby revenanty přesvědčil, ať se ovládání drátů vzepřou. Ověření se hází s výhodou, pokud hráči prozradí, že z hradu Ravenloft získali Argynvostovu lebku a hodlají ji vrátit do jeho mauzolea. Pokud ověření uspěje, revenanti mají nevýhodu na hody na útok a záchranné hody na Dexterity a útoky proti nim mají výhodu.
 
-When the players defeat the last revenant, it warns them that Commander Horngaard is waiting for them in the cemetery. “May the Morninglord protect you," it rasps before collapsing.
+Když hráči porazí posledního revenanta, varuje je, že velitel Horngaard na ně čeká na hřbitově. „Kéž vás Jitřní pán ochraňuje,“ zachraptí, než se zhroutí.
 
-> [!abstract]+ **Vladimir's Command**
-> Vladimir Horngaard has forbidden Godfrey from speaking with the players. If he attempts to do so while bound in the chapel, black wires manifest to bind his tongue and jaw.
+> [!abstract]+ **Vladimírův rozkaz**
+> Vladimír Horngaard Godfreyovi zakázal s hráči mluvit. Pokud se o to Godfrey, spoutaný v kapli, pokusí, objeví se černé dráty a spoutají mu jazyk i čelist.
 
 
-## Q6b. Return to the Cemetery
-When the players first return to <span class="citation">Q15. Cemetery (p. 134)</span> after retrieving Argynvost’s skull in [[Arc P - Ravenloft Heist]], they find the cemetery apparently empty, with the stone door to <span class="citation">Q16. Dragon’s Mausoleum (p. 134)</span> hanging open. 
+## Q6b. Návrat na hřbitov
+Když se hráči po získání Argynvostovy lebky v [[Arc P - Ravenloft Heist|Oblouk P – Loupež v Ravenloftu]] poprvé vrátí na <span class="citation">Q15. Cemetery (p. 134)</span>, najdou hřbitov zdánlivě prázdný; kamenné dveře do <span class="citation">Q16. Dragon’s Mausoleum (p. 134)</span> jsou otevřené dokořán. 
 
-> [!abstract]+ **Teleporting Players**
-> When the players first return to the cemetery, Vladimir is waiting for them inside of Argynvost’s mausoleum. If a player teleports into the mausoleum without first entering the cemetery, Vladimir attacks them on sight, throwing them out of the mausoleum using his ***greatsword*** attack if possible.
+> [!abstract]+ **Teleportující se hráči**
+> Když se hráči poprvé vrátí na hřbitov, Vladimír na ně čeká uvnitř Argynvostova mauzolea. Pokud se hráč do mauzolea teleportuje, aniž by nejprve vstoupil na hřbitov, Vladimír na něj okamžitě zaútočí a pokud možno ho svým útokem ***greatsword*** vyhodí z mauzolea ven.
 
-The first time the players enter the cemetery, if they’re not using stealth or fail a group DC 19 Dexterity (Stealth) check, Vladimir hears their approach and exits the mausoleum to address them. Read:
+Když hráči poprvé vstoupí na hřbitov, a pokud se neplíží nebo neuspějí ve skupinovém ověření Dexterity (Stealth) se DC 19, Vladimír uslyší jejich příchod a vyjde z mauzolea, aby je oslovil. Přečtěte:
 
 <div class="description">
-<p>The sound of shrieking, rusted metal cuts through the silent graveyard as a tall, broad-shouldered knight clad in once-fine armor steps forth from the open mausoleum.</p>
-<p>"I did not expect you to be fool enough to return," Vladimir rasps, his red eyes flashing. His ancient iron gauntlets wrap tightly around the hilt of the gleaming greatsword he holds at his side, black flames dancing briefly along its edges. “If you wish your lives to end, I shall gladly grant that wish."
+<p>Tichým hřbitovem pronikne skřípění zrezivělého kovu, jak z otevřeného mauzolea vykročí vysoký rytíř širokých ramen v kdysi skvostné zbroji.</p>
+<p>„Nečekal jsem, že budete tak pošetilí, abyste se vrátili,“ zachraptí Vladimír a rudé oči mu zablesknou. Jeho prastaré železné rukavice pevně svírají jílec lesknoucího se obouručního meče, který drží u boku; po jeho ostří na okamžik zatančí černé plameny. „Přejete-li si, aby vaše životy skončily, rád vám to přání splním.“
 </div>
 
-> [!abstract]+ **Zorya’s Return**
-> If the players befriended her in [[Arc M - The Dragon's Manor]], the spirit of the pseudodragon Zorya dives from one of the mansion’s upper windows on the first round of combat to assist them. In combat, Zorya uses simple gestures and squeaks to attempt to communicate that the players should place Argynvost’s skull in the mausoleum before fighting Vladimir. If the players attempt to place Argynvost’s skull there, Zorya attempts to defend them by attacking Vladimir as they do so.
+> [!abstract]+ **Zorjin návrat**
+> Pokud se s ní hráči v [[Arc M - The Dragon's Manor|Oblouk M – Dračí sídlo]] spřátelili, duch pseudodráčka (**pseudodragon**) Zorji v prvním kole boje slétne z jednoho z horních oken sídla, aby jim pomohl. V boji se Zorja jednoduchými gesty a pištěním snaží hráčům sdělit, že by měli Argynvostovu lebku uložit do mauzolea dřív, než se s Vladimírem utkají. Pokud se hráči pokusí lebku tam uložit, Zorja se je snaží bránit tím, že mezitím útočí na Vladimíra.
 
-> [!combat]- **Combat - The Fallen Knight**  
-> **Combat Level**: Bloody (first phase), Crushing (second phase)
-> **Expected Character Level**: 7
-> **Allies:** Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4)
-> **Expected HP Consumption:** 42% (first phase), 139% (second phase), for a total of 181%
+> [!combat]- **Boj – Padlý rytíř**  
+> **Úroveň boje**: Krvavý (první fáze), Drtivý (druhá fáze)
+> **Očekávaná úroveň postav**: 7
+> **Spojenci:** Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4)
+> **Očekávaná ztráta HP:** 42 % (první fáze), 139 % (druhá fáze), celkem 181 %
 > 
-> ### **Enemies:**
+> ### **Nepřátelé:**
 > 
-> | |3 Players | 4 Players | 5 Players | 6 Players |
+> | |3 hráči | 4 hráči | 5 hráčů | 6 hráčů |
 > |-|-|-|-|-|
 > | Phantom Warrior | 0 | 2 | 4 | 6 |
 > | Vladimir Horngaard | 1 | 1 | 1 | 1 |
@@ -1107,153 +1105,153 @@ The first time the players enter the cemetery, if they’re not using stealth or
 <p><strong><em>Sentinel’s Strike.</em></strong> In response to a creature attempting to move out of his reach without first taking the Disengage action, Vladimir makes an attack against it with his <strong><em>+2 greatsword</em></strong>. On a hit, the creature takes no damage from the attack, but it falls prone and its speed becomes 0 for the rest of the turn.</p>
 </div>
 
-Vladimir attacks if the players attack him first, or if he deems further conversation unnecessary. If the players ask to restore Argynvost’s skull to the mausoleum, he falters briefly, then shakes his head. “You are too dangerous to be left alive," he rumbles. “Your antagonism to von Zarovich is a threat I shall not tolerate. When you lie in the ground, perhaps then I shall complete the task you have set yourselves upon—but not until the last breath has left your bodies."
+Vladimír zaútočí, pokud na něj hráči zaútočí jako první, nebo pokud usoudí, že další rozhovor je zbytečný. Pokud ho hráči požádají, aby jim dovolil vrátit Argynvostovu lebku do mauzolea, na okamžik zaváhá, ale pak zavrtí hlavou. „Jste příliš nebezpeční, než abych vás nechal naživu,“ zaduní. „Vaše nepřátelství vůči von Zarovichovi je hrozbou, kterou nestrpím. Až budete ležet v zemi, snad pak dokončím úkol, který jste si předsevzali – ale ne dřív, než z vašich těl vyprchá poslední dech.“
 
-When Vladimir enters his second phase, four **phantom warriors** materialize to aid him. The phantom warriors fight to the death.
+Když Vladimír vstoupí do své druhé fáze, zhmotní se čtyři přízrační válečníci (**phantom warriors**), aby mu pomohli. Přízrační válečníci bojují až do smrti.
 
-In addition, the first time a player enters the mausoleum, Vladimir uses one of his reactions to summon a ring of black fire encircling the cemetery. Read:
+Navíc když hráč poprvé vstoupí do mauzolea, Vladimír použije jednu ze svých reakcí a vyvolá kruh černého ohně, který obklopí hřbitov. Přečtěte:
 
 <div class="description">
-<p>Jet-black shadows swirl from the torches either side of the mausoleum’s yawning door. Dark flames erupt from the crypt’s stone floor, then spread hungrily across the dying grass that fills the cemetery, encircling the the manor's walls and wrought-iron fencing with a ring of black flames.</p>
+<p>Z pochodní po obou stranách zejících dveří mauzolea se vyvalí víry černočerných stínů. Z kamenné podlahy krypty vyšlehnou temné plameny a pak se hladově rozšíří po umírající trávě, která pokrývá hřbitov, a obklopí zdi sídla i kovaný železný plot prstencem černých plamenů.</p>
 </div>
 
-Each player within 5 feet of the mausoleum’s entrance must also succeed on a DC 18 Strength saving throw as a shockwave of force erupts from the flames’ origin. On a failure, a player is thrown 10 feet away from the mausoleum and lands prone.
+Každý hráč do 5 stop od vchodu do mauzolea musí navíc uspět v záchranném hodu na Strength se DC 18, neboť z místa, kde plameny vznikly, vyrazí tlaková vlna síly. Při neúspěchu je hráč odhozen 10 stop od mauzolea a dopadne na zem (prone).
 
-The flames block the players' exit at the top of the stairs to the chapel, forming a sheet of black fire eight feet high around the cemetery. A creature takes 10 (3d6) fire damage plus 10 (3d6) necrotic damage when it enters the flames for the first time on a turn or ends its turn there. A player can vault over the flames if they can make a high jump of eight feet (see <span class="citation">High Jump, <em>Player’s Handbook</em> (p. 182)</span>) or by succeeding on a DC 18 Strength (Athletics) check. (If a player is carrying the full weight of Argynvost’s skull, their high jump distance is reduced by 3 feet, and they make the Strength (Athletics) check with disadvantage). On a failure, the player lands prone in the flames.
-## Q6c. Argynvost’s Return
-When a player first places Argynvost’s skull on an alcove in the mausoleum, read:
+Plameny hráčům zatarasí východ na vrcholu schodiště do kaple a vytvoří kolem hřbitova osm stop vysokou stěnu černého ohně. Tvor utrží 10 (3d6) ohnivého (fire) zranění plus 10 (3d6) nekrotického (necrotic) zranění, když do plamenů ve svém tahu poprvé vstoupí nebo v nich svůj tah ukončí. Hráč může plameny přeskočit, pokud dokáže skočit do výšky osmi stop (viz <span class="citation">High Jump, <em>Player’s Handbook</em> (p. 182)</span>), nebo úspěšným ověřením Strength (Athletics) se DC 18. (Pokud hráč nese celou váhu Argynvostovy lebky, jeho skok do výšky se zkrátí o 3 stopy a ověření Strength (Athletics) hází s nevýhodou.) Při neúspěchu hráč dopadne do plamenů a leží (prone).
+## Q6c. Argynvostův návrat
+Když hráč poprvé položí Argynvostovu lebku do výklenku v mauzoleu, přečtěte:
 
 <div class="description">
-<p>A silver light thrums within the mist that crawls across the floor below, as tendrils of pearlescent fog rise toward the massive skull. The stone of the crypt trembles, the temperature plummeting, as two silver pinpricks of light flare to life within the skull’s great eyes.</p>
-<p>With a roar as fierce as rolling thunder, a bank of roiling silver mist bursts from the mausoleum’s depths, flooding forth into the cemetery beyond. The thick fog churns, flashing with silver light as an enormous form slowly coalesces in the air above.</p>
-<p>Claws emerge first, then a serpentine torso half as long as the manor is tall, curving into a long, elegant neck crowned by a noble, horned head. Mighty wings extend from strong, stalwart shoulders, their ghostly scales shimmering with an ethereal silver light as they fill the sky above.</p>
+<p>V mlze, která se plazí po podlaze, zapulzuje stříbrné světlo a k obrovské lebce stoupají chapadla perleťového oparu. Kámen krypty se zachvěje, teplota prudce klesne a v mohutných očních důlcích lebky vzplanou dva stříbrné body světla.</p>
+<p>S řevem divokým jako valící se hrom vytryskne z hlubin mauzolea val vířící stříbrné mlhy a zaplaví hřbitov za ním. Hustá mlha se převaluje a probleskuje stříbrným světlem, zatímco se nad ní ve vzduchu pomalu zhmotňuje obrovská postava.</p>
+<p>Nejprve se vynoří drápy, pak hadovitý trup dlouhý jako polovina výšky sídla, který přechází v dlouhý, ladný krk korunovaný vznešenou rohatou hlavou. Ze silných, pevných plecí se rozepnou mocná křídla a jejich přízračné šupiny se třpytí éterickým stříbrným světlem, až zaplní celou oblohu.</p>
 </div>
 
 ![[Argynvost_transparent.png]]
 
-<span class="credit">"Argynvost's Ghost" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">„Argynvostův duch“ – autor: Caleb Cleveland. Podpořte ho na <a href="https://patreon.com/calebisdrawing/">Patreonu!</a></span>
 
-As Argynvost’s spirit appears, any phantom warriors fall to their knees and bow their heads before him. If still alive, Vladimir ceases his assault, dropping his greatsword to the ground as he stares upward in disbelief. Read:
+Když se Argynvostův duch zjeví, všichni přízrační válečníci padnou na kolena a skloní před ním hlavy. Pokud je Vladimír ještě naživu, přestane útočit, upustí obouruční meč na zem a nevěřícně hledí vzhůru. Přečtěte:
 
 <div class="description">
-<p>The ghostly dragon bows its great neck, its eyes glinting with sorrow. “My knights," it rumbles. “What has this land done to you?"</p>
-<p>Vladimir’s rusted gauntlet curls into a fist. “We have fought," he swears hoarsely, his voice trembling with exhaustion and pain. “We have endured."</p>
-<p>"Have you fallen so far into shadow," the dragon responds, “that you cannot see what you have become?" A deep and sorrowful rumbling emanates from its great chest. “You have forsaken courage for fear, and faith for despair, and so forgotten me."</p>
-<p>"Never," Vladimir swears. Tears fall from his eyes, staining the damp earth below. “We would never—<em>I</em> would never give up the faith."</p>
-<p>The dragon studies him for a moment. “No," it rumbles, finally. “Your faith is strong indeed, to have borne you for so long." Its great, clawed hand descends from the air above, its talons extended toward Vladimir in clear invitation.</p>
-<p>“But the time to fight has ended," the dragon says. “You have endured long enough, my brave knight. Now is the time to rest."</p>
-<p>Vladimir stares at the hand before him, his body trembling. Slowly, he raises a gauntlet toward it—then stops. “What have I left," he bites out, “if not the suffering of the one who took all I once loved?"</p>
-<p>The dragon’s gaze lingers somberly upon him for a moment—then, slowly, shifts to rest upon you, as if inviting you to speak.</p>
+<p>Přízračný drak skloní svůj mohutný krk a v očích se mu zaleskne žal. „Moji rytíři,“ zaduní. „Co vám tato země udělala?“</p>
+<p>Vladimírova rezavá kovová rukavice se sevře v pěst. „Bojovali jsme,“ přísahá chraptivě a hlas se mu chvěje vyčerpáním a bolestí. „Vydrželi jsme.“</p>
+<p>„Klesli jste tak hluboko do stínu,“ odpoví drak, „že už nevidíte, čím jste se stali?“ Z jeho mohutné hrudi se vyvalí hluboké, žalostné dunění. „Vzdali jste se odvahy kvůli strachu a víry kvůli zoufalství, a tak jste zapomněli na mne.“</p>
+<p>„Nikdy,“ přísahá Vladimír. Z očí mu kanou slzy a vsakují se do vlhké země. „Nikdy bychom se – <em>já</em> bych se nikdy nevzdal víry.“</p>
+<p>Drak si ho chvíli prohlíží. „Ne,“ zaduní nakonec. „Tvá víra je skutečně silná, když tě nesla tak dlouho.“ Jeho mohutná pařát se snese ze vzduchu a drápy se natáhnou k Vladimírovi v jasném pozvání.</p>
+<p>„Ale čas boje skončil,“ praví drak. „Vytrval jsi dost dlouho, můj statečný rytíři. Nyní je čas odpočinout si.“</p>
+<p>Vladimír hledí na pařát před sebou a celé tělo se mu chvěje. Pomalu k ní zvedne ruku v rukavici – a pak se zarazí. „Co mi zbude,“ procedí, „ne-li utrpení toho, kdo mi vzal vše, co jsem kdy miloval?“</p>
+<p>Drakův pohled na něm chvíli zachmuřeně spočívá – a pak se pomalu přesune na vás, jako by vás vyzýval, abyste promluvili.</p>
 </div>
 
-The players may then provide Vladimir with any good reason to accept Argynvost’s offer of rest, including (but not limited to) promises that they will return peace to the valley through Strahd’s destruction. When they have finished doing so and Vladimir has replied (if appropriate), read:
+Hráči pak mohou Vladimírovi předložit jakýkoli dobrý důvod, proč by měl Argynvostovu nabídku odpočinku přijmout, mimo jiné slib, že do údolí vrátí mír tím, že zničí Strahda. Až domluví a Vladimír jim (je-li to vhodné) odpoví, přečtěte:
 
 <div class="description">
-<p>Vladimir’s jaw trembles—then halts. He considers the dragon’s hand for a moment more. Finally, he murmurs, “From this until the end of days."</p>
-<p>He places his hand in the dragon’s palm.</p>
-<p>"From this until the end of days," the dragon rumbles. Its other hand descends, and a single, enormous claw brushes tenderly against the side of his cheek. “Your watch is ended."</p>
-<p>Vladimir’s eyes fall shut, and he exhales, releasing a breath that aches with longing, grief, and—at long-last—relief. His fingertips begin to crumble away like fine ash, then his palms and forearms. His weathered skin flakes away, swirling into the cool, quiet air, as the dissolution takes his torso, then his legs, and—at long last, his ancient, tired face.</p>
-<p>His clothes and rusted armor, now empty, fall peacefully to the earth beside his fallen sword.</p>
+<p>Vladimírova čelist se zachvěje – a pak ztuhne. Ještě chvíli hledí na drakovu pařát. Nakonec zamumlá: „Od této chvíle až do konce dnů.“</p>
+<p>Vloží svou ruku do drakovy dlaně.</p>
+<p>„Od této chvíle až do konce dnů,“ zaduní drak. Snese se i jeho druhá pařát a jediný obrovský dráp ho něžně pohladí po tváři. „Tvá hlídka skončila.“</p>
+<p>Vladimír zavře oči a vydechne – a v tom výdechu je stesk, žal a – konečně – úleva. Konečky prstů se mu začnou rozpadat jako jemný popel, pak dlaně a předloktí. Jeho ošlehaná kůže se odlupuje a víří do chladného, tichého vzduchu, zatímco rozpad pohlcuje jeho trup, pak nohy a – nakonec – jeho prastarou, unavenou tvář.</p>
+<p>Jeho šaty a rezavá zbroj, nyní prázdné, pokojně dopadnou na zem vedle jeho padlého meče.</p>
 </div>
 
-> [!info]+ **Vladimir’s Greatsword**
-> Players who later investigate Vladimir’s remains can recover his greatsword and holy symbol, which are as described in <span class="citation">Q36. Dragon’s Audience Hall (p. 138)</span>.
+> [!info]+ **Vladimírův obouruční meč**
+> Hráči, kteří později prozkoumají Vladimírovy ostatky, mohou získat jeho obouruční meč a svatý symbol, které odpovídají popisu v <span class="citation">Q36. Dragon’s Audience Hall (p. 138)</span>.
 
-As Vladimir dies, any remaining **phantom warriors** haunting Argynvostholt or its cemetery dissolve into mist, and any character cursed by Vladimir’s ***oathbind*** feature is freed from its constraints. In addition, the spirits of any **revenants** of the Order of the Silver Dragon are freed from the corpses they inhabit, including Sir Godfrey Gwilym. Read:
+Když Vladimír zemře, všichni přízrační válečníci (**phantom warriors**), kteří dosud strašili v Argynvostholtu či na jeho hřbitově, se rozplynou v mlhu a každá postava prokletá Vladimírovou schopností ***oathbind*** je zbavena jejích pout. Navíc jsou duchové všech revenantů (**revenants**) Řádu stříbrného draka osvobozeni z mrtvol, které obývali, včetně sira Godfreye Gwilyma. Přečtěte:
 
 <div class="description">
-<p>From the chapel, you hear the clattering of chains and feel the brush of a whispering wind. Slowly, a new ghostly silhouette takes form in the fog below the dragon’s shadow—humanoid, this time, tall, and clad in gleaming armor.</p>
-<p>Once-white hair now shimmers with an ethereal golden hue, cascading down his shoulders in thick waves, as once-haunted scarlet eyes are replaced by piercing blue. His face, no longer gaunt and skeletal, is now noble and full, with strong cheekbones, a squared jaw, and warm crinkles around his eyes. His skin, once ashen and corpse-like, now glows with the warmth of the life it once bore, and the ornate collar that once weighed so heavily upon his shoulders now sits proudly beneath his neck.</p>
-<p>As he sees you, the spirit raises a solemn fist to his chest and descends to one knee, bowing his head in deep respect. “Hail, friends," he says, his deep, yet gentle voice trembling with gratitude and awe. He thumps his fist against his chest, tears of pride and joy streaking across his ghostly face. “Hail, Lord Argynvost."</p>
+<p>Z kaple uslyšíte řinčení řetězů a ucítíte dotek šeptajícího větru. V mlze pod drakovým stínem se pomalu zhmotní nová přízračná silueta – tentokrát lidská, vysoká, oděná do zářivé zbroje.</p>
+<p>Kdysi bílé vlasy se nyní třpytí éterickým zlatavým nádechem a v hustých vlnách mu splývají přes ramena; kdysi štvané šarlatové oči vystřídala pronikavá modř. Jeho tvář, již nevyzáblá a kostnatá, je nyní vznešená a plná, s výraznými lícními kostmi, hranatou čelistí a vlídnými vráskami kolem očí. Jeho kůže, kdysi popelavá a mrtvolná, nyní září teplem života, který kdysi nesla, a zdobený límec, jenž mu kdysi tak těžce tížil ramena, nyní hrdě spočívá pod jeho šíjí.</p>
+<p>Když vás spatří, duch si slavnostně přiloží pěst k hrudi, poklekne na jedno koleno a skloní hlavu v hluboké úctě. „Buďte zdrávi, přátelé,“ řekne a jeho hluboký, a přece laskavý hlas se chvěje vděčností a úžasem. Udeří se pěstí do hrudi a po přízračné tváři mu stékají slzy hrdosti a radosti. „Buď zdráv, lorde Argynvoste.“</p>
 </div>
 
-The players recognize the spirit of Sir Godfrey, now restored to the appearance he bore before he died.
+Hráči v duchovi poznají sira Godfreye, nyní navráceného do podoby, kterou měl před smrtí.
 
-Argynvost’s spirit greets Sir Godfrey with warmth and deep affection, then greets the players with great gratitude. “Though my knights fell into darkness, you have saved them, and shown them the light they have lost," he booms, bowing his head deeply before them. “For this, I am forever in your debt."
+Argynvostův duch pozdraví sira Godfreye vřele a s hlubokou náklonností a pak s velkou vděčností pozdraví hráče. „Přestože moji rytíři propadli temnotě, vy jste je zachránili a ukázali jim světlo, které ztratili,“ zahřmí a hluboko před nimi skloní hlavu. „Za to jsem vaším věčným dlužníkem.“
 
-Argynvost’s spirit can share the following information if asked, or as appropriate:
+Na požádání, nebo kdy je to vhodné, může Argynvostův duch prozradit následující:
 
-* He has long waited for one who might restore his remains to their rightful place, so that his spirit might be empowered to speak with his knights once again. “I am grateful that my patience was not in vain," he rumbles. “Even my hope had waned to a flicker—but you rekindled it to a roaring flame."
-* Although his spirit lay dormant for centuries, he was awoken several weeks ago by the sound of distant dragonsong—a harmony from the planes beyond—that Barovia had not heard since the descent of the Mists. “A grand alignment approaches us," he murmurs. “I know not what it portends, but the great veils are shifting."
+* Dlouho čekal na někoho, kdo by jeho ostatky vrátil na jejich právoplatné místo, aby jeho duch nabyl síly znovu promluvit ke svým rytířům. „Jsem vděčný, že má trpělivost nebyla marná,“ zaduní. „I má naděje pohasla na pouhý plamínek – ale vy jste ji znovu rozdmýchali v burácející oheň.“
+* Přestože jeho duch po staletí dřímal, před několika týdny ho probudil zvuk vzdáleného dračího zpěvu – harmonie z rovin za hranicemi světa, kterou Barovie neslyšela od chvíle, kdy se snesly mlhy. „Blíží se k nám velké seskupení,“ zamumlá. „Nevím, co věští, ale velké závoje se pohybují.“
 
-If asked, Argynvost can also share any and all of the information regarding events that occurred in [[History of Barovia#The Founding Era (1 BC–345 BC)|The Founding Era]] or during the [[History of Barovia#Birth of Barovia|Birth of Barovia]], excepting any information regarding the origins of King Barov’s *Brightblade*, Baba Lysaga’s history with the Von Zarovich clan, the birth of Sergei, and the origins of the Wizard of Wines (though Argynvost can share his strong suspicions that the winery’s founders had strong ties to—or were descended from—the indigenous people of the valley itself).
+Na požádání může Argynvost prozradit také jakékoli informace o událostech, které se odehrály v [[History of Barovia#The Founding Era (1 BC–345 BC)|Době založení]] nebo během [[History of Barovia#Birth of Barovia|Zrodu Barovie]], s výjimkou informací o původu *Zářivé čepele* (*Brightblade*) krále Barova, o minulosti Baby Lysagy s rodem von Zarovich, o narození Sergeie a o původu Čaroděje vín (ačkoli Argynvost může prozradit své silné podezření, že zakladatelé vinařství měli úzké vazby na původní obyvatele samotného údolí – nebo z nich přímo pocházeli).
 
-If any player still possesses an amber shard, Godfrey warns them to "beware how fiercely you gaze into the abyss," adding: "Each moment you linger draws you closer to its edge."
+Pokud některý z hráčů stále vlastní jantarový střep, Godfrey ho varuje, ať se „má na pozoru, jak upřeně hledí do propasti“, a dodá: „Každý okamžik, který otálíš, tě přibližuje k jejímu okraji.“
 
-If he has reason to believe the players hold an interest in journeying to the Amber Temple, Godfrey can also share the following information:
+Pokud má důvod věřit, že hráči mají zájem vydat se do Jantarového chrámu, může Godfrey prozradit také následující:
 
-* Several weeks ago, a dusk elf named Kasimir Velikov visited the manor and spoke with Godfrey, seeking information regarding the history, location, and contents of the Amber Temple. 
-* Godfrey warned him to avoid the darkness that lay within the temple, but believes that Kasimir may have gleaned some information nonetheless by canvassing the ruins of Argynvostholt.
-* Godfrey did not ask Kasimir’s purpose in seeking out the Temple, but does not believe that he bore any ill intent. “Even so, I knew all too well of the allure the Temple poses," he says. “I could sense the magic, intelligence, and desperation within him. Such individuals are the Temple’s most vulnerable prey."
-* The Amber Temple is located near the peak of Mt. Ghakis, at the end of a trail now long-lost to the ages. “I sense the elf has rediscovered it, however," Godfrey says solemnly. “Seek him out, and he may guide you to the place you seek."
+* Před několika týdny navštívil sídlo soumračný elf jménem Kasimir Velikov a mluvil s Godfreyem; hledal informace o dějinách, poloze a obsahu Jantarového chrámu.
+* Godfrey ho varoval, aby se vyhnul temnotě, která v chrámu dlí, ale věří, že Kasimir mohl i tak získat nějaké informace pátráním v troskách Argynvostholtu.
+* Godfrey se Kasimira nezeptal, proč chrám hledá, ale nevěří, že by měl zlé úmysly. „Přesto jsem až příliš dobře věděl, jak chrám láká,“ řekne. „Cítil jsem v něm magii, inteligenci a zoufalství. Takoví lidé jsou nejzranitelnější kořistí chrámu.“
+* Jantarový chrám leží nedaleko vrcholu hory Ghakis, na konci stezky dávno ztracené v propadlišti věků. „Cítím však, že ji ten elf znovu objevil,“ řekne Godfrey vážně. „Vyhledejte ho a možná vás dovede tam, kam míříte.“
 
-As the conversation draws to a close, or if the players request a boon for restoring his skull to his crypt, Argynvost offers to instill one of their nonmagical weapons with “the flame of a silver dragon." A weapon blessed in this way gains the following additional features:
+Když se rozhovor chýlí ke konci, nebo pokud hráči požádají o odměnu za navrácení jeho lebky do krypty, nabídne Argynvost, že jednu z jejich nemagických zbraní prodchne „plamenem stříbrného draka“. Takto požehnaná zbraň získá následující další vlastnosti:
 
-* The weapon becomes a +1 magical weapon of its kind, and has 3 charges. It regains all expended charges at dawn.
-* The weapon’s wielder can use 1 charge as a bonus action to imbue the weapon with silver flames for the next 1 minute. While the flames remain, each of the creature’s attacks deals an additional 1d4 cold damage. In addition, if the weapon’s wielder rolls a critical hit while the flames remain, the target must succeed on a DC 20 Constitution saving throw or be paralyzed until the start of the wielder’s next turn.
-* The weapon’s wielder can use 2 charges as a bonus action to cast the *beacon of hope* spell.
-* The weapon’s wielder can use 3 charges as an action to create a blast of silver flame, which takes the shape of a 15-foot cone for a melee weapon and a 30-foot line for a ranged weapon. Each hostile creature in that area must make a DC 20 Constitution saving throw, taking 58 (13d8) cold damage on a failed save, or half as much damage on a successful one. Once this feature is used, it can't be used again for one year.
+* Zbraň se stane magickou zbraní +1 svého druhu a má 3 náboje. Za úsvitu obnoví všechny vyčerpané náboje.
+* Nositel zbraně může bonusovou akcí utratit 1 náboj a na 1 minutu zbraň prodchnout stříbrnými plameny. Dokud plameny trvají, způsobí každý útok tvora navíc 1d4 zranění chladem (cold). Pokud navíc nositel zbraně hodí kritický zásah, dokud plameny trvají, musí cíl uspět v záchranném hodu na Constitution se DC 20, jinak je až do začátku nositelova dalšího tahu ochromen (paralyzed).
+* Nositel zbraně může bonusovou akcí utratit 2 náboje a seslat kouzlo *beacon of hope*.
+* Nositel zbraně může akcí utratit 3 náboje a vytvořit výbuch stříbrného plamene, který má u zbraně na blízko podobu 15stopého kužele a u zbraně na dálku podobu 30stopé přímky. Každý nepřátelský tvor v této oblasti musí provést záchranný hod na Constitution se DC 20; při neúspěchu utrží 58 (13d8) zranění chladem (cold), při úspěchu poloviční. Jakmile je tato vlastnost použita, nelze ji znovu použít po dobu jednoho roku.
 
-Once Argynvost has blessed a player’s weapon, he notes that they have “a long and difficult path ahead of them," and asks if they truly understand the evil they now face. “You will face trials unbeknownst to most mortals," he rumbles, “and endure things that should never be endured. Are you prepared to do so?"
+Jakmile Argynvost hráčovu zbraň požehná, poznamená, že je čeká „dlouhá a obtížná cesta“, a zeptá se, zda skutečně chápou zlo, jemuž nyní čelí. „Budete čelit zkouškám, o nichž většina smrtelníků nemá tušení,“ zaduní, „a snášet věci, jež by nikdy snášeny být neměly. Jste na to připraveni?“
 
-If the players assent, or if they request his aid in doing so, Argynvost looks up toward the shadowed beacon of Argynvostholt. “I cannot accompany you on your journey," he says solemnly, “but perhaps I can light the way." Read:
+Pokud hráči souhlasí, nebo ho požádají o pomoc, Argynvost pohlédne vzhůru k zastíněnému majáku Argynvostholtu. „Nemohu vás na vaší cestě doprovázet,“ praví vážně, „ale snad vám mohu posvítit na cestu.“ Přečtěte:
 
 <div class="description">
-<p>Motes of silver light begin to emanate from Argynvost’s ghostly scales. “My knights have earned their rest," he says, “but I have not fulfilled my debt, nor atoned for my failure." His wings flex wider as silver flames wisp across their span. “As that flame burns within you, so too shall my spirit burn atop the beacon of Argynvostholt, bringing light and hope to this dark land."</p>
-<p>His gaze, steady and solemn, returns to yours. “Will you bear the legacy of the Order of the Silver Dragon in my stead?" he asks quietly.</p>
+<p>Z Argynvostových přízračných šupin začnou vycházet jiskřičky stříbrného světla. „Moji rytíři si odpočinek zasloužili,“ praví, „ale já jsem svůj dluh nesplatil ani neodčinil své selhání.“ Jeho křídla se rozepnou ještě víc a po jejich rozpětí přeběhnou pramínky stříbrného plamene. „Jako ten plamen hoří ve vás, tak bude i můj duch hořet na vrcholu majáku Argynvostholtu a přinášet světlo a naději do této temné země.“</p>
+<p>Jeho pohled, pevný a vážný, se vrátí k vašemu. „Ponesete místo mě odkaz Řádu stříbrného draka?“ zeptá se tiše.</p>
 </div>
 
-If one or more players agrees to do so, Argynvost then asks if they will take the oath of the Order of the Silver Dragon. If they do so, he recites the oath in full, pausing after each phrase as appropriate to allow them to repeat after him:
+Pokud jeden či více hráčů souhlasí, Argynvost se jich zeptá, zda složí přísahu Řádu stříbrného draka. Pokud tak učiní, odříká přísahu celou a po každé větě se podle potřeby odmlčí, aby ji po něm mohli opakovat:
 
 <div class="description">
-<p>I solemnly vow to uphold the virtues of the Order of the Silver Dragon, with honor as my shield and truth as my guide.</p>
-<p>In the shadow of evil, I shall be the light; in the face of despair, the beacon of hope. No challenge shall shake my resolve; no defeat shall quell my heart. With sword and spirit, I shall stand against darkness and forge a brighter dawn.</p>
-<p>So do I swear in the name of the Silver Dragon, from this to the end of days.</p>
+<p>Slavnostně přísahám, že budu zachovávat ctnosti Řádu stříbrného draka; čest mi budiž štítem a pravda průvodcem.</p>
+<p>Ve stínu zla budu světlem, tváří v tvář zoufalství majákem naděje. Žádná zkouška neotřese mým odhodláním, žádná porážka nezlomí mé srdce. Mečem i duchem se postavím temnotě a vykuji jasnější úsvit.</p>
+<p>Tak přísahám ve jménu Stříbrného draka, od této chvíle až do konce dnů.</p>
 </div>
 
-When the oath is completed, Argynvost’s wings sag in evident relief. “Thank you," he whispers. “You have done more for me than you know."
+Když je přísaha dokončena, Argynvostova křídla viditelně úlevou poklesnou. „Děkuji vám,“ zašeptá. „Udělali jste pro mě víc, než tušíte.“
 
-Whether the players take the oath or not, Argynvost says, “My spirit shall act as a beacon unto the valley, so that all shall know the final conflict is at hand. Yet that flame shall not last long—you must make haste, lest my soul burn away before your task is complete. Do you understand?" 
+Ať už hráči přísahu složí, nebo ne, Argynvost řekne: „Můj duch bude údolí sloužit jako maják, aby všichni věděli, že se blíží poslední střet. Ten plamen však nebude hořet dlouho – musíte si pospíšit, aby má duše neshořela dřív, než dokončíte svůj úkol. Rozumíte?“
 
-If asked, Argynvost confirms that his soul will be destroyed by lighting the beacon, and that it may last for “a half-cycle of the moon"—i.e., seven days—"or perhaps more, if I have the strength in me," before it is utterly consumed. Argynvost freely shares that he does not fear the annihilation of his soul, and that he will consider the sacrifice well-worth it if it leads to the liberation of the valley.
+Pokud se ho hráči zeptají, Argynvost potvrdí, že zažehnutím majáku bude jeho duše zničena a že může vydržet „půl měsíčního oběhu“ – tedy sedm dní – „nebo snad déle, budu-li mít dost sil“, než bude zcela pohlcena. Argynvost ochotně přizná, že se zničení své duše nebojí a že bude tu oběť považovat za zcela oprávněnou, povede-li k osvobození údolí.
 
-When the players have answered his final question, Argynvost then looks toward the beacon of Argynvostholt once more and says, “It is time." Read:
+Když hráči odpovědí na jeho poslední otázku, Argynvost znovu pohlédne k majáku Argynvostholtu a řekne: „Je čas.“ Přečtěte:
 
 <div class="description">
-<p>As Argynvost’s spirit closes its eyes, a distant sound echoes through the air: a chorus of low, rumbling tones that resonate through the ground, mixed with sharp, clear high notes that pierce the air like chiming crystal. As the harmony grows stronger, however, you realize that they are not simple tones at all, but voices—thousands of them, ancient and resonant and <em>true</em>, reaching across unfathomable distances in wordless song.</p>
-<p>Argynvost’s spirit blurs, his edges growing ill-defined as silver flames wisp across every inch of his form. The flames swell with each passing second, growing from pearlescent embers to a roaring inferno that devours his claws, his tail, his wings—and, finally, his head.</p>
-<p>As the distant chorus grows to a proud and fierce crescendo, the silver blaze that was once Argynvost <em>thrums</em> with power. It hangs in the air, just for a moment—then surges upward, burning through the sky like a comet before alighting in the mansion’s tallest tower.</p>
-<p>The flame <em>bursts</em>, into radiant light, a brilliant explosion of silver that drowns out the light of the sky above. For a brief instant, the landscape for miles around is painted in hues of silvers, greys, and whites, casting away the shadows that flee from the burning light.</p>
+<p>Když Argynvostův duch zavře oči, rozezní se vzduchem vzdálený zvuk: sbor hlubokých, dunivých tónů, které se chvějí zemí, smíšených s ostrými, jasnými vysokými tóny, jež protínají vzduch jako zvonivý křišťál. Jak však harmonie sílí, uvědomíte si, že to vůbec nejsou prosté tóny, ale hlasy – tisíce hlasů, prastarých, zvučných a <em>pravých</em>, které se v beze slov znějící písni natahují přes nepředstavitelné dálky.</p>
+<p>Argynvostův duch se rozmaže a jeho obrysy se rozplývají, jak každý coul jeho podoby olizují pramínky stříbrného plamene. Plameny s každou vteřinou mohutní, z perleťových uhlíků vyrůstají v burácející peklo, které pohltí jeho drápy, jeho ocas, jeho křídla – a nakonec i jeho hlavu.</p>
+<p>Jak vzdálený sbor stoupá k hrdému a divokému vyvrcholení, stříbrný žár, jenž býval Argynvostem, <em>pulzuje</em> mocí. Na okamžik visí ve vzduchu – a pak vyrazí vzhůru, prohoří oblohou jako kometa a usedne na nejvyšší věži sídla.</p>
+<p>Plamen <em>vybuchne</em> v zářivé světlo, v oslnivou explozi stříbra, která přehluší světlo oblohy nad vámi. Na krátký okamžik je krajina na míle daleko zbarvena do odstínů stříbra, šedi a bělosti a zahání stíny, které před planoucím světlem prchají.</p>
 </div>
 
-Continue with the following, modifying the text as necessary to reflect each non-player character’s current status:
+Pokračujte následujícím textem a upravte ho podle potřeby tak, aby odpovídal současnému stavu jednotlivých cizích postav:
 
 <div class="description">
-<p>Time itself seems to hold its breath as countless reflections shimmer in the depths of that radiance, each one illuminated by the silver light above.</p>
-<p>In those reflections, you see the light fall first upon a walled and lonely town—Vallaki—its glimmers dancing across the surface of the once-dark Lake Zarovich nearby. The light finds its way into the taproom of the Blue Water Inn, where Brom and Bray Martikov press their faces against the windowglass as Urwin and Danika gaze into the distance with awe. Shadows of silver and white fall upon Muriel Vinshaw, her eyes rekindling with a brilliant spark as she leans forward from her seat upon the taproom counter, while Nikolai and Karl Wachter gape at the windows from their barstools. At a table not far away, Victor Vallakovich’s hand twitches hesitantly toward Stella Wachter’s—who takes his hand in hers and squeezes it tight.</p>
-<p>The light twists through Vallaki’s narrow alleyways, finding its way to a muddy street before an old, run-down hovel where Milivoj and his siblings, who cling joyfully to his legs and arms, look up into the sky as if seeing it for the first time. Nearby, more of Milivoj’s siblings, playing in the mud with the altar boy Yeska, fall still in wonderment while a watchful Father Lucian clutches the sunburst around his neck with a fierce and reverent joy.</p>
-<p>The light falls upon a hilltop beyond Vallaki’s walls, piercing through the smoke that drifts lazily from the campfires below until it finds a wide-eyed Arrigal, a half-whittled statuette dropping from his hands as Arabelle, curled up against Luvash’s chest, watches the light with quiet satisfaction. She reaches out to Van Richten beside her, lifting his chin with her small, gentle hand, until his eyes behold the light and well with unshed tears.</p>
-<p>The light travels east, until it finds the village of Barovia beyond the mountains, where the shadow of Castle Ravenloft has, if only for a heartbeat, withdrawn in loathing and fear. Ismark, wielding a hammer instead of a sword, looks up from a half-built wall and pounds a proud fist against his chest. Parriwimple, carrying a pile of lumber with Bildrath in the street nearby, points into the sky with rapt fascination, and a small, fragile smile touches the corners of his uncle’s lips. In a candlelit kitchen not far away, Father Donavich and Mary look up from a table with eyes wide and hopeful while, just upstairs, Doru’s arms wrap tenderly around Gertruda’s waist, her slender hand clasping his clawed one against her heart.</p>
-<p>The light travels west, too, illuminating the village of Krezk, and the snow-capped abbey that stands far above. It finds Kala and Ilya Krezkov, who throw themselves, ruddy-cheeked and laughing, into the fresh-fallen snow that dusts the shores of Krezk’s sacred pool, while Dmitri and Anna watch the skies from the old gazebo nearby, two familiar wolves curled quietly in the snow beside them. On the high mountain spur that overlooks the village, amidst a quiet, snowy garden, Otto, Zygfrek, and Clovin Belview watch the light from their perch atop an old stone wall. Behind them, Ithuriel, Vasilka, and a silent golem look up from the flourishing vegetation, the flowers in Vasilka’s hands painted a pearlescent and joyful silver.</p>
-<p>The light travels south, touching rows of wooden posts laden with green-growing vines, each one groaning with the weight of the grapes that peek forth from their leaves. It finds Davian Martikov, whose hand wraps tightly around the locket that hangs from his belt; Claudiu, who looks up into the sky from the shadows of the vineyard and stares; and Elvir, who clutches the hilt of his shortsword as solemn understanding blooms across his face.</p>
-<p>The light finds the dark and twisted rooftops of Castle Ravenloft, where Sasha Ivliskova stands alone, her face twisted with the pain of sudden hope. It finds a lonely cairn amidst the Svalich Woods, where Kavan’s spirit lifts his head in remembrance and sorrow. And it finds, at long last, the sagging doorstep of an old and tired manor, where Lady Fiona Wachter holds a trembling hand to her face as tears spill across her cheeks.</p>
-<p>And then—the instant passes, the reflections vanish, and the day slowly returns. The distant song, too, fades, leaving tones of lingering sorrow, remembrance, and defiance that soon vanish into silence. The beacon of Argynvostholt, however, still shines bright, bathing the woods and valleys below with a lustrous silver radiance.</p>
+<p>Zdá se, že sám čas zadržel dech, zatímco se v hlubinách té záře třpytí bezpočet odrazů, každý ozářený stříbrným světlem shůry.</p>
+<p>V těch odrazech vidíte, jak světlo dopadá nejprve na opevněné, osamělé město – Vallaki – a jeho záblesky tančí po hladině kdysi temného jezera Zarovich nedaleko. Světlo si najde cestu do výčepu hostince U Modré vody, kde si Brom a Bray Martikovovi tisknou tváře k okennímu sklu, zatímco Urwin a Danika s úžasem hledí do dálky. Stříbrné a bílé stíny dopadají na Muriel Vinshaw, v jejíchž očích znovu vzplane jasná jiskra, když se nakloní vpřed ze svého místa na pultu výčepu, zatímco Nikolai a Karl Wachterovi na barových stoličkách s otevřenými ústy zírají do oken. U stolu nedaleko se ruka Victora Vallakoviche váhavě pohne k ruce Stelly Wachter – a ona ji vezme do své a pevně stiskne.</p>
+<p>Světlo se proplétá úzkými uličkami Vallaki a nachází cestu na zablácenou ulici před starou, zchátralou chatrčí, kde Milivoj se svými sourozenci, kteří se mu radostně věší na nohy a paže, hledí vzhůru k nebi, jako by ho viděli poprvé. Opodál další Milivojovi sourozenci, kteří si hrají v blátě s ministrantem Jeskou, úžasem ztichnou, zatímco ostražitý otec Lucian svírá sluneční paprsky na svém krku s divokou a uctivou radostí.</p>
+<p>Světlo dopadá na kopec za hradbami Vallaki, proniká kouřem, který líně stoupá z táborových ohňů pod ním, až najde Arrigala s vytřeštěnýma očima, jemuž z rukou vypadne napůl vyřezaná soška, zatímco Arabelle, schoulená na Luvashově hrudi, sleduje světlo s tichým uspokojením. Natáhne se k Van Richtenovi vedle sebe a svou malou, jemnou rukou mu zvedne bradu, dokud jeho oči nespatří světlo a nezalijí se slzami, které nepadnou.</p>
+<p>Světlo putuje na východ, až najde vesnici Barovii za horami, kde se stín hradu Ravenloft – byť jen na jediný úder srdce – stáhl v odporu a strachu. Ismark, který místo meče třímá kladivo, vzhlédne od napůl postavené zdi a hrdě se udeří pěstí do hrudi. Parriwimple, který na ulici nedaleko nese s Bildrathem hromadu řeziva, ukazuje s uchváceným zaujetím k nebi a koutky úst jeho strýce se dotkne malý, křehký úsměv. V kuchyni ozářené svícemi nedaleko vzhlédnou od stolu otec Donavich a Mary s očima doširoka otevřenýma a plnýma naděje, zatímco o patro výš Doru něžně objímá Gertrudu kolem pasu a její štíhlá ruka si tiskne jeho pařát k srdci.</p>
+<p>Světlo putuje i na západ a ozařuje vesnici Krezk a zasněžené opatství, které se tyčí vysoko nad ní. Najde Kalu a Ilju Krezkovovy, kteří se s rudými tvářemi a smíchem vrhají do čerstvě napadaného sněhu, jenž poprašuje břehy posvátného krezkského jezírka, zatímco Dmitri a Anna sledují oblohu ze starého altánu nedaleko a vedle nich se ve sněhu tiše choulí dva známí vlci. Na vysokém horském ostrohu nad vesnicí, uprostřed tiché, zasněžené zahrady, sledují Otto, Zygfrek a Clovin Belviewovi světlo ze svého místa na staré kamenné zdi. Za nimi vzhlížejí od bujně rostoucí zeleně Ithuriel, Vasilka a mlčenlivý golem; květiny ve Vasilčiných rukou jsou zbarveny perleťově a radostně stříbrně.</p>
+<p>Světlo putuje na jih a dotýká se řad dřevěných kůlů obtěžkaných zelenou vinnou révou, z nichž každý sténá pod tíhou hroznů, které vykukují z listí. Najde Daviana Martikova, jehož ruka pevně svírá medailonek visící mu u opasku; Claudia, který ze stínů vinice vzhlíží k nebi a zírá; a Elvira, který svírá jílec svého krátkého meče, zatímco se mu ve tváři rozhostí vážné porozumění.</p>
+<p>Světlo najde temné a zkroucené střechy hradu Ravenloft, kde stojí osamělá Sasha Ivliskova a její tvář se svíjí bolestí náhlé naděje. Najde osamělou mohylu ve Svalichském lese, kde Kavanův duch zvedá hlavu ve vzpomínce a žalu. A najde konečně i propadlý práh starého, unaveného sídla, kde si lady Fiona Wachter tiskne chvějící se ruku k tváři a po lících jí stékají slzy.</p>
+<p>A pak – okamžik pomine, odrazy zmizí a den se pomalu vrátí. I vzdálená píseň utichne a zanechá po sobě tóny doznívajícího žalu, vzpomínky a vzdoru, které se brzy ztratí v tichu. Maják Argynvostholtu však dál jasně září a zalévá lesy i údolí pod sebou lesklou stříbrnou září.</p>
 <p>
 </div>
 
-All creatures that oppose Strahd, including the players, then gain the effects of the ***Beacon of Protection*** described in <span class="citation">Lighting the Beacon (p. 142)</span>.
+Všichni tvorové, kteří se staví proti Strahdovi, včetně hráčů, pak získají účinky ***Majáku ochrany*** (***Beacon of Protection***), popsaného v <span class="citation">Lighting the Beacon (p. 142)</span>.
 
-***Milestone.*** Returning Argynvost’s skull to his crypt completes a story milestone. When the players light Argynvost’s beacon, award each player 3,000 XP. (This should bring the players to 8th level.)
-# Q7. Return to the Werewolf Den
+***Milník.*** Navrácení Argynvostovy lebky do jeho krypty je milníkem příběhu. Když hráči zažehnou Argynvostův maják, udělte každému hráči 3 000 XP. (Tím by hráči měli dosáhnout 8. úrovně.)
+# Q7. Návrat do vlčího doupěte
 
-> [!abstract]+ **Fighting Kiril**
-> Players who aren’t hunted by Kiril in [[#Q5. Pack Attack]] can encounter him again in one of two ways:
+> [!abstract]+ **Boj s Kirilem**
+> Hráči, které Kiril nepronásledoval v [[#Q5. Útok smečky|Q5. Útok smečky]], se s ním mohou znovu setkat jedním ze dvou způsobů:
 >
-> * If they arrive at the werewolf den during daylight hours, Kiril is asleep in <span class="citation">Z6. Kiril’s Cave (p. 204)</span> in his dire wolf form.
-> * If they arrive at the werewolf den during nighttime hours, Kiril and the pack are out hunting, but eventually return as described in <span class="citation">Leader of the Pack (p. 205)</span>.
+> * Pokud dorazí k vlčímu doupěti za denního světla, Kiril spí v <span class="citation">Z6. Kiril’s Cave (p. 204)</span> v podobě obřího vlka.
+> * Pokud dorazí k vlčímu doupěti v noci, Kiril se smečkou jsou na lovu, ale nakonec se vrátí, jak je popsáno v <span class="citation">Leader of the Pack (p. 205)</span>.
 >
-> If a fight occurs in the den, Kiril prefers to lead it outside. The scene otherwise unfolds largely as described in [[#Q5. Pack Attack]].
+> Pokud dojde k boji v doupěti, Kiril ho raději přenese ven. Jinak scéna probíhá do značné míry tak, jak je popsáno v [[#Q5. Útok smečky|Q5. Útok smečky]].
 
-Once Kiril is defeated, the players can easily free Ilya and Zuleika from their *silverthorn collars* using the keys from the chain around Kiril’s neck.
+Jakmile je Kiril poražen, mohou hráči snadno sejmout Iljovi a Zuleice *obojky se stříbrnými trny* pomocí klíčů z řetízku na Kirilově krku.
 
-If the players rescued Emil from Castle Ravenloft, Emil and Zuleika are glad to allow them to take any treasure from Mother Night's shrine without incurring the goddess's curse. ("Most of what you see was seized by Kiril," Emil says sadly, "stolen from its rightful owners beyond the mists in his many bloody raids. We have no more right to it than you do.") In addition to the treasure described in <span class="citation">Z7. Shrine of Mother Night (p. 204)</span>, the hoard also contains one diamond worth 300 gp.
+Pokud hráči zachránili Emila z hradu Ravenloft, Emil a Zuleika jim rádi dovolí vzít si jakýkoli poklad ze svatyně Matky Noci, aniž by na sebe přivolali bohyninu kletbu. („Většinu toho, co vidíte, zabavil Kiril,“ řekne Emil smutně, „ukradl to právoplatným majitelům za mlhami při svých mnoha krvavých nájezdech. Nemáme na to o nic větší právo než vy.“) Kromě pokladu popsaného v <span class="citation">Z7. Shrine of Mother Night (p. 204)</span> obsahuje poklad také jeden diamant v hodnotě 300 gp.

@@ -1,563 +1,563 @@
-_An adventure for five 5th- or 6th-level characters._
+_Dobrodružství pro pět postav 5. nebo 6. úrovně._
 
-In this arc, upon gaining entry to Krezk, the players must ascend to the Abbey of Saint Markovia, where they are destined to meet their foretold ally against Strahd.
+V tomto oblouku, jakmile hráči získají přístup do Krezku, musí vystoupat k Opatství svaté Markovie, kde je jim souzeno setkat se se svým předpověděným spojencem proti Strahdovi.
 
-Upon their arrival, the Abbot can provide the players with a brief tour and history of the Abbey, as well as inform them that the Vistana monster-hunter Ezmerelda d’Avenir has been a guest of the Abbey in recent days. 
+Po jejich příchodu je může Opat krátce provést opatstvím, seznámit je s jeho dějinami a oznámit jim, že lovkyně nestvůr z rodu Vistani Ezmerelda d’Avenir je v posledních dnech hostem opatství.
 
-If the players have arrived before the second night after the full moon, the Abbot informs the players that Ezmerelda is away and will return soon. If the players have arrived on or after the second night after the full moon, the Abbot leads them to Ezmerelda, who is glad to join their efforts—on the condition that they help her save Krezk from the Abbot’s madness.
+Pokud hráči dorazili před druhou nocí po úplňku, Opat jim oznámí, že Ezmerelda je pryč a brzy se vrátí. Pokud dorazili druhou noc po úplňku nebo později, Opat je dovede k Ezmereldě, která se k jejich úsilí ráda připojí – pod podmínkou, že jí pomohou zachránit Krezk před Opatovým šílenstvím.
 
-> [!warning]+ **Pending Changes**
-> The arc below is fully compatible with existing versions of prior arcs. However, [[Arc C - Into the Valley]], [[Arc E - The Missing Vistana]], [[Arc K - The Fallen Abbey]], [[Arc L - The Den of Wolves]], and Chapter [[Arc T - The Three Fanes#T4. The Monster Hunter|The Monster Hunter in [[Arc T - The Three Fanes]] are expected to undergo significant revision **after** the core guide is complete, with the following changes:
+> [!warning]+ **Plánované změny**
+> Níže uvedený oblouk je plně slučitelný se stávajícími verzemi předchozích oblouků. Oblouky [[Arc C - Into the Valley|Oblouk C – Do údolí]], [[Arc E - The Missing Vistana|Oblouk E – Pohřešovaná Vistanka]], [[Arc K - The Fallen Abbey|Oblouk K – Padlé opatství]], [[Arc L - The Den of Wolves|Oblouk L – Vlčí doupě]] a kapitola [[Arc T - The Three Fanes#T4. The Monster Hunter|Lovec nestvůr v [[Arc T - The Three Fanes]] však mají po dokončení hlavního průvodce projít **výraznou** revizí s následujícími změnami:
 >
-> * Arturi Radanavich will be removed from the campaign.
-> * Ezmerelda d’Avenir was born Ezmerelda Radanavich, changing her name after the Radanavich clan was slaughtered.
-> * Ezmerelda was not present when Van Richten killed the Radanaviches, and was therefore the sole survivor of the massacre. (Ezmerelda was subsequently found by the Vistani of <span class="citation">N9. Vistani Camp (p. 119)</span>, and was raised as a “younger sister" of Luvash and Arrigal until she left Barovia at age fifteen.)
-> * Ezmerelda believes that Strahd von Zarovich, or his servants, were responsible for the deaths of her extended family, and, when she departed Barovia, sought Van Richten’s mentorship to avenge them.
-> * Two years into her training, upon learning of Ezmerelda’s goals, Van Richten consulted with the seer Inarin Alstar, and learned of the curse that lay upon him. 
-> * Driven by fear for Ezmerelda’s safety, and guilt for his role in her family’s deaths, Van Richten scorned her goals and informed her that she would never be worth anything as a monster hunter.
-> * Van Richten’s ploy worked, and the two parted ways shortly thereafter. Van Richten then immediately began preparing to return to Barovia, intending to slay Strahd von Zarovich before Ezmerelda could do so—and die in penance if necessary.
-# K1. The Village of Krezk
-The players’ first journey to Krezk is as described in [[Arc I - The Walls of Krezk]]. However, if the players have already completed [[Arc J - The Stolen Gem]] and the Martikovs have delivered a shipment of wine to the village, Baron Krezkov has already heard of the players’ exploits and gladly allows them entry. (The Krezkov and Martikov families have long been close, ever since an heir of the Martikov clan married a member of the Krezkov family and inherited ownership of the Wizard of Wines winery. If the players have aided the Martikovs, Baron Krezkov feels he owes them a debt of personal gratitude.)
+> * Arturi Radanavich bude z kampaně odstraněn.
+> * Ezmerelda d’Avenir se narodila jako Ezmerelda Radanavich a změnila si jméno poté, co byl klan Radanavichů vyvražděn.
+> * Ezmerelda nebyla přítomna, když Van Richten Radanaviche zabil, a byla proto jedinou přeživší masakru. (Ezmereldu později našli Vistani z <span class="citation">N9. Vistani Camp (p. 119)</span> a vychovali ji jako „mladší sestru“ Luvashe a Arrigala, dokud v patnácti letech Barovii neopustila.)
+> * Ezmerelda věří, že za smrt jejích příbuzných může Strahd von Zarovich nebo jeho služebníci, a když Barovii opustila, vyhledala Van Richtena jako svého učitele, aby je pomstila.
+> * Po dvou letech výcviku, když se Van Richten dozvěděl o Ezmereldiných cílech, poradil se s věštcem Inarinem Alstarem a dozvěděl se o kletbě, která na něm spočívá.
+> * Hnán strachem o Ezmereldino bezpečí a vinou za svůj podíl na smrti její rodiny, Van Richten jejími cíli pohrdl a řekl jí, že jako lovkyně nestvůr nikdy nebude za nic stát.
+> * Van Richtenova lest vyšla a oba se krátce nato rozešli. Van Richten se pak okamžitě začal připravovat na návrat do Barovie s úmyslem zabít Strahda von Zaroviche dřív, než to stihne Ezmerelda – a v případě nutnosti zemřít na pokání.
+# K1. Vesnice Krezk
+První cesta hráčů do Krezku probíhá tak, jak je popsáno v [[Arc I - The Walls of Krezk|Oblouk I – Hradby Krezku]]. Pokud však hráči již dokončili [[Arc J - The Stolen Gem|Oblouk J – Ukradený drahokam]] a Martikovovi do vesnice dovezli zásilku vína, baron Krezkov už slyšel o skutcích hráčů a rád je vpustí dovnitř. (Rody Krezkovů a Martikovů mají odedávna blízko k sobě – od doby, kdy se dědic rodu Martikovů oženil s příslušnicí rodu Krezkovů a zdědil vinařství Čaroděj vín. Pokud hráči Martikovovým pomohli, cítí baron Krezkov, že jim dluží osobní vděk.)
 
-> [!profile]+ **Profile: Baron Dmitri Krezkov**
-> **Roleplaying Information.**
-> ***Resonance.*** Dmitri should inspire comfort with his quiet confidence and leadership, sympathy for his anxiety and grief following his son's disappearance, and mild annoyance for his stubbornness and habitual suspicion of outsiders.
+> [!profile]+ **Profil: baron Dmitri Krezkov**
+> **Pro hraní role.**
+> ***Vyznění.*** Dmitri by měl budit pocit bezpečí svou tichou sebejistotou a vůdcovstvím, soucit s jeho úzkostí a žalem po synově zmizení a mírnou rozmrzelost svou paličatostí a zvykem podezírat cizince.
 > 
-> ***Emotions.*** Dmitri most often feels concerned, melancholy, somber, determined, wary, stubborn, or gracious.
+> ***Emoce.*** Dmitri nejčastěji cítí znepokojení, melancholii, zachmuřenost, odhodlání, ostražitost, paličatost nebo vlídnost.
 > 
-> ***Motivations.*** Dmitri wants to protect his village and keep his family together.
+> ***Motivace.*** Dmitri chce ochránit svou vesnici a udržet svou rodinu pohromadě.
 > 
-> ***Inspirations.*** When playing Dmitri, channel Eddard Stark (*Game of Thrones*), King Théoden (*Lord of the Rings*) and Stoick the Vast (*How to Train Your Dragon*).
+> ***Inspirace.*** Při hraní Dmitriho čerpejte z postav Eddard Stark (*Game of Thrones*), král Théoden (*Lord of the Rings*) a Stoick the Vast (*How to Train Your Dragon*).
 > 
-> **Character Information**
-> ***Persona.*** To the world, Dmitri is a grim, but warm leader. To those he trusts, Dmitri is a warm and loving father, husband, and friend. Only Dmitri knows the extent of his grief, anxiety, and guilt regarding his family's curse and the fate of his children and wife.
+> **O postavě**
+> ***Tvář.*** Před světem je Dmitri zachmuřený, ale vřelý vůdce. Pro ty, jimž důvěřuje, je vřelým a milujícím otcem, manželem a přítelem. Jen Dmitri sám zná hloubku svého žalu, úzkosti a viny kvůli prokletí své rodiny a osudu svých dětí a manželky.
 > 
-> ***Morale.*** In a fight, Dmitri would act only to protect himself or his loved ones, beginning by warning his opponent to stand down, then fighting fiercely until his opponent yielded or was defeated.
+> ***Morálka.*** V boji by Dmitri jednal jen na obranu sebe či svých blízkých – nejprve by protivníka varoval, ať ustoupí, a pak by zuřivě bojoval, dokud by se protivník nevzdal nebo nebyl poražen.
 > 
-> ***Relationships.*** Dmitri, a secret **werewolf**, is the husband of Baroness Anna Krezkova, the brother of the **werewolf** cleric of Mother Night Zuleika Toranescu, the father of Kala and Ilya Krezkov, and the burgomaster of the village of Krezk.
+> ***Vztahy.*** Dmitri, tajný vlkodlak (**werewolf**), je manželem baronky Anny Krezkové, bratrem vlkodlačí (**werewolf**) kněžky Matky Noci Zuleiky Toranescu, otcem Kaly a Ilji Krezkových a purkmistrem vesnice Krezk.
 
-The village of Krezk is as described in <span class="citation">S3. Village of Krezk (p. 145)</span>. Once the players are within the village walls, Baron Krezkov is glad to share any or all of the information provided in <span class="citation">Krezk Lore (p. 146)</span>, but with the following changes:
+Vesnice Krezk odpovídá popisu v <span class="citation">S3. Village of Krezk (p. 145)</span>. Jakmile jsou hráči uvnitř vesnických hradeb, baron Krezkov jim rád sdělí kteroukoli či všechny informace uvedené v <span class="citation">Krezk Lore (p. 146)</span>, ale s následujícími změnami:
 
-* Dmitri's sole two children are the thirteen-year-old Ilya and the eight-year-old Kala. Ilya recently went missing after a werewolf attack.
-* The Abbot doesn't demand tribute in the form of wine. Additionally, while many believe the Abbot is Strahd or one of Strahd's servants, Dmitri's late grandfather once spoke of a time when the Abbot was kind and compassionate, and cared for the sick and suffering of Barovia. (Dmitri isn't sure whether he believes this or not.)
+* Dmitriho jedinými dvěma dětmi jsou třináctiletý Ilja a osmiletá Kala. Ilja nedávno zmizel po útoku vlkodlaka.
+* Opat nevyžaduje poplatek v podobě vína. Navíc ačkoli mnozí věří, že Opat je Strahd nebo některý z jeho služebníků, Dmitriho zesnulý děd kdysi vyprávěl o době, kdy byl Opat laskavý a soucitný a staral se o nemocné a trpící Barovany. (Dmitri si není jistý, zda tomu věří.)
 
-If the players mention their interest in the Abbey of Saint Markovia, Baron Krezkov’s expression becomes stony and cold. He warns the players that the Abbot is a cruel and capricious creature, and further shares the Abbey’s sordid history and the strange rumors surrounding the Abbot.
+Pokud hráči zmíní svůj zájem o Opatství svaté Markovie, výraz barona Krezkova zkamení a zchladne. Varuje hráče, že Opat je krutý a vrtošivý tvor, a prozradí jim i pochmurné dějiny opatství a podivné pověsti, které Opata obklopují.
 
-If the players have completed [[Arc J - The Stolen Gem]] and are looking to stay overnight in Krezk, the Baron feels indebted to the players given his family's long friendship with the Martikovs, and invites the players to stay as guests in his family’s home.
+Pokud hráči dokončili [[Arc J - The Stolen Gem|Oblouk J – Ukradený drahokam]] a hledají v Krezku nocleh, cítí se baron vzhledem k dlouhému přátelství své rodiny s Martikovovými hráčům zavázán a pozve je, aby přespali jako hosté v jeho rodinném domě.
 
-> [!lore]+ **The Baron's Grief**
-> The Krezkov family has a secret: ever since a werewolf bit the Krezkov heir eighty years ago, some of the family’s direct descendants have been natural—born lycanthropes. Because these descendants are not the product of a union between two werewolves, they are born without the benefits of their curse, which emerges only on the night of the first full moon after their thirteenth birthday.
+> [!lore]+ **Baronův žal**
+> Rod Krezkovů má tajemství: od chvíle, kdy před osmdesáti lety vlkodlak pokousal krezkovského dědice, jsou někteří přímí potomci rodu rozenými lykantropy. Protože tito potomci nevzešli ze svazku dvou vlkodlaků, rodí se bez výhod svého prokletí, které se projeví teprve v noci prvního úplňku po jejich třináctých narozeninách.
 > 
-> Today, Baron Dmitri Krezkov is a **werewolf**, as is his thirteen-year-old son, Ilya Krezkov. Baroness Anna Krezkova, who married into the family, does not share the curse. Their eight-year-old daughter, Kala Krezkova, is too young to know whether she also shares the curse. (Baron Krezkov also has an elder sister, Zuleika Toranescu née Krezkova, a **werewolf** who abdicated her position as heir to join her lover, the **werewolf** Emil Toranescu, as a member of the Lake Baratok werewolf pack fourteen years ago.)
+> Dnes je baron Dmitri Krezkov vlkodlakem (**werewolf**), stejně jako jeho třináctiletý syn Ilja Krezkov. Baronka Anna Krezková, která se do rodu přivdala, prokletí nesdílí. Jejich osmiletá dcera Kala Krezková je příliš mladá na to, aby se dalo říct, zda prokletí sdílí také. (Baron Krezkov má také starší sestru Zuleiku Toranescu, rozenou Krezkovou – vlkodlačici (**werewolf**), která se před čtrnácti lety vzdala postavení dědičky, aby se jako členka vlkodlačí smečky od jezera Baratok přidala ke svému milému, vlkodlakovi (**werewolf**) Emilu Toranescovi.)
 > 
-> Every two weeks, on the night of the full moon, Baroness Krezkova harvests a wolfsbane flower from the shores of Krezk’s blessed pool and brews a *potion of wolfsbane*, which she gives to Baron Krezkov to suppress the curse’s aggression. She then locks the Baron in silver shackles in the hidden basement beneath their cottage, where he transforms into a docile wolf at moonrise. Until recently, both Ilya and Kala were ignorant as to their family’s true nature, which their parents have kept a careful secret from both the village and their children.
+> Každé dva týdny, v noci úplňku, natrhá baronka Krezková na břehu krezkského požehnaného jezírka květ vlčího moru a uvaří z něj *lektvar vlčího moru* (*potion of wolfsbane*), který podá baronu Krezkovovi, aby potlačil agresi prokletí. Pak barona spoutá stříbrnými okovy v tajném sklepě pod jejich chalupou, kde se při východu měsíce promění v krotkého vlka. Až donedávna Ilja ani Kala o skutečné povaze své rodiny nic nevěděli – rodiče ji pečlivě tajili před vesnicí i před vlastními dětmi.
 > 
-> One month ago, while constructing the **flesh golem** Vasilka, the Abbot of the Abbey of Saint Markovia determined that his creation required a living human heart, given willingly to strengthen its potency in “matters of the heart." After reviewing the family cemeteries within the village, the Abbot learned that Baroness Krezkova was, in fact, a direct descendant of the Federovna line and a distant relative of Tatyana Federovna. He decided that, as a blood descendant of Strahd's first love, she would therefore be a perfect candidate for Vasilka’s completion. (The Abbot has no knowledge regarding Tatyana, other than he was told by the Vistani that she was his "one true desire".)
+> Před měsícem, když Opat z Opatství svaté Markovie sestavoval masového golema (**flesh golem**) Vasilku, usoudil, že jeho výtvor potřebuje živé lidské srdce, darované dobrovolně, aby posílilo jeho sílu ve „věcech srdce“. Po prozkoumání rodinných hřbitovů ve vesnici zjistil, že baronka Krezková je ve skutečnosti přímou pokračovatelkou rodu Federovnů a vzdálenou příbuznou Taťány Federovny. Usoudil, že jako pokrevní potomkyně Strahdovy první lásky by byla dokonalou kandidátkou k dokončení Vasilky. (Opat o Taťáně nic neví, kromě toho, že mu Vistani řekli, že byla Strahdovou „jedinou pravou touhou“.)
 > 
-> The Abbot, however, knew that the Baroness would never give him her heart willingly—and so, he developed a dark and cunning plot.
+> Opat však věděl, že by mu baronka své srdce nikdy dobrovolně nedala – a tak vymyslel temný a lstivý plán.
 > 
-> As a celestial, the Abbot could sense the scent of lycanthropy upon Baron Krezkov and his son, Ilya. Through the use of his ***change shape*** ability, the Abbot appeared to Ilya in the form of Ilya’s long-absent aunt, Zuleika. 
+> Jako nebeská bytost (celestial) dokázal Opat na baronu Krezkovovi a jeho synu Iljovi vycítit pach lykantropie. Pomocí své schopnosti ***change shape*** se Opat zjevil Iljovi v podobě jeho dlouho nepřítomné tety Zuleiky.
 > 
-> "Zuleika" revealed to Ilya that he and his father's line were werewolves—misunderstood creatures once feared and respected as enemies of Strahd.  She claimed, however, that Strahd had corrupted their bloodline by convincing his ancestors to poison themselves with wolfsbane and silver, removing some of his most powerful foes.
+> „Zuleika“ Iljovi prozradila, že on i rod jeho otce jsou vlkodlaci – nepochopená stvoření, kterých se kdysi báli a jichž si vážili jako nepřátel Strahda. Tvrdila však, že Strahd jejich krevní linii zkazil tím, že přiměl jeho předky, aby se trávili vlčím morem a stříbrem, a tak se zbavil některých ze svých nejmocnějších nepřátel.
 > 
-> "Zuleika" told Ilya that she had abandoned Krezk because she refused to accept the family's poison, fearing that Strahd might one day rise again. She told Ilya that he shared the blood of great warriors, and that, by embracing his curse, he could protect his family and neighbors in the calamity of Strahd's reawakening.
+> „Zuleika“ Iljovi řekla, že Krezk opustila, protože odmítla přijmout rodinný jed, neboť se bála, že Strahd jednoho dne znovu povstane. Řekla Iljovi, že v jeho žilách koluje krev velkých válečníků a že pokud své prokletí přijme, dokáže při pohromě Strahdova procitnutí ochránit svou rodinu i sousedy.
 > 
-> To do so, "Zuleika" told him, he must pretend to drink the potion his mother provided him on the night of the full moon, and secretly discard its contents to fool her. She warned him to tell no one of their conversation—and especially not his parents.
+> Aby toho dosáhl, řekla mu „Zuleika“, musí v noci úplňku předstírat, že vypil lektvar, který mu matka podala, a jeho obsah tajně vylít, aby ji oklamal. Varovala ho, aby o jejich rozhovoru nikomu neříkal – a zvláště ne svým rodičům.
 > 
-> Ilya, unwilling to believe that he or his parents were werewolves, rejected “Zuleika’s" story with anger and disbelief. But when, several days later, his parents informed him of his lycanthropic heritage, his world was shattered—and the Abbot's words filled the void to take its place.
+> Ilja, neochotný uvěřit, že on či jeho rodiče jsou vlkodlaci, „Zuleiččin“ příběh s hněvem a nevírou odmítl. Když mu však o několik dní později rodiče prozradili jeho lykantropické dědictví, jeho svět se roztříštil – a vzniklou prázdnotu zaplnila Opatova slova.
 > 
-> On the night of the full moon, Ilya fooled his mother into believing he had drunk the *potion of wolfsbane*, but secretly poured it out in the earth of the family garden. That night, he transformed into a fearsome and aggressive werewolf, destroying his restraints and embarking on a rampage across the village—killing his younger sister, Kala, in the process. By midnight, Ilya had vanished from the village, fleeing the villagers' weapons and clambering across the walls to escape into the Svalich Wood.
+> V noci úplňku Ilja oklamal matku, aby uvěřila, že *lektvar vlčího moru* vypil, ale tajně ho vylil do země rodinné zahrádky. Té noci se proměnil v děsivého a agresivního vlkodlaka, zničil svá pouta a rozpoutal běsnění po celé vesnici – a přitom zabil svou mladší sestru Kalu. Do půlnoci Ilja z vesnice zmizel; prchal před zbraněmi vesničanů, přelezl hradby a utekl do Svalichského lesa.
 > 
-> The following morning, the Abbot's messengers—Otto and Zygfrek Belview—approached the grieving Krezkovs and invited them to an audience at the Abbey. There, the Abbot promised to restore Kala's life—on the condition that the Baroness offer her own heart to the Abbot in trade. Baron Krezkov, horrified, watched helplessly as his wife gladly accepted the Abbot's offer.
+> Následujícího rána přišli Opatovi poslové – Otto a Zygfrek Belviewovi – za truchlícími Krezkovovými a pozvali je na audienci do opatství. Tam Opat slíbil, že Kalu vrátí k životu – pod podmínkou, že mu baronka na oplátku nabídne své vlastní srdce. Baron Krezkov s hrůzou bezmocně přihlížel, jak jeho žena Opatovu nabídku ochotně přijala.
 > 
-> The Abbot resurrected Kala immediately as a sign of good faith. Then, in an attempted act of mercy, he allowed the Baroness one month to bid her goodbyes before returning to the Abbey to surrender her heart. Should she fail to return, he warned her, he would come himself to collect—and her entire village would pay the price.
-## K1a. The Krezkovs’ Cottage
-As the players approach the Krezkovs’ cottage, read:
-
-<div class="description">
-<p>The cottage before you is the largest structure you’ve seen within the village, but still modest in its design. Its outer walls are constructed of sturdy pine logs, weathered by time but well-maintained. A thick thatch roof slopes gently above, crowned by a stone chimney from which a thin wisp of smoke rises into the air. The windows are small but adorned with simple lace curtains, offering a glimpse of a warmer interior. </p>
-<p>Nearby, a fenced-in area reveals a small garden, the earth freshly turned and bearing a variety of herbs and vegetables. To one side of the cottage, a narrow path leads to a small family graveyard, its tombstones casting long shadows in the grey light.</p>
-</div>
-
-The front door to the cottage leads to the entryway.
-### Entryway
-When the players enter the cottage’s front door, read:
+> Opat na znamení dobré vůle Kalu okamžitě vzkřísil. Pak – v pokusu o milosrdenství – dopřál baronce měsíc, aby se se všemi rozloučila, než se vrátí do opatství a odevzdá své srdce. Pokud se nevrátí, varoval ji, přijde si pro něj sám – a celá její vesnice za to zaplatí.
+## K1a. Chalupa Krezkovových
+Když se hráči blíží k chalupě Krezkovových, přečtěte:
 
 <div class="description">
-<p>The heavy wooden door creaks open to reveal an entryway with a worn rug underfoot. The scent of pine wood mingles with the earthy aroma of burning logs from a nearby fireplace, and a simple wooden table sits beside the door, holding a bowl filled with small trinkets.</p>
-<p>A mounted hand-carved board holds two hanging coats—one sized for an adult and one for a young child—with two pairs of boots hanging beneath the coats. Two additional empty pegs jut out from the board beside them.</p>
+<p>Chalupa před vámi je největší stavbou, jakou jste ve vesnici viděli, ale stále je skromná. Její vnější stěny jsou postaveny z pevných borových klád, ošlehaných časem, ale dobře udržovaných. Nad ní se mírně svažuje silná doškovou střecha, korunovaná kamenným komínem, z něhož do vzduchu stoupá tenký pramínek kouře. Okna jsou malá, ale zdobí je prosté krajkové záclony, za nimiž lze zahlédnout teplejší nitro.</p>
+<p>Opodál prozrazuje oplocený prostor malou zahrádku s čerstvě zrytou zemí, v níž rostou nejrůznější bylinky a zelenina. Na jedné straně chalupy vede úzká cestička k malému rodinnému hřbitovu, jehož náhrobky vrhají v šedém světle dlouhé stíny.</p>
 </div>
 
-Upon entering, Baron Krezkov—who insists that the players call him Dmitri while guests in his home—hangs his coat on one of the pegs on the wall and removes his boots. He then calls out to his wife, Baroness Anna Krezkova, who exits from the kitchen to warmly greet the players.
+Přední dveře chalupy vedou do předsíně.
+### Předsíň
+Když hráči vstoupí předními dveřmi do chalupy, přečtěte:
+
+<div class="description">
+<p>Těžké dřevěné dveře se se skřípotem otevřou do předsíně s ošlapaným kobercem. Vůně borového dřeva se mísí se zemitou vůní hořících polen z nedalekého krbu a vedle dveří stojí prostý dřevěný stolek s miskou plnou drobných tretek.</p>
+<p>Na stěně je připevněné ručně vyřezávané prkno, na němž visí dva kabáty – jeden pro dospělého a jeden pro malé dítě – a pod kabáty dva páry bot. Vedle nich z prkna trčí dva další, prázdné kolíky.</p>
+</div>
+
+Po vstupu baron Krezkov – který trvá na tom, aby mu hráči, dokud jsou hosty v jeho domě, říkali Dmitri – pověsí kabát na jeden z kolíků na zdi a zuje si boty. Pak zavolá na svou ženu, baronku Annu Krezkovou, která vyjde z kuchyně a vřele hráče pozdraví.
 
 ![[Anna_and_Dmitri_Krezkov_transparent.png]]
-<span class="credit">"Anna and Dmitri Krezkov" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">„Anna a Dmitri Krezkovovi“ – autor: Caleb Cleveland. Podpořte ho na <a href="https://patreon.com/calebisdrawing/">Patreonu!</a></span>
 
-> [!profile]+ **Profile: Baroness Anna Krezkova**
-> **Roleplaying Information**
-> ***Resonance.*** Anna should inspire gratitude and comfort with her kindness and hospitality, mild irritation with her no-nonsense attitude, and (when the players learn of it) sympathy and endearment for her promise to the Abbot.
+> [!profile]+ **Profil: baronka Anna Krezková**
+> **Pro hraní role**
+> ***Vyznění.*** Anna by měla budit vděčnost a pocit bezpečí svou laskavostí a pohostinností, mírné podráždění svým praktickým, nesmlouvavým přístupem a (až se o něm hráči dozvědí) soucit a náklonnost kvůli svému slibu Opatovi.
 > 
-> ***Emotions.*** Anna most often feels compassionate, worried, determined, skeptical, thoughtful, sorrowful, or melancholy.
+> ***Emoce.*** Anna nejčastěji cítí soucit, starost, odhodlání, skepsi, zamyšlení, žal nebo melancholii.
 > 
-> ***Motivations.*** Anna wants to help Dmitri lead and support the people of Krezk, keep her children safe and happy, and see Ilya safely returned to Krezk.
+> ***Motivace.*** Anna chce pomáhat Dmitrimu vést a podporovat obyvatele Krezku, chránit své děti a dopřát jim štěstí a dočkat se Iljova bezpečného návratu do Krezku.
 > 
-> ***Inspirations.*** When playing Anna, channel Catelyn Stark (_Game of Thrones_), Molly Weasley (_Harry Potter_), and Joyce Byers (_Stranger Things_).
+> ***Inspirace.*** Při hraní Anny čerpejte z postav Catelyn Stark (_Game of Thrones_), Molly Weasley (_Harry Potter_) a Joyce Byers (_Stranger Things_).
 > 
-> **Character Information**
-> ***Persona.*** To the world, Anna is a compassionate and strong-willed leader dedicated to the safety of Krezk. To those she trusts, she is a caring woman who has resigned herself to the Abbot's bargain—and who grieves the thought of her children growing up without a mother.
+> **O postavě**
+> ***Tvář.*** Před světem je Anna soucitná vůdkyně se silnou vůlí, oddaná bezpečí Krezku. Pro ty, jimž důvěřuje, je starostlivou ženou, která se smířila s Opatovou úmluvou – a truchlí při pomyšlení, že její děti vyrostou bez matky.
 > 
-> ***Morale.*** In a fight, Anna would take up her battleaxe and command any opponents to lay down their weapons, but wouldn't hesitate to fight to defend herself, her family, or her neighbors.
+> ***Morálka.*** V boji by Anna vzala do ruky svou bitevní sekeru a přikázala protivníkům, ať složí zbraně, ale neváhala by bojovat na obranu sebe, své rodiny či sousedů.
 > 
-> ***Relationships.*** Anna is the wife of Baron Dmitri Krezkov, the mother of Ilya and Kala Krezkov, and the sister-in-law of the **werewolf** Zuleika Toranescu. In exchange for Kala's resurrection, Anna has also promised to allow the Abbot to remove the heart from her chest.
+> ***Vztahy.*** Anna je manželkou barona Dmitriho Krezkova, matkou Ilji a Kaly Krezkových a švagrovou vlkodlačice (**werewolf**) Zuleiky Toranescu. Výměnou za Kalino vzkříšení Anna také slíbila, že Opatovi dovolí vyjmout jí srdce z hrudi.
 
-If the players intend on staying the night, Anna asks the players to assist her in completing a series of chores before dinner: feeding the chickens, mucking out the pig pen, weeding the vegetable garden, and (most importantly) obtaining a bucket of milk from the cow of Kretyana Dolvof—a widow whose cottage lies just southwest of the village’s freshwater pool. Anna also welcomes the players’ help in the kitchen as she prepares an evening meal.
+Pokud hráči hodlají přespat, požádá je Anna, aby jí před večeří pomohli s několika domácími pracemi: nakrmit slepice, vykydat chlívek, vyplet zeleninovou zahrádku a (což je nejdůležitější) obstarat vědro mléka od krávy Kretjany Dolvofové – vdovy, jejíž chalupa leží jihozápadně od vesnického jezírka s pitnou vodou. Anna také uvítá pomoc hráčů v kuchyni, zatímco bude připravovat večeři.
 
-Though the Krezkovs’ cottage doesn’t have much space, the players are welcome to set down their packs and bedrolls in the animal pens and the structure’s only empty bedroom (see [[#Ilya’s Bedroom]] below).
-### Animal Pens
-Behind a partition in the rear of the cottage are the animal pens. When the players enter this area, read:
+Přestože chalupa Krezkovových nemá mnoho místa, hráči si mohou složit batohy a spací rohože ve chlévech a v jediné prázdné ložnici stavení (viz [[#Iljův pokoj|Iljův pokoj]] níže).
+### Chlévy
+Za přepážkou v zadní části chalupy jsou chlévy. Když hráči vstoupí do této oblasti, přečtěte:
 
 <div class="description">
-<p>The grunting of pigs and clucking of chickens fill this area. Straw covers the floor, and wooden fences separate a pair of pens, which lie next to a trio of large chicken coops. A few lanterns hang from the ceiling, providing dim light, and a thick barn-style door leads out into the yard beyond.</p>
+<p>Prostor naplňuje chrochtání prasat a kdákání slepic. Podlahu pokrývá sláma a dřevěné ohrady oddělují dvojici kotců, které stojí vedle trojice velkých kurníků. Ze stropu visí několik luceren, které vrhají matné světlo, a masivní stodolová vrata vedou ven na dvůr.</p>
 </div>
 
-### Kitchen
-When the players enter this area, read:
+### Kuchyně
+Když hráči vstoupí do této oblasti, přečtěte:
 
 <div class="description">
-<p>A large wooden table stands at the center, surrounded by chairs and covered with a simple checkered tablecloth. Copper pots and pans hang from hooks above a stone hearth, and a variety of herbs dry from a wooden rack on the wall. An open window allows a cool breeze into the space, and a small pile of birdseed rests upon the windowsill.</p>
+<p>Uprostřed stojí velký dřevěný stůl obklopený židlemi a prostřený prostým kostkovaným ubrusem. Nad kamenným ohništěm visí na hácích měděné hrnce a pánve a na dřevěném stojanu na zdi se suší nejrůznější bylinky. Otevřeným oknem proudí do místnosti chladný vánek a na parapetu leží hromádka ptačího zobu.</p>
 </div>
 
-If the players linger here, they notice that a musty, acrid odor emits from a mortar and pestle atop one of the higher shelves. If retrieved, the mortar contains a faint ground powder colored a vibrant shade of purple, identifiable as wolfsbane with a DC 13 Intelligence (Nature) check.
+Pokud tu hráči otálejí, všimnou si, že z hmoždíře s paličkou na jedné z vyšších polic se line zatuchlý, štiplavý zápach. Pokud hmoždíř sundají, najdou v něm jemně namletý prášek zářivě fialové barvy, který lze úspěšným ověřením Intelligence (Nature) se DC 13 určit jako vlčí mor.
 
-At some point before dinner, Dmitri and Anna meet in the kitchen for a quiet conversation, asking any players present to excuse themselves from the room for a moment of privacy. A player who eavesdrops on the conversation sees the following: 
+Někdy před večeří se Dmitri a Anna sejdou v kuchyni k tichému rozhovoru a požádají přítomné hráče, aby je na chvíli nechali o samotě. Hráč, který rozhovor odposlouchává, uvidí následující:
 
 <div class="description">
-<p>A small robin flutters down to the windowsill, pecking quietly at the birdseed, as Dmitri and Anna huddle closer together and begin to speak in hushed voices.</p>
+<p>Na parapet slétne malá červenka a tiše zobe ptačí zob, zatímco se Dmitri a Anna k sobě nakloní a začnou mluvit tlumenými hlasy.</p>
 </div>
 
-The robin is the Abbot in disguise.
+Červenka je převlečený Opat.
 
-A player can make a DC 14 Wisdom (Perception) check to attempt to eavesdrop on the conversation. On a success, they hear the following:
+Hráč se může pokusit rozhovor odposlechnout ověřením Wisdom (Perception) se DC 14. Při úspěchu uslyší následující:
 
 <div class="description">
-<p>“I know you said you’d made up your mind," Dmitri murmurs. “But please, Anna — you have to reconsider."</p>
-<p>“Dmitri—" Anna begins.</p>
-<p>Dmitri clasps her hands, his voice strained and desperate. “Gargosh, Ivan, and Falkon will help us. They won't ask questions; they know how dangerous it is to travel the roads. Ivan can lend us his mules—we can make a new life for you in Vallaki."</p>
-<p>Anna jerks her hands away. “No," she whispers. “I made my choice—for Kala and our people. How <em>dare</em> you ask me to flee like a coward?"</p>
+<p>„Vím, že jsi říkala, že ses rozhodla,“ zamumlá Dmitri. „Ale prosím, Anno – musíš si to rozmyslet.“</p>
+<p>„Dmitri–“ začne Anna.</p>
+<p>Dmitri ji uchopí za ruce; jeho hlas zní napjatě a zoufale. „Gargosh, Ivan a Falkon nám pomůžou. Nebudou se na nic ptát; vědí, jak nebezpečné je cestovat po silnicích. Ivan nám půjčí své muly – můžeme ti ve Vallaki vybudovat nový život.“</p>
+<p>Anna mu ruce prudce vytrhne. „Ne,“ zašeptá. „Rozhodla jsem se – pro Kalu a pro náš lid. Jak se <em>opovažuješ</em> chtít po mně, abych utekla jako zbabělec?“</p>
 </div>
 
-Dmitri flinches, then reflexively checks over his shoulder to ensure that no one is listening. A player must succeed on a DC 16 Dexterity (Stealth) check to remain unobserved; otherwise, Dmitri hears and smells them through the use of his ***keen hearing and smell*** feature. (Dmitri sharply asks the player whether they were eavesdropping, and tells them to forget what they heard and tell no one if they admit to doing so.)
+Dmitri sebou trhne a pak se reflexivně ohlédne přes rameno, aby se ujistil, že nikdo neposlouchá. Hráč musí uspět v ověření Dexterity (Stealth) se DC 16, aby zůstal nepozorován; jinak ho Dmitri díky své schopnosti ***keen hearing and smell*** uslyší a ucítí. (Dmitri se hráče ostře zeptá, zda poslouchal, a pokud to přizná, řekne mu, ať zapomene, co slyšel, a nikomu to neříká.)
 
-If the eavesdropping player escapes detection, read:
+Pokud odposlouchávající hráč unikne odhalení, přečtěte:
 
 <div class="description">
-<p>Dmitri closes his eyes and swallows. “I’m sorry," he says. “I just don’t want to lose you. With Ilya gone, and Kala in so much pain . . ." You hear the sound of a half-stifled sob. “I can’t do this on my own. I can’t do this without you."</p>
-<p>Anna embraces him. “We’ll figure this out," she whispers. “We always do."</p>
+<p>Dmitri zavře oči a polkne. „Promiň,“ řekne. „Já jen nechci přijít i o tebe. Když je Ilja pryč a Kala tolik trpí…“ Uslyšíte zvuk napůl potlačeného vzlyku. „Sám to nezvládnu. Bez tebe to nezvládnu.“</p>
+<p>Anna ho obejme. „Něco vymyslíme,“ zašeptá. „Vždycky jsme něco vymysleli.“</p>
 </div>
 
-The robin on the windowsill flies away shortly thereafter.
+Červenka na parapetu brzy nato odletí.
 
-### Garden
+### Zahrádka
 
-When the players enter this area, read:
+Když hráči vstoupí do této oblasti, přečtěte:
 
 <div class="description">
-<p>Rows of vegetables—cabbages, carrots, and hardy turnips—grow in organized plots, their leaves a vibrant green against the dark, tilled soil. A wooden fence encloses the garden, its posts adorned with simple talismans—feathers, small stones, and bits of twine—that sway gently in the breeze. </p>
-<p>A small, lonely graveyard sits in the shadow of the cottage just beyond the fence.</p>
+<p>Ve spořádaných záhonech rostou řady zeleniny – zelí, mrkev a otužilá řepa; jejich listy září svěží zelení proti tmavé, zryté půdě. Zahrádku obklopuje dřevěný plot, jehož kůly zdobí prosté talismany – pírka, kamínky a kousky provázku –, které se jemně pohupují ve vánku.</p>
+<p>Ve stínu chalupy, kousek za plotem, leží malý, opuštěný hřbitůvek.</p>
 </div>
 
-If the players enter the garden during the day, add:
+Pokud hráči vstoupí do zahrádky během dne, dodejte:
 
 <div class="description">
-<p>A young girl sits atop a boulder in the cemetery, staring at something just out of sight.</p>
+<p>Na balvanu na hřbitově sedí malá dívka a upřeně hledí na něco, co nevidíte.</p>
 </div>
 
-The girl is Kala Krezkova. She doesn’t respond if the players call out to her.
+Dívka je Kala Krezková. Pokud na ni hráči zavolají, neodpoví.
 
-### Graveyard
-When the players enter this area, read:
+### Hřbitůvek
+Když hráči vstoupí do této oblasti, přečtěte:
 
 <div class="description">
-<p>Tombstones, some weathered by time and others freshly carved, mark the resting places of the Krezkov family in this small, snow-dusted graveyard. A small grave, freshly dug but vacant, stands apart from the others. </p>
+<p>Na tomto malém, sněhem poprášeném hřbitůvku označují místa posledního odpočinku rodu Krezkovů náhrobky – některé ošlehané časem, jiné čerstvě vytesané. Stranou od ostatních leží malý hrob, čerstvě vykopaný, ale prázdný.</p>
 </div>
 
-If the players enter the graveyard during the day, add:
+Pokud hráči vstoupí na hřbitůvek během dne, dodejte:
 
 <div class="description">
-<p>A young, dark-haired girl sits atop a boulder nearby, her hands hugging her knees to her chest as she stares silently at a small grave. She wears a thin tunic and no shoes, her small body so still that she seems almost to be a statue.</p>
+<p>Opodál sedí na balvanu malá tmavovlasá dívka, rukama si tiskne kolena k hrudi a mlčky hledí na malý hrob. Má na sobě jen tenkou tuniku a je bosá a její drobné tělo je tak nehybné, že skoro vypadá jako socha.</p>
 </div>
 
 ![[Kala Krezkova.png]]
-<span class="credit">"Kala Krezkova" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">„Kala Krezková“ – autor: Caleb Cleveland. Podpořte ho na <a href="https://patreon.com/calebisdrawing/">Patreonu!</a></span>
 
-The girl is Kala Krezkova. She doesn’t immediately respond if the players speak to her. If the players approach, however, she abruptly asks them: "Have you ever had a bad dream you couldn't wake up from?" 
+Dívka je Kala Krezková. Když na ni hráči promluví, hned neodpoví. Pokud se však přiblíží, náhle se jich zeptá: „Měli jste někdy zlý sen, ze kterého jste se nemohli probudit?“
 
-If the players answer her question with thoughtfulness and compassion, she asks: "If something bad happened, but then went away, is it like it never happened?"
+Pokud hráči na její otázku odpoví zamyšleně a se soucitem, zeptá se: „Když se stane něco zlého, ale pak to zmizí, je to, jako by se to nikdy nestalo?“
 
-If the players again answer her question with thoughtfulness and compassion, Kala looks them in the eyes and whispers, "I don't think bad dreams ever really go away." Despite her young age, her eyes look haunted and weary.
+Pokud hráči i na tuto otázku odpoví zamyšleně a se soucitem, Kala se jim podívá do očí a zašeptá: „Myslím, že zlé sny nikdy doopravdy nezmizí.“ Navzdory jejímu útlému věku vypadají její oči štvaně a unaveně.
 
-Baroness Anna Krezkova arrives shortly thereafter and exclaims, “There you are, Kala! You can’t go outside without a coat or boots; you’ll catch cold." She then scoops Kala up and brings her inside. (If asked, Anna awkwardly apologizes for Kala’s macabre thoughts, and claims that Kala has been like this ever since she “took ill" a few days ago. A successful DC 12 Wisdom (Medicine) check suggests that Kala has no apparent illness, while a successful DC 12 Wisdom (Insight) check suggests that Anna is not telling the entire truth. Anna refuses to elaborate and doubles down on her claim if challenged.)
-### Dining Room & Living Room
-The dining room shares a space with the living room, with no wall dividing them. When the players enter this area, read:
-
-<div class="description">
-<p>This large room is divided into two halves: a dining room and a living room. In the dining room, walls of aged pine softly absorb the flickering light from an wrought-iron chandelier that hangs overhead, its candles casting a cozy glow. A sideboard against one wall holds a variety of ceramic dishes and wooden utensils, as well as a few clay jars that might contain preserves or spices. The center of the room is dominated by a wooden table crafted of solid oak, its sides carved with patterns of forest leaves curled around crescents, circles, and oblong shapes. Six hand-carved wooden chairs sit around the table.</p>
-<p>A stone fireplace dominates a wall on the opposite side of the chamber, crackling softly as it bathes the space in a warm, flickering glow. A few well-worn chairs and a sofa huddle around a low wooden coffee table nearby, and shelves along the walls hold an assortment of books, family portraits, and small whittled wooden sculptures.</p>
-</div>
-
-Close inspection of the patterns on the table reveals that they depict the phases of the moon. The whittled sculptures depict an assortment of small wooden wolves and ravens, as well as a carved wooden sun and moon.
-
-Dinner consists of borscht (warm beetroot soup with carrots and potatoes), crusty rye bread with butter, and spiced milk with nutmeg (purchased from a Vistani caravan). If there aren’t enough chairs for both the Krezkovs and the players to sit at the dining table, any remaining players can take their meals in the living room.
-
-Midway through dinner, there comes a knock at the door. When Anna goes to answer it, a woman with the voice and appearance of Kretyana Dolvof greets her. When Anna greets her in return, with some small amount of surprise, and asks her business, read:
+Krátce nato dorazí baronka Anna Krezková a zvolá: „Tady jsi, Kalo! Nemůžeš chodit ven bez kabátu a bot; nastydneš.“ Pak Kalu zvedne do náruče a odnese ji dovnitř. (Pokud se jí hráči zeptají, Anna se rozpačitě omluví za Kaliny morbidní myšlenky a tvrdí, že Kala je taková od té doby, co před několika dny „onemocněla“. Úspěšné ověření Wisdom (Medicine) se DC 12 naznačí, že Kala nemá žádnou zjevnou nemoc, a úspěšné ověření Wisdom (Insight) se DC 12 naznačí, že Anna neříká celou pravdu. Anna odmítá cokoli dalšího vysvětlit, a pokud ji hráči konfrontují, na svém tvrzení jen zarytě trvá.)
+### Jídelna a obývací pokoj
+Jídelna sdílí prostor s obývacím pokojem, aniž by je oddělovala stěna. Když hráči vstoupí do této oblasti, přečtěte:
 
 <div class="description">
-<p>One moment, the visage of an elderly woman stands before you. In the next instant, without any shade of transition or spectacle, she is gone—and in her place stands a handsome young man in a brown monk's robe, a painted wooden symbol that depicts the sun hanging from a chain around his neck. He carries himself with an ageless grace, and his eyes bear a quiet, cold serenity.</p>
+<p>Tato velká místnost je rozdělena na dvě poloviny: jídelnu a obývací pokoj. V jídelně stěny ze stařeného borového dřeva jemně pohlcují mihotavé světlo kovaného železného lustru, který visí nad hlavou a jehož svíce vrhají útulnou záři. U jedné stěny stojí příborník s nejrůznějším keramickým nádobím a dřevěným náčiním a s několika hliněnými džbány, v nichž by mohly být zavařeniny či koření. Střed místnosti ovládá dřevěný stůl z masivního dubu, jehož boky zdobí řezby lesních listů stočených kolem srpků, kruhů a podlouhlých tvarů. Kolem stolu stojí šest ručně vyřezávaných dřevěných židlí.</p>
+<p>Na protější straně místnosti ovládá stěnu kamenný krb, který tiše praská a zalévá prostor teplou, mihotavou září. Kolem nízkého dřevěného stolku opodál se choulí několik ošoupaných křesel a pohovka a na policích podél stěn stojí sbírka knih, rodinných portrétů a malých vyřezávaných dřevěných sošek.</p>
 </div>
 
-This is the Abbot. Anna and Dmitri react to his appearance with shock, and a player with a passive Wisdom (Insight) score of 13 or higher notices that they appear to be terrified. In a low voice, Dmitri commands Kala to go to her bedroom—an order she silently obeys.
+Při bližším zkoumání vzorů na stole se ukáže, že zobrazují měsíční fáze. Vyřezávané sošky představují nejrůznější malé dřevěné vlky a havrany a také vyřezávané dřevěné slunce a měsíc.
 
-The Abbot greets Dmitri, Anna, and the players cordially, and notes with mild interest that the Krezkovs have guests. 
+K večeři je boršč (teplá polévka z červené řepy s mrkví a bramborami), chléb z žitné mouky s křupavou kůrkou s máslem a kořeněné mléko s muškátovým oříškem (koupeným od karavany Vistani). Pokud u jídelního stolu není dost židlí pro Krezkovovy i hráče, mohou zbývající hráči večeřet v obývacím pokoji.
 
-Dmitri nervously asks to know why the Abbot has come to visit them. In response, as he steps toward the shelves above the hearth to inspect the whittled statues there, the Abbot asks whether it is a sin to visit the home of his friends and neighbors—"especially," he notes, with a glance toward Anna, “friends and neighbors who may soon be family?"
-
-As the conversation continues, the Abbot asks the players the following questions—ostensibly to ask their thoughts about Krezk, but meant in truth to deliver an ominous warning to the Krezkovs regarding the consequences of betrayal:
-
-* "How do you like the village? A quaint and quiet settlement, no?" (*The village is safe and quiet—for now.*)
-* "The children of Krezk have always seemed healthy and well-protected. The Krezkovs have been good stewards of this land, haven't they?" (*I gave you your child’s health. She and your neighbors will keep their lives and livelihoods—if you uphold your end of our bargain.*)
-* "I see by your weapons that you're no strangers to the dangers outside these walls. It's good that the good people of Krezk are protected, isn't it, from the threats that lurk beyond?" (*Krezk’s mighty walls will not protect you from my wrath.*)
-* "Isn't it beautiful how such a small, fragile thing can exist on the corners of Strahd's domain?" (*You exist because I allow it—and you will end if I demand it.*)
-
-If asked why the Krezkovs appear to be afraid of him, the Abbot insists that they have nothing to be afraid of. “There is no fear in doing one’s duty," he says serenely, “nor shame or sin in accepting one’s fate. Like the sun, moon, and stars, we all have our parts to play, and theirs is a blessed one." (The Abbot won’t share the Krezkovs’ “duty," insisting that one’s relationship with the gods is a private matter, to be shared only as one chooses. If addressed, the Krezkovs appear paralyzed with fear, and Dmitri only shakes his head instead of responding.)
-
-If further addressed, the Abbot looks briefly stricken and adds sadly, as he inspects a carved figurine of a wolf upon the mantelpiece, “It is true that many instruments of the gods have first rejected their calling. But is it not written that those who refuse to serve the divine become the tools of the divine, while those who serve the divine themselves become the divine?" He murmurs, mournfully, “The choice, I fear, is never an easy one."
-
-Unless stopped, the Abbot inclines his head respectfully toward Dmitri and Anna, apologizes for disturbing their meal, and bids them a good night. "You will consider my words tonight, I hope," he says, bowing deeply. “May the light of the Morninglord go with you." He then departs the cottage. Read:
+Uprostřed večeře někdo zaklepe na dveře. Když Anna jde otevřít, pozdraví ji žena s hlasem i podobou Kretjany Dolvofové. Když ji Anna s jistým překvapením pozdraví a zeptá se, co ji přivádí, přečtěte:
 
 <div class="description">
-<p>Through the front door of the cottage, beneath the fresh-falling snow, the young man’s silent silhouette stands wrought in a halo of dark moonlight. Then, within the blink of an eye, the man simply ceases to be; in his place, an eagle taller than a man stands upon the earth, its feathers blending seamlessly with the falling snowflakes. With a powerful flap of its wings, the creature ascends, soaring into the night sky until it vanishes into the depths of the Barovian darkness.</p>
+<p>V jednu chvíli před vámi stojí postava staré ženy. V příští chvíli, bez jakéhokoli náznaku přechodu či podívané, je pryč – a na jejím místě stojí pohledný mladý muž v hnědé mnišské kutně, s malovaným dřevěným symbolem slunce na řetízku na krku. Nese se s nestárnoucí grácií a v očích má tichý, chladný klid.</p>
 </div>
 
-Dmitri and Anna then collapse onto their knees, holding one another and crying quietly. If comforted, they can share the following information:
+Je to Opat. Anna a Dmitri reagují na jeho příchod šokem a hráč s pasivní hodnotou Wisdom (Insight) 13 nebo vyšší si všimne, že vypadají vyděšeně. Dmitri tichým hlasem přikáže Kale, ať jde do svého pokoje – a ona mlčky poslechne.
 
-* Recently, a werewolf attacked the village of Krezk, somehow managing to bypass its walls. In its rampage, it wounded many and killed Kala. (“I held her in my arms as she died," Dmitri sobs. “Half her side was missing. She kept whispering, ‘Daddy’ and ‘Mommy’ over and over again, until she finally fell still.")
-* The Krezkovs’ son, Ilya, vanished in the chaos, and hasn’t been seen in days. (If the players located Ilya in [[Arc I - The Walls of Krezk]], Dmitri adds that, until recently, they feared him to be dead as well.)
-* The Krezkovs prayed to the Morninglord for guidance and deliverance, begging for mercy and salvation—and the Abbot answered.
-* The following morning, the Abbot’s bestial servants—a pair of creatures who called themselves Otto and Zygfrek—invited the mourning Krezkovs to the Abbey. There, the Abbot offered a bargain, promising to resurrect Kala in full health if Anna promised to sacrifice her heart to the Abbot’s foul creation: the **flesh golem** he calls Vasilka. To Dmitri’s horror, Anna accepted—and the Abbot brought Kala back to life.
-* The Abbot gave Anna one month’s time to make peace with her family and neighbors—an act he called “the Morninglord’s mercy." The Krezkovs don’t have much time left. (The Abbot’s deadline expires two weeks and one day after the players’ first full moon in Vallaki.)
-* Kala hasn’t been the same since her resurrection. Dmitri and Anna haven’t asked, but they’re terrified that she remembers the experience of dying—and that what she saw beyond the veil of mortality scarred her forever. The life and laughter have gone out of her, and she spends much of her time staring at the grave her parents once prepared for her.
-### Kala’s Bedroom
-If the players enter this area, read:
+Opat Dmitriho, Annu i hráče zdvořile pozdraví a s mírným zájmem poznamená, že Krezkovovi mají hosty.
+
+Dmitri se nervózně zeptá, proč je Opat přišel navštívit. Opat v odpověď přistoupí k policím nad krbem, aby si prohlédl vyřezávané sošky, a zeptá se, zda je hříchem navštívit domov svých přátel a sousedů – „zvláště,“ poznamená s pohledem na Annu, „přátel a sousedů, kteří se možná brzy stanou rodinou?“
+
+Během rozhovoru položí Opat hráčům následující otázky – zdánlivě aby se zeptal na jejich názor na Krezk, ve skutečnosti však aby Krezkovovým doručil zlověstné varování před následky zrady:
+
+* „Jak se vám líbí ve vesnici? Půvabná a tichá osada, nemyslíte?“ (*Vesnice je bezpečná a tichá – zatím.*)
+* „Děti v Krezku vždy vypadaly zdravě a dobře chráněně. Krezkovovi byli této zemi dobrými správci, že ano?“ (*Dal jsem vám zdraví vašeho dítěte. Ona i vaši sousedé si zachovají životy a živobytí – pokud dodržíte svou část naší úmluvy.*)
+* „Podle vašich zbraní vidím, že nebezpečí za těmito hradbami vám nejsou cizí. Je dobře, že dobří lidé z Krezku jsou chráněni před hrozbami, jež číhají venku, nemyslíte?“ (*Mocné hradby Krezku vás před mým hněvem neochrání.*)
+* „Není to krásné, jak taková malá, křehká věc může existovat na okraji Strahdovy říše?“ (*Existujete, protože to dovoluji – a skončíte, pokud si to vyžádám.*)
+
+Pokud se Opata hráči zeptají, proč se ho Krezkovovi zdají bát, Opat trvá na tom, že se nemají čeho bát. „Není strachu v plnění své povinnosti,“ praví klidně, „ani hanby či hříchu v přijetí svého osudu. Jako slunce, měsíc a hvězdy máme všichni svou úlohu a ta jejich je požehnaná.“ (Opat neprozradí, v čem „povinnost“ Krezkovových spočívá, a trvá na tom, že vztah člověka k bohům je soukromou záležitostí, o níž lze mluvit jen podle vlastního uvážení. Pokud hráči Krezkovovy osloví, zdají se ochromeni strachem a Dmitri místo odpovědi jen zavrtí hlavou.)
+
+Pokud ho hráči dále oslovují, Opat na okamžik vypadá zdrceně, a zatímco si prohlíží vyřezávanou figurku vlka na krbové římse, smutně dodá: „Je pravda, že mnozí nástroje bohů své povolání nejprve odmítli. Ale není snad psáno, že ti, kdo odmítnou sloužit božskému, se stanou nástroji božského, kdežto ti, kdo božskému slouží, se sami stanou božskými?“ Truchlivě zamumlá: „Ta volba, obávám se, není nikdy snadná.“
+
+Pokud ho nikdo nezastaví, Opat uctivě skloní hlavu před Dmitrim a Annou, omluví se, že vyrušil jejich večeři, a popřeje jim dobrou noc. „Doufám, že o mých slovech dnes v noci budete přemýšlet,“ praví s hlubokou úklonou. „Ať vás provází světlo Jitřního pána.“ Pak chalupu opustí. Přečtěte:
 
 <div class="description">
-<p>A small bed sits against one wall of this small, muted bedroom, its quilt a patchwork of floral patterns and faded pastels. A shelf above a nearby dresser displays a few simple toys: a stuffed bear with button eyes, a whittled wooden horse, and a small, tattered book of Barovian folk tales. On the windowsill rests a small ceramic pot that holds a wilting flower, its petal drooping in the shadowed light.</p>
+<p>Předními dveřmi chalupy, pod čerstvě padajícím sněhem, stojí mlčenlivá silueta mladého muže zahalená ve svatozáři temného měsíčního svitu. Pak, během mrknutí oka, muž prostě přestane být; na jeho místě stojí na zemi orel vyšší než člověk, jehož peří dokonale splývá s padajícími vločkami. Mocným máchnutím křídel se tvor vznese a stoupá do noční oblohy, dokud nezmizí v hlubinách barovské tmy.</p>
 </div>
 
-If Kala has been dismissed to her room, she can be found here, sitting on her bed with her knees clutched to her chest and staring at the wilted flower on the windowsill.
+Dmitri a Anna pak klesnou na kolena, objímají se a tiše pláčou. Pokud je hráči utěší, mohou jim prozradit následující:
 
-If a player speaks kindly to Kala, she asks them whether they’ve ever seen a “monster" before. She then asks, “Why do monsters like the dark so much?"
-
-As the conversation continues, Kala hesitates, then asks the player if they will help her. If the player agrees to do so, she insists that they keep her request from her parents, “because I don’t want to make them sad." If the player agrees again, she can share the following information:
-
-* Her parents won’t tell her, but she thinks she died—and that the Abbot had something to do with her coming back. She doesn’t remember exactly what happened: only a flash of teeth and claws, and blood and pain. 
-* Kala then remembers being somewhere dark, filled with mist and distant screams. “I felt like I was supposed to go somewhere," she mumbles, “but the mist stopped me. Every time I tried to leave, it brought me back into the screams and the darkness." 
-* Eventually, she awoke once more into her body—healed and whole, without any more pain. Her parents took her home and lavished her with love and care, but Kala could tell that they were nervous and afraid, as if one wrong move could break her.
-
-Kala has had nightmares ever since her resurrection—dreams of the monster that killed her, and of the dark place she went to when she died. She believes that confronting the monster will allow the nightmares to stop.
-
-Kala informs the player that she had snuck outside to play in the garden on the night that she died—and that the monster came from the wine cellar beneath the house. She asks the player to wait until her parents are asleep, then bring her there and keep her safe, so that she can either see the monster for herself or confirm that it has gone forever.
-
-If the player attempts to dissuade Kala from venturing down to the cellar, she replies, "I need to see for myself. I don't want to be afraid of the dark anymore."
-### Ilya’s Bedroom
-When the players enter this area, read:
+* Nedávno vesnici Krezk napadl vlkodlak, kterému se nějak podařilo překonat její hradby. Při svém běsnění mnohé zranil a zabil Kalu. („Držel jsem ji v náručí, když umírala,“ vzlyká Dmitri. „Chyběla jí půlka boku. Pořád dokola šeptala ‚Tatínku‘ a ‚Maminko‘, dokud nakonec neztichla.“)
+* Syn Krezkovových, Ilja, ve zmatku zmizel a už několik dní ho nikdo neviděl. (Pokud hráči Ilju našli v [[Arc I - The Walls of Krezk|Oblouk I – Hradby Krezku]], Dmitri dodá, že až donedávna se báli, že je také mrtvý.)
+* Krezkovovi se modlili k Jitřnímu pánovi o vedení a vysvobození, prosili o milost a spásu – a Opat odpověděl.
+* Následujícího rána pozvali Opatovi zvířečí služebníci – dvojice tvorů, kteří si říkali Otto a Zygfrek – truchlící Krezkovovy do opatství. Tam Opat nabídl úmluvu: slíbil, že Kalu vzkřísí v plném zdraví, pokud Anna slíbí, že obětuje své srdce Opatovu ohavnému výtvoru – masovému golemovi (**flesh golem**), kterého nazývá Vasilka. K Dmitriho hrůze Anna souhlasila – a Opat Kalu přivedl zpět k životu.
+* Opat dal Anně měsíc, aby se usmířila se svou rodinou a sousedy – čin, který nazval „milosrdenstvím Jitřního pána“. Krezkovovým už nezbývá mnoho času. (Opatova lhůta vyprší dva týdny a jeden den po prvním úplňku, který hráči strávili ve Vallaki.)
+* Kala od svého vzkříšení není sama sebou. Dmitri a Anna se jí neptali, ale děsí se, že si pamatuje, jaké to bylo zemřít – a že to, co spatřila za závojem smrtelnosti, ji navždy poznamenalo. Život a smích z ní vyprchaly a většinu času tráví zíráním na hrob, který pro ni její rodiče kdysi připravili.
+### Kalin pokoj
+Pokud hráči vstoupí do této oblasti, přečtěte:
 
 <div class="description">
-<p>The bed in this modest bedroom is neatly made, covered with a hand-stitched quilt. A wooden shelf above the desk holds an assortment of curios—a feather, a small rock crystal, and what appears to be a wolf's tooth. A small weapon rack hangs on the wall, currently holding a short sword and a hunting bow with a quiver of arrows beneath it. A round window with simple lace curtains lets in a sliver of natural light, illuminating a hand-drawn map tacked to the wall beside it.</p>
+<p>U jedné stěny tohoto malého, tlumeně zařízeného pokojíku stojí malá postel; její prošívaná deka je slátaná z květinových vzorů a vybledlých pastelových barev. Na polici nad nedalekou komodou stojí několik prostých hraček: plyšový medvídek s knoflíkovýma očima, vyřezávaný dřevěný koník a malá, ošuntělá knížka barovských lidových pohádek. Na parapetu stojí malý keramický květináč s vadnoucí květinou, jejíž okvětní lístek povadle visí ve stínovém světle.</p>
 </div>
 
-The map depicts the local woods around Krezk, extending as far south as the Wizard of Wines and as far east as Lake Baratok. (It doesn’t include the werewolf den or the tower on Lake Baratok.)
+Pokud byla Kala poslána do svého pokoje, najdou ji tu hráči sedět na posteli s koleny přitisknutými k hrudi, jak zírá na zvadlou květinu na parapetu.
 
-A player who inspects the map observes a small piece of parchment tucked away behind it. If removed, the parchment contains a charcoal sketch of a woman, described as follows:
+Pokud na Kalu hráč laskavě promluví, zeptá se ho, zda už někdy viděl „netvora“. Pak se zeptá: „Proč mají netvoři tak rádi tmu?“
+
+Jak rozhovor pokračuje, Kala zaváhá a pak se hráče zeptá, zda jí pomůže. Pokud hráč souhlasí, trvá na tom, aby její prosbu zatajil před jejími rodiči, „protože je nechci rozesmutnit“. Pokud hráč znovu souhlasí, může mu prozradit následující:
+
+* Rodiče jí to nechtějí říct, ale myslí si, že umřela – a že Opat měl s jejím návratem něco společného. Nepamatuje si přesně, co se stalo: jen záblesk zubů a drápů, krev a bolest.
+* Pak si Kala vzpomíná, že byla někde v temnotě, plné mlhy a vzdáleného křiku. „Měla jsem pocit, že mám někam jít,“ zamumlá, „ale mlha mě zastavila. Pokaždé, když jsem se pokusila odejít, vrátila mě zpátky do toho křiku a tmy.“
+* Nakonec se znovu probudila ve svém těle – uzdravená a celá, bez jakékoli bolesti. Rodiče ji odvedli domů a zahrnuli ji láskou a péčí, ale Kala poznala, že jsou nervózní a vystrašení, jako by ji jediný chybný pohyb mohl zlomit.
+
+Od svého vzkříšení má Kala noční můry – sny o netvorovi, který ji zabil, a o temném místě, kam odešla, když zemřela. Věří, že když se netvorovi postaví, noční můry přestanou.
+
+Kala hráči prozradí, že v noci, kdy zemřela, se vykradla ven, aby si hrála na zahrádce – a že netvor přišel z vinného sklepa pod domem. Požádá hráče, aby počkal, až rodiče usnou, pak ji tam vzal a chránil ji, aby mohla netvora sama spatřit, nebo se ujistit, že je navždy pryč.
+
+Pokud se hráč pokusí Kalu od výpravy do sklepa odradit, odpoví: „Musím to vidět sama. Už se nechci bát tmy.“
+### Iljův pokoj
+Když hráči vstoupí do této oblasti, přečtěte:
 
 <div class="description">
-<p>The sketch depicts a woman with narrowed, low-set eyes, whose lips seem to unconsciously curl into a snarl. A gray bandana ties back a set of thick, short-cropped dreadlocks behind her head, and a half-shredded black tunic lies beneath a set of worn leather armor upon her chest.</p>
+<p>Postel v tomto skromném pokoji je úhledně ustlaná a přikrytá ručně prošívanou dekou. Na dřevěné polici nad psacím stolem leží sbírka kuriozit – pírko, malý křišťál a něco, co vypadá jako vlčí zub. Na zdi visí malý stojan na zbraně, na němž je v tuto chvíli krátký meč a lovecký luk a pod nimi toulec se šípy. Kulatým oknem s prostými krajkovými záclonami proniká proužek denního světla a osvětluje ručně kreslenou mapu připíchnutou na zdi vedle něj.</p>
 </div>
 
-The woman is Zuleika Toranescu, Dmitri’s elder sister. A player with a passive Wisdom (Perception) score of 13 or higher notices that she bears a striking resemblance to Burgomaster Dmitri Krezkov.
+Mapa zobrazuje okolní lesy kolem Krezku a sahá na jih až k Čaroději vín a na východ až k jezeru Baratok. (Není na ní vlčí doupě ani věž na jezeře Baratok.)
+
+Hráč, který si mapu prohlédne, si všimne malého kousku pergamenu zastrčeného za ní. Pokud ho vytáhne, najde na něm kresbu ženy uhlem, popsanou takto:
+
+<div class="description">
+<p>Kresba zobrazuje ženu s přimhouřenýma, hluboko posazenýma očima, jejíž rty se jakoby bezděčně stáčejí do zavrčení. Šedý šátek jí vzadu na hlavě stahuje husté, nakrátko zastřižené dredy a na hrudi má pod ošoupanou koženou zbrojí napůl roztrhanou černou tuniku.</p>
+</div>
+
+Žena je Zuleika Toranescu, Dmitriho starší sestra. Hráč s pasivní hodnotou Wisdom (Perception) 13 nebo vyšší si všimne, že se nápadně podobá purkmistrovi Dmitrimu Krezkovovi.
 
 ![[Sketch of Zuleika.png]]
-<span class="credit">"Sketch of Zuleika" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">„Kresba Zuleiky“ – autor: Caleb Cleveland. Podpořte ho na <a href="https://patreon.com/calebisdrawing/">Patreonu!</a></span>
 
-If shown the picture, Dmitri’s face pales, and he asks the player where they found it. If told that the player found it in Ilya’s room, he insists that it is impossible. “That is a drawing of my older sister, Zuleika," he says hoarsely, “and she has not been seen in Krezk in nearly thirteen years." (If asked why Zuleika left, Dmitri shares only that she had a fight with him and their ailing father about personal family matters, and that he has neither seen nor heard from her since she departed.)
-### Wine Cellar
-A heavy wooden bulkhead door stands against the cottage, on the side facing the garden. Close inspection reveals that two of its hinges are broken, and the lock is battered and broken. The center of the door bulges slightly outward, as though struck from the inside by a great force.
+Pokud hráči obrázek Dmitrimu ukážou, zbledne a zeptá se hráče, kde ho našel. Pokud mu hráč řekne, že ho našel v Iljově pokoji, trvá na tom, že to není možné. „To je kresba mé starší sestry Zuleiky,“ řekne chraplavě, „a ta nebyla v Krezku spatřena skoro třináct let.“ (Pokud se ho hráči zeptají, proč Zuleika odešla, Dmitri prozradí jen, že se pohádala s ním a s jejich nemocným otcem kvůli osobním rodinným záležitostem a že od jejího odchodu ji neviděl ani o ní neslyšel.)
+### Vinný sklep
+Na straně chalupy přivrácené k zahrádce stojí těžké dřevěné sklepní dveře. Při bližším zkoumání se ukáže, že dva z jejich pantů jsou rozbité a zámek je otlučený a rozbitý. Střed dveří se lehce vyboulí ven, jako by do nich zevnitř narazila velká síla.
 
-The door opens to a descending set of stone stairs that open into the wine cellar. When the players enter this room, read:
-
-<div class="description">
-<p>The room is chilly, and the walls are lined with empty wooden racks that once held bottles of wine. The scent of damp earth is pervasive.</p>
-<p>The floor bears a trail of deep gouges and claw marks. The marks lead to a bare spot between two wooden racks, covering a portion of the far stone wall approximately three feet across.</p>
-</div>
-
-A DC 12 Wisdom (Nature) check reveals that the marks and gouges were left by a large, lupine beast.
-
-The bare spot on the wall hides a secret door. No check is required to spot the secret door, which can’t be closed completely due to Ilya’s damage, leaving a thin crack in the wall from the floor to a point six feet above the ground.
-
-A player can force the secret door open with a successful DC 20 Strength check. Alternatively, the player can find the mechanism that unlocks the door—a disguised lever on the wine rack—with a successful DC 15 Intelligence (Investigation) check, succeeding automatically with 1 full minute of searching. Once the lever is pulled, the lock on the door releases and the door drifts slightly forward, revealing handholds along its side that can be used to pull it fully open.
-
-The secret door leads to the hidden basement (see below).
-### Hidden Basement
-This area is unlit. When the players first enter it, read:
+Dveře se otevírají na kamenné schodiště, které klesá do vinného sklepa. Když hráči vstoupí do této místnosti, přečtěte:
 
 <div class="description">
-<p>The air here is thick and musty. Three sets of heavy silver shackles are bolted to the stone walls, with two surrounded by disturbed half-circles of salt. Claw marks mar the walls and floor, and the silver shackles bolted to the east wall have been heavily damaged, with one shackle burst open and the other torn from the wall entirely.</p>
+<p>V místnosti je chladno a podél stěn stojí prázdné dřevěné stojany, v nichž kdysi ležely lahve vína. Všude se line pach vlhké hlíny.</p>
+<p>Na podlaze je stopa hlubokých rýh a škrábanců od drápů. Stopy vedou k holému místu mezi dvěma dřevěnými stojany, které zabírá část protější kamenné zdi, asi tři stopy široké.</p>
 </div>
 
-If the players haven’t taken special steps to prevent or watch for the Krezkovs’ appearance, Dmitri and Anna find Kala missing from her bedroom, exit into the garden, and descend the wine cellar steps upon noticing the players’ footsteps in the snow, finding the players at the door to the hidden basement.
+Ověření Wisdom (Nature) se DC 12 odhalí, že stopy a rýhy zanechala velká vlčí šelma.
 
-“I’m sure you have questions," Dmitri says, quietly, when he first arrives. His eyes are haunted and sad, and his gaze lingers somberly on Kala’s face. “I ask only that you not judge us too harshly when you hear the answers."
+Holé místo na zdi skrývá tajné dveře. K jejich odhalení není potřeba žádné ověření, protože je kvůli Iljovu řádění nelze úplně zavřít a ve zdi tak zůstává tenká škvíra, sahající od podlahy do výšky šesti stop.
 
-Dmitri can share the following information if asked:
+Hráč může tajné dveře vypáčit úspěšným ověřením Strength se DC 20. Jinak může najít mechanismus, který dveře odemyká – maskovanou páku na stojanu na víno – úspěšným ověřením Intelligence (Investigation) se DC 15; po 1 celé minutě hledání uspěje automaticky. Jakmile je páka zatažena, zámek dveří povolí a dveře se lehce posunou vpřed, čímž odhalí úchyty na boku, s jejichž pomocí je lze otevřít úplně.
 
-* Eighty years ago, his grandfather was bitten by a werewolf. His ancestor survived, but the curse of lycanthropy remained with him until his death—and was passed down, intermittently, within the Krezkov line. The curse emerges on the first full moon after an infected Krezkov’s thirteenth birthday, transforming their body into a powerful, violent beast on that night and each full moon thereafter.
-* Since then, the Krezkov family has kept the curse under control by binding themselves in silver on the nights of the full moon and imbibing a *potion of wolfsbane*, which keeps the spirit of the wolf docile and calm.
-* Dmitri was born a werewolf. When Ilya was born, his parents hoped that he might escape the curse—but as the night of his first full moon approached, the signs of lycanthropy were impossible to ignore. (The signs of lycanthropy, Anna can share, include sudden, uncharacteristic bursts of restlessness and aggression. sharpened senses of hearing and smell, an amber tinge to the irises, and a markedly increased appetite around the time of the full moon.)
-* Anna prepared Ilya a *potion of wolfsbane*, and helped bind him to the shackles upon the walls beside his father. Somehow, however, when Ilya first transformed, the potion failed to suppress the rage or strength of the wolf inside. Ilya broke free of his shackles, escaped the cellar, and rampaged across the village—though not before wounding several of the villagers and killing his sister, Kala.
-* Ilya then fled across the walls and vanished into the Svalich Woods. Despite arranging several search parties in the weeks since his disappearance, Dmitri and Anna have found no sign of him.
+Tajné dveře vedou do skrytého sklepení (viz níže).
+### Skryté sklepení
+Tato oblast není osvětlená. Když do ní hráči poprvé vstoupí, přečtěte:
 
-Dmitri apologizes to the players for concealing this information from them, and notes his understanding if the players are frightened or upset.
+<div class="description">
+<p>Vzduch je tu hustý a zatuchlý. Do kamenných stěn jsou připevněny tři páry těžkých stříbrných okovů; dva z nich obklopují porušené půlkruhy soli. Stěny i podlahu hyzdí stopy drápů a stříbrné okovy připevněné k východní stěně jsou těžce poškozené – jeden okov je rozervaný a druhý vytržený ze zdi i s ukotvením.</p>
+</div>
 
-> [!abstract]+ **The Players' Choice**
-> The Krezkovs, self-reliant and proud, would never dream of asking the players to find Ilya or stop the Abbot for them. If the players offer to do so, however, the Krezkovs are humbled and brought to tears with gratitude, though they apologize for not having much to offer in thanks. (Even if the players don’t offer to do so, Ezmerelda d'Avenir will recruit them to save Ilya and defeat the Abbot after meeting Ezmerelda in [[#K2c. The East Wing]].)
-> 
-> The Krezkovs also have additional aid in locating Ilya and stopping the Abbot: Ezmerelda d’Avenir, a monster hunter and a friend of the Krezkovs, has been traversing the Svalich Woods for the past several days in search of Ilya, after staying at the Abbey. If the players agree to aid Dmitri and Anna in either plight, the Krezkovs strongly advise them seek Ezmerelda out before attempting anything on their own. (See **Ezmerelda’s Visit** below for more information.)
+Pokud hráči nepodnikli zvláštní kroky, aby příchodu Krezkovových zabránili nebo ho hlídali, zjistí Dmitri a Anna, že Kala chybí v pokoji, vyjdou do zahrádky, a když si všimnou stop hráčů ve sněhu, sestoupí po schodech do vinného sklepa a najdou hráče u dveří do skrytého sklepení.
 
-> [!lore]+ **Ezmerelda’s Visit**
-> Five years ago, shortly after she and Dr. Rudolph van Richten parted ways, Ezmerelda d’Avenir was grievously wounded in a werewolf attack in the western woods of Barovia, losing her lower right leg to the jaws of Kiril Stoyanovich—the werewolf that now leads the Barovian pack. 
-> 
-> Dmitri and Anna, traversing the woods with a hunting party, scared Kiril off and found Ezmerelda unconscious and near-death amidst the trees. They brought Ezmerelda back to Krezk and nursed her back to health. As she regained her strength, Ezmerelda regaled Anna and the young Ilya Krezkov with tales of her adventures in the lands beyond the mists, filling Ilya’s head with dreams of hunting monsters as she did.
-> 
-> When Ezmerelda’s wound was fully healed, Anna and a party of three Krezkians escorted her to nearby Vallaki, where Ezmerelda commissioned her prosthetic leg from the toymaker Gadof Blinsky. (Although Baron Vallakovich's edicts prohibited Vistani from entering the town's walls, Baroness Krezkova's steely will and diplomatic manner were sufficient to bypass any such restrictions.) Ezmerelda thanked the Krezkovs deeply for their kindness, and swore to aid and protect them should they ever require it.
-> 
-> When Ezmerelda returned to Barovia in search of Dr. Van Richten, she sought shelter with the Krezkov family once again—and learned of Ilya’s fate and Anna’s bargain. Incensed with righteous fury, Ezmerelda vowed to bring Ilya home, as well as find a means of dissuading the Abbot from collecting his payment. Since then, she has spent most of her days and nights prowling the local Svalich Wood for signs of Ilya and—if the players completed [[Arc I - The Walls of Krezk]]—the den of the werewolves that took him, using her wagon as a mobile base near the shores of Lake Baratok.
-> 
-> Ezmerelda, a minor clairvoyant, has also sensed that the spirits within the Abbey are disturbed and restless. Though she hasn’t had a chance to do so yet, she plans to conduct a seance upon her return from the Svalich Wood in the hopes of contacting a spirit with more information about the Abbot and his plans.
-# K2. The Abbey of Saint Markovia
-The road to the Abbey of Saint Markovia is as described in <span class="citation">S5. Winding Road (p. 147)</span>. 
-## K2a. Entering the Abbey
-The gate to the Abbey and its occupants are as described in <span class="citation">S6. The North Gate (p. 147)</span>. Before escorting the players into the Abbey, Otto and Zygfrek demand to know why they’ve come. 
+„Jistě máte otázky,“ řekne Dmitri tiše, když dorazí. Oči má štvané a smutné a jeho pohled zachmuřeně spočívá na Kalině tváři. „Prosím jen, abyste nás nesoudili příliš přísně, až uslyšíte odpovědi.“
 
-> [!profile]+ **Profile: Otto & Zygfrek**
-> ***Roleplaying Information***
-> ***Resonance.*** Otto and Zygfrek should make the players feel amused with their antics, eccentricities, and squabbles, uncomfortable with Otto's lack of personal space and Zygfrek's bluntness, sympathetic to Zygfrek's discomfort with her appearance and voice, endeared to Otto's boundless positivity, and mildly irritated with Zygfrek's rudeness.
-> 
-> ***Emotions.*** Otto most often feels curious, excited, annoyed, or satisfied. Zygfrek most often feels annoyed, suspicious, insulted, melancholy, or thoughtful.
-> 
-> ***Motivations.*** Otto is primarily motivated by his desire for food and attention. Zygfrek is primarily motivated by her bitterness and self-loathing. Both are motivated by their loyalty to the Abbot and desire for the Abbot's "perfection."
-> 
-> ***Inspirations.*** When roleplaying Otto, channel Dobby (*Harry Potter*), Gollum (*Lord of the Rings*), Jar-Jar Binks (*Star Wars*), and Pinky (*Pinky and the Brain*). When roleplaying Zygfrek, channel Squidward Tentacles (*Spongebob SquarePants*), Marvin the Paranoid Android (*The Hitchhiker's Guide to the Galaxy*), and Oscar the Grouch (*Sesame Street*).
-> 
-> ***Character Information***
-> ***Persona.*** To the world, Otto is a braying, over-enthusiastic loudmouth with a fascination for interesting things, while Zygfrek is a brooding, grumpy cynic who can always find something to insult or complain about. To those she trusts, Zygfrek is a quiet, melancholy, self-loathing woman who desperately longs for the "perfection" the Abbot promises.
-> 
-> ***Morale.*** If attacked, Otto would gallantly declare his intent to fight, then immediately back down, while Zygfrek would demand her attacker cease, and plead for mercy if denied.
-> 
-> ***Relationships.*** Otto and Zygfrek are servants of the Abbot, cousins of Clovin Belview, and the grand-niece and -nephew of Strahd's butler, Cyrus Belview.
+Pokud se ho hráči zeptají, může Dmitri prozradit následující:
 
-If told that the players are seeking a Vistana who’s staying at the Abbey, Zygfrek responds as follows:
+* Před osmdesáti lety pokousal jeho děda vlkodlak. Jeho předek přežil, ale prokletí lykantropie mu zůstalo až do smrti – a v rodu Krezkovů se přerušovaně dědilo dál. Prokletí se projeví při prvním úplňku po třináctých narozeninách nakaženého Krezkova a té noci i při každém dalším úplňku promění jeho tělo v mocnou, násilnou bestii.
+* Od té doby drží rod Krezkovů prokletí pod kontrolou tím, že se v noci úplňku spoutává stříbrem a pije *lektvar vlčího moru* (*potion of wolfsbane*), který ducha vlka udržuje krotkého a klidného.
+* Dmitri se narodil jako vlkodlak. Když se narodil Ilja, rodiče doufali, že prokletí unikne – ale jak se blížila noc jeho prvního úplňku, nedaly se známky lykantropie přehlédnout. (Mezi známky lykantropie, jak může prozradit Anna, patří náhlé, nezvyklé záchvaty neklidu a agrese, zbystřený sluch a čich, jantarový nádech duhovek a výrazně zvýšená chuť k jídlu v době úplňku.)
+* Anna připravila Iljovi *lektvar vlčího moru* a pomohla ho připoutat k okovům na zdi vedle jeho otce. Když se však Ilja poprvé proměnil, lektvar jaksi nepotlačil zuřivost ani sílu vlka v jeho nitru. Ilja se vymanil z okovů, utekl ze sklepa a běsnil po celé vesnici – a předtím zranil několik vesničanů a zabil svou sestru Kalu.
+* Ilja pak utekl přes hradby a zmizel ve Svalichském lese. Přestože v týdnech od jeho zmizení uspořádali několik pátracích výprav, Dmitri a Anna po něm nenašli ani stopu.
 
-* **If Ezmerelda has not yet returned**, Zygfrek informs the players that the Vistana called Ezmerelda d’Avenir is away on business, and is expected to return on the second day after the full moon. (Zygfrek doesn’t know where Ezmerelda is, and shrugs with a grunt when asked where she’s gone.)
-* **If Ezmerelda has returned**, Zygfrek offers to lead the players to the Abbot, who knows where Ezmerelda is staying.
+Dmitri se hráčům omluví, že jim tyto informace zatajil, a projeví pochopení, pokud jsou hráči vyděšení či rozrušení.
 
-> [!info]+ **Where's Ezmerelda?**
-> In the days leading up to the players’ first full moon in Vallaki, Ezmerelda is searching the Svalich Wood near Krezk for signs of the missing Ilya Krezkov, as well as the den of the werewolf pack that haunts those woods. She doesn’t plan to return to the Abbey until the second day after the players' first full moon in Vallaki.
+> [!abstract]+ **Volba hráčů**
+> Krezkovovi, soběstační a hrdí, by ani ve snu nepožádali hráče, aby za ně našli Ilju nebo zastavili Opata. Pokud to však hráči nabídnou, Krezkovovi jsou pokořeni a dojati k slzám vděčností, i když se omlouvají, že toho nemají mnoho, čím by se odvděčili. (I když to hráči nenabídnou, Ezmerelda d'Avenir je po setkání v [[#K2c. Východní křídlo|K2c. Východní křídlo]] požádá, aby Ilju zachránili a Opata porazili.)
+> 
+> Krezkovovi mají při hledání Ilji a zastavení Opata ještě další pomoc: Ezmerelda d’Avenir, lovkyně nestvůr a přítelkyně Krezkovových, posledních několik dní pročesává Svalichský les a hledá Ilju; předtím pobývala v opatství. Pokud hráči souhlasí, že Dmitrimu a Anně pomohou v kterékoli z těchto strastí, Krezkovovi jim důrazně doporučí, aby Ezmereldu vyhledali dřív, než se o cokoli pokusí sami. (Více informací najdete v části **Ezmereldina návštěva** níže.)
 
-After passing through the north gate, the players pass <span class="citation">S7. Graveyard (p. 148)</span> and approach <span class="citation">S10. Abbey Entrance (p. 148)</span>. 
+> [!lore]+ **Ezmereldina návštěva**
+> Před pěti lety, krátce poté, co se rozešla s dr. Rudolphem van Richtenem, byla Ezmerelda d’Avenir v západních lesích Barovie těžce zraněna při útoku vlkodlaka – ve spárech Kirila Stoyanoviche, vlkodlaka, který dnes vede barovskou smečku, přišla o pravou nohu pod kolenem.
+> 
+> Dmitri a Anna, kteří procházeli lesem s loveckou družinou, Kirila zahnali a našli Ezmereldu v bezvědomí a na pokraji smrti mezi stromy. Odnesli ji do Krezku a vyléčili ji. Jak Ezmerelda nabírala síly, bavila Annu a malého Ilju Krezkova historkami o svých dobrodružstvích v zemích za mlhami a naplnila Iljovi hlavu sny o lovu nestvůr, jaký vedla ona.
+> 
+> Když se Ezmereldina rána zcela zahojila, doprovodila ji Anna se třemi obyvateli Krezku do nedalekého Vallaki, kde si Ezmerelda nechala u hračkáře Gadofa Blinského zhotovit protézu. (Přestože výnosy barona Vallakoviche zakazovaly Vistani vstup za městské hradby, ocelová vůle a diplomatické způsoby baronky Krezkové stačily k obejití jakýchkoli takových omezení.) Ezmerelda Krezkovovým za jejich laskavost hluboce poděkovala a přísahala, že jim pomůže a ochrání je, kdykoli to budou potřebovat.
+> 
+> Když se Ezmerelda vrátila do Barovie hledat dr. Van Richtena, opět vyhledala útočiště u rodiny Krezkovových – a dozvěděla se o Iljově osudu a Annině úmluvě. Rozpálena spravedlivým hněvem přísahala, že Ilju přivede domů a najde způsob, jak Opata od vybrání jeho platby odradit. Od té doby tráví většinu dní i nocí slíděním po okolním Svalichském lese, kde pátrá po stopách Ilji a – pokud hráči dokončili [[Arc I - The Walls of Krezk|Oblouk I – Hradby Krezku]] – po doupěti vlkodlaků, kteří ho odvedli; jako pojízdnou základnu u břehů jezera Baratok jí slouží její vůz.
+> 
+> Ezmerelda, která je slabou jasnovidkou, také vycítila, že duchové v opatství jsou znepokojení a neklidní. Přestože k tomu dosud neměla příležitost, chystá se po návratu ze Svalichského lesa uspořádat seanci v naději, že se spojí s duchem, který ví víc o Opatovi a jeho plánech.
+# K2. Opatství svaté Markovie
+Cesta k Opatství svaté Markovie odpovídá popisu v <span class="citation">S5. Winding Road (p. 147)</span>.
+## K2a. Vstup do opatství
+Brána opatství a její strážci odpovídají popisu v <span class="citation">S6. The North Gate (p. 147)</span>. Než Otto a Zygfrek hráče doprovodí do opatství, chtějí vědět, proč přišli.
 
-If Otto and Zygfrek are accompanying the players, Otto leaps toward the wooden doors and knocks three times, whinnying in greeting. A few moments later, Clovin Belview (who is as described in <span class="citation">S17. Loft and Belfry (p. 152)</span>) answers the door and greets him skeptically, noting with irritation, “You’re not supposed to leave your posts." 
+> [!profile]+ **Profil: Otto a Zygfrek**
+> ***Pro hraní role***
+> ***Vyznění.*** Otto a Zygfrek by měli v hráčích budit pobavení svými kousky, výstřednostmi a hašteřením, nepohodlí tím, jak Otto nerespektuje osobní prostor, a Zygfrečinou přímostí, soucit se Zygfrečiným trápením kvůli vlastnímu vzhledu a hlasu, náklonnost k Ottově bezmezné optimistické povaze a mírné podráždění Zygfrečinou hrubostí.
+> 
+> ***Emoce.*** Otto nejčastěji cítí zvědavost, nadšení, rozmrzelost nebo spokojenost. Zygfrek nejčastěji cítí rozmrzelost, podezíravost, uraženost, melancholii nebo zamyšlení.
+> 
+> ***Motivace.*** Otta pohání především touha po jídle a pozornosti. Zygfrek pohání především její zahořklost a nenávist k sobě samé. Oba pohání věrnost Opatovi a touha po Opatově „dokonalosti“.
+> 
+> ***Inspirace.*** Při hraní Otta čerpejte z postav Dobby (*Harry Potter*), Gollum (*Lord of the Rings*), Jar-Jar Binks (*Star Wars*) a Pinky (*Pinky and the Brain*). Při hraní Zygfrek čerpejte z postav Squidward Tentacles (*Spongebob SquarePants*), Marvin the Paranoid Android (*The Hitchhiker's Guide to the Galaxy*) a Oscar the Grouch (*Sesame Street*).
+> 
+> ***O postavě***
+> ***Tvář.*** Před světem je Otto hýkající, přehnaně nadšený hlučoun, kterého fascinují zajímavé věci, kdežto Zygfrek je zadumaná, nevrlá cynička, která vždy najde něco, co by mohla urazit nebo na co si stěžovat. Pro ty, jimž důvěřuje, je Zygfrek tichou, melancholickou ženou plnou nenávisti k sobě samé, která zoufale touží po „dokonalosti“, jíž Opat slibuje.
+> 
+> ***Morálka.*** Pokud by byli napadeni, Otto by galantně ohlásil svůj úmysl bojovat a pak by okamžitě couvl, kdežto Zygfrek by požadovala, aby útočník přestal, a pokud by neuposlechl, prosila by o milost.
+> 
+> ***Vztahy.*** Otto a Zygfrek jsou služebníci Opata, bratranec a sestřenice Clovina Belviewa a prasynovec a praneteř Strahdova komorníka Cyruse Belviewa.
 
-Otto apologizes for doing so, and Zygfrek introduces the players and their purpose (if shared). Clovin then inspects the players for a moment, then turns and invites them to follow him into <span class="citation">S12. Courtyard (p. 150)</span>, toward the main hall, where the Abbot awaits. (If they do, Otto and Zygfrek then return to their posts—and their naps.)
+Pokud hráči řeknou, že hledají Vistanku, která pobývá v opatství, Zygfrek odpoví takto:
 
-> [!lore]+ **The Belviews' Perfection**
-> When the Belviews’ ancestors came to the Abbot over a century ago as described in <span class="citation">The Abbot (p. 225)</span>, they did not suffer leprosy, but a congenital disease that struck in early adulthood, leaving its victims physically frail and prematurely aged in appearance. 
-> 
-> The Abbot, though able to cure ordinary illness, could not heal them of this condition. Frustrated, desperate, and reluctantly encouraged by the Belviews’ pleas, the Abbot searched for other means of doing so.
-> 
-> It was Strahd, in disguise as Vasili von Holtz, who delivered the answer, furnishing the Abbot with forbidden lore plucked from the Amber Temple. With Vasili’s aid, the Abbot offered a new and unique treatment for each of the Belviews in turn, replacing blinded eyes with the eyes of a cat, arthritic knees with the legs of a mule, liver-spotted skin with the scales of a snake, and swollen feet with the wings of a bat.
-> 
-> The Belviews were delighted with their new appearances and attributes. The Abbot’s experiments, however, drove them to a strange kind of madness, infecting them with the mental traits of the animals whose parts they now shared. Those with carnivorous limbs or organs proved most dangerous to those around them, but even those with herbivorous parts proved unpredictable and uncontrollable at best.
-> 
-> With the Belviews’ reluctant consent, the Abbot sealed them away in the Abbey’s madhouse, promising to find a way to complete and “perfect" their transformation. He has toiled for over a century since then, occasionally abducting new Barovians and conducting additional experiments while searching in vain for a way to rid them of their condition. In recent decades, however, he has largely given up hope, choosing to focus his attention on other, more fruitful endeavors (such as lifting Strahd’s curse).
-> 
-> The Belviews’ descendants, however, have not yet lost hope. In the generations since their arrival, they have interbred both with one another and the new victims the Abbot brought to the Abbey, mixing their bestial traits and becoming strange chimeras with deep, twisted madness. The Abbot promises them regularly that he grows ever-closer to “perfecting" their transformations, giving them the beauty, strength, and swiftness they desperately crave—and so, the Belviews linger restlessly in their cells, awaiting a day that will never come.
-> 
-> Three months ago, when Strahd awoke in Castle Ravenloft, Rahadin came to the Abbey to announce his revival. As a means to win Strahd’s attention for his upcoming project, Vasilka, the Abbot offered Cyrus Belview—the oldest of the modern Belviews—as a “wedding gift," noting that Cyrus’s conscientiousness and dexterity would make him a fine servant for Rahadin’s master.
-> 
-> The Belviews, however, would have never tolerated the loss of their “patriarch." To address their concerns, the Abbot told them that Cyrus had reached a "new stage" in his journey; that this stage would unlock the doors of "salvation and transmutation"; and that Cyrus had been selected for a "special role at Castle Ravenloft" as a result. He didn't elaborate, however, that the "salvation and transmutation" in question were Strahd's alone, or that this "special role" was one of servitude, allowing the Belviews to assume that Cyrus had been elevated due to his "perfection."
+* **Pokud se Ezmerelda ještě nevrátila**, Zygfrek hráčům oznámí, že Vistanka jménem Ezmerelda d’Avenir je pryč po svých záležitostech a očekává se, že se vrátí druhý den po úplňku. (Zygfrek neví, kde Ezmerelda je, a když se jí hráči zeptají, kam šla, jen zabručí a pokrčí rameny.)
+* **Pokud se Ezmerelda vrátila**, Zygfrek nabídne, že hráče dovede k Opatovi, který ví, kde Ezmerelda bydlí.
 
-If the players appear disturbed or amused by the Belviews’ condition, Clovin asks as they walk whether they are surprised by his family’s appearance. If asked, he can share the following information:
+> [!info]+ **Kde je Ezmerelda?**
+> Ve dnech před prvním úplňkem, který hráči tráví ve Vallaki, pročesává Ezmerelda Svalichský les u Krezku a hledá stopy po pohřešovaném Iljovi Krezkovovi i doupě vlkodlačí smečky, která ty lesy straší. Do opatství se hodlá vrátit až druhý den po prvním úplňku, který hráči strávili ve Vallaki.
 
-* Long ago, Clovin’s ancestors came to the Abbey seeking a cure for a strange and mysterious illness. The Abbot healed them by perfecting their bodies, giving them new parts and traits that elevated them beyond their former, pitiful condition.
-* The Abbot’s work, however, is not yet finished. The Belviews patiently await the day when their “blessed perfection" shall be complete—a day that Clovin believes is fast approaching. (If asked why, Clovin says only that his father, Cyrus, has only recently been perfected. Clovin shares that he is confident his turn shall come next, given his own long-standing loyalty and service to the Abbot.)
+Po průchodu severní branou míjejí hráči <span class="citation">S7. Graveyard (p. 148)</span> a blíží se k <span class="citation">S10. Abbey Entrance (p. 148)</span>.
 
-If the players ask Clovin about the Vistana described in Madam Eva’s reading, he notes only (and with minor irritation) that the Abbot will answer their questions.
-## K2b. Main Hall
-This area is largely as described in <span class="citation">S13. Main Hall (p. 150)</span>. However, there is no music if Clovin is guiding the players. Additionally, Vasilka is a **flesh golem** with an Intelligence of 17, a Charisma of 8, proficiencies in Religion and Nature, and the ability to speak and understand Common and Celestial.
+Pokud Otto a Zygfrek hráče doprovázejí, Otto skočí k dřevěným dveřím, třikrát zaklepe a na pozdrav zaržá. O pár okamžiků později dveře otevře Clovin Belview (který odpovídá popisu v <span class="citation">S17. Loft and Belfry (p. 152)</span>), skepticky ho pozdraví a podrážděně poznamená: „Nemáte opouštět svá stanoviště.“
 
-> [!profile]+ **Profile: The Abbot**
-> **Roleplaying Information**
-> ***Resonance.*** The Abbot should inspire discomfort with his stoicism and routine observations regarding "mortals," disgust for his lack of respect for human life or values, anger for his supreme and unshakeable self-confidence, and gratitude for his (somewhat off-putting) friendliness and willingness to cure the players of lycanthropy without cost.
-> 
-> ***Emotions.*** The Abbot most often feels curious, intrigued, cold, dispassionate, or (rarely) enraged.
-> 
-> ***Motivations.*** The Abbot wants to lift the "curse" upon Barovia and preserve the "sanctity" of the Abbey of Saint Markovia.
-> 
-> ***Inspirations.*** When playing the Abbot, channel Vision (*Marvel*), Data (*Star Trek*), and Dr. Manhattan (*Watchmen*).
-> 
-> **Character Information**
-> ***Persona.*** To the world, the Abbot is a serene, but inhumanly dispassionate holy man and "scientist." Only the Abbot knows that he is Ithuriel: an angel of the Morninglord sent to honor the memory of Saint Markovia.
-> 
-> ***Morale.*** In a fight, the Abbot would reveal his divine form, then command his enemies to lay down their weapons and surrender. If they failed to do so, he would attack them mercilessly, seeking to crush any resistance until and unless they surrendered or fled.
-> 
-> ***Relationships.*** The Abbot, an angel of the Morninglord once called Ithuriel, is the master of the Abbey of Saint Markovia, including the **mongrelfolk** Otto, Zygfrek, and Clovin Belview. He is also the creator of the **flesh golem** Vasilka and the resurrector of Kala Krezkova.
+Otto se za to omluví a Zygfrek představí hráče a jejich záměr (pokud ho prozradili). Clovin si hráče chvíli prohlíží, pak se otočí a vyzve je, aby ho následovali přes <span class="citation">S12. Courtyard (p. 150)</span> do hlavní síně, kde čeká Opat. (Pokud tak učiní, Otto a Zygfrek se vrátí na svá stanoviště – a ke svému dřímání.)
 
-The Abbot greets the players with warmth, welcoming them to the Abbey of Saint Markovia. If asked about the Vistana described in Madam Eva’s reading, he can share the following information:
+> [!lore]+ **Dokonalost Belviewových**
+> Když předkové Belviewových před více než stoletím přišli k Opatovi, jak je popsáno v <span class="citation">The Abbot (p. 225)</span>, netrpěli malomocenstvím, ale vrozenou nemocí, která udeřila v časné dospělosti a zanechávala své oběti tělesně křehké a předčasně zestárlé.
+> 
+> Opat, ačkoli dokázal léčit obyčejné nemoci, je z tohoto stavu vyléčit nedokázal. Frustrovaný, zoufalý a zdráhavě povzbuzován prosbami Belviewových hledal jiné způsoby.
+> 
+> Odpověď přinesl Strahd, převlečený za Vasiliho von Holtz, když Opatovi opatřil zapovězené vědění vyrvané z Jantarového chrámu. S Vasiliho pomocí nabídl Opat každému z Belviewových novou, jedinečnou léčbu: oslepené oči nahradil kočičíma očima, kolena sužovaná artritidou mezkovýma nohama, kůži posetou stařeckými skvrnami hadími šupinami a oteklá chodidla netopýřími křídly.
+> 
+> Belviewovi byli ze svého nového vzhledu a vlastností nadšení. Opatovy pokusy je však dohnaly k zvláštnímu druhu šílenství – nakazily je duševními rysy zvířat, jejichž části nyní sdíleli. Ti s údy či orgány masožravců se ukázali jako nejnebezpečnější pro své okolí, ale i ti s částmi býložravců byli přinejlepším nevyzpytatelní a neovladatelní.
+> 
+> S neochotným souhlasem Belviewových je Opat zavřel do blázince opatství a slíbil, že najde způsob, jak jejich proměnu dokončit a „zdokonalit“. Od té doby se lopotí přes sto let, občas unese nové Barovany a provádí další pokusy, zatímco marně hledá způsob, jak je jejich stavu zbavit. V posledních desetiletích však naději z velké části vzdal a raději se soustředí na jiné, plodnější úsilí (například na zrušení Strahdovy kletby).
+> 
+> Potomci Belviewových však naději dosud neztratili. Za generace od svého příchodu se křížili mezi sebou i s novými oběťmi, které Opat přivedl do opatství, mísili své zvířecí rysy a stali se podivnými chimérami s hlubokým, zvráceným šílenstvím. Opat jim pravidelně slibuje, že se čím dál víc blíží „zdokonalení“ jejich proměny, které jim dá krásu, sílu a hbitost, po nichž tak zoufale prahnou – a tak Belviewovi neklidně dlí ve svých celách a čekají na den, který nikdy nepřijde.
+> 
+> Před třemi měsíci, když se Strahd probudil na hradě Ravenloft, přišel do opatství Rahadin, aby oznámil jeho procitnutí. Aby si Opat získal Strahdovu pozornost pro svůj chystaný projekt, Vasilku, nabídl mu Cyruse Belviewa – nejstaršího z dnešních Belviewů – jako „svatební dar“ s poznámkou, že díky své svědomitosti a obratnosti by byl Cyrus pro Rahadinova pána skvělým služebníkem.
+> 
+> Belviewovi by však ztrátu svého „patriarchy“ nikdy nestrpěli. Aby rozptýlil jejich obavy, řekl jim Opat, že Cyrus dosáhl „nového stupně“ na své cestě, že tento stupeň otevře brány „spásy a přerodu“ a že Cyrus byl v důsledku toho vybrán pro „zvláštní úlohu na hradě Ravenloft“. Neupřesnil však, že ona „spása a přerod“ patří jen Strahdovi ani že ta „zvláštní úloha“ je úlohou služebnou – a nechal Belviewovy věřit, že Cyrus byl povýšen díky své „dokonalosti“.
 
-* **If Ezmerelda has not yet returned**, the Abbot informs the players that the Vistana called Ezmerelda d’Avenir is away on business, and is expected to return two days after the full moon. (The Abbot doesn’t know where Ezmerelda is, and notes gently that her business is her own. “She is a free spirit, that one," he observes thoughtfully.)
-* **If Ezmerelda has returned**, the Abbot offers to show the players to her room. However, he first asks the players to assist him with a particular task. (See **Vasilka’s Lesson** below.)
+Pokud se hráči zdají stavem Belviewových znepokojeni či pobaveni, zeptá se jich Clovin cestou, zda je vzhled jeho rodiny překvapuje. Pokud se ho hráči zeptají, může prozradit následující:
+
+* Kdysi dávno přišli Clovinovi předkové do opatství hledat lék na podivnou a záhadnou nemoc. Opat je uzdravil tím, že zdokonalil jejich těla – dal jim nové části a vlastnosti, které je povznesly nad jejich dřívější, ubohý stav.
+* Opatovo dílo však ještě není dokončeno. Belviewovi trpělivě čekají na den, kdy bude jejich „požehnaná dokonalost“ završena – na den, o němž Clovin věří, že se rychle blíží. (Pokud se ho hráči zeptají proč, Clovin řekne jen, že jeho otec Cyrus byl nedávno zdokonalen. Prozradí, že je přesvědčen, že další na řadě bude on, vzhledem ke své dlouholeté věrnosti a službě Opatovi.)
+
+Pokud se hráči Clovina zeptají na Vistanku, o níž mluvil výklad madam Evy, poznamená jen (s mírným podrážděním), že na jejich otázky odpoví Opat.
+## K2b. Hlavní síň
+Tato oblast do značné míry odpovídá popisu v <span class="citation">S13. Main Hall (p. 150)</span>. Pokud však hráče vede Clovin, nehraje tu žádná hudba. Navíc je Vasilka masový golem (**flesh golem**) s Intelligence 17, Charisma 8, zdatností v dovednostech Religion a Nature a schopností mluvit obecnou řečí (Common) a nebešťinou (Celestial) a rozumět jim.
+
+> [!profile]+ **Profil: Opat**
+> **Pro hraní role**
+> ***Vyznění.*** Opat by měl budit nepohodlí svým stoicismem a mechanickými postřehy o „smrtelnících“, odpor tím, jak nerespektuje lidský život a hodnoty, hněv svou svrchovanou a neotřesitelnou sebejistotou a vděčnost svou (poněkud odpudivou) přívětivostí a ochotou zdarma vyléčit hráče z lykantropie.
+> 
+> ***Emoce.*** Opat nejčastěji cítí zvědavost, zaujetí, chlad, nezúčastněnost nebo (vzácně) zuřivost.
+> 
+> ***Motivace.*** Opat chce zrušit „kletbu“, která spočívá na Barovii, a zachovat „posvátnost“ Opatství svaté Markovie.
+> 
+> ***Inspirace.*** Při hraní Opata čerpejte z postav Vision (*Marvel*), Data (*Star Trek*) a Dr. Manhattan (*Watchmen*).
+> 
+> **O postavě**
+> ***Tvář.*** Před světem je Opat klidný, ale nelidsky nezúčastněný svatý muž a „vědec“. Jen Opat sám ví, že je Ithuriel: anděl Jitřního pána seslaný, aby uctil památku svaté Markovie.
+> 
+> ***Morálka.*** V boji by Opat odhalil svou božskou podobu a pak by svým nepřátelům přikázal, aby složili zbraně a vzdali se. Pokud by tak neučinili, nemilosrdně by na ně zaútočil a snažil by se rozdrtit jakýkoli odpor, dokud by se nevzdali nebo neuprchli.
+> 
+> ***Vztahy.*** Opat, anděl Jitřního pána kdysi zvaný Ithuriel, je pánem Opatství svaté Markovie včetně kříženců (**mongrelfolk**) Otta, Zygfrek a Clovina Belviewa. Je také tvůrcem masového golema (**flesh golem**) Vasilky a tím, kdo vzkřísil Kalu Krezkovou.
+
+Opat hráče vřele pozdraví a uvítá je v Opatství svaté Markovie. Pokud se ho zeptají na Vistanku, o níž mluvil výklad madam Evy, může prozradit následující:
+
+* **Pokud se Ezmerelda ještě nevrátila**, Opat hráčům oznámí, že Vistanka jménem Ezmerelda d’Avenir je pryč po svých záležitostech a očekává se, že se vrátí dva dny po úplňku. (Opat neví, kde Ezmerelda je, a jemně poznamená, že její záležitosti jsou jen její. „Je to svobodný duch,“ poznamená zamyšleně.)
+* **Pokud se Ezmerelda vrátila**, Opat nabídne, že hráče zavede do jejího pokoje. Nejprve je však požádá o pomoc s jedním úkolem. (Viz **Vasilčina lekce** níže.)
 
 ![[The Abbot.png]]
-<span class="credit">"The Abbot" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">„Opat“ – autor: Caleb Cleveland. Podpořte ho na <a href="https://patreon.com/calebisdrawing/">Patreonu!</a></span>
 
-### The Abbot’s Knowledge
-The Abbot can also share the following information about himself, Vasilka, and Strahd if asked:
+### Co ví Opat
+Pokud se ho hráči zeptají, může Opat prozradit i následující informace o sobě, Vasilce a Strahdovi:
 
-* He serves as the Abbot of the Abbey of Saint Markovia in Saint Markovia’s honor, a position he has held for some years. He was sent to reopen the Abbey following its tragic fate and abandonment—to make it a place of healing and sanctuary once again. (If asked how many years he has served at the Abbey, the Abbot shares that he has held his position for one hundred and seventeen years, ten months, and twenty-six days—a trivially brief time, in his mind. The Abbot won’t share his true angelic nature or identity, noting simply and serenely that he is merely a humble servant of the Morninglord.)
-* Twice has he had the opportunity to look into Strahd’s eyes—which, as it is said, are the windows to one’s soul. On the first occasion, he saw a man who ached with an unquenchable thirst to fill the void in his heart, like a parched desert longing for rain. On the second occasion, he realized that Strahd was cursed—a curse that clutched his very soul—that his soul was tied to the land itself, and that his ailment rendered the land barren and its people imprisoned. (If asked, the Abbot can share that the first occasion took place four hundred and seventeen years, eight months, and three days ago, and that the second took place one hundred and fifteen years, six months, and sixteen days ago. If asked how he met Strahd on the first occasion, the Abbot smiles serenely and states merely that the Morninglord’s service leads one on many paths.)
-* The Abbot believes that filling the void in Strahd’s soul—which Strahd has filled uselessly with power, pride, and wealth—is necessary to heal the wound that afflicts the land of Barovia. Only love can fill such a void, however: the deep, abiding, and unconditional love that Strahd has been denied all his life.
-* As an immortal, however, Strahd requires the companionship of a creature that will last for as long as he will. It is for this reason that the Abbot has constructed Vasilka: a **flesh golem** built to be the perfect bride to a man of power, stature, and noble descent. Unlike others of her kind, Vasilka was forged with a spark of life within her heart, allowing her to be the companion that Strahd so desperately needs.
-* The Abbot has begun to train Vasilka in the arts of etiquette and romance. Given Strahd’s brilliant intelligence and his respect for creatures of similar intellect, the Abbot has also taught her philosophy, theology, and the natural sciences. Soon, the Abbot will offer her to Strahd as his bride—and when they are wed, the Abbot believes, the curse upon the land shall be lifted. 
+* Slouží jako opat Opatství svaté Markovie na počest svaté Markovie a tento úřad zastává již několik let. Byl seslán, aby opatství po jeho tragickém osudu a opuštění znovu otevřel – aby se z něj opět stalo místo uzdravení a útočiště. (Pokud se ho hráči zeptají, kolik let už v opatství slouží, Opat prozradí, že svůj úřad zastává sto sedmnáct let, deset měsíců a dvacet šest dní – v jeho očích zanedbatelně krátkou dobu. Opat neprozradí svou pravou andělskou podstatu ani totožnost a prostě a klidně poznamená, že je jen pokorným služebníkem Jitřního pána.)
+* Dvakrát měl příležitost pohlédnout Strahdovi do očí – které jsou, jak se říká, okny do duše. Poprvé spatřil muže, který se sžíral neuhasitelnou žízní po vyplnění prázdnoty ve svém srdci jako vyprahlá poušť, jež touží po dešti. Podruhé si uvědomil, že Strahd je proklet – kletbou, jež svírá samotnou jeho duši –, že jeho duše je spoutána se samotnou zemí a že jeho nemoc činí zemi neplodnou a její lid uvězněným. (Pokud se ho hráči zeptají, může Opat prozradit, že poprvé se tak stalo před čtyřmi sty sedmnácti lety, osmi měsíci a třemi dny a podruhé před sto patnácti lety, šesti měsíci a šestnácti dny. Pokud se ho hráči zeptají, jak se se Strahdem poprvé setkal, Opat se klidně usměje a prohlásí jen, že služba Jitřnímu pánovi vede člověka po mnoha cestách.)
+* Opat věří, že vyplnit prázdnotu ve Strahdově duši – kterou Strahd zbytečně zaplňuje mocí, pýchou a bohatstvím – je nezbytné k zahojení rány, která sužuje barovskou zemi. Takovou prázdnotu však dokáže vyplnit jen láska: hluboká, trvalá a bezpodmínečná láska, která byla Strahdovi celý život odpírána.
+* Jako nesmrtelný však Strahd potřebuje společnost tvora, který vydrží tak dlouho jako on. Proto Opat sestrojil Vasilku: masového golema (**flesh golem**) stvořeného jako dokonalá nevěsta pro muže moci, postavení a urozeného původu. Na rozdíl od ostatních svého druhu byla Vasilka vytvořena s jiskrou života v srdci, což jí umožňuje být společnicí, kterou Strahd tak zoufale potřebuje.
+* Opat začal Vasilku učit umění etikety a romantiky. Vzhledem ke Strahdově skvělé inteligenci a jeho úctě k tvorům podobného intelektu ji Opat učil také filozofii, teologii a přírodní vědy. Brzy ji Opat Strahdovi nabídne za nevěstu – a až budou oddáni, kletba spočívající na zemi bude podle Opata zrušena.
 
-The Abbot notes, however, with some concern, that his window of opportunity is fast drawing to a close. Although he can discern neither its true nature nor its manner or time of arrival, he can sense the approach of a great storm on the horizon—one that will soon alter Strahd’s fate forever. (The Abbot is referring, of course, to the impending Grand Conjunction, though he does not know its name.)
+Opat však s jistými obavami poznamená, že jeho příležitost se rychle uzavírá. Přestože nedokáže rozpoznat její pravou podstatu ani způsob či čas jejího příchodu, cítí, jak se na obzoru blíží velká bouře – bouře, která brzy navždy změní Strahdův osud. (Opat samozřejmě mluví o blížící se Velké konjunkci, i když nezná její jméno.)
 
-The Abbot can also share the following information about the Belviews if asked:
+Pokud se ho hráči zeptají, může Opat prozradit i následující o Belviewových:
 
-* Shortly after his arrival at the Abbey, a family suffering a debilitating, unwholesome disease, came to the abbey seeking salvation. Their hereditary condition, which struck in early adulthood, left its victims physically frail and prematurely aged in appearance.
-* The Abbot could not heal their malady—a congenital disease, rather than a mere infection or wound—directly. However, he was able to ameliorate its effects through grafting the parts of beasts upon their ailing bodies, replacing blinded eyes with the eyes of a cat, arthritic knees with the legs of a dog, liver-spotted skin with the scales of a snake, or swollen feet with the hooves of a mule.
-* The family’s illness, however, left their minds weak and vulnerable. The process, sadly, left their thoughts and emotions in a disturbed and unquiet state, requiring them to remain patients of the Abbey indefinitely, until their transformation could be perfected. The modern-day Belviews are their descendants. (The Abbot insists, if asked, that he is confident that he will one day find a cure for their condition.)
+* Krátce po jeho příchodu do opatství přišla do opatství hledat spásu rodina sužovaná oslabující, nezdravou nemocí. Jejich dědičný stav, který udeřil v časné dospělosti, zanechával oběti tělesně křehké a předčasně zestárlé.
+* Opat nemohl jejich neduh – vrozenou nemoc, nikoli pouhou nákazu či zranění – vyléčit přímo. Dokázal však zmírnit jeho účinky tím, že na jejich nemocná těla naroubovával části zvířat: oslepené oči nahradil kočičíma očima, kolena sužovaná artritidou psíma nohama, kůži posetou stařeckými skvrnami hadími šupinami a oteklá chodidla mezčími kopyty.
+* Nemoc rodiny však zanechala jejich mysli slabé a zranitelné. Proces jejich myšlenky a city bohužel uvrhl do rozrušeného a neklidného stavu, takže musejí zůstat pacienty opatství na neurčito, dokud nebude jejich proměna zdokonalena. Dnešní Belviewovi jsou jejich potomky. (Pokud se ho hráči zeptají, Opat trvá na tom, že je přesvědčen, že jednoho dne na jejich stav lék najde.)
 
-Finally, the Abbot can also share the following information about Saint Markovia and the Abbey if asked:
+A konečně může Opat na požádání prozradit i následující o svaté Markovii a o opatství:
 
-* Saint Markovia was of the same generation as Strahd von Zarovich—but where Strahd lived a life of steel and blood, Saint Markovia walked in grace beneath the light of the Morninglord. 
-* As a youth, Markovia followed her heart and became a priest of the Morninglord soon after her eighteenth birthday. She proved to be a charismatic proselytizer and, before the age of thirty, had gained a reputation for allowing no evil to stand before her.
-* It was Tasha Petrovna, an oracle and cleric of the Morninglord, who, with the guidance of one of the Morninglord’s angels, elevated Saint Markovia as a new prophet of the Morninglord’s faith. Following internal strife with Saint Andral, the Most High Priest of the Morninglord’s church, however, Saint Markovia departed the Morninglord’s holy lands and built a new sanctuary in the quiet wilderness: the Abbey of Saint Markovia, which served as both a convent and hospital.
-* Shortly after Strahd’s curse fell upon the valley, Saint Markovia gathered her followers and marched upon Castle Ravenloft. Strahd destroyed them all, and those who remained at the Abbey soon fell into madness and despair. (“The darkness cannot be defeated by steel alone," the Abbot murmurs sorrowfully. “Only light can do that." If asked about the “sword of sunlight" Madam Eva mentioned, the Abbot shakes his head and laughs softly, insisting that no such thing dwells in Barovia.)
+* Svatá Markovia byla ze stejné generace jako Strahd von Zarovich – ale zatímco Strahd žil životem oceli a krve, svatá Markovia kráčela v milosti pod světlem Jitřního pána.
+* Jako mladá dívka následovala Markovia své srdce a krátce po svých osmnáctých narozeninách se stala kněžkou Jitřního pána. Ukázala se jako charismatická šiřitelka víry a než jí bylo třicet, proslula tím, že před ní žádné zlo neobstojí.
+* Byla to Tasha Petrovna, věštkyně a kněžka Jitřního pána, kdo s vedením jednoho z andělů Jitřního pána povýšil svatou Markovii na novou prorokyni víry Jitřního pána. Po vnitřních sporech se svatým Andralem, Nejvyšším knězem církve Jitřního pána, však svatá Markovia opustila svaté země Jitřního pána a v tiché divočině vybudovala nové útočiště: Opatství svaté Markovie, které sloužilo jako klášter i nemocnice.
+* Krátce poté, co na údolí dopadla Strahdova kletba, shromáždila svatá Markovia své následovníky a vytáhla na hrad Ravenloft. Strahd je všechny zničil a ti, kdo zůstali v opatství, brzy propadli šílenství a zoufalství. („Temnotu nelze porazit jen ocelí,“ zamumlá Opat žalostně. „To dokáže jen světlo.“ Pokud se ho hráči zeptají na „meč slunečního světla“, o němž mluvila madam Eva, Opat zavrtí hlavou, tiše se zasměje a trvá na tom, že v Barovii nic takového není.)
 
-> [!lore]+ **Who is the Abbot?**
-> The Abbot—in truth a **deva** named Ithuriel—was once an angelic emissary of the Morninglord. It was he who chose Markovia to be the Morninglord’s prophet, and he who guided the oracle Tasha Petrovna to find and sanctify her, bestowing upon Markovia the holy relic that would one day become the *Icon of Dawn's Grace*—a mark of office that contained a spark of the Abbot’s pure divinity. (It was on this occasion that the Abbot—by chance—first encountered Strahd von Zarovich, then a commanding officer in King Barov’s army.)
+> [!lore]+ **Kdo je Opat?**
+> Opat – ve skutečnosti **deva** jménem Ithuriel – byl kdysi andělským vyslancem Jitřního pána. Byl to on, kdo vybral Markovii za prorokyni Jitřního pána, a on, kdo vedl věštkyni Tashu Petrovnu, aby ji našla a posvětila, a daroval Markovii svatou relikvii, z níž se jednoho dne stala *Ikona Jitřní milosti* – odznak úřadu, v němž spočívala jiskra Opatova ryzího božství. (Právě při této příležitosti se Opat – náhodou – poprvé setkal se Strahdem von Zarovichem, tehdy velícím důstojníkem ve vojsku krále Barova.)
 > 
-> The Abbot, who first arrived in Krezk as described in <span class="citation">Chapter 8: The Village of Krezk (p. 143)</span> and <span class="citation">The Abbot (p. 225)</span>, came to the Abbey in memory of Saint Markovia, hoping to honor and restore the legacy of the woman he had once elevated. 
+> Opat, který poprvé přišel do Krezku, jak je popsáno v <span class="citation">Chapter 8: The Village of Krezk (p. 143)</span> a <span class="citation">The Abbot (p. 225)</span>, přišel do opatství na památku svaté Markovie v naději, že uctí a obnoví odkaz ženy, kterou kdysi povýšil.
 > 
-> However, the Dark Powers have corrupted his soul, subtly binding and tainting the Abbot’s divinity with chains and shrouds of spiritual mist. It was the Belviews who, through the Dark Powers’ quiet machinations, forged the first link in that chain—and Strahd who helped the Abbot fall from grace completely.
+> Temné mocnosti však jeho duši zkazily – nenápadně spoutaly a poskvrnily Opatovo božství okovy a závoji duchovní mlhy. Byli to Belviewovi, kdo díky tichým machinacím Temných mocností ukoval první článek toho řetězu – a Strahd, kdo Opatovi pomohl zcela padnout z milosti.
 > 
-> The Abbot has since descended into madness and quiet zealotry, wholly convinced of his own righteousness. Only by defeating him and unlocking his soul with the *Icon of Dawn's Grace* can the players cleanse the corruption that taints his heart and restore him to sanity.
-### Vasilka’s Lesson
-Before escorting the players to Ezmerelda’s room, the Abbot first asks them to assist in Vasilka’s next lesson.
+> Opat od té doby upadl do šílenství a tichého fanatismu, zcela přesvědčený o vlastní spravedlnosti. Jen tím, že ho hráči porazí a odemknou jeho duši *Ikonou Jitřní milosti*, mohou očistit zkaženost, která poskvrňuje jeho srdce, a vrátit mu zdravý rozum.
+### Vasilčina lekce
+Než Opat hráče zavede do Ezmereldina pokoje, požádá je nejprve o pomoc s Vasilčinou další lekcí.
 
-Although the Abbot has much experience in love of the divine, he admits he is wholly ignorant in the ways of love between a man and a woman. He therefore asks the players to teach Vasilka their knowledge of romantic love, including any tales they may have of their experiences with it. "If she is to wed," he says, “she must first understand the complex and irrational ways of mortal love."
+Přestože má Opat bohaté zkušenosti s láskou k božskému, přiznává, že o lásce mezi mužem a ženou neví naprosto nic. Proto požádá hráče, aby Vasilku naučili, co vědí o romantické lásce, včetně příběhů o tom, jak ji sami prožili. „Má-li se vdávat,“ praví, „musí nejprve porozumět složitým a nerozumným cestám smrtelné lásky.“
 
-If the players accept, the Abbot asks Vasilka to introduce herself, which she does with a small, if clumsy, curtsey. The Abbot defers almost entirely to the players for the duration of this brief “lesson," though he steps in to discourage unsavory topics if necessary.
+Pokud hráči souhlasí, Opat požádá Vasilku, aby se představila, což udělá s malým, i když nemotorným pukrlátkem. Po dobu této krátké „lekce“ nechává Opat slovo téměř výhradně hráčům, ale v případě potřeby zasáhne, aby odradil od nevhodných témat.
 
 ![[Vasilka.png]]
-<span class="credit">"Vasilka" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">„Vasilka“ – autor: Caleb Cleveland. Podpořte ho na <a href="https://patreon.com/calebisdrawing/">Patreonu!</a></span>
 
-> [!profile]+ **Profile: Vasilka, the Flesh Golem**
-> **Roleplaying Information**
-> ***Resonance.*** Vasilka should inspire endearment for her clumsy sweetness, occasionally awkward naivete, overpowering innocence, insatiable love of learning, and ability to find a silver lining to every cloud; sympathy for her anxiety and fear of angering the Abbot; and flattery for her genuine and rapt fascination with the players and their heroic adventures.
+> [!profile]+ **Profil: Vasilka, masový golem**
+> **Pro hraní role**
+> ***Vyznění.*** Vasilka by měla budit náklonnost svou nemotornou roztomilostí, občas trapnou naivitou, odzbrojující nevinností, neukojitelnou láskou k učení a schopností najít na všem něco dobrého; soucit se svou úzkostí a strachem, že rozhněvá Opata; a pocit polichocení svým upřímným a uchváceným zaujetím hráči a jejich hrdinskými dobrodružstvími.
 > 
-> ***Emotions.*** Vasilka most often feels curious, joyful, thoughtful, shy, anxious, hopeful, and dreamy.
+> ***Emoce.*** Vasilka nejčastěji cítí zvědavost, radost, zamyšlení, ostych, úzkost, naději a snivost.
 > 
-> ***Motivations.*** Vasilka wants to make the Abbot happy, befriend her **flesh golem** "brother," and learn as much as she can about people and the world.
+> ***Motivace.*** Vasilka chce udělat Opatovi radost, spřátelit se se svým „bratrem“, masovým golemem (**flesh golem**), a dozvědět se co nejvíc o lidech a o světě.
 > 
-> ***Inspirations.*** When playing Vasilka, channel Newt Scamander (*Fantastic Beasts*), Hinata Hyuuga (*Naruto*), and Alice (*Alice in Wonderland*).
+> ***Inspirace.*** Při hraní Vasilky čerpejte z postav Newt Scamander (*Fantastic Beasts*), Hinata Hyuuga (*Naruto*) a Alice (*Alice in Wonderland*).
 > 
-> **Character Information**
-> ***Persona.*** To the world, Vasilka is a polite, withdrawn, and well-mannered maiden. To those she trusts, she is a shy, occasionally anxious, and desperately curious spirit.
+> **O postavě**
+> ***Tvář.*** Před světem je Vasilka zdvořilá, zdrženlivá a dobře vychovaná dívka. Pro ty, jimž důvěřuje, je plachou, občas úzkostnou a zoufale zvídavou duší.
 > 
-> ***Morale.*** At the time the players meet her, Vasilka would cower and plead for peace if attacked, not fighting even to defend herself.
+> ***Morálka.*** V době, kdy ji hráči potkají, by se Vasilka při napadení krčila a prosila o mír a nebojovala by ani na vlastní obranu.
 > 
-> ***Relationships.*** Vasilka is the Abbot's creation and the "younger sister" of the Abbey's mindless **flesh golem**.
+> ***Vztahy.*** Vasilka je Opatovým výtvorem a „mladší sestrou“ bezduchého masového golema (**flesh golem**) opatství.
 
-Throughout the lesson, Vasilka listens to the players with rapt attention and fascination, asking frequent clarifying and follow-up questions.
+Během lekce Vasilka hráčům naslouchá s uchvácenou pozorností a zaujetím a často klade upřesňující a doplňující otázky.
 
-At an appropriate time, she asks the players whether flowers are a proper way to signify one’s care for another. As soon as the players have answered this question, Marzena, the bat-winged Belview in the courtyard (described in <span class="citation">S12d. Tethering Posts, p. 150</span>), escapes her post. Read:
+Ve vhodnou chvíli se hráčů zeptá, zda jsou květiny vhodným způsobem, jak dát najevo, že o někoho pečujete. Jakmile hráči na tuto otázku odpovědí, utrhne se ze svého stanoviště Marzena, Belviewová s netopýřími křídly na nádvoří (popsaná v <span class="citation">S12d. Tethering Posts, p. 150</span>). Přečtěte:
 
 <div class="description">
-<p>The terrible splintering of wood suddenly splits the air, followed immediately by the sound of rattling chains, beating, leathery wings, and an unintelligible scream of triumph. A moment later, a wide-eyed Clovin Belview bursts through the doors, his chest heaving as the cherubic head upon his shoulder wails with distress. "Marzena has escaped," he pants.</p>
+<p>Vzduch náhle protne strašlivé praskání tříštícího se dřeva, po němž okamžitě následuje řinčení řetězů, mávání kožnatých křídel a nesrozumitelný vítězný výkřik. O okamžik později vtrhne do dveří Clovin Belview s vytřeštěnýma očima; hruď se mu zvedá a andělská hlavička na jeho rameni úzkostně kvílí. „Marzena utekla,“ funí.</p>
 </div>
 
-The Abbot gracefully excuses himself, insisting that the players continue their lesson with Vasilka rather than accompany him. He accompanies Clovin outside into the courtyard, whereupon he uses his ***change shape*** feature to assume the form of a **giant eagle**. He then takes to the skies in pursuit of Marzena. (Clovin stands guard in the courtyard, politely asking any players who depart the main hall to remain there until the Abbot has returned.)
+Opat se ladně omluví a trvá na tom, aby hráči místo toho, aby šli s ním, pokračovali v lekci s Vasilkou. Doprovodí Clovina ven na nádvoří, kde pomocí své schopnosti ***change shape*** přijme podobu obřího orla (**giant eagle**). Pak se vznese k nebi a pronásleduje Marzenu. (Clovin hlídá na nádvoří a zdvořile žádá všechny hráče, kteří opustí hlavní síň, aby tam zůstali, dokud se Opat nevrátí.)
 
-Once the Abbot has gone, Vasilka shyly asks whether she can share something with the players. If the players assent, she removes the golden sun disk hanging about the fireplace, which no longer conceals a *potion of healing (superior)*, but a small, clumsily-made garland necklace of red wildflowers.
+Jakmile je Opat pryč, Vasilka se ostýchavě zeptá, zda se s hráči může o něco podělit. Pokud hráči svolí, sejme zlatý sluneční kotouč visící nad krbem, za nímž už není ukrytý *potion of healing (superior)*, ale malý, nemotorně upletený věneček z rudých lučních květů.
 
-Vasilka first asks to confirm that flowers are a way to signify care. (If the players previously told her that they are not, she appears crestfallen and slightly abashed upon asking.) She can then share the following information:
+Vasilka se nejprve ujistí, že květiny jsou způsobem, jak dát najevo péči. (Pokud jí hráči dříve řekli, že nejsou, vypadá při otázce zdrceně a trochu zahanbeně.) Pak může prozradit následující:
 
-* The east wing of the Abbey is guarded by a **flesh golem** like her, but which lacks whichever spark allows her to think and speak. Vasilka doesn’t know much about it, but knows that the Abbot built it before her, as a means to first perfect his craft.
-* The Abbot has strictly forbidden her from approaching it, insisting that interaction with such a brute would “disturb her delicate constitution" and “afflict her mind with unpleasant thoughts."
-* Vasilka has watched it from a distance, and feels that it must be lonely. She feels sorrowful for it, and believes that it deserves recognition and respect for its toils. “We are siblings, in a way," she says quietly. “Were we not both made by the same hand?"
-* While exploring the garden, Vasilka was struck by the beauty of the wildflowers there, and linked them into a garland to give the golem as a gift. “It seems so terrible that it should lurk always in the darkness of the east wing," she says, “and never see the wonderful things that await outside." She has kept the garland hidden, however, fearing that the Abbot would not approve of its purpose.
+* Východní křídlo opatství střeží masový golem (**flesh golem**) jako ona, kterému však chybí jakási jiskra, jež jí umožňuje myslet a mluvit. Vasilka o něm moc neví, ale ví, že ho Opat postavil před ní, aby nejprve zdokonalil své řemeslo.
+* Opat jí přísně zakázal se k němu přibližovat a trvá na tom, že styk s takovým hrubiánem by „narušil její křehkou povahu“ a „zatížil její mysl nepříjemnými myšlenkami“.
+* Vasilka ho pozorovala z dálky a cítí, že musí být osamělý. Je jí ho líto a věří, že si za svou dřinu zaslouží uznání a úctu. „Svým způsobem jsme sourozenci,“ řekne tiše. „Nestvořila nás snad tatáž ruka?“
+* Když Vasilka procházela zahradou, uchvátila ji krása tamních lučních květů a uvila z nich věneček, který chtěla golemovi darovat. „Připadá mi tak strašné, že musí pořád dlít v temnotě východního křídla,“ řekne, „a nikdy nevidí ty nádherné věci, které čekají venku.“ Věneček však držela v úkrytu, protože se bála, že Opat by jeho účel neschválil.
 
-> [!abstract]+ **Anna's Sacrifice**
-> If the players ask Vasilka about Anna Krezkov's sacrifice of her heart, Vasilka shares her genuine discomfort and sympathy for Anna's situation. "But I trust the Abbot," she says, somewhat reluctantly, and adds, "Surely he must have good reason for his decisions."
+> [!abstract]+ **Annina oběť**
+> Pokud se hráči Vasilky zeptají na to, že Anna Krezková obětuje své srdce, Vasilka dá najevo upřímné rozpaky a soucit s Anninou situací. „Ale Opatovi věřím,“ řekne poněkud zdráhavě a dodá: „Jistě má pro svá rozhodnutí dobrý důvod.“
 
-Vasilka asks the players to deliver the garland necklace to the flesh golem as a gift from her. “I do not know if it regards me as its younger sister," she says softly. “I do not know if it regards me at all. But it seems a cruel thing to leave it alone and unloved."
+Vasilka požádá hráče, aby věneček doručili masovému golemovi jako dar od ní. „Nevím, jestli mě považuje za svou mladší sestru,“ řekne tiše. „Nevím, jestli mě vůbec vnímá. Ale připadá mi kruté nechat ho samotného a nemilovaného.“
 
-If the players agree, Vasilka asks them to keep the garland hidden from the Abbot until they’ve delivered it to the golem, fearing how the Abbot might respond upon learning of her duplicity.
+Pokud hráči souhlasí, Vasilka je požádá, aby věneček skryli před Opatem, dokud ho golemovi nedoručí, protože se bojí, jak by Opat zareagoval, kdyby se o její lsti dozvěděl.
 
-Whether the players accept or refuse Vasilka’s request, Marzena Belview bursts in through a courtyard-facing window shortly thereafter. Read:
+Ať už hráči Vasilčinu prosbu přijmou, nebo odmítnou, krátce nato vtrhne oknem obráceným do nádvoří Marzena Belviewová. Přečtěte:
 
 <div class="description">
-<p>With a deafening clash of shattering glass, a winged figure bursts through one of the main hall's towering windows—the bat-winged Belview you saw in the courtyard. Her leathery wings beat desperately, and a heavy wooden post and chain dangle beside her.</p>
-<p>As quickly as it enters, the figure is violently yanked back, stopped in her airborne escape as the post and chain snag on the corner of the windowsill. A wail of frustration tears from her lips as the chain goes taut. "Where Cyrus?" she screams, gnashing her mandibles together. "Want Cyrus!"</p>
+<p>S ohlušujícím řinčením tříštícího se skla prorazí jedním z vysokých oken hlavní síně okřídlená postava – Belviewová s netopýřími křídly, kterou jste viděli na nádvoří. Její kožnatá křídla zoufale tlučou a vedle ní se klátí těžký dřevěný kůl s řetězem.</p>
+<p>Stejně rychle, jako vletěla, je postava prudce stržena zpět – kůl s řetězem se zachytí o roh okenního parapetu a její let za svobodou se zastaví. Jak se řetěz napne, z rtů se jí vydere kvílení zklamání. „Kde Cyrus?“ ječí a skřípe kusadly. „Chci Cyrus!“</p>
 </div>
 
-The Abbot descends to the courtyard immediately thereafter, landing with the sound of heavy, beating wings before assuming human form once more. (If the players have not already concealed it, Vasilka glances toward the flower garland with wide, terrified eyes.)
+Bezprostředně nato se Opat snese na nádvoří; přistane za zvuku těžkých, mávajících křídel a pak opět přijme lidskou podobu. (Pokud hráči věneček dosud neschovali, Vasilka na něj pohlédne vytřeštěnýma, vyděšenýma očima.)
 
-As the Abbot re-enters the main hall, accompanied by Clovin Belview, he apologizes to the players for the disturbance. He then moves to inspect Marzena. 
+Když se Opat v doprovodu Clovina Belviewa vrátí do hlavní síně, omluví se hráčům za vyrušení. Pak přistoupí k Marzeně, aby si ji prohlédl.
 
-“Cyrus has gone, child," he reminds her, calmly moving to untangle her chain from the windowsill. “He has moved on to the next stage of his journey. Perhaps you shall join him, someday." (As the Abbot takes hold of her chain, Marzena collapses onto the floor, sobbing quietly in anger and despair.)
+„Cyrus odešel, dítě,“ připomene jí a klidně se pustí do vyprošťování jejího řetězu z parapetu. „Pokročil na další stupeň své cesty. Možná se k němu jednoho dne připojíš.“ (Když Opat uchopí její řetěz, Marzena se zhroutí na podlahu a tiše vzlyká hněvem a zoufalstvím.)
 
-The Abbot then hands Marzena’s chain to Clovin, and asks that she be bound in one of the sheds in the courtyard. “I had thought the light and air would prove a curative for her diseased mind," he says sorrowfully. “But the solemnity of solitude may provide a better environment for her reflection and healing."
+Opat pak podá Marzenin řetěz Clovinovi a požádá ho, aby ji uvázal v jedné z kůlen na nádvoří. „Myslel jsem, že světlo a vzduch budou pro její nemocnou mysl lékem,“ řekne smutně. „Ale vážnost samoty jí možná poskytne lepší prostředí k rozjímání a uzdravení.“
 
-As Clovin guides a sobbing, unresisting Marzena into the courtyard, the Abbot apologizes again to the players, thanks them for sharing their knowledge with Vasilka, and offers to lead them to the east wing of the Abbey, where Ezmerelda is staying. He can also share the following information about Cyrus as they walk:
+Zatímco Clovin odvádí vzlykající Marzenu, která se nebrání, na nádvoří, Opat se hráčům znovu omluví, poděkuje jim, že se s Vasilkou podělili o své vědění, a nabídne, že je zavede do východního křídla opatství, kde bydlí Ezmerelda. Cestou může o Cyrusovi prozradit i následující:
 
-* Cyrus is—or was—the patriarch of the Belview clan until recently. Marzena, his grand-niece, held him in particularly high esteem.
-* All of the Belviews seek perfection, as their ancestors did. “Cyrus," the Abbot says softly, “has proceeded to the next stage in his journey. It is difficult, however, for the other Belviews to hear that they have been left behind. I prefer not to discuss it, for it upsets them deeply, and to no meaningful end." (The Abbot declines to discuss Cyrus further, noting his belief that “idle gossip" is a dull and poisonous disease.)
-## K2c. The East Wing
-The Abbot guides the players to the doorway of the foyer of the East Wing, which is as described in <span class="citation">S14. Foyer (p. 151)</span>. As he opens the door, the **flesh golem** is waiting for them. Read:
+* Cyrus je – nebo byl – donedávna patriarchou klanu Belviewů. Marzena, jeho praneteř, si ho obzvlášť vážila.
+* Všichni Belviewovi touží po dokonalosti, stejně jako jejich předkové. „Cyrus,“ řekne Opat tiše, „pokročil na další stupeň své cesty. Pro ostatní Belviewy je však těžké slyšet, že zůstali pozadu. Nerad o tom mluvím, neboť je to hluboce rozrušuje, a to bez jakéhokoli smysluplného cíle.“ (Opat o Cyrusovi odmítne dál mluvit s poznámkou, že „plané klepy“ považuje za nudnou a jedovatou nemoc.)
+## K2c. Východní křídlo
+Opat dovede hráče ke dveřím vstupní haly východního křídla, která odpovídá popisu v <span class="citation">S14. Foyer (p. 151)</span>. Když otevře dveře, čeká na ně masový golem (**flesh golem**). Přečtěte:
 
 <div class="description">
-<p>Just beyond the doorframe stands a towering figure exceeding seven feet in height, its shoulders broad and hulking. A patchwork of skin—varying in color, texture, and age—covers its body, crudely sewn together with thick, dark thread that zigzags across its form like a cartographer's nightmare. Muscles bulge unnaturally, as if overstuffed, and you can see places where the stitching has pulled tight, the skin almost tearing from the tension.</p>
-<p>Its eyes are deep, hollow sockets filled with a dark, smooth material that reflects no light. Arms hang by its sides, each finger elongated and tipped with a jagged nail, resembling more the claws of a beast than the hands of a man.</p>
+<p>Hned za veřejemi stojí obrovitá postava, vyšší než sedm stop, s širokými, mohutnými rameny. Tělo jí pokrývá slátanina kůže – různé barvy, struktury i stáří –, hrubě sešitá silnou tmavou nití, která se po jejím těle klikatí jako noční můra kartografa. Svaly se nepřirozeně boulí, jako by byly přecpané, a na některých místech je vidět, jak se stehy napnuly a kůže se tahem málem trhá.</p>
+<p>Její oči jsou hluboké, duté důlky vyplněné tmavou, hladkou hmotou, která neodráží žádné světlo. Paže jí visí podél boků a každý prst je protáhlý a zakončený zubatým nehtem – připomínají spíš pařáty šelmy než ruce člověka.</p>
 </div>
 
-The Abbot asks the golem to “escort our guests to Miss d’Avenir’s chambers." The golem makes no verbal response, but turns and pauses, as if waiting for the players to follow it. If the players do so, the Abbot bids them farewell and returns to the main hall.
+Opat požádá golema, aby „doprovodil naše hosty do komnat slečny d’Avenir“. Golem nijak slovně neodpoví, ale otočí se a zastaví, jako by čekal, až ho hráči budou následovat. Pokud tak učiní, Opat se s nimi rozloučí a vrátí se do hlavní síně.
 
-The golem leads the players past <span class="citation">S15. Madhouse (p. 151)</span> and up the stairs to <span class="citation">S20. Upstairs Office (p. 154)</span>. It then opens the door leading to <span class="citation">S18. Curtain Wall (p. 154)</span> and silently points toward <span class="citation">S19. Barracks (p. 154)</span>, though it never steps foot outside of the East Wing. (Each of these areas are otherwise as described in the original module.)
+Golem vede hráče kolem <span class="citation">S15. Madhouse (p. 151)</span> a po schodech nahoru do <span class="citation">S20. Upstairs Office (p. 154)</span>. Pak otevře dveře vedoucí do <span class="citation">S18. Curtain Wall (p. 154)</span> a mlčky ukáže k <span class="citation">S19. Barracks (p. 154)</span>, ale sám nikdy nevkročí mimo východní křídlo. (Všechny tyto oblasti jinak odpovídají popisu v původním modulu.)
 
-If a player proffers Vasilka’s garland necklace to the golem, it regards it with little comprehension. If asked to lower its neck for the player to place the necklace around it, the golem does so without protest. If the players provide the golem with the necklace to hold, it can be seen wearing the necklace when the players next return to it.
+Pokud hráč golemovi nabídne Vasilčin věneček, golem na něj hledí s malým pochopením. Pokud ho hráči požádají, aby sklonil šíji, aby mu hráč mohl věneček navléknout, golem tak bez odporu učiní. Pokud hráči golemovi věneček dají do ruky, až se k němu příště vrátí, uvidí, že ho má na sobě.
 
-The door to the barracks is slightly ajar, and the sound of scratching chalk can be heard from the other side. As the players move to knock or enter, they can hear the sound of chalk breaking, followed by a muffled curse immediately after. (If the players knock, an annoyed woman’s voice invites them to come in a moment later.)
-### Meeting Ezmerelda
-The barracks are largely described as in <span class="citation">S19. Barracks (p. 154)</span>. However, add the following to the end of this area’s description:
+Dveře do kasáren jsou pootevřené a z druhé strany je slyšet škrábání křídy. Když se hráči chystají zaklepat nebo vstoupit, uslyší zvuk lámající se křídy a hned nato tlumenou kletbu. (Pokud hráči zaklepou, o okamžik později je podrážděný ženský hlas vyzve, ať jdou dál.)
+### Setkání s Ezmereldou
+Kasárna do značné míry odpovídají popisu v <span class="citation">S19. Barracks (p. 154)</span>. Na konec popisu této oblasti však doplňte následující:
 
 <div class="description">
-<p>At the center of the chamber, a ten-foot-square section purged of mold stands in stark contrast to the surrounding rot. An unrolled bedroll rests within this small island of cleanliness, accompanied by a worn backpack and a trio of sheathed weapons lying nearby.</p>
-<p>Beside this small camp stands a half-finished chalk circle nearly ten feet across, a five-pointed star inscribed across it. An olive-skinned Vistani woman stands crouched along its edge, her long, black, frizzy hair tied back with a wide, orange-red headband.</p>
-<p>She wears a mud-stained longcoat of similar color, a well-oiled suit of studded leather armor catching the light just beneath it. She seems to be wearing boots of two different colors: one an ordinary brown, and the other colored a dull, metallic copper. She glares at a snapped piece of white chalk in her hand.</p>
+<p>Uprostřed komnaty ostře kontrastuje s okolní hnilobou čtvercový úsek o straně deset stop, zbavený plísně. Na tomto malém ostrůvku čistoty leží rozvinutá spací rohož, vedle ní ošoupaný batoh a opodál trojice zbraní v pochvách.</p>
+<p>Vedle tohoto malého tábořiště je napůl dokončený křídový kruh o průměru téměř deset stop, do něhož je vepsána pěticípá hvězda. Na jeho okraji se krčí Vistanka olivové pleti; dlouhé, černé, kudrnaté vlasy má stažené širokou oranžovočervenou čelenkou.</p>
+<p>Má na sobě blátem potřísněný dlouhý kabát podobné barvy a pod ním se ve světle leskne dobře naolejovaná zbroj z pobíjené kůže. Zdá se, že má na nohou boty dvou různých barev: jednu obyčejně hnědou a druhou matně kovově měděnou. Zlostně hledí na zlomený kousek bílé křídy ve své ruce.</p>
 </div>
 
-This is Ezmerelda d’Avenir. Her statistics are given below.
+Je to Ezmerelda d’Avenir. Její statistiky jsou uvedeny níže.
 
 <div class="statblock">
     <h2>Ezmerelda d'Avenir</h2>
@@ -619,196 +619,196 @@ This is Ezmerelda d’Avenir. Her statistics are given below.
 </div>
 
 ![[Ez_trans.png]]
-<span class="credit">"Ezmerelda d'Avenir" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
-The weapons on the floor are recognizable as a handaxe, a shortsword, and a rapier. The uncovered blade of the handaxe glints strangely under the light. (A player who casts *detect magic* observes that the rapier and handaxe are magical, as is Ezmerelda’s leather armor.)
+<span class="credit">„Ezmerelda d'Avenir“ – autor: Caleb Cleveland. Podpořte ho na <a href="https://patreon.com/calebisdrawing/">Patreonu!</a></span>
+Zbraně na podlaze lze rozpoznat jako ruční sekeru, krátký meč a rapír. Obnažená čepel ruční sekery se ve světle podivně třpytí. (Hráč, který sešle *detect magic*, zjistí, že rapír a ruční sekera jsou kouzelné, stejně jako Ezmereldina kožená zbroj.)
 
-A player who inspects Ezmerelda’s boots automatically notices that the copper-colored boot is not a boot at all, but an intricate metallic prosthetic that has replaced her right leg below the hem of her breeches.
+Hráč, který si prohlédne Ezmereldiny boty, si automaticky všimne, že měděná bota vůbec není bota, ale složitá kovová protéza, která nahrazuje její pravou nohu pod lemem kalhot.
 
-> [!profile]+ **Profile: Ezmerelda d'Avenir**
-> **Roleplaying Information**
-> ***Resonance.*** Ezmerelda should inspire amusement for her irreverent sense of humor, gratitude for her cool competence, endearment for her fiery spirit in the face of adversity, and sympathy for her complicated feelings regarding Dr. Rudolph van Richten.
+> [!profile]+ **Profil: Ezmerelda d'Avenir**
+> **Pro hraní role**
+> ***Vyznění.*** Ezmerelda by měla budit pobavení svým nevázaným smyslem pro humor, vděčnost svou chladnokrevnou schopností, náklonnost svým ohnivým duchem tváří v tvář nepřízni osudu a soucit se svými složitými city k dr. Rudolphu van Richtenovi.
 > 
-> ***Emotions.*** Ezmerelda most often feels determined, thoughtful, skeptical, proud, enthusiastic, angry, amused, wary, or cautious.
+> ***Emoce.*** Ezmerelda nejčastěji cítí odhodlání, zamyšlení, skepsi, hrdost, nadšení, hněv, pobavení, ostražitost nebo opatrnost.
 > 
-> ***Motivations.*** Ezmerelda wants to save innocents from things that go "bump!" in the night, escape her parents' dark legacy, and prove herself as capable a vampire hunter as Dr. Van Richten.
+> ***Motivace.*** Ezmerelda chce zachraňovat nevinné před věcmi, které v noci dělají „bú!“, uniknout temnému odkazu svých rodičů a dokázat, že je stejně schopnou lovkyní upírů jako dr. Van Richten.
 > 
-> ***Inspirations.*** The Tenth Doctor (*Doctor Who*), Captain Jack Harkness (*Doctor Who*), Buffy Summers (*Buffy the Vampire Slayer*), Malcolm Reynolds (*Firefly*)
+> ***Inspirace.*** The Tenth Doctor (*Doctor Who*), Captain Jack Harkness (*Doctor Who*), Buffy Summers (*Buffy the Vampire Slayer*), Malcolm Reynolds (*Firefly*)
 > 
-> **Character Information**
-> ***Persona.*** To the world, Ezmerelda is a cool, suave, professional monster hunter. To those she trusts, Ezmerelda is a fiery, wise-cracking, and eternally loyal friend. Deep down, Ezmerelda wonders if Dr. Van Richten thought she wasn't good enough—or if her family's crimes against him are enough to stain her legacy forever.
+> **O postavě**
+> ***Tvář.*** Před světem je Ezmerelda chladnokrevná, uhlazená, profesionální lovkyně nestvůr. Pro ty, jimž důvěřuje, je ohnivou, vtipkující a navěky věrnou přítelkyní. V hloubi duše Ezmerelda přemítá, zda si dr. Van Richten myslel, že není dost dobrá – nebo zda zločiny její rodiny vůči němu stačí, aby navždy poskvrnily její odkaz.
 > 
-> ***Morale.*** In a fight, Ezmerelda would move swiftly and tactically to secure an insurmountable advantage, then strike when the moment was right.
+> ***Morálka.*** V boji by Ezmerelda postupovala rychle a takticky, aby si zajistila nepřekonatelnou výhodu, a pak by udeřila ve správnou chvíli.
 > 
-> ***Relationships.*** Ezmerelda is the former student of Dr. Rudolph van Richten, and the daughter of the d'Avenirs who kidnapped and sold his son, Erasmus, to the vampire Baron Metus.
+> ***Vztahy.*** Ezmerelda je bývalou žačkou dr. Rudolpha van Richtena a dcerou d'Avenirových, kteří unesli jeho syna Erasma a prodali ho upírovi baronu Metusovi.
 
-As the players enter the room, if they didn’t use stealth when approaching, Ezmerelda glances toward them with raised eyebrows. “Given the noise you made coming up here," she observes wryly, “I assume you’ve not come to kill me?"
+Když hráči vstoupí do místnosti a pokud se nepřibližovali potichu, Ezmerelda na ně pohlédne se zdviženým obočím. „Soudě podle toho rámusu, co jste cestou nahoru nadělali,“ poznamená suše, „předpokládám, že jste mě nepřišli zabít?“
 
-If the players indicate that they’ve come to recruit her or otherwise mention Madam Eva’s name, Ezmerelda is immediately intrigued. She stands up, dusts herself off, and introduces herself with a grin. She then invites them to enter and share “what sounds like a *very* interesting tale.*
+Pokud hráči naznačí, že ji přišli naverbovat, nebo jinak zmíní jméno madam Evy, Ezmerelda okamžitě zbystří. Vstane, opráší se a s úsměvem se představí. Pak je vyzve, ať jdou dál a povědí jí, „co zní jako *nesmírně* zajímavý příběh“.
 
-Ezmerelda shares the following information freely if asked:
+Pokud se jí hráči zeptají, Ezmerelda ochotně prozradí následující:
 
-* Her name is Ezmerelda d’Avenir. 
-* She is a Vistana, though she travels with no caravan.
-* Unbeknownst to the Krezkovs, she has come to the Abbey to learn the source of the Abbot's madness, and how it might be cured in order to save Anna Krezkov's life.
+* Jmenuje se Ezmerelda d’Avenir.
+* Je Vistanka, ale necestuje s žádnou karavanou.
+* Aniž by to Krezkovovi věděli, přišla do opatství zjistit, odkud pramení Opatovo šílenství a jak by se dalo vyléčit, aby zachránila život Anny Krezkové.
 
-Ezmerelda is reluctant to share further information unless the players first prove that they can be trusted. If the players attempt to dig more deeply into her personal life or her purpose at the Abbey, she says, amusedly, “Well, that depends—who wants to know?"
+Ezmerelda se zdráhá prozradit víc, dokud hráči neprokážou, že jim lze věřit. Pokud se hráči pokusí hlouběji zavrtat do jejího osobního života nebo jejího záměru v opatství, řekne pobaveně: „No, to záleží na tom – kdo se ptá?“
 
-Ezmerelda invites the players to explain themselves and their presence before she shares anything more personal. “I’ve only just met you," she says, laughing softly. “Knowledge is power, and I’ve not survived this long by letting any stranger put a blade to my throat."
+Ezmerelda vyzve hráče, aby vysvětlili, kdo jsou a co tu dělají, než prozradí cokoli osobnějšího. „Zrovna jsme se poznali,“ řekne a tiše se zasměje. „Vědění je moc a já jsem tak dlouho nepřežila tím, že bych nechala každého cizince přiložit mi čepel ke krku.“
 
-If the players share that they are newcomers to Barovia (“You certainly don’t *look* like you’re from around here," Ezmerelda observes), she is willing to share the following information:
+Pokud hráči prozradí, že jsou v Barovii nováčky („Rozhodně *nevypadáte*, že jste odsud,“ poznamená Ezmerelda), je ochotna prozradit následující:
 
-* She arrived in Barovia herself just under two weeks ago via wagon. Since then, she’s remained largely in and around Krezk, though she left her wagon near the shore of Lake Baratok as a mobile base. She’s been searching the nearby woods for Ilya Krezkov, the missing son of Burgomaster Dmitri Krezkov and his wife, Anna. (“They saved me from the brink of death, once," she says, quietly. “I owe them at least that much.")
-* Since her arrival, she’s been disturbed by just how much Barovia has changed since she last visited—owing largely, it’s clear, to Strahd von Zarovich’s reawakening. (She narrows her eyes playfully, surveys the players, and notes, "With the lord of the castle up and about, I assume it's not difficult to fall under his sway. None of you have fangs or a thirst for my blood, I hope?")
+* Sama dorazila do Barovie vozem necelé dva týdny předtím. Od té doby se zdržovala převážně v Krezku a okolí, ale vůz nechala u břehu jezera Baratok jako pojízdnou základnu. Pročesávala okolní lesy a hledala Ilju Krezkova, pohřešovaného syna purkmistra Dmitriho Krezkova a jeho ženy Anny. („Jednou mě zachránili, když jsem byla na pokraji smrti,“ řekne tiše. „Dlužím jim přinejmenším tohle.“)
+* Od svého příchodu ji znepokojuje, jak moc se Barovie od její poslední návštěvy změnila – jak je jasné, především díky procitnutí Strahda von Zaroviche. (Hravě přimhouří oči, přeměří si hráče a poznamená: „Když je pán hradu zase na nohou, předpokládám, že není těžké podlehnout jeho vlivu. Snad nikdo z vás nemá tesáky ani chuť na mou krev?“)
 
-If the players share that they are enemies of Strahd von Zarovich (“Ah, so that makes us either allies or competitors!" she exclaims), she is willing to share the following information:
+Pokud hráči prozradí, že jsou nepřáteli Strahda von Zaroviche („Á, tak to jsme buď spojenci, nebo konkurenti!“ zvolá), je ochotna prozradit následující:
 
-* Rather than traveling with a Vistani caravan, she hunts monsters—"old, dusty vampires included." (Ezmerelda shares this fact with a wry grin.)
-* She was trained by “the finest vampire hunter alive," a man whose name is so legendary that not even monsters dare go “bump" in the night upon hearing it. (Her boastful smile then fades, and she adds, quietly, “At least, if he’s still alive to speak it.")
+* Místo aby cestovala s karavanou Vistani, loví nestvůry – „staré zaprášené upíry nevyjímaje“. (Ezmerelda to prozradí s křivým úsměvem.)
+* Vycvičil ji „nejlepší žijící lovec upírů“, muž, jehož jméno je tak legendární, že když ho nestvůry uslyší, ani se v noci neodváží udělat „bú“. (Pak jí chlubivý úsměv zmizí z tváře a tiše dodá: „Tedy pokud ještě žije, aby ho mohl vyslovit.“)
 
-If the players share that they’ve come to recruit her to their cause, Ezmerelda raises an eyebrow and asks, amusedly, exactly *how* they found her. If the players share the words of Madam Eva’s Tarokka reading, Ezmerelda is willing to share the following information:
+Pokud hráči prozradí, že ji přišli získat pro svou věc, Ezmerelda zvedne obočí a pobaveně se zeptá, *jak* přesně ji našli. Pokud hráči zopakují slova výkladu Tarokky madam Evy, je Ezmerelda ochotna prozradit následující:
 
-* Her mentor is Dr. Rudolph van Richten, the legendary vampire hunter. Three months ago, she and his other former students received a letter he’d sent announcing his intention to travel to Barovia. 
-* As the sole Vistana among his students, only she was able to trace his path through the mists and track him to the valley. Upon her arrival, however, she learned from a traveling Vistani caravan that Dr. Van Richten was rumored to be dead, having fallen in battle in a failed rebellion at Castle Ravenloft.
+* Jejím učitelem je dr. Rudolph van Richten, legendární lovec upírů. Před třemi měsíci ona i jeho další bývalí žáci dostali dopis, v němž oznamoval, že se chystá vydat do Barovie.
+* Jako jediná Vistanka mezi jeho žáky dokázala jen ona vystopovat jeho cestu mlhami a sledovat ho až do údolí. Po svém příchodu se však od putovní karavany Vistani dozvěděla, že se o dr. Van Richtenovi říká, že je mrtvý – že padl v boji při nezdařené vzpouře na hradě Ravenloft.
 
-> [!abstract]+ **Ezmerelda & Van Richten**
-> If the players mention meeting Dr. Van Richten in [[Arc E - The Missing Vistana]], Ezmerelda is delighted and grateful to hear that her mentor is still alive. She asks the players, however, to refrain from telling her his location, at least for now. "Knowledge grows more dangerous the further it spreads," she says, "especially when a vampire can easily charm it out of you. If the old man wants to stay hidden, it's probably best that it stays that way."
-### What Ezmerelda Knows
-Once she’s satisfied that the players are trustworthy, Ezmerelda is willing to share the following information:
+> [!abstract]+ **Ezmerelda a Van Richten**
+> Pokud hráči zmíní, že se s dr. Van Richtenem setkali v [[Arc E - The Missing Vistana|Oblouk E – Pohřešovaná Vistanka]], Ezmerelda je potěšená a vděčná, že její učitel stále žije. Požádá však hráče, aby jí – alespoň prozatím – neprozrazovali, kde se nachází. „Vědění je tím nebezpečnější, čím dál se šíří,“ řekne, „zvlášť když vám ho upír snadno vyloudí kouzlem. Jestli chce ten starý pán zůstat ukrytý, je nejspíš nejlepší, aby to tak zůstalo.“
+### Co ví Ezmerelda
+Jakmile je Ezmerelda přesvědčena, že hráčům lze věřit, je ochotna prozradit následující:
 
-* She has come to the Abbey because Burgomaster Dmitri Krezkov told her that the Abbot appeared to be growing increasingly unstable, and that he feared for Krezk’s safety as a result.
-* Upon first visiting the Abbey, Ezmerelda—a weak clairvoyant—swiftly sensed that unquiet spirits lingered within its shadowed halls. She has intended to return ever since, planning to contact those spirits to further investigate the Abbot’s identity and the cause of his growing madness. (The chalk circle is meant to provide the medium for a seance, focusing the energies Ezmerelda must call upon and acting as a protective barrier against malevolent spirits.)
-* Three nights ago, she successfully found what she believes to be Ilya’s location: a cavern at the base of a spur of Mount Baratok along the northwestern shore of Lake Baratok. There’s one catch, however: Barovia’s werewolf pack uses the cave as its den, making any effort to rescue Ilya tremendously risky.
-* After capturing and interrogating a werewolf with the Barovian pack, Ezmerelda learned that the bulk of the pack will soon be departing Barovia to range beyond the Mists with Strahd's permission. The pack's expedition, Ezmerelda shares, will take place at dusk the following night. "My source didn't know how long the pack would be away," she notes. "It might be anywhere from twelve hours until twelve days, so we'll want to get in and out before dawn."
+* Do opatství přišla, protože jí purkmistr Dmitri Krezkov řekl, že Opat se zdá být čím dál labilnější a že se proto obává o bezpečí Krezku.
+* Při první návštěvě opatství Ezmerelda – slabá jasnovidka – rychle vycítila, že v jeho zastíněných síních dlí neklidní duchové. Od té doby se chystala vrátit a spojit se s nimi, aby dál prošetřila Opatovu totožnost a příčinu jeho sílícího šílenství. (Křídový kruh má sloužit jako prostředník při seanci – soustředí energie, které musí Ezmerelda přivolat, a slouží jako ochranná bariéra proti zlovolným duchům.)
+* Před třemi nocemi úspěšně našla místo, kde se podle ní nachází Ilja: jeskyni u paty ostrohu hory Baratok na severozápadním břehu jezera Baratok. Má to však háček: barovská vlkodlačí smečka používá jeskyni jako své doupě, takže jakákoli snaha Ilju zachránit je nesmírně riskantní.
+* Poté, co zajala a vyslechla vlkodlaka z barovské smečky, se Ezmerelda dozvěděla, že většina smečky brzy se Strahdovým svolením opustí Barovii a vydá se na lov za mlhy. Výprava smečky se podle Ezmereldy uskuteční za soumraku následující noci. „Můj zdroj nevěděl, jak dlouho bude smečka pryč,“ poznamená. „Může to být cokoli od dvanácti hodin do dvanácti dnů, takže se budeme chtít dostat dovnitř a ven před úsvitem.“
 
-If asked how she lost her leg, Ezmerelda grins wryly, and says only that it's "a story for another day." (Ezmerelda can share the full story of her prosthetic leg in [[Arc L - The Den of Wolves]].)
+Pokud se jí hráči zeptají, jak přišla o nohu, Ezmerelda se křivě usměje a řekne jen, že to je „příběh na jindy“. (Celý příběh své protézy může Ezmerelda vyprávět v [[Arc L - The Den of Wolves|Oblouk L – Vlčí doupě]].)
 
-Ezmerelda is tentatively willing to join the players in their fight against Strahd. Before she does so, however, they must first prove their worth by assisting her in the following two tasks:
+Ezmerelda je opatrně ochotna přidat se k hráčům v jejich boji proti Strahdovi. Než tak učiní, musí však hráči prokázat svou hodnotu tím, že jí pomohou s následujícími dvěma úkoly:
 
-* conducting a seance immediately to contact the Abbey’s restless spirits; and
-* investigating the werewolf den **the following** **night**, while the bulk of the pack is away hunting.
+* okamžitě uspořádat seanci a spojit se s neklidnými duchy opatství; a
+* prozkoumat vlčí doupě **následující** **noc**, zatímco bude většina smečky na lovu.
 
-If the players agree to do so, Ezmerelda invites them to assist her in completing her chalk circle and conducting the seance. (See [[Arc L - The Den of Wolves]] for more information about Ezmerelda's plan to investigate the werewolf den.)
-### The Seance
-To begin the seance, Ezmerelda retrieves a deck of Tarokka cards from her coat and lays the entire deck out flat across the center of the chalk circle. She can inform the players that, like a spirit board, the cards will allow spirits to communicate with them from across the veil. 
+Pokud hráči souhlasí, Ezmerelda je vyzve, aby jí pomohli dokončit křídový kruh a uspořádat seanci. (Více o Ezmereldině plánu prozkoumat vlčí doupě najdete v [[Arc L - The Den of Wolves|Oblouk L – Vlčí doupě]].)
+### Seance
+Na začátku seance vytáhne Ezmerelda z kabátu balíček karet Tarokky a celý ho rozloží naplocho doprostřed křídového kruhu. Může hráčům prozradit, že karty – podobně jako spiritistická tabulka – umožní duchům komunikovat s nimi přes závoj.
 
-She warns the players, however, that they may ask only ten questions of the spirit that answers her call—and that once the seance has concluded, she won’t be able to conduct another one for a full three days.
+Hráče však varuje, že duchovi, který na její volání odpoví, mohou položit jen deset otázek – a že jakmile seance skončí, nebude moci uspořádat další celé tři dny.
 
-Once the players are ready, Ezmerelda invites the players to sit around the edges of the circle and join hands. Read:
+Jakmile jsou hráči připraveni, Ezmerelda je vyzve, aby se posadili kolem okraje kruhu a chytili se za ruce. Přečtěte:
 
 <div class="description">
 <p>
-<p>Ezmerelda’s eyes meet each of yours in turn before closing. She bows her head, black curls cascading across her shoulders, and softly begins to chant.</p>
-<p>The air thickens, as if charged with static, and the hairs on your arms begin to stand on end. You hear the soft scrape of chalk against stone as, one by one, the lines of the pentagram begin to glow faintly, emanating a soft, silver light.</p>
-<p>A low, resonant hum fills the room, vibrating through the floor and into the soles of your feet, as if the very stones of the Abbey have joined in the chant. The ambient sounds beyond the walls fade away, leaving only the rhythmic cadence of Ezmerelda's whispered incantations, which rise and fall like a distant tide. The air grows colder, each breath forming wisps of mist that rise and swirl above your heads.</p>
-<p>"Spirits," Ezmerelda murmurs, swaying faintly. “We seek your wisdom and knowledge. The Abbot of this Abbey has fallen to darkness and corruption. Aid us, and tell us how the stains upon his soul may be cleansed."</p>
-<p>There is a pause — and then the temperature plunges, your skin prickling fiercely. You feel a sudden sense of being watched, as an unmistakable, yet unseeable presence settles like a shroud across the room.</p>
-<p>Ezmerelda’s eyes snap open. “We are not alone," she whispers.</p>
+<p>Ezmereldiny oči se postupně setkají s očima každého z vás a pak se zavřou. Skloní hlavu, černé kadeře se jí rozprostřou po ramenou, a tiše začne odříkávat.</p>
+<p>Vzduch zhoustne, jako by byl nabitý elektřinou, a chloupky na pažích se vám začnou ježit. Uslyšíte tiché škrábnutí křídy o kámen, jak se jedna po druhé začnou čáry pentagramu slabě rozzařovat a vydávat jemné stříbrné světlo.</p>
+<p>Místnost naplní hluboké, zvučné hučení, které se chvěje podlahou až do chodidel, jako by se k odříkávání přidaly samy kameny opatství. Okolní zvuky za zdmi utichnou a zůstane jen rytmický spád Ezmereldiných šeptaných zaříkání, které stoupají a klesají jako vzdálený příliv. Vzduch chladne a každý dech se mění v pramínky páry, které stoupají a víří nad vašimi hlavami.</p>
+<p>„Duchové,“ zamumlá Ezmerelda a slabě se pohupuje. „Hledáme vaši moudrost a vědění. Opat tohoto opatství propadl temnotě a zkaženosti. Pomozte nám a řekněte nám, jak lze skvrny na jeho duši očistit.“</p>
+<p>Nastane odmlka – a pak teplota prudce klesne a kůže vás zuřivě brní. Náhle máte pocit, že vás někdo pozoruje, jak se na místnost jako rubáš snese nezaměnitelná, a přece neviditelná přítomnost.</p>
+<p>Ezmerelda prudce otevře oči. „Nejsme sami,“ zašeptá.</p>
 </div>
 
-The presence is the spirit of Saint Markovia, which can communicate with the players by flipping individual Tarokka cards face-up from the Ethereal Plane. Each time the players ask a new question, the spirit flips all face-up cards face down and chooses a new set of cards to flip face-up.
+Přítomností je duch svaté Markovie, který může s hráči komunikovat tím, že z Ethereal Plane obrací jednotlivé karty Tarokky lícem nahoru. Pokaždé, když hráči položí novou otázku, duch obrátí všechny karty ležící lícem nahoru zpět lícem dolů a vybere novou sadu karet, které obrátí lícem nahoru.
 
- (A player who inspects the room using the *spirit mirror* sees Saint Markovia standing over Ezmerelda’s shoulder, wearing the clean, white robes of a priest with a golden mace in the shape of a sunburst sheathed upon her back.)
+(Hráč, který si místnost prohlédne pomocí *zrcadla duchů* (*spirit mirror*), uvidí, jak za Ezmereldiným ramenem stojí svatá Markovia v čistém bílém kněžském rouchu, se zlatým palcátem ve tvaru slunečních paprsků zasunutým na zádech.)
 
-> [!info]+ **Seances with the Tarokka Deck**
-> When using cards of the Tarokka deck to answer player questions during a seance, each card possesses a unique meaning described in <span class="citation">Appendix E: The Tarokka Deck (p. 243-44)</span>. (For example, the <strong>Artifact</strong> card represents “The importance of some physical object that must be obtained, protected, or destroyed at all costs.")
+> [!info]+ **Seance s balíčkem Tarokky**
+> Když při seanci odpovídáte na otázky hráčů kartami Tarokky, má každá karta jedinečný význam popsaný v <span class="citation">Appendix E: The Tarokka Deck (p. 243-44)</span>. (Například karta <strong>Artefakt (Artifact)</strong> představuje „Důležitost nějakého hmotného předmětu, který je třeba za každou cenu získat, ochránit nebo zničit.“)
 > 
-> If she is present, Ezmerelda can share each card’s meaning directly, though the players must interpret that meaning themselves in the context of their original question. A player with proficiency in the use of Tarokka cards also knows all card meanings automatically. Otherwise, a player must succeed on a DC 15 Arcana (Intelligence) check to recall the meaning of a particular card.
+> Pokud je Ezmerelda přítomna, může prozradit význam každé karty přímo, ale hráči si ho musí sami vyložit v kontextu své původní otázky. Hráč, který je zdatný v používání karet Tarokky, zná významy všech karet automaticky. Jinak musí hráč uspět v ověření Arcana (Intelligence) se DC 15, aby si význam konkrétní karty vybavil.
 > 
-> **Choosing Cards**
-> When choosing cards to answer a player question, use the following guidelines:
+> **Výběr karet**
+> Při výběru karet, jimiž odpovídáte na otázku hráče, se řiďte následujícími zásadami:
 > 
-> * **Unknown Answers**: For answers that St. Markovia doesn't know the answer to, flip the Mists (Unknown). (Remember that St. Markovia died shortly after Strahd became a vampire, that she doesn't know all of Strahd's secrets, and that her spirit hasn't seen anything of Barovia beyond her crypt and the Abbey since her death. For example, Markovia can't tell the players about the Amber Temple, the Mountain Folk, Strahd's brides, or the traps and layout of Castle Ravenloft.)
-> * **Simple Questions, Yes/No Answers**: For simple questions that can be answered with a simple “Yes" or “No," flip either the Diviner (Yes), the Anarchist (No), or both (Maybe).
-> * **Simple Questions, Simple Answers**: For straightforward questions that seek direct identification or yes/no answers, opt for a single card or a pair of cards that symbolize the answer most succinctly.
-> * **Complex Questions, Multiple Cards**: If the question requires a nuanced or detailed answer, don't hesitate to flip multiple cards. Each card can represent a different facet of the complex answer you wish to convey.
-> * **Contextual Interpretation**: Cards can have multiple meanings depending on the context of the question. Feel free to reuse cards for different queries, but ensure that their interpretation aligns with the context.
+> * **Neznámé odpovědi**: Na otázky, na něž svatá Markovia odpověď nezná, obraťte kartu Mlhy (Mists; neznámé). (Pamatujte, že svatá Markovia zemřela krátce poté, co se Strahd stal upírem, že nezná všechna Strahdova tajemství a že její duch od její smrti neviděl nic z Barovie kromě své hrobky a opatství. Markovia například nemůže hráčům nic říct o Jantarovém chrámu, Horském lidu, Strahdových nevěstách ani o pastech a rozvržení hradu Ravenloft.)
+> * **Jednoduché otázky, odpovědi ano/ne**: Na jednoduché otázky, na něž lze odpovědět prostým „ano“ nebo „ne“, obraťte buď Věštce (Diviner; ano), Anarchistu (Anarchist; ne), nebo obě karty (možná).
+> * **Jednoduché otázky, jednoduché odpovědi**: Na přímočaré otázky, které hledají přímé určení nebo odpověď ano/ne, zvolte jedinou kartu nebo dvojici karet, které odpověď vystihují nejvýstižněji.
+> * **Složité otázky, více karet**: Pokud otázka vyžaduje jemnou či podrobnou odpověď, neváhejte obrátit více karet. Každá karta může představovat jiný aspekt složité odpovědi, kterou chcete sdělit.
+> * **Výklad v kontextu**: Karty mohou mít podle kontextu otázky více významů. Klidně karty používejte opakovaně pro různé otázky, ale dbejte, aby jejich výklad odpovídal kontextu.
 > 
-> **Sequencing Cards**
-> When flipping multiple cards, consider using the following guidelines for sequencing them:
+> **Řazení karet**
+> Když obracíte více karet, zvažte při jejich řazení následující zásady:
 > 
-> * **Chronological Order**: When the question pertains to events that have occurred over time or a transformation, arrange the cards in a chronological sequence to depict the evolution or the series of events.
-> * **Importance**: If the question is about traits or qualities, you might choose to place the most dominant feature or most important card first, followed by cards that represent secondary or tertiary qualities.
-> * **Contrast and Transition**: When you choose cards that represent contrasting ideas or states, arrange them in an order that best illustrates the contrast or transition from one state to another.
+> * **Chronologické pořadí**: Pokud se otázka týká událostí, které proběhly v čase, nebo proměny, seřaďte karty chronologicky, aby zachytily vývoj či sled událostí.
+> * **Důležitost**: Pokud se otázka týká rysů či vlastností, můžete na první místo dát nejvýraznější rys či nejdůležitější kartu a po ní karty představující druhotné či vedlejší vlastnosti.
+> * **Kontrast a přechod**: Pokud vyberete karty, které představují protikladné myšlenky či stavy, seřaďte je tak, aby co nejlépe ilustrovaly kontrast nebo přechod z jednoho stavu do druhého.
 
-> [!abstract]+ **Ezmerelda’s Advice**
-> If told of Strahd’s invitation once recruited to their cause in [[Arc K - The Fallen Abbey]], Ezmerelda d’Avenir eagerly advises the players to accept it—if they haven’t already—as a once-in-a-lifetime opportunity to scope out the castle before retrieving the *Icon of Dawn's Grace* in [[Arc K - The Fallen Abbey]], rescuing the **werewolf** Emil Toranescu in [[Arc L - The Den of Wolves]], and/or recovering Argynvost’s skull in [[Arc M - The Dragon's Manor]].
+> [!abstract]+ **Ezmereldina rada**
+> Pokud se Ezmerelda d’Avenir po svém naverbování v [[Arc K - The Fallen Abbey|Oblouk K – Padlé opatství]] dozví o Strahdově pozvání, horlivě hráčům poradí, aby ho přijali – pokud tak už neučinili – jako jedinečnou příležitost hrad prozkoumat, než v [[Arc K - The Fallen Abbey|Oblouk K – Padlé opatství]] získají *Ikonu Jitřní milosti*, v [[Arc L - The Den of Wolves|Oblouk L – Vlčí doupě]] zachrání vlkodlaka (**werewolf**) Emila Toranesca a/nebo v [[Arc M - The Dragon's Manor|Oblouk M – Dračí sídlo]] získají Argynvostovu lebku.
 >
-> Ezmerelda notes, however, that she has *not* been invited to the dinner, and therefore can’t attend openly. She’s willing, though, to pursue her own independent course of action while the players dine with Strahd. At the players’ suggestion, she might spend the evening guarding Ireena, secretly surveying the castle grounds for alternate entrances and possible guards (though she won’t enter the castle itself alone), or taking some other action to further the party’s interests.
+> Ezmerelda však poznamená, že ona sama na večeři pozvána *nebyla*, a nemůže se jí proto zúčastnit otevřeně. Je však ochotna vydat se vlastní cestou, zatímco hráči budou večeřet se Strahdem. Na návrh hráčů může strávit večer hlídáním Ireeny, tajným průzkumem okolí hradu, kde bude pátrat po jiných vstupech a možných strážích (i když do samotného hradu sama nevstoupí), nebo jiným jednáním, které posune zájmy družiny.
 
-If the players appear at a loss for which questions to ask, Ezmerelda suggests asking any or all of the following questions:
+Pokud hráči nevědí, na co se zeptat, navrhne Ezmerelda kteroukoli či všechny z následujících otázek:
 
-* “Who are you?" (The spirit responds by flipping the Priest card, which it then flips face-down. It then flips the Missionary card, which it then flips face-down. It then flips the Shepherd card.)
-* “Are you Saint Markovia?" (The spirit responds by flipping the Diviner card.)
-* “Who is the Abbot?" (The spirit responds by flipping the Healer card, which it then flips face-down. It then flips the Broken One card.)
-* “What happened to the Abbot?" (The spirit responds by flipping the Marionette card and the Enchanter card.)
-* “How can we restore the Abbot?" (The spirit responds by flipping the Artifact card.)
-* “What does this artifact do?" (The spirit responds by flipping the Healer card.)
-* “Where can we find the artifact?" (The spirit responds by flipping the Darklord and Donjon cards.)
-* “How can we use the artifact once we’ve found it?" (The spirit responds by flipping the Warrior and Executioner cards.)
-* “Who do we need to kill?" (The spirit responds by flipping the Broken One card.)
+* „Kdo jsi?“ (Duch odpoví tím, že obrátí kartu Kněz (Priest) a pak ji obrátí lícem dolů. Pak obrátí kartu Misionář (Missionary) a obrátí ji lícem dolů. Pak obrátí kartu Pastýř (Shepherd).)
+* „Jsi svatá Markovia?“ (Duch odpoví tím, že obrátí kartu Věštec (Diviner).)
+* „Kdo je Opat?“ (Duch odpoví tím, že obrátí kartu Léčitel (Healer) a pak ji obrátí lícem dolů. Pak obrátí kartu Zlomený (Broken One).)
+* „Co se stalo s Opatem?“ (Duch odpoví tím, že obrátí karty Loutka (Marionette) a Zaklínač (Enchanter).)
+* „Jak můžeme Opata obnovit?“ (Duch odpoví tím, že obrátí kartu Artefakt (Artifact).)
+* „Co ten artefakt dělá?“ (Duch odpoví tím, že obrátí kartu Léčitel (Healer).)
+* „Kde ten artefakt najdeme?“ (Duch odpoví tím, že obrátí karty Temný pán (Darklord) a Žalář (Donjon).)
+* „Jak můžeme artefakt použít, až ho najdeme?“ (Duch odpoví tím, že obrátí karty Válečník (Warrior) a Kat (Executioner).)
+* „Koho musíme zabít?“ (Duch odpoví tím, že obrátí kartu Zlomený (Broken One).)
 
-Immediately after the spirit answers the players’ tenth question, the players experience a series of visions. Read:
-
-<div class="description">
-<p>A rush of ethereal wind sweeps through the room—and a radiant burst of light erupts from the center of the pentagram, painting the walls in shades of silver and gold.</p>
-<p>Flashes of images flicker across your mind's eyes. A white-robed woman kneeling before a man with wings as white as the purest snow, who directs a gold-robed woman to present her with a silver statuette of a cleric kneeling in supplication, its chest glowing with the same golden light that encircles that man's head. The white-robed woman, standing before a half-built structure atop a cold mountain spur, her hands calloused as she lays bricks upon a mortared wall. The same woman, raising a golden mace above her head, a prayer upon her lips as a shadowed fortress looms above her. The silver statuette, sitting alone in a dark, cold tomb beneath a dark, twisted keep. The man, alone on a mountaintop, a veil of mist shrouding his eyes.</p>
-<p>Each image is accompanied by a surge of emotion: humility, hope, defiance, and sorrow so strong it rakes at your chest with long, bitter claws. But as quickly as they appeared—the visions fade, and when you open your eyes again, you find the room returned to its former state.</p>
-</div>
-
-> [!info]+ **Running Party NPCs**
-> Party NPCs like Ezmerelda d’Avenir and Ireena Kolyana can add depth, resonance, and additional role-playing opportunities to your campaign. However, it’s crucial to manage them in a way that doesn’t steal the spotlight from your players. As you do, keep these guidelines in mind:
-> 
-> * **Topics of Interest**: Party NPCs should generally remain in the background, speaking up only when spoken to, or when the conversation involves a topic directly related to them or their interests. They might also chime in with occasional banter or commentary where it is in-character to do so.
-> * **Deference to Players**: Party NPCs should generally defer decisionmaking to the players. Their role is to support the players, not to lead them. (The sole exception lies in matters of deep personal or emotional significance to a party NPC, which may lead them to argue or even disagree with the players if doing so is in line with their character.)
-> * **Multi-NPC Conversations**: If other NPCs engage party NPCs in conversation, try to redirect the interaction to include one or more players, keeping them involved and central to the current scene.
-> * **Guidance and Advice**: Avoid using party NPCs to provide direct solutions to puzzles, challenges, or strategic decisions. Although a party NPC might provide quiet commentary where a matter pertains to their expertise, they should offer clear hints or guidance only when directly asked, and the scope of their help should be relatively restricted.
-
-> [!info]+ **The Artifact**
-> The statuette depicted in the séance is currently located in Saint Markovia's crypt in <span class="citation">K84. Catacombs (p. 85)</span>, and is described further in [[Arc P - Ravenloft Heist#South Crypts, Third Row|Arc P - Ravenloft Heist]]. 
-
-***Milestone.*** Recruiting Ezmerelda d'Avenir as an ally completes a story milestone. When the players complete the seance, award each player 1,000 XP.
-##### The Eavesdroppers
-Shortly after the seance ends, Ezmerelda and any player with a passive Wisdom (Perception) score of 13 or higher hear a sudden noise outside the door. Read:
+Bezprostředně poté, co duch odpoví na desátou otázku hráčů, zažijí hráči sled vidin. Přečtěte:
 
 <div class="description">
-<p>Suddenly, from just outside the door, you hear a loud thud. The door shudders briefly as if struck by a falling weight, followed by a trio of high-pitched yelps and groans.</p>
+<p>Místností se prožene nával éterického větru – a ze středu pentagramu vytryskne zářivý záblesk světla, který zbarví stěny do odstínů stříbra a zlata.</p>
+<p>Před vaším vnitřním zrakem se mihnou záblesky obrazů. Žena v bílém rouchu klečí před mužem s křídly bílými jako nejčistší sníh, který vybízí ženu ve zlatém rouchu, aby jí předala stříbrnou sošku kněze klečícího v prosebném gestu, jejíž hruď září týmž zlatým světlem, jaké obklopuje hlavu onoho muže. Žena v bílém rouchu stojí před napůl postavenou stavbou na chladném horském ostrohu a mozolnatýma rukama klade cihly do omítnuté zdi. Tatáž žena zvedá nad hlavu zlatý palcát, na rtech modlitbu, zatímco se nad ní tyčí zastíněná pevnost. Stříbrná soška leží osamělá v temné, studené hrobce pod temnou, zkroucenou tvrzí. Muž stojí sám na vrcholu hory a oči mu zahaluje závoj mlhy.</p>
+<p>Každý obraz provází příval citů: pokora, naděje, vzdor a žal tak silný, že vám dlouhými, hořkými drápy rve hruď. Ale stejně rychle, jak se objevily, vidiny pohasnou – a když znovu otevřete oči, zjistíte, že se místnost vrátila do původního stavu.</p>
 </div>
 
-A player who opens the door sees Clovin, Otto, and Zygfrek Belview lying in a tangled pile on the balcony beyond, each Belview cursing the others as they attempt to untangle themselves. When revealed, the Belviews look slightly abashed, with Clovin looking especially flushed at their discovery. (Clovin is not pleased that Otto or Zygfrek chose to join him in this eavesdropping expedition, and is further irritated that Otto’s clumsiness—while scratching an itch—caused them to get caught.)
-
-The Belviews can share that they began eavesdropping on the players because they wanted to know more of the world beyond the Abbey’s walls. Given the players’ evident interest in Castle Ravenloft, the three Belviews have decided that the players might be able to help them learn the fate of their family patriarch, Cyrus Belview, who they believe to have been “perfected" before immediately being spirited away to Castle Ravenloft.
-
-The Belviews ask the players to find and speak with Cyrus upon visiting Castle Ravenloft. They are clearly anxious to learn more of his experience with “perfection"—both the process that created it, and his life since attaining it. In exchange for news of Cyrus, Clovin promises to provide the players with a treasure hidden away somewhere in the Abbey.
-
-If the players agree to carry out their request, the three Belviews are deeply grateful, with Otto leaping and hee-hawing with joy as Clovin hurries to quiet him.
-
-> [!info]+ **Clovin's Treasure**
-> If the players return from Castle Ravenloft with news of Cyrus, Clovin brings them to a wooden stand covered with black cloth in the southeast corner of the <span class="citation">S17. Loft and Belfry (p. 152)</span>. From the stand hang two sets of *wings of flying* with animal-bone frames. (The Abbot crafted the wings as part of his original experiments with the Belviews, but abandoned them long ago.) They have the following changes:
+> [!info]+ **Vedení NPC v družině**
+> NPC v družině, jako Ezmerelda d’Avenir a Ireena Kolyana, mohou vaší kampani dodat hloubku, rezonanci a další příležitosti k hraní rolí. Je však zásadní vést je tak, aby nekradla pozornost vašim hráčům. Mějte přitom na paměti tyto zásady:
 > 
-> * The wings are artificial wings, rather than cloaks, and animate when activated instead of transforming.
-> * A set of wings animates for 1 minute, rather than 1 hour
-> * Once a set of wings has been used, it can't be used again until dawn.
-> * One set resembles bird wings and bears hundreds of large, downy feathers plucked from the Abbot's **giant eagle** form, while the other resembles bat wings and bears long membranes of tanned animal hide.
-> * A creature can attune itself to the wings in 1 minute.
+> * **Témata zájmu**: NPC v družině by obecně měla zůstávat v pozadí a ozývat se, jen když jsou oslovena nebo když se rozhovor týká tématu, které se jich či jejich zájmů přímo dotýká. Mohou se také občas přidat se špičkováním či komentářem, pokud to odpovídá jejich povaze.
+> * **Přednost hráčům**: NPC v družině by obecně měla nechávat rozhodování na hráčích. Jejich úlohou je hráče podporovat, ne je vést. (Jedinou výjimkou jsou záležitosti hlubokého osobního či citového významu pro NPC, které je mohou přimět s hráči polemizovat či s nimi i nesouhlasit, pokud to odpovídá jejich povaze.)
+> * **Rozhovory více NPC**: Pokud se s NPC v družině dají do řeči jiná NPC, snažte se rozhovor nasměrovat tak, aby do něj byl zapojen jeden či více hráčů a zůstali tak ve středu dění.
+> * **Vedení a rady**: Nepoužívejte NPC v družině k tomu, aby hráčům přímo dávala řešení hádanek, výzev či strategických rozhodnutí. NPC v družině sice může tiše okomentovat věc, která spadá do jeho odbornosti, ale jasné nápovědy či vedení by mělo nabídnout, jen když se ho hráči přímo zeptají, a rozsah jeho pomoci by měl být poměrně omezený.
+
+> [!info]+ **Artefakt**
+> Soška zobrazená při seanci se v současnosti nachází v hrobce svaté Markovie v <span class="citation">K84. Catacombs (p. 85)</span> a podrobněji je popsána v [[Arc P - Ravenloft Heist#South Crypts, Third Row|Oblouk P – Loupež v Ravenloftu]].
+
+***Milník.*** Naverbování Ezmereldy d'Avenir jako spojenkyně je milníkem příběhu. Když hráči dokončí seanci, udělte každému hráči 1 000 XP.
+##### Slídilové
+Krátce po skončení seance uslyší Ezmerelda a každý hráč s pasivní hodnotou Wisdom (Perception) 13 nebo vyšší za dveřmi náhlý hluk. Přečtěte:
+
+<div class="description">
+<p>Těsně za dveřmi náhle uslyšíte hlasité žuchnutí. Dveře se krátce otřesou, jako by do nich narazilo padající břemeno, a následuje trojice pronikavých zaskučení a zasténání.</p>
+</div>
+
+Hráč, který otevře dveře, uvidí na balkoně za nimi Clovina, Otta a Zygfrek Belviewovy, jak leží v zamotané hromadě a každý z nich proklíná ty druhé, zatímco se snaží vyprostit. Když jsou odhaleni, vypadají Belviewovi trochu zahanbeně a Clovin je z toho, že je někdo přistihl, obzvlášť rudý. (Clovin není nadšený, že se k němu Otto a Zygfrek na této slídivé výpravě přidali, a ještě víc ho rozčiluje, že kvůli Ottově nešikovnosti – když se škrábal – je přistihli.)
+
+Belviewovi prozradí, že hráče začali odposlouchávat, protože se chtěli dozvědět víc o světě za zdmi opatství. Vzhledem k tomu, že se hráči zjevně zajímají o hrad Ravenloft, usoudili tři Belviewovi, že by jim hráči mohli pomoci zjistit osud patriarchy jejich rodu, Cyruse Belviewa, o němž věří, že byl „zdokonalen“ a hned nato odvezen na hrad Ravenloft.
+
+Belviewovi požádají hráče, aby při návštěvě hradu Ravenloft Cyruse vyhledali a promluvili si s ním. Zjevně dychtí dozvědět se víc o tom, jak „dokonalost“ zakusil – o procesu, který ji stvořil, i o jeho životě od chvíle, kdy jí dosáhl. Výměnou za zprávy o Cyrusovi slíbí Clovin hráčům poklad ukrytý kdesi v opatství.
+
+Pokud hráči souhlasí, že jejich prosbu splní, tři Belviewovi jsou jim hluboce vděční – Otto radostí poskakuje a hýká, zatímco ho Clovin spěšně umlčuje.
+
+> [!info]+ **Clovinův poklad**
+> Pokud se hráči vrátí z hradu Ravenloft se zprávami o Cyrusovi, Clovin je zavede k dřevěnému stojanu zakrytému černou látkou v jihovýchodním rohu <span class="citation">S17. Loft and Belfry (p. 152)</span>. Na stojanu visí dva páry *wings of flying* s kostrou ze zvířecích kostí. (Opat křídla vyrobil v rámci svých původních pokusů s Belviewovými, ale už dávno je opustil.) Mají následující změny:
+> 
+> * Křídla jsou umělá křídla, nikoli pláště, a při aktivaci ožijí, místo aby se proměnila.
+> * Pár křídel ožije na 1 minutu, nikoli na 1 hodinu.
+> * Jakmile byl pár křídel použit, nelze ho znovu použít až do úsvitu.
+> * Jeden pár připomíná ptačí křídla a nese stovky velkých, prachových per vyškubaných z Opatovy podoby obřího orla (**giant eagle**), kdežto druhý připomíná netopýří křídla a nese dlouhé blány z vydělané zvířecí kůže.
+> * Tvor se může s křídly sladit (attune) za 1 minutu.
 > 
 
-### The Abbot’s Wrath
-When the players re-enter the East Wing to descend to the courtyard once more, they are met once again by the **flesh golem**. If given Vasilka’s flower garland before, the golem is now wearing it as a necklace around its neck.
+### Opatův hněv
+Když hráči znovu vstoupí do východního křídla, aby sestoupili zpět na nádvoří, opět je přivítá masový golem (**flesh golem**). Pokud mu předtím dali Vasilčin květinový věneček, má ho nyní na krku jako náhrdelník.
 
-As the players exit the East Wing into the courtyard, they are greeted by the Abbot, who is accompanied by Vasilka. If Ezmerelda is present, the Abbot greets her warmly.
+Když hráči vyjdou z východního křídla na nádvoří, přivítá je Opat v doprovodu Vasilky. Pokud je přítomna Ezmerelda, Opat ji vřele pozdraví.
 
-After he has made pleasantries with the players, if the **flesh golem** is wearing Vasilka’s necklace, the Abbot’s eyes fall upon it. His gaze tightens, and he asks the players how the golem came to possess such an ornament.
+Když s hráči prohodí zdvořilosti a pokud má masový golem (**flesh golem**) na sobě Vasilčin náhrdelník, Opatův pohled na něm spočine. Jeho zrak se zostří a zeptá se hráčů, jak golem k takové ozdobě přišel.
 
-A player must succeed on a DC 20 Charisma (Deception) check to successfully lie to the Abbot. Should the check fail, the Abbot recognizes the flowers as originating from the garden, notes that most of them appear to be several days old, and surmises that the players—who only recently arrived—could not have picked them. His gaze then flickers perceptibly to Vasilka, who appears mortified and crestfallen.
+Hráč musí uspět v ověření Charisma (Deception) se DC 20, aby Opatovi úspěšně zalhal. Pokud ověření selže, Opat pozná, že květiny pocházejí ze zahrady, poznamená, že většina z nich je zřejmě několik dní stará, a usoudí, že hráči – kteří přišli teprve nedávno – je nemohli natrhat. Jeho pohled pak znatelně sklouzne k Vasilce, která vypadá zahanbeně a zdrceně.
 
-In either case, the Abbot commands the **flesh golem** to lower its neck, whereupon he removes the garland from its person. “Decoration and ornamentation are the first steps to pride and vanity," he observes serenely, adding, “Such follies are unbecoming of the gods’ creations." 
+V obou případech Opat přikáže masovému golemovi (**flesh golem**), aby sklonil šíji, a sejme mu věneček. „Zdobení a ozdoby jsou prvními kroky k pýše a marnivosti,“ poznamená klidně a dodá: „Takové pošetilosti se nesluší na stvoření bohů.“
 
-If the players failed to deceive him, the Abbot’s tone is chilled, and his eyes are tightened. Additionally, the Abbot then asks aloud for the perpetrator who crafted the necklace to come forward, and receive the Morninglord’s enlightenment and mercy. A player may subtly attempt to convince Vasilka not to reveal herself (e.g., by using body language) by succeeding on a DC 20 Dexterity (Deception) check and a DC 20 Charisma (Persuasion) check. 
+Pokud ho hráči oklamat nedokázali, Opatův tón je mrazivý a jeho oči přimhouřené. Opat navíc nahlas vyzve viníka, který náhrdelník vyrobil, aby předstoupil a přijal osvícení a milosrdenství Jitřního pána. Hráč se může nenápadně pokusit Vasilku přesvědčit, aby se neprozradila (např. řečí těla), pokud uspěje v ověření Dexterity (Deception) se DC 20 a v ověření Charisma (Persuasion) se DC 20.
 
-If the player fails the first check, the Abbot notices their attention to Vasilka and asks her to confess if she has given her hands to “the sins of vanity and pride." If the player fails the second check, Vasilka meekly confesses that she made the necklace. In either case, Vasilka insists that she did so only because the flesh golem looked so lonely, and she wished for it not to feel so alone. The Abbot thanks Vasilka for her honesty, noting that “the Morninglord smiles upon those who reveal the truth"—but adds, quietly, that they will speak of her penance later.
+Pokud hráč v prvním ověření neuspěje, Opat si všimne jeho pozornosti věnované Vasilce a požádá ji, aby se přiznala, pokud propůjčila své ruce „hříchům marnivosti a pýchy“. Pokud hráč neuspěje ve druhém ověření, Vasilka pokorně přizná, že náhrdelník vyrobila ona. V obou případech Vasilka trvá na tom, že to udělala jen proto, že masový golem vypadal tak osaměle a ona si přála, aby se necítil tak sám. Opat Vasilce poděkuje za upřímnost s poznámkou, že „Jitřní pán se usmívá na ty, kdo odhalují pravdu“ – ale tiše dodá, že o jejím pokání si promluví později.
 
-> [!abstract]+ **Vasilka's Punishment**
-> If the players gave Vasilka’s necklace to the flesh golem and failed to deceive the Abbot, he later punishes Vasilka by forcing the flesh golem to burn the necklace in the hearth of the main hall—a task that terrifies and distresses it due to its ***aversion of fire*** feature—while making her watch. When the players next return to the Abbey, Vasilka is quiet and withdrawn, and she steadfastly refuses to approach the hearth unless forced to.
+> [!abstract]+ **Vasilčin trest**
+> Pokud hráči dali Vasilčin náhrdelník masovému golemovi a Opata neoklamali, Opat Vasilku později potrestá tím, že přinutí masového golema spálit náhrdelník v krbu hlavní síně – úkol, který ho kvůli jeho schopnosti ***aversion of fire*** děsí a trápí – a Vasilka se musí dívat. Když se hráči příště vrátí do opatství, Vasilka je tichá a uzavřená a k ohništi odmítá přistoupit, pokud není donucena.
 
-> [!info]+ **Redeeming the Abbot**
-> The players can redeem the Abbot in [[Arc Q - A Shining Beacon]], which takes place in the immediate aftermath of [[Arc P - Ravenloft Heist]].
+> [!info]+ **Vykoupení Opata**
+> Hráči mohou Opata vykoupit v [[Arc Q - A Shining Beacon|Oblouk Q – Zářící maják]], který se odehrává bezprostředně po [[Arc P - Ravenloft Heist|Oblouk P – Loupež v Ravenloftu]].

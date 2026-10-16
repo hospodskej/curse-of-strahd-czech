@@ -1,71 +1,71 @@
-In this act, which begins the morning after the players’ first full moon in Vallaki, the players receive a pair of invitations.
+V tomto dějství, které začíná ráno po prvním úplňku, jejž hráči strávili ve Vallaki, obdrží hráči dvě pozvání.
 
-The first, a plea from Urwin Martikov, asks the players to travel to the Wizard of Wines winery to the west in order to investigate a mysterious wine shortage in [[Arc J - The Stolen Gem]].
+První, prosba Urwina Martikova, žádá hráče, aby se vydali na západ do vinařství Čaroděj vín a vypátrali příčinu záhadného nedostatku vína v [[Arc J - The Stolen Gem|Oblouk J – Ukradený drahokam]].
 
-The second, a letter from Strahd von Zarovich himself, invites the players to dine at Castle Ravenloft with him and his court on the night before the new moon in [[Arc O - Dinner with the Devil]].
+Druhé, dopis od samotného Strahda von Zaroviche, zve hráče k večeři na hrad Ravenloft s ním a jeho dvorem v noci před novoluním v [[Arc O - Dinner with the Devil|Oblouk O – Večeře s ďáblem]].
 
-Should the players accept the Martikovs’ mission in [[Arc J - The Stolen Gem]], they gain two companions for the journey: Muriel Vinshaw, a **wereraven** agent of the Keepers of the Feather; and Ireena Kolyana, who asks to join the players permanently in the fight against Strahd. The players must rescue the winery from the Forest Folk **druids** who have conquered it and, once they have done so, retrieve an enchanted gem from Yester Hill to the south before the Wizard of Wines falls to destruction.
+Pokud hráči v [[Arc J - The Stolen Gem|Oblouk J – Ukradený drahokam]] přijmou úkol Martikovových, získají na cestu dva společníky: Muriel Vinshaw, havranodlačí (**wereraven**) agentku Strážců pera, a Ireenu Kolyanu, která žádá, aby se k hráčům mohla natrvalo přidat v boji proti Strahdovi. Hráči musí vyrvat vinařství z rukou druidů Lesního lidu (**druids**), kteří jej dobyli, a jakmile se jim to podaří, přinést z Yesterského vrchu na jihu očarovaný drahokam dříve, než Čaroděj vín propadne zkáze.
 
-Meanwhile, as the players explore other leads across the western half of the Barovia, they can recruit the Vistana monster hunter Ezmerelda d’Avenir in [[Arc K - The Fallen Abbey]], investigate the werewolf pack in [[Arc L - The Den of Wolves]], and uncover the mysteries of Argynvostholt in [[Arc M - The Dragon's Manor]].
+Mezitím, zatímco hráči sledují další stopy napříč západní polovinou Barovie, mohou v [[Arc K - The Fallen Abbey|Oblouk K – Padlé opatství]] naverbovat lovkyni nestvůr z rodu Vistani Ezmereldu d’Avenir, v [[Arc L - The Den of Wolves|Oblouk L – Vlčí doupě]] vyšetřovat vlkodlačí smečku a v [[Arc M - The Dragon's Manor|Oblouk M – Dračí sídlo]] odhalit tajemství Argynvostholtu.
 
-In the process, they’ll obtain multiple reasons to journey to Castle Ravenloft: to recover the *Icon of Ravenloft* to cleanse the Abbot’s corruption in [[Arc K - The Fallen Abbey]]; to rescue the **werewolf** Emil Toranescu in exchange for the *Holy Symbol of Ravenkind* in [[Arc L - The Den of Wolves]]; and to steal the skull of the dragon Argynvost to bring hope to the land once more in [[Arc M - The Dragon's Manor]].
+Přitom získají hned několik důvodů vydat se na hrad Ravenloft: získat zpět *Ikonu Ravenloftu*, aby očistili Opatovu zkaženost v [[Arc K - The Fallen Abbey|Oblouk K – Padlé opatství]]; zachránit vlkodlaka (**werewolf**) Emila Toranesca výměnou za *Svatý symbol Havraního rodu* v [[Arc L - The Den of Wolves|Oblouk L – Vlčí doupě]]; a ukrást lebku draka Argynvosta, aby do země znovu vnesli naději, v [[Arc M - The Dragon's Manor|Oblouk M – Dračí sídlo]].
 
-On the last night before the new moon, the players can dine with Strahd von Zarovich and the members of his court in [[Arc O - Dinner with the Devil]]. There, they’ll learn that Strahd will be gone from the castle the following night, creating the perfect opportunity to infiltrate the castle in [[Arc P - Ravenloft Heist]]. Once they have done so, the players must then return to the western valley to purify the Abbot’s soul, defeat the **werewolf** Kiril Stoyanovich, and relight the beacon of Argynvostholt.
+Poslední noc před novoluním mohou hráči v [[Arc O - Dinner with the Devil|Oblouk O – Večeře s ďáblem]] povečeřet se Strahdem von Zarovichem a členy jeho dvora. Tam se dozvědí, že Strahd bude následující noc mimo hrad – a to je dokonalá příležitost proniknout na hrad v [[Arc P - Ravenloft Heist|Oblouk P – Loupež v Ravenloftu]]. Jakmile se jim to podaří, musí se hráči vrátit do západní části údolí, očistit Opatovu duši, porazit vlkodlaka (**werewolf**) Kirila Stoyanoviche a znovu zažehnout maják Argynvostholtu.
 
-This act ends at dusk on the first night after the players infiltrate Castle Ravenloft in [[Arc P - Ravenloft Heist]]. However, the players can still complete unresolved arcs from this act even after Act IV begins—assuming, of course, that those arcs are still possible to complete.
-# Milestones
-The players begin this act at 5th level and should end it at 8th level, gaining milestone XP when they successfully do any of the following:
+Toto dějství končí za soumraku první noci poté, co hráči proniknou na hrad Ravenloft v [[Arc P - Ravenloft Heist|Oblouk P – Loupež v Ravenloftu]]. Hráči však mohou nedokončené oblouky z tohoto dějství dovést do konce i poté, co začne Dějství IV – samozřejmě za předpokladu, že je ještě možné je dokončit.
+# Milníky
+Hráči začínají toto dějství na 5. úrovni a měli by ho zakončit na 8. úrovni. Milníkové XP získávají, když úspěšně splní kterýkoli z následujících úkolů:
 
-* defeat the druids occupying the Wizard of Wines winery (2,000 XP)
-* retrieve the stolen gem from Yester Hill (2,500 XP)
-* recruit Ezmerelda d’Avenir at the Abbey of St. Markovia (1,000 XP)
-* bargain with Zuleika Toranescu at the Werewolf Den (1,500 XP)
-* free Ilya and Zuleika from the den (250 XP)
-* receive Argynvost’s mission at Argynvostholt (2,500 XP)
-* put Varushka’s ghost to rest and find her hidden cache in Castle Ravenloft (500 XP)
-* return from Castle Ravenloft following the dinner with Strahd (3,500 XP)
-* steal Argynvost’s skull from Ravenloft’s **Hall of Bones** (4000 XP)
-* recover the *Icon of Ravenloft* from Ravenloft’s catacombs (250 XP)
-* obtain the *Spear of the Huntress* from King Dostron's crypt (250 XP)
-* rescue Emil Toranescu from Ravenloft’s dungeons (250 XP)
-* rescue Gertruda from the master bedroom of Castle Ravenloft (250 XP)
-* raid Strahd’s hidden treasury in Castle Ravenloft (250 XP)
-* defeat the Abbot (2,000 XP)
-* redeem the Abbot after defeating him (500 XP)
-* defeat Kiril Stoyanovich (2,000 XP)
-* light the beacon of Argynvostholt (3,000 XP)
-# Timeline
-The quests of Act III become available and are resolved as given in the table below. (🟢 signifies a day the quest remains available, 🔶 signifies a day on which a significant event occurs, 🟥 signifies a quest deadline, and ❌ signifies a day the quest is unavailable.)
+* porazí druidy, kteří obsadili vinařství Čaroděj vín (2 000 XP)
+* získají zpět ukradený drahokam z Yesterského vrchu (2 500 XP)
+* naverbují Ezmereldu d’Avenir v Opatství svaté Markovie (1 000 XP)
+* vyjednají se Zuleikou Toranescu ve vlčím doupěti (1 500 XP)
+* osvobodí Ilju a Zuleiku z doupěte (250 XP)
+* přijmou od Argynvosta jeho poslání v Argynvostholtu (2 500 XP)
+* uloží k odpočinku ducha Varushky a naleznou její skrýš na hradě Ravenloft (500 XP)
+* vrátí se z hradu Ravenloft po večeři se Strahdem (3 500 XP)
+* ukradnou Argynvostovu lebku z ravenloftské **Síně kostí** (4 000 XP)
+* získají *Ikonu Ravenloftu* z ravenloftských katakomb (250 XP)
+* získají *Kopí Lovkyně* z hrobky krále Dostrona (250 XP)
+* zachrání Emila Toranesca z ravenloftských žalářů (250 XP)
+* zachrání Gertrudu z hlavní ložnice hradu Ravenloft (250 XP)
+* vyplení Strahdovu skrytou pokladnici na hradě Ravenloft (250 XP)
+* porazí Opata (2 000 XP)
+* vykoupí Opata poté, co ho porazí (500 XP)
+* porazí Kirila Stoyanoviche (2 000 XP)
+* zažehnou maják Argynvostholtu (3 000 XP)
+# Časová osa
+Úkoly Dějství III se zpřístupňují a uzavírají podle následující tabulky. (🟢 označuje den, kdy úkol zůstává dostupný, 🔶 den, kdy nastane významná událost, 🟥 termín, do kdy je třeba úkol splnit, a ❌ den, kdy úkol již není dostupný.)
 
-| Arc \ Day of Neyavr      | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  |
-| :----------------------- | --- | --- | --- | --- | --- | --- | --- | --- |
-| J: The Stolen Gem        | 🔶  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  |
-| K: The Fallen Abbey      | —   | 🔶  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  |
-| L: The Den of Wolves     | —   | —   | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  |
-| M: The Dragon's Manor    | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  |
-| N: Tales of Vallaki      | —   | —   | —   | —   | —   | —   | —   | —   |
-| O: Dinner with the Devil | —   | —   | —   | —   | —   | 🔶  | ❌   | ❌   |
-| P: Ravenloft Heist       | —   | —   | —   | —   | —   | —   | 🔶  | ❌   |
-| Q: A Shining Beacon      | —   | —   | —   | —   | —   | —   | —   | 🔶  |
+| Oblouk \ Den měsíce Neyavr | 9   | 10  | 11  | 12  | 13  | 14  | 15  | 16  |
+| :------------------------- | --- | --- | --- | --- | --- | --- | --- | --- |
+| J: Ukradený drahokam       | 🔶  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  |
+| K: Padlé opatství          | —   | 🔶  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  |
+| L: Vlčí doupě              | —   | —   | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  |
+| M: Dračí sídlo             | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  | 🟢  |
+| N: Příběhy z Vallaki       | —   | —   | —   | —   | —   | —   | —   | —   |
+| O: Večeře s ďáblem         | —   | —   | —   | —   | —   | 🔶  | ❌   | ❌   |
+| P: Loupež v Ravenloftu     | —   | —   | —   | —   | —   | —   | 🔶  | ❌   |
+| Q: Zářící maják            | —   | —   | —   | —   | —   | —   | —   | 🔶  |
 
-The most common path through Act III is as follows:
+Nejběžnější cesta Dějstvím III vypadá takto:
 
-* **Neyavr 9.** The players receive Urwin Martikov's request to complete [[Arc J - The Stolen Gem]] (🔶).
-* **Neyavr 10.** The players travel to the Wizard of Wines winery and defeat the druids of the Forest Folk there in [[Arc J - The Stolen Gem]].
-* **Neyavr 11.** The players travel to Yester Hill at dawn and stop the ritual to summon the **tree blight** Wintersplinter in [[Arc J - The Stolen Gem]]. The players then meet Ezmerelda d'Avenir in the village of Krezk and conduct a seance at the Abbey of St. Markovia in [[Arc K - The Fallen Abbey]], then stake out the werewolf den at nightfall in [[Arc L - The Den of Wolves]].
-* **Neyavr 12.** The players investigate Argynvostholt in [[Arc M - The Dragon's Manor]].
-* **Neyavr 13.** The players take a day of downtime.
-* **Neyavr 14.** The players dine with Strahd at dusk in [[Arc O - Dinner with the Devil]] (🔶).
-* **Neyavr 15 (New Moon).** The players infiltrate Castle Ravenloft at dusk, then escape through the teleportation brazier in [[Arc P - Ravenloft Heist]] (🔶).
-* **Neyavr 16.** The players light the beacon of Argynvostholt and defeat the werewolf Kiril Stoyanovich in [[Arc Q - A Shining Beacon]] (🔶).
+* **Neyavr 9.** Hráči obdrží prosbu Urwina Martikova, která otevírá [[Arc J - The Stolen Gem|Oblouk J – Ukradený drahokam]] (🔶).
+* **Neyavr 10.** Hráči se vydají do vinařství Čaroděj vín a porazí tamní druidy Lesního lidu v [[Arc J - The Stolen Gem|Oblouk J – Ukradený drahokam]].
+* **Neyavr 11.** Hráči za úsvitu dorazí na Yesterský vrch a zastaví rituál, jímž má být vyvolán Zimotřísk (**tree blight**), v [[Arc J - The Stolen Gem|Oblouk J – Ukradený drahokam]]. Poté se ve vesnici Krezk setkají s Ezmereldou d'Avenir a v Opatství svaté Markovie uspořádají seanci v [[Arc K - The Fallen Abbey|Oblouk K – Padlé opatství]], a za soumraku pak sledují vlčí doupě v [[Arc L - The Den of Wolves|Oblouk L – Vlčí doupě]].
+* **Neyavr 12.** Hráči prozkoumají Argynvostholt v [[Arc M - The Dragon's Manor|Oblouk M – Dračí sídlo]].
+* **Neyavr 13.** Hráči si dopřejí den volna.
+* **Neyavr 14.** Hráči za soumraku večeří se Strahdem v [[Arc O - Dinner with the Devil|Oblouk O – Večeře s ďáblem]] (🔶).
+* **Neyavr 15 (novoluní).** Hráči za soumraku proniknou na hrad Ravenloft a poté uniknou teleportační pánví v [[Arc P - Ravenloft Heist|Oblouk P – Loupež v Ravenloftu]] (🔶).
+* **Neyavr 16.** Hráči zažehnou maják Argynvostholtu a porazí vlkodlaka Kirila Stoyanoviche v [[Arc Q - A Shining Beacon|Oblouk Q – Zářící maják]] (🔶).
 
-Alternately, particularly swift players might take the following path through Act III instead:
+Obzvlášť rychlí hráči se mohou Dějstvím III vydat i touto cestou:
 
-* **Neyavr 9.** The players receive Urwin Martikov's request to complete [[Arc J - The Stolen Gem]] (🔶), then investigate Argynvostholt in [[Arc M - The Dragon's Manor]].
-* **Neyavr 10.** The players travel to the Wizard of Wines winery and defeat the druids of the Forest Folk there in [[Arc J - The Stolen Gem]].
-* **Neyavr 11.** The players travel to Yester Hill at dawn and stop the ritual to summon the **tree blight** Wintersplinter in [[Arc J - The Stolen Gem]]. The players then meet Ezmerelda d'Avenir and conduct a seance in [[Arc K - The Fallen Abbey]], and stake out the werewolf den in [[Arc L - The Den of Wolves]].
-* **Neyavr 12.** The players take a day of downtime.
-* **Neyavr 13.** The players take a day of downtime.
-* **Neyavr 14.** The players take a day of downtime, then dine with Strahd at dusk in [[Arc O - Dinner with the Devil]] (🔶).
-* **Neyavr 15 (New Moon).** The players infiltrate Castle Ravenloft at dusk, then escape through the teleportation brazier in [[Arc P - Ravenloft Heist]] (🔶).
-* **Neyavr 16.** The players light the beacon of Argynvostholt and defeat the werewolf Kiril Stoyanovich in [[Arc Q - A Shining Beacon]] (🔶).
+* **Neyavr 9.** Hráči obdrží prosbu Urwina Martikova, která otevírá [[Arc J - The Stolen Gem|Oblouk J – Ukradený drahokam]] (🔶), a poté prozkoumají Argynvostholt v [[Arc M - The Dragon's Manor|Oblouk M – Dračí sídlo]].
+* **Neyavr 10.** Hráči se vydají do vinařství Čaroděj vín a porazí tamní druidy Lesního lidu v [[Arc J - The Stolen Gem|Oblouk J – Ukradený drahokam]].
+* **Neyavr 11.** Hráči za úsvitu dorazí na Yesterský vrch a zastaví rituál, jímž má být vyvolán Zimotřísk (**tree blight**), v [[Arc J - The Stolen Gem|Oblouk J – Ukradený drahokam]]. Poté se setkají s Ezmereldou d'Avenir, uspořádají seanci v [[Arc K - The Fallen Abbey|Oblouk K – Padlé opatství]] a sledují vlčí doupě v [[Arc L - The Den of Wolves|Oblouk L – Vlčí doupě]].
+* **Neyavr 12.** Hráči si dopřejí den volna.
+* **Neyavr 13.** Hráči si dopřejí den volna.
+* **Neyavr 14.** Hráči si dopřejí den volna a za soumraku pak večeří se Strahdem v [[Arc O - Dinner with the Devil|Oblouk O – Večeře s ďáblem]] (🔶).
+* **Neyavr 15 (novoluní).** Hráči za soumraku proniknou na hrad Ravenloft a poté uniknou teleportační pánví v [[Arc P - Ravenloft Heist|Oblouk P – Loupež v Ravenloftu]] (🔶).
+* **Neyavr 16.** Hráči zažehnou maják Argynvostholtu a porazí vlkodlaka Kirila Stoyanoviche v [[Arc Q - A Shining Beacon|Oblouk Q – Zářící maják]] (🔶).

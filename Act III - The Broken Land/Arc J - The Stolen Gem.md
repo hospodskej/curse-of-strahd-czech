@@ -1,85 +1,85 @@
-_An adventure for five 5th-level characters._
+_Dobrodružství pro pět postav 5. úrovně._
 
-In this arc, the first morning after the players' first full moon in Barovia, they are approached by Urwin Martikov, who asks them to investigate a mysterious shortage of wine deliveries from the Wizard of Wines winery to the southwest. If the players accept his mission, Urwin asks them to allow Muriel Vinshaw—an employee of the winery—to accompany them on the journey. (Muriel is, of course, a secret **wereraven** and a member of the Keepers of the Feather, tasked with delivering word of Strahd’s prophecy to Davian Martikov, the leader of the order.)
+V tomto oblouku, prvního rána po prvním úplňku, který hráči v Barovii zažili, je osloví Urwin Martikov a požádá je, aby prošetřili záhadný výpadek dodávek vína z vinařství Čaroděj vín na jihozápadě. Pokud hráči jeho úkol přijmou, Urwin je požádá, aby je na cestě směla doprovázet Muriel Vinshaw – zaměstnankyně vinařství. (Muriel je pochopitelně tajná havranodlačice (**wereraven**) a členka Strážců pera, pověřená doručit zprávu o Strahdově proroctví Davianu Martikovovi, vůdci řádu.)
 
-Before the players depart Vallaki, Ireena Kolyana—inspired by the players’ exploits there and filled with grim determination following her encounters with Izek Strazni—asks them to allow her to accompany them on their travels, forsaking the sanctuary of Vallaki for an opportunity to join the fight against Strahd. If the players accept her request, Ireena joins the party as a permanent companion for the remainder of the campaign.
+Než hráči opustí Vallaki, požádá je Ireena Kolyana – inspirovaná jejich skutky ve městě a naplněná zarputilým odhodláním po svých střetech s Izekem Strazni –, aby je směla doprovázet na jejich cestách. Je ochotná vzdát se útočiště ve Vallaki výměnou za možnost zapojit se do boje proti Strahdovi. Pokud hráči její prosbu přijmou, Ireena se k družině připojí jako trvalá společnice po zbytek kampaně.
 
-Upon arriving at the Wizard of Wines, the players meet Davian Martikov—the patriarch of the Martikov family—and his assorted children and grandchildren, who have taken shelter in a hidden cavern beneath the nearby woods. Davian shares that the winery has been invaded by a group of druids known as the Forest Folk alongside a horde of twisted plant creatures called **blights**. Davian asks the players to defeat the Forest Folk and break the staff that their leader uses to control the blights, allowing the Martikovs to reclaim their home.
+Po příchodu do Čaroděje vín se hráči setkají s Davianem Martikovem – patriarchou rodu Martikovů – a s jeho dětmi a vnoučaty, kteří se ukryli v tajné jeskyni pod nedalekým lesem. Davian jim prozradí, že vinařství obsadila skupina druidů známá jako Lesní lid spolu s hordou zkroucených rostlinných stvůr zvaných **blights**. Davian požádá hráče, aby Lesní lid porazili a zlomili hůl, jíž jejich vůdce stvůry ovládá, aby se Martikovovi mohli vrátit domů.
 
-To do so, the players must enter the winery through a secret tunnel that leads into the cellar, then do battle with the druids and their corrupted blight servants. The druids, however, are nurturing a cutting of the “Gulthias tree"—a vampiric tree that grows atop Yester Hill to the south—within the walls of the winery, complicating the players’ efforts to reach the upper levels.
+Hráči se k tomu musí dostat do vinařství tajným tunelem, který ústí ve sklepě, a pak se utkat s druidy a jejich zkaženými rostlinnými služebníky. Druidové však uvnitř zdí vinařství pěstují řízek ze „stromu Gulthias“ – upířího stromu, který roste na vrcholu Yesterského vrchu na jihu –, a ten hráčům ztěžuje cestu do horních podlaží.
 
-Should the players defeat the druids, they learn that the Forest Folk are planning a ritual to summon a being called “Wintersplinter" at Yester Hill the following day—a being that threatens to smash the winery into pieces. Davian asks the players and Muriel to journey to Yester Hill and prevent Wintersplinter’s birth. Davian also asks the players to retrieve an enchanted gemstone that the winery previously used to grow grapes before it was stolen by the druids.
+Pokud hráči druidy porazí, dozvědí se, že Lesní lid chystá na následující den na Yesterském vrchu rituál, jímž chce vyvolat bytost zvanou „Zimotřísk“ – bytost, která hrozí rozdrtit vinařství na kusy. Davian požádá hráče a Muriel, aby se vydali na Yesterský vrch a Zimotřískovu zrození zabránili. Zároveň je požádá, aby získali zpět očarovaný drahokam, s jehož pomocí vinařství kdysi pěstovalo hrozny, než jej druidové ukradli.
 
-At Yester Hill, Muriel first guides the players to a grove in the shadow of the Svalich Woods. There, she summons the spirit of Kavan, an ancient chieftain of the Forest Folk, who provides information regarding the druids’ plans and defenses. Kavan warns the players that Svarog, the druids’ leader, is a mighty foe, and invites them to return to his cairn should they defeat Svarog and retrieve his yew wand.
+Cestou k Yesterskému vrchu dovede Muriel hráče nejprve do háje ve stínu Svalichského lesa. Tam vyvolá ducha Kavana, prastarého náčelníka Lesního lidu, který jim poskytne informace o plánech a obraně druidů. Kavan hráče varuje, že Svarog, vůdce druidů, je mocný nepřítel, a vyzve je, aby se vrátili k jeho mohyle, pokud Svaroga porazí a získají jeho tisovou hůlku.
 
-As the players continue their journey to Yester Hill, they are met by Strahd von Zarovich riding his **nightmare**, Beucephalus. Should the players convince Strahd to allow them to oppose the druids, Strahd suggests a wager and offers a reward should they win, which the players can collect at the Whispering Wall west of Yester Hill after the battle.
+Když hráči pokračují v cestě k Yesterskému vrchu, vyjde jim vstříc Strahd von Zarovich na svém přízračném oři (**nightmare**) Beucephalovi. Pokud hráči Strahda přesvědčí, aby jim dovolil postavit se druidům, navrhne jim Strahd sázku a nabídne odměnu pro případ, že zvítězí. Tu si hráči mohou po bitvě vyzvednout u Šeptající zdi západně od Yesterského vrchu.
 
-The players must climb Yester Hill without alerting the druids’ patrols, fight their way past the guardians of the stone ring atop the hill, and defeat Svarog’s circle of druids before they can summon Wintersplinter, a fearsome **tree blight** that threatens to lay siege to the Wizard of Wines winery. If the players succeed, they can obtain the Martikovs’ stolen gemstone from Wintersplinter’s heart and end the threat of the Forest Folk for good.
+Hráči musí vystoupat na Yesterský vrch, aniž by vyburcovali druidské hlídky, probojovat se kolem strážců kamenného kruhu na vrcholu a porazit Svarogův druidský kruh dřív, než stihnou vyvolat Zimotřísk – děsivého stromového zhoubce (**tree blight**), která hrozí oblehnout vinařství Čaroděj vín. Pokud uspějí, mohou ze Zimotřískova srdce vyjmout drahokam ukradený Martikovovým a hrozbu Lesního lidu navždy zažehnat.
 
-Should the players meet Strahd at the Whispering Wall, he shares a brief history of the wall and invites them to venture into its misted depths, where they can face visions of their deepest desires. Before departing, Strahd presents the players with their reward, as well as additional gifts for each player who entered and returned from the Whispering Wall.
+Pokud se hráči se Strahdem setkají u Šeptající zdi, poví jim krátce o historii zdi a vyzve je, aby vstoupili do jejích mlžných hlubin, kde mohou spatřit vidiny svých nejhlubších tužeb. Před odchodem hráčům předá jejich odměnu a k tomu další dary pro každého hráče, který do Šeptající zdi vstoupil a vrátil se z ní.
 
-Should the players return to Kavan’s cairn and present him with Svarog’s wand, he shares with them the story of the schism between the Forest Folk (who chose to worship Strahd) and the Mountain Folk (who defied Strahd’s authority) long ago. Kavan tells the players of the Ladies of the Fanes, and instructs them to travel to the hidden Mountain Folk settlement of Soldav in Tsolenka Pass if they wish to find a way to reverse the land’s corruption.
-# J1. The Blue Water Inn
-### J1a. Urwin’s Request
-The morning after the night of the players’ first full moon in Barovia, if they have been staying at the Blue Water Inn, Urwin Martikov approaches them with an expression of obvious concern. 
+Pokud se hráči vrátí ke Kavanově mohyle a předají mu Svarogovu hůlku, vypráví jim příběh o dávném rozkolu mezi Lesním lidem (který se rozhodl uctívat Strahda) a Horským lidem (který se Strahdově moci vzepřel). Kavan hráčům poví o Paních svatyní a poradí jim, aby se vydali do skryté osady Horského lidu Soldav v průsmyku Tsolenka, chtějí-li najít způsob, jak zvrátit zkaženost této země.
+# J1. Hostinec U Modré vody
+### J1a. Urwinova prosba
+Ráno po noci prvního úplňku, který hráči v Barovii zažili, přistoupí k hráčům – pokud přebývají v hostinci U Modré vody – Urwin Martikov se zjevně ustaraným výrazem.
 
-After exchanging pleasantries, Urwin reluctantly (though quietly) asks if they would be willing to assist him and Danika with a problem that the inn is currently facing. If the players agree, Urwin shares the following information:
+Po výměně zdvořilostí se Urwin zdráhavě (a potichu) zeptá, zda by byli ochotni pomoci jemu a Danice s potíží, která hostinec v současnosti tíží. Pokud hráči souhlasí, Urwin jim sdělí následující:
 
-* The Blue Water Inn ordinarily receives regular shipments of wine once a fortnight from the Wizard of Wines, located at the southwest end of the Barovian valley, including both the popular Purple Grapemash No. 3 and the pricier Red Dragon Crush.
-* However, this fortnight’s shipment is late by two days, and the inn’s supplies are beginning to run low. Urwin and Danika have enough in savings that this shouldn’t be an immediate problem, but they’re worried about the welfare of the winery, which hasn’t been heard from since the last shipment arrived.
+* Hostinec U Modré vody obvykle jednou za čtrnáct dní dostává pravidelnou zásilku vína z Čaroděje vín, který leží na jihozápadním konci barovského údolí – včetně oblíbeného Fialového hroznového moštu č. 3 i dražšího Drceného rudého draka.
+* Zásilka z tohoto čtrnáctidenního období však má dva dny zpoždění a zásoby hostince se začínají tenčit. Urwin a Danika mají dost úspor, aby to pro ně nebyl okamžitý problém, ale bojí se o osud vinařství, z něhož od poslední dodávky nepřišla jediná zpráva.
 
-Urwin asks the players to travel to the Wizard of Wines and speak with the owner, a man named Davian Martikov, to discern the reason for the delay and resolve it, if necessary. (If the players point out Davian’s last name, Urwin grimly admits that Davian is his father, but refuses to elaborate, sharing only that he and his father have not spoken in many years.) Urwin warns the players that Davian is a “stubborn old bird," and that his short temper might wear on their patience.
+Urwin požádá hráče, aby se vydali do Čaroděje vín a promluvili s majitelem, mužem jménem Davian Martikov, zjistili příčinu zpoždění a v případě potřeby ji odstranili. (Pokud hráči upozorní na Davianovo příjmení, Urwin zachmuřeně přizná, že Davian je jeho otec, ale odmítne se o tom šířit – prozradí jen, že spolu s otcem už mnoho let nepromluvili.) Urwin hráče varuje, že Davian je „paličatý starý pták“ a že jeho prchlivost může zkoušet jejich trpělivost.
 
-Urwin notes, however, that the Inn has sufficient wine stock to last at least a few days. If the players have more pressing business to attend to, he’s happy for them to take an additional day or two before departing.
+Urwin však podotkne, že hostinec má dost vína na nejméně několik dní. Pokud mají hráči naléhavější záležitosti, rád jim dopřeje den či dva navíc, než vyrazí.
 
-If the players accept Urwin’s mission, he asks them to join him in the Blue Water Inn's kitchen in one hour to meet with Muriel Vinshaw, a former employee of the Wizard of Wines who can take them to the winery. (If asked, Urwin shares that Muriel has business of her own at the winery and that she is similarly concerned for the winery’s safety, but declines to provide any further information.)
+Pokud hráči Urwinův úkol přijmou, požádá je, aby za hodinu přišli do kuchyně hostince U Modré vody, kde se setkají s Muriel Vinshaw, bývalou zaměstnankyní Čaroděje vín, která je do vinařství dovede. (Pokud se ho hráči zeptají, Urwin prozradí, že Muriel má ve vinařství vlastní záležitosti a že má o jeho bezpečí podobné obavy, ale další informace odmítne poskytnout.)
 
-> [!lore]+ **What Urwin Knows**
-> Urwin believes that something terrible has happened to the winery—though what, he isn't sure. Although he sent out a half-dozen ravens to investigate when the first delivery failed to appear, none returned.
+> [!lore]+ **Co ví Urwin**
+> Urwin věří, že se ve vinařství stalo něco strašného – co přesně, to netuší. Když první dodávka nedorazila, vyslal půl tuctu havranů, aby věc prověřili, ale žádný se nevrátil.
 > 
-> Urwin knows, thanks to Muriel, that Baba Lysaga's **strix** have recently begun to patrol the valley in greater force and numbers. Although Muriel has volunteered to investigate, he and Muriel have decided that the skies are likely no longer safe, and that the best way for her to proceed is on foot, preferably with skilled bodyguards.
-## J1b. Setting Off
-### Meeting Muriel
-When the players meet Urwin in the Blue Water Inn's kitchen after accepting his mission, he introduces them to Muriel Vinshaw. Read:
+> Díky Muriel Urwin ví, že **strix** Baby Lysagy začaly v poslední době hlídkovat nad údolím ve větší síle a počtu. Přestože se Muriel nabídla, že věc prošetří, oba usoudili, že nebe už pravděpodobně není bezpečné a že nejlepší bude, když se vydá pěšky – nejlépe se zkušenými strážci po boku.
+## J1b. Na cestu
+### Setkání s Muriel
+Když se hráči po přijetí úkolu sejdou s Urwinem v kuchyni hostince U Modré vody, představí jim Muriel Vinshaw. Přečtěte:
 
 <div class="description">
-<p>A young woman leans against the stove, her arms crossed. She is short and dusky-skinned, with jet-black hair and dark eyes.  A  mud-stained cloak hangs across her shoulders, and a small, dark feather hangs on a leather cord around her neck between two carved wooden beads. A wooden crossbow hangs from a mount on her back, and a shortsword rests sheathed at her hip.</p>
-<p>Her right hand lifts up to her head, fingers idly twirling the bright blue streak that runs through her hair. She flashes you a grin and holds out the other hand in greeting, her fingers twitching with restless energy.</p>
+<p>O kamna se opírá mladá žena se založenýma rukama. Je drobná, snědé pleti, s havraně černými vlasy a tmavýma očima. Přes ramena jí visí plášť potřísněný blátem a na krku jí na koženém řemínku mezi dvěma vyřezávanými dřevěnými korálky visí malé tmavé pírko. Na zádech má v držáku zavěšenou dřevěnou kuši a u boku jí v pochvě odpočívá krátký meč.</p>
+<p>Pravou ruku zvedne k hlavě a prsty si roztržitě natáčí jasně modrý pramen, který se jí táhne vlasy. Věnuje vám úsměv a druhou ruku vám podává na pozdrav; prsty se jí chvějí neklidnou energií.</p>
 </div>
 
 ![[Muriel Vinshaw 1.png]]
-<span class="credit">"Muriel Vinshaw" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">„Muriel Vinshaw“ – autor: Caleb Cleveland. Podpořte ho na <a href="https://patreon.com/calebisdrawing/">Patreonu!</a></span>
 
-> [!profile]+ **Profile: Muriel Vinshaw**
-> **Roleplaying Information**
-> ***Resonance.*** Muriel should inspire endearment with her enthusiastic, go-getter attitude, amusement with her snarky comments and cheerful sense of humor, and mild irritation with her stubbornness and occasional (though apologetic) refusals to reveal the secrets of the Keepers of the Feather.
+> [!profile]+ **Profil: Muriel Vinshaw**
+> **Pro hraní role**
+> ***Vyznění.*** Muriel by měla budit sympatie svým nadšeným, průbojným přístupem, pobavení svými jízlivými poznámkami a veselým smyslem pro humor a mírné podráždění svou paličatostí a občasným (byť omluvným) odmítáním prozradit tajemství Strážců pera.
 > 
-> ***Emotions.*** Muriel most often feels curious, excited, determined, triumphant, gleeful, amused, angry, or sad.
+> ***Emoce.*** Muriel nejčastěji cítí zvědavost, vzrušení, odhodlání, triumf, rozjařenost, pobavení, hněv nebo smutek.
 > 
-> ***Motivations.*** Muriel wants to honor Elric's life through her resistance to Strahd and make a difference in the everyday lives of Barovians in her capacity as a field agent for the Keepers of the Feather.
+> ***Motivace.*** Muriel chce uctít Elricův život svým odporem vůči Strahdovi a jako terénní agentka Strážců pera měnit k lepšímu všední životy Barovanů.
 > 
-> ***Inspirations.*** When playing Muriel, channel Amethyst (*Steven Universe*), Sokka (*Avatar: the Last Airbender*), and Peter Parker (*Spider-Man*).
+> ***Inspirace.*** Při hraní Muriel čerpejte z postav Amethyst (*Steven Universe*), Sokka (*Avatar: the Last Airbender*) a Peter Parker (*Spider-Man*).
 > 
-> **Character Information**
-> ***Persona.*** To the world, Muriel is a cheerful, if occasionally scatterbrained young woman. To those she trusts, Muriel is a determined field agent for the Keepers of the Feather, with a strong sense of justice and a fierce independent streak. Deep down, Muriel is still grieving the death of her fiancé, Elric Martikov, and wonders whether she'll ever fix what his death broke inside of her.
+> **O postavě**
+> ***Tvář.*** Před světem je Muriel veselá, i když občas roztržitá mladá žena. Pro ty, jimž důvěřuje, je odhodlanou terénní agentkou Strážců pera se silným smyslem pro spravedlnost a vzpurně nezávislou povahou. V hloubi duše Muriel stále truchlí nad smrtí svého snoubence Elrica Martikova a přemítá, zda se jí někdy podaří spravit to, co v ní jeho smrt zlomila.
 > 
-> ***Morale.*** In a fight, Muriel would gladly pull out her shortsword or crossbow and dare her opponent to strike first, fleeing only if her regeneration were blocked or outmatched.
+> ***Morálka.*** V boji by Muriel ochotně tasila krátký meč nebo kuši a vyzvala soupeře, ať udeří první. Uprchla by jen tehdy, pokud by byla její regenerace zablokována nebo přemožena.
 > 
-> ***Relationships.*** Muriel is an agent of the Keepers of the Feather under Davian Martikov, a contact and ally of Keeper spymaster Urwin Martikov, and the once-fiancé of Davian's deceased son, Elric Martikov, who was imprisoned while assisting Doru's rebellion against Castle Ravenloft.
+> ***Vztahy.*** Muriel je agentkou Strážců pera pod vedením Daviana Martikova, kontaktem a spojenkyní Urwina Martikova, mistra vyzvědačů Strážců, a bývalou snoubenkou Davianova zesnulého syna Elrica Martikova, který byl uvězněn, když pomáhal Doruově vzpouře proti hradu Ravenloft.
 
-Muriel greets the players warmly and introduces herself, noting that Urwin has told her that she’ll be bringing them to the Wizard of Wines even as they make sure that she “doesn’t get killed." Following their reply, she then chides the players briefly, playfully suggesting that they “don’t seem like the adventuring type". If the players share any of their exploits in Vallaki or beyond, Muriel cheerfully concedes that they do indeed look well-equipped and well-prepared and thanks them for taking the job.
+Muriel hráče vřele pozdraví a představí se. Poznamená, že jí Urwin řekl, že je má dovést do Čaroděje vín, zatímco oni se postarají, aby ji „nikdo nezabil“. Po jejich odpovědi je krátce popíchne a škádlivě prohodí, že „nevypadají na dobrodruhy“. Pokud se hráči podělí o některý ze svých skutků ve Vallaki či jinde, Muriel vesele uzná, že opravdu vypadají dobře vybavení i připravení, a poděkuje jim, že se úkolu ujali.
 
-> [!lore]+ **Muriel’s Secret Identity**
-> Muriel is, of course, a **wereraven** and a secret member of the Keepers of the Feather—the same blue-winged wereraven, in fact, that the players previously encountered in the village of Barovia and on the path to Tser Pool.
+> [!lore]+ **Muriel a její tajná identita**
+> Muriel je pochopitelně havranodlačice (**wereraven**) a tajná členka Strážců pera – a dokonce tentýž havranodlak s modrými křídly, kterého hráči již dříve potkali ve vesnici Barovii a na cestě k Tserskému jezírku.
 > 
-> If the players confront Muriel and suggest that she’s secretly a wereraven, druid, or other shapeshifter, she scoffs at the prospect and summarily denies the allegations with a healthy dose of sarcasm, laughter, and good-natured humor, spinning off a series of excuses as she does:
+> Pokud hráči Muriel konfrontují a naznačí, že je tajně havranodlak, druid či jiný měňavec, ušklíbne se nad tou představou a obvinění rázně popře se zdravou dávkou sarkasmu, smíchu a dobromyslného humoru, přičemž ze sebe sype jednu výmluvu za druhou:
 > 
-> * (If accused of being a shapeshifter) “What, like some kind of tree-hugging druid? I don’t even have a wooden staff. And I *hate* trees."
-> * (If accused of being a wereraven) “Oh, so like a werewolf but for ravens instead? That’s so stupid. ‘Oh, look at me, I’m a dangerous werewolf who turns into birds!’"
-> * (If her blue streak of hair is pointed out) “I once saw a wolf with an ugly face, but that doesn’t mean it was Izek Strazni in disguise. Good on that bird, though. He’s got good taste."
-> * (If the players continue to insist that Muriel was the blue-winged raven) "Believe what you want. But if I catch you sneaking birdseed into my rations, we're probably gonna have a problem."
+> * (Pokud je obviněna, že je měňavec) „Co, jako nějaká druidka, co objímá stromy? Vždyť ani nemám dřevěnou hůl. A stromy *nesnáším*.“
+> * (Pokud je obviněna, že je havranodlak) „Aha, tak jako vlkodlak, jenom s havrany? To je tak pitomý. ‚Hleďte na mě, jsem nebezpečný vlkodlak, co se mění v ptáky!‘“
+> * (Pokud hráči upozorní na její modrý pramen vlasů) „Jednou jsem viděla vlka s hnusným ksichtem, ale to ještě neznamená, že to byl převlečený Izek Strazni. Ale tomu ptákovi fandím. Má dobrý vkus.“
+> * (Pokud hráči dál trvají na tom, že Muriel byla tím havranem s modrými křídly) „Věřte si, čemu chcete. Ale jestli vás načapám, jak mi do přídělu sypete ptačí zob, budeme mít nejspíš problém.“
 
-If the players provide undeniable evidence for their suggestion (such as Muriel’s uncanny ability to regenerate from her wounds), she winces, then insists that she can’t say anything further without first speaking to her “boss." (She won’t disclose her boss’s identity, but can truthfully promise that her boss is neither Strahd nor one of his servants.)
+Pokud hráči svá tvrzení doloží nezvratným důkazem (například Muriellinou neuvěřitelnou schopností regenerovat zranění), zašklebí se a prohlásí, že nemůže nic dalšího říct, dokud nepromluví se svým „šéfem“. (Totožnost svého šéfa neprozradí, ale může po pravdě slíbit, že to není Strahd ani žádný z jeho služebníků.)
 
 <div class="statblock">
     <h2>Muriel Vinshaw</h2>
@@ -134,299 +134,299 @@ If the players provide undeniable evidence for their suggestion (such as Muriel�
     <p><strong><em>Interpose.</em></strong> When a creature Muriel can see hits another target within 5 feet of Muriel with an attack, she can use her reaction to take the damage instead.</p>
 </div>
 
-### Ireena's Request
-Before the players depart the Blue Water Inn, if they have previously treated Ireena Kolyana with kindness and respect, she enters the inn’s taproom to meet them—once again wearing her rapier and breastplate.
+### Ireenina prosba
+Než hráči opustí hostinec U Modré vody, vstoupí do výčepu Ireena Kolyana – pokud s ní hráči dříve jednali laskavě a s úctou –, aby se s nimi setkala. Znovu má u pasu rapír a na sobě kyrys.
 
-Ireena, who has learned of the players’ destination from Danika, Father Petrovich, or another friendly Vallakian with connections to the Martikovs, first confirms that the players are leaving Vallaki to investigate the Wizard of Wines. Once she does, she asks the players for an opportunity to accompany them—to journey at their side in their fight to aid Barovia and defy Strahd’s will. She can share the following information to explain her decision:
+Ireena, která se o cíli hráčů dozvěděla od Daniky, otce Petroviče nebo od jiného přátelského obyvatele Vallaki s vazbami na Martikovovy, si nejprve ověří, že hráči opouštějí Vallaki, aby prošetřili Čaroděje vín. Poté je požádá o možnost je doprovázet – jít po jejich boku v boji za pomoc Barovii a ve vzdoru Strahdově vůli. Své rozhodnutí může vysvětlit následovně:
 
-* Ireena shares that, after seeing the players’ exploits in Vallaki, she has realized the importance of fighting for others, rather than simply speaking for them. She wants to learn to be a warrior for her people, and to resist Strahd’s tyranny directly—without fear or hesitation.
-* If Ireena was stalked or kidnapped by Izek Strazni in ***Act H: The Strazni Siblings***, she shares that she is tired of hiding from those who seek to use her for their own ends, and finished with allowing others to be harmed in their efforts to protect her. She is determined to stand on her own two feet and to fight her own battles instead of allowing others to fight them for her.
-* Ireena notes that St. Andral’s Church has already been targeted by Strahd’s servants once—and that while Ismark sent her to Vallaki in the hopes that she would be beyond Strahd’s reach, her experiences there have shown her that nowhere in the valley is truly safe.
+* Ireena prozradí, že poté, co viděla skutky hráčů ve Vallaki, pochopila, jak důležité je za ostatní bojovat, a ne za ně jen mluvit. Chce se naučit být bojovnicí svého lidu a vzdorovat Strahdově tyranii přímo – beze strachu a bez zaváhání.
+* Pokud Ireenu v ***Oblouku G: Sourozenci Strazniovi*** pronásledoval nebo unesl Izek Strazni, prozradí, že už ji unavuje skrývat se před těmi, kdo ji chtějí využít pro vlastní cíle, a že už nehodlá dopustit, aby kvůli snaze ji ochránit trpěli druzí. Je odhodlaná stát na vlastních nohou a bojovat své vlastní bitvy, místo aby je za ni bojovali jiní.
+* Ireena podotkne, že kostel svatého Andrala se už jednou stal terčem Strahdových služebníků – a přestože ji Ismark poslal do Vallaki v naději, že tam bude mimo Strahdův dosah, její zkušenosti jí ukázaly, že nikde v údolí není doopravdy bezpečno.
 
-If the players appear concerned for Ireena’s safety, she points out that, throughout their travels, none of Strahd’s servants or minions have dared attack her, suggesting that he has ordered them to leave her unharmed. 
+Pokud se hráči o Ireeninu bezpečnost obávají, poukáže na to, že ji během jejich cest žádný ze Strahdových služebníků či přisluhovačů nenapadl – což naznačuje, že jim nařídil, aby jí neublížili.
 
-If the players suggest that Ireena will be ill-equipped for a life of adventuring, she points out that she is a trained healer (due to her mother’s tutelage); that she is a capable swordswoman (thanks to Ismark’s training); and that she can further assist them by serving as a liaison and sharing information about the valley.
+Pokud hráči naznačí, že Ireena není na dobrodružný život připravená, poukáže na to, že je vyučená léčitelka (díky matčině výuce), schopná šermířka (díky Ismarkovu výcviku) a že jim může dále pomoci jako prostřednice a zdroj informací o údolí.
 
-If the players suggest that Ireena’s presence will draw Strahd’s attention or otherwise bring them ill luck, she stiffens, then asks them quietly if they truly wish to send her away, as Ismark did. If they repeat their refusal, she acquiesces to their decision.
-# J2. The Old Svalich Road
-The journey from the town of Vallaki to the **Wizard of Wines winery** is just under seven miles long and takes two-and-one-quarter hours to complete. To get to the winery, the players must travel to the Raven River Crossroads, then head south.
-## J2a. Crossing the River
-As the players cross the bridge over the Luna River, read the following:
-
-<div class="description">
-<p>The path narrows, flanked by dense, towering trees. Up ahead, you can see an old wooden bridge come into view, its age-worn planks spanning the rushing river below. As you approach, you can see the dark river tumbling over the smooth stones of the riverbed, bordered on either side by gnarled bushes and trees.</p>
-<p>As you step onto the bridge, your boots echo against the old, damp wood. To the north, you can see the river meander upstream around the tree line before vanishing around a curve. To the south, the river winds like a ribbon between its banks, then gradually vanishes into mist.</p>
-</div>
-
-The Luna River Crossroads are as described in <span class="citation">P. Luna River Crossroads (p. 40)</span>. However, do not check for a random encounter when the players reach this area.
-
-As the players pass it, the path to Argynvostholt is largely as described in <span class="citation">Approaching the Mansion (p. 130)</span>. Read:
+Pokud hráči naznačí, že Ireenina přítomnost přiláká Strahdovu pozornost nebo jim jinak přinese smůlu, ztuhne a pak se jich tiše zeptá, zda ji opravdu chtějí poslat pryč, jako to udělal Ismark. Pokud své odmítnutí zopakují, jejich rozhodnutí přijme.
+# J2. Stará svalichská cesta
+Cesta z města Vallaki do **vinařství Čaroděj vín** měří necelých sedm mil a trvá dvě a čtvrt hodiny. Aby se hráči dostali do vinařství, musí dojít k rozcestí u Havraní řeky a odtud zamířit na jih.
+## J2a. Přes řeku
+Když hráči přecházejí most přes řeku Lunu, přečtěte:
 
 <div class="description">
-<p>A dirt path branches off from the Old Svalich Road here, winding its way south up a craggy mountain spur. The earth of the path is hard-packed, its color a pallid gray-brown reminiscent of cold ashes. The trees on either side stand silent and stoic, their leaves a faded green. As the path winds upward, it's eventually replaced by the deep shadows of the mountain's forested incline, vanishing into the gloom of the woods beyond.</p>
+<p>Stezka se zužuje a lemují ji husté, vysoko se tyčící stromy. Před vámi se vynoří starý dřevěný most, jehož věkem ošlapaná prkna se klenou nad hučící řekou. Jak se blížíte, vidíte, jak se temná voda valí přes oblé kameny koryta, z obou stran sevřená pokroucenými keři a stromy.</p>
+<p>Když vstoupíte na most, vaše boty se rozléhají o staré, vlhké dřevo. Na severu vidíte, jak se řeka proti proudu vine kolem okraje lesa, než zmizí za ohybem. Na jihu se řeka mezi břehy klikatí jako stuha a pozvolna se ztrácí v mlze.</p>
 </div>
 
-## J2b. The Path to Tsolenka Pass
-Just before the players reach the Raven River Crossroads, they come across the path to Lake Baratok and <span class="citation">Chapter 11: Van Richten’s Tower (p. 167)</span>, not far from the path that leads to <span class="citation">Chapter 9: Tsolenka Pass (p. 157)</span>. Read:
+Rozcestí u řeky Luny odpovídá popisu v <span class="citation">P. Luna River Crossroads (p. 40)</span>. Když však hráči do této oblasti dorazí, neházejte na náhodné setkání.
+
+Když hráči míjejí odbočku, cesta k Argynvostholtu do značné míry odpovídá popisu v <span class="citation">Approaching the Mansion (p. 130)</span>. Přečtěte:
 
 <div class="description">
-<p>An old hunting trail cuts away from the Old Svalich Road here, winding north between old, gnarled trees before vanishing into the underbrush. A hundred yards beyond it, an alpine path splits from the main road to travel south toward the mountains, rising in elevation until it disappears around a steep, tree-covered escarpment.</p>
+<p>Od Staré svalichské cesty se tu odděluje prašná stezka a vine se na jih vzhůru po rozeklaném horském ostrohu. Zem stezky je tvrdě udusaná a má bledou šedohnědou barvu, která připomíná vychladlý popel. Stromy po obou stranách stojí mlčky a stoicky, jejich listí má vybledle zelenou barvu. Jak stezka stoupá, nakonec ji pohltí hluboké stíny zalesněného horského svahu a zmizí v šeru lesa za ním.</p>
 </div>
 
-As the players pass the entrance to the alpine path, they’re watched by a Mountain Folk **berserker** lurking in the southern underbrush. Read:
+## J2b. Stezka k průsmyku Tsolenka
+Těsně předtím, než hráči dorazí k rozcestí u Havraní řeky, narazí na stezku k jezeru Baratok a <span class="citation">Chapter 11: Van Richten’s Tower (p. 167)</span>, nedaleko stezky, která vede do <span class="citation">Chapter 9: Tsolenka Pass (p. 157)</span>. Přečtěte:
 
 <div class="description">
-<p>You hear the snap of a twig in the underbrush to the south.</p>
+<p>Od Staré svalichské cesty tu odbočuje stará lovecká stezka, vine se na sever mezi starými, pokroucenými stromy a pak mizí v podrostu. O sto yardů dál se od hlavní cesty odděluje horská stezka a míří na jih k horám. Stoupá výš a výš, až zmizí za strmým, stromy porostlým srázem.</p>
 </div>
 
-If the players investigate, they can make a DC 11 Wisdom (Perception) check to discern a human-shaped silhouette amidst the tree line beyond.  If the players approach, call out to, or otherwise attempt to interact with the silhouette, read:
+Když hráči míjejí ústí horské stezky, sleduje je bojovnice Horského lidu (**berserker**), která číhá v podrostu na jihu. Přečtěte:
 
 <div class="description">
-<p>You startle a broad-shouldered woman clad in thick, mud-caked furs and clutching a stone axe. Obsidian ornaments hang from her ears and neck, and a thin layer of gray mud is smeared across her face, blending with the dark trees around her.</p>
+<p>Z podrostu na jihu zaslechnete prasknutí větvičky.</p>
 </div>
 
-The woman immediately attempts to flee into the woods. If the players attempt to stop or attack her, Muriel warns them that the woman is one of the Mountain Folk—a tribe of hunter—gatherers that live amongst the Balinok Mountains—and that their people are neither servants of Strahd nor dangerous unless attacked. 
-
-Muriel doesn’t know why the woman was watching the road, but shares that the Mountain Folk have been more active lately, though no one is quite sure why. Reports suggest that they’re looking for something, however. (If asked how she knows so much about the Mountain Folk, Muriel laughs and claims only that she’s well-traveled and has “many friends" across the valley.)
-
-If the players ask Muriel about the druid of the Forest Folk that they saw on the Old Svalich Road in [[Arc H - The Lost Soul]] she shares that the Forest Folk are known to be loyal servants of Strahd, who they worship like a deity. She advises the players to steer clear of the druids’ lair: a terraced mound called Yester Hill in the southwest corner of the Svalich Woods, south of the Wizard of Wines.
-## J2c. The Raven River Crossroads
-The Raven River Crossroads are largely as described in <span class="citation">R. Raven River Crossroads (p. 40)</span>. However, do not check for a random encounter when the players reach this area. Additionally, add the following text to the end of the area description:
+Pokud hráči pátrají, mohou si hodit na ověření Wisdom (Perception) se DC 11 a rozeznat mezi stromy za cestou siluetu lidské postavy. Pokud se hráči k siluetě přiblíží, zavolají na ni nebo se s ní jinak pokusí navázat kontakt, přečtěte:
 
 <div class="description">
-<p>A figure clad in rusty armor stands alone on the bridge, clutching a gleaming longsword in its pale hands.</p>
+<p>Vyplašíte statnou ženu oděnou do hustých, blátem obalených kožešin, která svírá kamennou sekeru. Z uší a na krku jí visí obsidiánové ozdoby a obličej má potřený tenkou vrstvou šedého bláta, takže splývá s temnými stromy kolem.</p>
 </div>
 
-The figure is recognizably similar to the revenant standing guard at Tser Falls. If approached, it hails the players and asks after their destination.
+Žena se okamžitě pokusí uprchnout do lesa. Pokud se ji hráči pokusí zastavit nebo na ni zaútočí, Muriel je varuje, že žena patří k Horskému lidu – kmeni lovců a sběračů, kteří žijí v pohoří Balinok – a že jejich lid Strahdovi neslouží a není nebezpečný, pokud ho nikdo nenapadne.
 
-If the players tell the revenant that they are traveling to the Wizard of Wines, it warns them that the Forest Folk of Yester Hill have been increasingly agitated as of late, and that they have been joined by the children of the Gulthias Tree—a twisted husk that grows atop Yester Hill and gives birth to “blights" that crawl forth from its gnarled roots. The revenant advises them to be wary of the blights, which see without eyes and disguise themselves among the flora of the wilds.
+Muriel neví, proč žena cestu sledovala, ale prozradí, že Horský lid je v poslední době čilejší, i když nikdo pořádně neví proč. Zprávy však naznačují, že něco hledají. (Pokud se jí hráči zeptají, odkud toho o Horském lidu tolik ví, Muriel se zasměje a tvrdí jen, že hodně cestovala a má po celém údolí „spoustu přátel“.)
 
-If the players ask the revenant about the Mountain Folk or Forest Folk, it shares only that the “First People" were split long ago in the face of tragedy and strife, and that their descendants remained apart ever since. It notes that the Forest Folk have embraced Strahd von Zarovich as their lord and ruler, but that the Mountain Folk still hold to the old ways, worshipping ancient goddesses that once dwelled in the valley. (The revenant doesn’t know where the Mountain Folk dwell, but has heard that their settlement is hidden somewhere in the mountains.)
-
-If the players' weapons are clearly visible, it asks the players if they oppose the lord of Castle Ravenloft. If the players claim to oppose Strahd, the revenant advises them to travel to Argynvostholt to the southeast, where Sir Godfrey Gwilym awaits those who would raise their swords against the darkness that lurks in the castle's depths. If the players ask for directions to Argynvostholt, the revenant advises them to travel "east, then south upon the ash-gray path."
-
-The revenant will not leave its post on the bridge under any circumstances.
-## J2d. The Spiked Pit Trap
-As the players proceed south from the Raven River Crossroads, read:
+Pokud se hráči Muriel zeptají na druida Lesního lidu, kterého viděli na Staré svalichské cestě v [[Arc H - The Lost Soul|Oblouk H – Ztracená duše]], prozradí, že Lesní lid je znám jako věrný služebník Strahda, kterého uctívají jako božstvo. Poradí hráčům, aby se vyhnuli doupěti druidů: terasovitému pahorku zvanému Yesterský vrch v jihozápadním cípu Svalichského lesa, jižně od Čaroděje vín.
+## J2c. Rozcestí u Havraní řeky
+Rozcestí u Havraní řeky do značné míry odpovídá popisu v <span class="citation">R. Raven River Crossroads (p. 40)</span>. Když však hráči do této oblasti dorazí, neházejte na náhodné setkání. Navíc na konec popisu oblasti doplňte následující text:
 
 <div class="description">
-<p>As the dirt road winds through the woods, the path narrows, framed by ancient, twisted trees whose gnarled branches form a thick canopy overhead. Dappled gray light struggles to pierce through, casting eerie shadows that flicker and dance with the slightest breeze. A musky, earthy aroma fills the air—the scent of rotting leaves, damp soil, and the faint tang of decay.  </p>
-<p>The vegetation here is denser than the main road, and several low-hanging branches are draped with clumps of vines that weave a tangled tapestry across the undergrowth. A thick blanket of twigs and pine needles crunches beneath your boots, their low sounds the only noise amidst the silent path.</p>
+<p>Na mostě stojí osamělá postava v rezavé zbroji a v bledých rukou svírá třpytivý dlouhý meč.</p>
 </div>
 
-As the players enter this area, Muriel whispers that something isn’t right, noting that the road “didn’t smell like death" the last time she passed through here.
+Postava se nápadně podobá revenantovi, který drží stráž u Tserských vodopádů. Pokud se k ní hráči přiblíží, pozdraví je a zeptá se, kam míří.
 
-The road here hides a spiked pit trap (<span class="citation">Dungeon Master's Guide, p. 122</span>), concealed as described in <span class="citation">False Trail (p. 30)</span>. The clumps of vines (and the source of the scent of decay) are five **vine blights**, concealed through the use of their ***false appearance*** feature.
+Pokud hráči revenantovi řeknou, že jdou do Čaroděje vín, varuje je, že Lesní lid z Yesterského vrchu je v poslední době čím dál neklidnější a že se k němu přidaly děti stromu Gulthias – zkroucené schránky, která roste na vrcholu Yesterského vrchu a z jejíchž pokroucených kořenů se rodí „zhoubci“, kteří se plazí do světa. Revenant hráčům poradí, aby si dávali pozor na zhoubce, kteří vidí bez očí a maskují se mezi rostlinstvem divočiny.
 
-A player with a passive Wisdom (Perception) score of 15 or greater or who succeeds on a DC 15 Wisdom (Perception) check spots the pit. If any players fall into the pit, attempt to bypass the pit, or attack the vine blights, the vine blights attack. Any player who has not already recognized the clumps of vines as a threat is surprised.
+Pokud se hráči revenanta zeptají na Horský nebo Lesní lid, prozradí jen, že „Prvotní lid“ se kdysi dávno rozdělil tváří v tvář neštěstí a sváru a jeho potomci od té doby žijí odděleně. Poznamená, že Lesní lid přijal Strahda von Zaroviche za svého pána a vládce, kdežto Horský lid se stále drží starých způsobů a uctívá prastaré bohyně, které kdysi v údolí přebývaly. (Revenant neví, kde Horský lid žije, ale slyšel, že jejich osada je ukrytá kdesi v horách.)
 
-In combat, the **vine blights** use their ***constrict*** attack to grapple enemies before dragging them into the pit trap.
+Pokud jsou zbraně hráčů jasně vidět, zeptá se jich, zda stojí proti pánovi hradu Ravenloft. Pokud hráči tvrdí, že se Strahdovi staví na odpor, revenant jim poradí, aby se vydali do Argynvostholtu na jihovýchodě, kde sir Godfrey Gwilym očekává ty, kdo by pozvedli meč proti temnotě, jež číhá v hlubinách hradu. Pokud se hráči zeptají na cestu do Argynvostholtu, revenant jim poradí, ať jdou „na východ a pak na jih po popelavě šedé stezce“.
 
-> [!combat]- **Combat - The False Trail**  
-> **Combat Level**: Mild
-> **Expected Character Level**: 5
-> **Allies:** Muriel Vinshaw (CR 1), and Ireena Kolyana (CR 2)
-> **Expected HP Consumption:** 10%
+Revenant své stanoviště na mostě za žádných okolností neopustí.
+## J2d. Jáma s bodci
+Když hráči pokračují od rozcestí u Havraní řeky na jih, přečtěte:
+
+<div class="description">
+<p>Jak se prašná cesta vine lesem, stezka se zužuje, sevřená prastarými, zkroucenými stromy, jejichž pokroucené větve nad hlavou tvoří hustou klenbu. Strakaté šedé světlo se jí jen stěží prodírá a vrhá přízračné stíny, které se mihotají a tančí při sebemenším závanu větru. Vzduch je plný pižmové, zemité vůně – pachu tlejícího listí, vlhké půdy a slabého nádechu rozkladu.</p>
+<p>Porost je tu hustší než u hlavní cesty a z několika nízko visících větví splývají chomáče šlahounů, které se proplétají podrostem jako zcuchaná tapiserie. Pod vašimi botami křupe hustá vrstva větviček a jehličí – jejich tlumený zvuk je jediným hlukem na tiché stezce.</p>
+</div>
+
+Když hráči vstoupí do této oblasti, Muriel zašeptá, že tu něco nehraje, a poznamená, že když tudy šla naposledy, cesta „nesmrděla smrtí“.
+
+Cesta tu skrývá jámu s bodci (<span class="citation">Dungeon Master's Guide, p. 122</span>), zamaskovanou tak, jak je popsáno v <span class="citation">False Trail (p. 30)</span>. Chomáče šlahounů (a zdroj pachu rozkladu) jsou pět popínavých zhoubců (**vine blights**), kteří se maskují pomocí své schopnosti ***false appearance***.
+
+Hráč s pasivní hodnotou Wisdom (Perception) 15 nebo vyšší nebo hráč, který uspěje v ověření Wisdom (Perception) se DC 15, jámu odhalí. Pokud některý hráč do jámy spadne, pokusí se ji obejít nebo na popínavé zhoubce zaútočí, zhoubci zaútočí. Každý hráč, který chomáče šlahounů dosud nerozpoznal jako hrozbu, je zaskočen (surprised).
+
+V boji používají popínaví zhoubci (**vine blights**) svůj útok ***constrict***, aby nepřátele uchvátili a pak je vtáhli do jámy.
+
+> [!combat]- **Boj – Falešná stezka**  
+> **Úroveň boje**: Mírný
+> **Očekávaná úroveň postav**: 5
+> **Spojenci:** Muriel Vinshaw (CR 1) a Ireena Kolyana (CR 2)
+> **Očekávaná ztráta HP:** 10 %
 > 
-> ### **Enemies:**
+> ### **Nepřátelé:**
 > 
-> | |3 Players | 4 Players | 5 Players | 6 Players |
+> | |3 hráči | 4 hráči | 5 hráčů | 6 hráčů |
 > |-|-|-|-|-|
 > | Vine Blight | 3 | 4 | 5 | 6 |
 
 
-## J2e. The Huntress’s Monument
-As the players proceed past the pit trap, read:
+## J2e. Památník Lovkyně
+Když hráči míjejí jámu, přečtěte:
 
 <div class="description">
-<p>The road continues, bending again as the trees begin to pull back from the path. Not far from the road, amidst a small grove of berry-bearing bushes stands an old stone stele standing just under six feet in height. It stands within a circle of old, cracked cobblestones, and seems to bear some kind of carving.</p>
+<p>Cesta pokračuje a znovu se stáčí, jak stromy začínají ustupovat od stezky. Nedaleko od cesty, uprostřed malého houští keřů obsypaných bobulemi, stojí stará kamenná stéla, vysoká necelých šest stop. Stojí uvnitř kruhu ze starých, popraskaných dlažebních kamenů a zdá se, že nese nějakou řezbu.</p>
 </div>
 
-If the players choose to investigate the slab, they find that it bears a carving of a wolf over an engraved three-pointed star.  (The slab is an ancient monument to the Huntress, and the three-pointed star the symbol of the Ladies Three. Unlike the other three slabs in Barovia, there is no lichen or moss on this monument, which is ordinarily well-maintained by the Martikovs. Although the Martikovs don't remember the names or natures of the Ladies of the Fanes, they retain a strong respect for Barovia's old gods.)
-# J3. The Wizard of Wines
-The last stretch of the journey to the Wizard of Wines is largely as described in <span class="citation">Approaching the Vineyard (p. 174)</span>. If Muriel is with the party, she recognizes the man's cloak as Davian Martikov’s and urges the players to meet him.
+Pokud se hráči rozhodnou desku prozkoumat, zjistí, že je na ní vytesán vlk nad vyrytou trojcípou hvězdou. (Deska je prastarým památníkem Lovkyně a trojcípá hvězda je symbolem Tří paní. Na rozdíl od ostatních tří desek v Barovii nepokrývá tento památník žádný lišejník ani mech, protože o něj Martikovovi obvykle pečlivě pečují. Přestože si Martikovovi už nepamatují jména ani podstatu Paní svatyní, chovají ke starým bohům Barovie hlubokou úctu.)
+# J3. Čaroděj vín
+Poslední úsek cesty do Čaroděje vín do značné míry odpovídá popisu v <span class="citation">Approaching the Vineyard (p. 174)</span>. Pokud je Muriel s družinou, pozná v plášti toho muže plášť Daviana Martikova a naléhá na hráče, aby se s ním setkali.
 
-> [!lore]+ **History of the Winery**
-> Long ago, before Strahd von Zarovich first conquered the valley, the tribes of the First Folk were brutally united when Kavan the Blood-Drinker, a young chieftain, destroyed the hierarchy of the druidic caste and waged bloody war upon his neighbors.
+> [!lore]+ **Dějiny vinařství**
+> Kdysi dávno, dříve než Strahd von Zarovich poprvé dobyl údolí, byly kmeny Prvotního lidu krutě sjednoceny, když Kavan Krvopijec, mladý náčelník, rozvrátil hierarchii druidské kasty a rozpoutal krvavou válku proti svým sousedům.
 > 
-> The servants of the Seeker—a clan of **wereravens**—feared Kavan’s conquest. To protect the power of the Ladies Three from his ambition, the wereravens stole the three life—giving gemstones from their places amidst the Fanes and hid them away. 
+> Služebníci Hledačky – klan havranodlaků (**wereravens**) – se Kavanova dobyvačného tažení obávali. Aby ochránili moc Tří paní před jeho ctižádostí, ukradli havranodlaci tři životodárné drahokamy z jejich míst ve svatyních a ukryli je.
 > 
-> Centuries later, the descendants of these wereravens—the Martikov family—would use these gemstones to found the Wizard of Wines Winery, hiding their bountiful power in plain sight. Even when Strahd conquered the valley and bestowed the winery to the Krezkov family as a reward for their loyalty, few generations had passed before the Martikovs married into the Krezkov line and retook possession by means of inheritance.
+> O staletí později použili potomci těchto havranodlaků – rod Martikovů – tyto drahokamy k založení vinařství Čaroděj vín a ukryli tak jejich hojivou moc na očích všem. I když Strahd dobyl údolí a daroval vinařství rodu Krezkovů jako odměnu za jejich věrnost, netrvalo mnoho generací, než se Martikovovi do krezkovské linie přiženili a vinařství znovu získali dědictvím.
 > 
-> One hundred years ago, a **wereraven** named Livius Martikov—the grandfather of Davian Martikov—defied his family’s wishes and helped Burgomaster Ismark Antonovich and the paladin Lugdana to steal the *Sigil of the Sun* (now named the *Holy Symbol of Ravenkind*) and the *Tome of Strahd* from Castle Ravenloft while Strahd slumbered. 
+> Před sto lety se havranodlak (**wereraven**) jménem Livius Martikov – děd Daviana Martikova – vzepřel přání své rodiny a pomohl purkmistrovi Ismarkovi Antonovichovi a paladince Lugdaně ukrást z hradu Ravenloft, zatímco Strahd dřímal, *Pečeť slunce* (dnes zvanou *Svatý symbol Havraního rodu*) a *Strahdův foliant*.
 > 
-> Livius adventured with Ismark and Lugdana for nearly a decade afterward, scouting out dangers and spying on their enemies. When he finally retired from adventuring, he used the wealth and notoriety he had gained to found the Keepers of the Feather, a secret society of wereravens dedicated to opposing the forces of darkness across Barovia. Though the Keepers would not themselves enter the fray, they vowed to serve, guide, and shelter any heroes who might one day rise in Lugdana’s memory.
+> Livius pak s Ismarkem a Lugdanou putoval téměř deset let, vyhledával nebezpečí a špehoval jejich nepřátele. Když se nakonec dobrodružného života vzdal, využil bohatství a pověst, kterých nabyl, k založení Strážců pera – tajného společenství havranodlaků zasvěceného boji proti silám temnoty po celé Barovii. Přestože se Strážci sami do bojů nezapojovali, přísahali, že budou sloužit, radit a poskytovat útočiště všem hrdinům, kteří by jednoho dne povstali na Lugdaninu památku.
 > 
-> Ten years ago, Madam Eva—assisted by the **roc of Mount Ghakis** disguised as an ordinary raven—stole one of the three enchanted gemstones from the winery. Davian blamed his son, Urwin, as described in <span class="citation">Chapter 12: The Wizard of Wines (p. 173)</span>. Urwin told Davian that he had seen a raven carrying the gem away into the night—a claim that Davian dismissed as ludicrous, because the Keepers knew and commanded all of the ravens in the valley. After a furious fight, Urwin and his betrothed, Danika Dorakova, left for Vallaki the following morning, never to return.
+> Před deseti lety madam Eva – za pomoci roka z hory Ghakis (**roc of Mount Ghakis**), převlečeného za obyčejného havrana – ukradla z vinařství jeden ze tří očarovaných drahokamů. Davian z toho vinil svého syna Urwina, jak je popsáno v <span class="citation">Chapter 12: The Wizard of Wines (p. 173)</span>. Urwin Davianovi tvrdil, že viděl havrana, který drahokam odnášel do noci – což Davian odbyl jako nesmysl, neboť Strážci znali všechny havrany v údolí a velili jim. Po zuřivé hádce Urwin se svou snoubenkou Danikou Dorakovou příštího rána odešel do Vallaki a už se nevrátil.
 > 
-> Just over three months ago, when the ravens caught word of Doru’s brewing rebellion, the **wereraven** Elric Martikov—one of Davian’s youngest sons and Elvir Martikov’s twin brother—became determined to fight alongside them. Davian, however, forbade him from doing so.
+> Před něco málo přes třemi měsíci, když se havrani doslechli o Doruově chystané vzpouře, se havranodlak (**wereraven**) Elric Martikov – jeden z Davianových nejmladších synů a dvojče Elvira Martikova – rozhodl bojovat po boku rebelů. Davian mu to však zakázal.
 > 
-> A fight ensued, and an enraged Davian banished Elric from the winery for his defiance. Elric perished in Castle Ravenloft soon thereafter.
+> Strhla se hádka a rozzuřený Davian Elrica za jeho vzdor z vinařství vyhnal. Elric brzy nato zahynul na hradě Ravenloft.
 > 
-> Ludmilla Vilisevic and the witches’ coven of Castle Ravenloft found Elric’s broken body soon thereafter. They brought his corpse to Baba Lysaga, the witch of Berez, whose *scrying* spells and ritual magic soon uncovered the source of the **wereraven** scourge: the Wizard of Wines winery to the west.
+> Ludmilla Vilisevic a čarodějnický sabat hradu Ravenloft brzy nato našli Elricovo zlomené tělo. Odnesli jeho mrtvolu Babě Lysaze, čarodějnici z Berezu, jejíž věštecká kouzla (*scrying*) a rituální magie brzy odhalily zdroj havranodlačí pohromy: vinařství Čaroděj vín na západě.
 > 
-> As Baba Lysaga set about crafting **greater** and **lesser strix** to patrol the skies for the Keepers and their raven servants, Ludmilla brokered an agreement with the druids of Yester Hill to aid in her plot against the Keepers. Ludmilla taught the druids to extract cuttings of the Gulthias Tree atop Yester Hill, which they used to command the blights the tree produced.
+> Zatímco Baba Lysaga začala vytvářet velké a menší strigy (**greater** a **lesser strix**), aby hlídkovaly na nebi a pátraly po Strážcích a jejich havraních služebnících, Ludmilla vyjednala s druidy z Yesterského vrchu dohodu o pomoci v jejím spiknutí proti Strážcům. Ludmilla druidy naučila odebírat řízky ze stromu Gulthias na vrcholu Yesterského vrchu, s jejichž pomocí pak ovládali zhoubce, které strom plodil.
 > 
-> Baba Lysaga’s **scarecrows** have repeatedly attacked the winery since then. On one such occasion, Ludmilla detected the presence of the two remaining magic gems. Three weeks ago, during one such attack, the scarecrows found one of the gems, dug it up, and spirited it away to Baba Lysaga in Berez.
+> Strašáci Baby Lysagy (**scarecrows**) od té doby vinařství opakovaně napadali. Při jedné takové příležitosti Ludmilla vycítila přítomnost dvou zbývajících kouzelných drahokamů. Před třemi týdny strašáci při jednom z útoků jeden z drahokamů našli, vykopali a odnesli Babě Lysaze do Berezu.
 > 
-> Five days ago, the druids of Yester Hill found the second gem and stole it. The wereravens launched a counterattack as described in <span class="citation">Chapter 12: The Wizard of Wines (p. 173)</span>, but were unable to overcome the druids and their defenses. Three days ago, the druids marched on the winery with a small army of corrupted blights and drove the Martikovs out.
+> Před pěti dny našli druidové z Yesterského vrchu druhý drahokam a ukradli ho. Havranodlaci podnikli protiútok, jak je popsáno v <span class="citation">Chapter 12: The Wizard of Wines (p. 173)</span>, ale druidy a jejich obranu nedokázali překonat. Před třemi dny druidové vytáhli na vinařství s malou armádou zkažených zhoubců a Martikovovy vyhnali.
 > 
-> The druids have remained in the winery ever since, searching for the third gemstone that they believe to be hidden there. They have also planted a cutting of the Gulthias Tree within the winery, which they plan to use to extend their reach north, toward Krezk. Soon, however, the druids will give up their search—and the **tree blight** Wintersplinter will march upon the winery and destroy it for good.
+> Druidové od té doby ve vinařství zůstávají a pátrají po třetím drahokamu, o němž věří, že je tam ukrytý. Uvnitř vinařství také zasadili řízek stromu Gulthias, s jehož pomocí chtějí rozšířit svůj vliv na sever, ke Krezku. Brzy však druidové pátrání vzdají – a stromový zhoubce (**tree blight**) Zimotřísk vytáhne na vinařství a zničí ho nadobro.
 
-If the players linger on the road, a piercing screech splits the air from the south—the familiar call of a **greater strix**. Just a moment later, it’s answered by a second, similar call from the east—and a third, similar call from the west. As the three shrieks echo across the vineyard, the cloaked figure glances upward and its gestures become more urgent, while Muriel urges the players to seek cover.
+Pokud hráči na cestě otálejí, rozetne vzduch od jihu pronikavý skřek – známé volání velké strigy (**greater strix**). O okamžik později mu odpoví druhé, podobné volání od východu – a třetí, podobné volání od západu. Zatímco se trojí skřek rozléhá nad vinicí, postava v plášti pohlédne vzhůru a její gesta naléhavějí, zatímco Muriel nabádá hráče, aby se ukryli.
 
-If the players approach the cloaked figure, it beckons them deeper into the woods. Read: 
+Pokud se hráči k postavě v plášti přiblíží, pokyne jim, aby ji následovali hlouběji do lesa. Přečtěte:
 
 <div class="description">
-<p>The figure vanishes into a small grove of beech trees tucked away amidst the woods, their smooth, silvery-gray trunks standing in a ring like ancient sentinels. The canopy above forms a dense, near-unbroken ceiling of foliage, casting the forest floor in an otherworldly shadow.</p>
-<p>All around you, the trees' uniform, near-symmetrical branches reach upward like slender arms toward the sky. Dozens of ravens sit perched upon them, their dark eyes watching silently as you approach.</p>
-<p>The figure is nowhere to be seen, but a well-disguised trapdoor has been pulled open at the center of the clearing, exposing a wooden ladder that descends down a shaft in the earth.</p>
+<p>Postava zmizí v malém háji buků ukrytém uprostřed lesa; jejich hladké, stříbřitě šedé kmeny stojí v kruhu jako prastaří strážci. Koruny nad vámi tvoří hustý, téměř nepřerušený strop listoví a halí lesní půdu do nadpozemského stínu.</p>
+<p>Všude kolem vás se stejnoměrné, téměř souměrné větve stromů natahují k nebi jako štíhlé paže. Sedí na nich desítky havranů a jejich tmavé oči vás mlčky sledují, jak se blížíte.</p>
+<p>Po postavě není ani stopy, ale uprostřed mýtiny je otevřený důmyslně zamaskovaný padací poklop, pod nímž dřevěný žebřík sestupuje šachtou do země.</p>
 </div>
 
-As the players enter the clearing, the drizzle turns to rain, lightning flashing and thunder rolling overhead.
+Když hráči vstoupí na mýtinu, mrholení se změní v déšť, nad hlavami šlehají blesky a valí se hrom.
 
-Muriel doesn’t recognize the trapdoor or the ladder. If the players linger without entering the trapdoor, the cloaked man’s head pokes up out of the trapdoor, and he grunts, “Do you want to get punctured to death, you fools? Get down here before they see you, for goodness’ sake—and close the door behind you." He then descends back down the ladder.
-## J3a. The Martikovs’ Refuge
-### Down the Ladder
-If the players descend the ladder, read:
+Muriel poklop ani žebřík nepoznává. Pokud hráči otálejí a do poklopu nevstoupí, vystrčí z něj hlavu muž v plášti a zavrčí: „Chcete, aby vás ubodali k smrti, vy hlupáci? Pro všechno na světě, slezte sem, než vás uvidí – a zavřete za sebou.“ Pak opět sleze po žebříku dolů.
+## J3a. Útočiště Martikovových
+### Dolů po žebříku
+Pokud hráči sestoupí po žebříku, přečtěte:
 
 <div class="description">
-<p>You descend the wooden ladder, each step echoing faintly in the enclosed space as the rungs creak beneath your weight. Overhead, heavy raindrops drum against the closed trapdoor with a relentless rhythm, the muffled sound of booming thunder echoing far above. Rivulets of rainwater run down the damp stone walls around you, pooling in a sloshing, watery pit thirty feet below.</p>
-<p>Halfway down the shaft, the walls open up into a small stone cavern, its rough walls damp and glistening. Lanterns hang from iron hooks that jut out from the walls, their flickering flames filling the space with the warm glow of candlelight. The perimeter of the cavern hosts a collection of crates and sacks, which appear to have been kept in relatively good condition. A tunnel stretches away from the south wall of the cave, a thin layer of mist clinging to its floor as it vanishes into darkness.</p>
-<p>Bedrolls and blankets are strewn across the rough cavern floor, occupied by an assortment of adults and children. Two men bearing a striking resemblance to Urwin Martikov lean against the western wall—the elder with dark hair tinged slightly with gray, and the younger bearing softer features and a mop of brownish hair.</p>
-<p>A woman kneels beside a pair of young boys not far away, her angular features framed by locks of chestnut hair. A bald, broad-shouldered man with a darker complexion sits beside her, cradling an infant sleeping peacefully in his arms. A teenager showing a blend of the man and woman's features sits with his knees held to his chest a few feet beyond, a half-whittled stick clutched in his hands.</p>
-<p>The cloaked figure stands at the head of the group, the cowl of his cloak lowered to reveal the features of a man in his elder years. His gray, suspicious eyes scowl back at you, framed by strands of silver-gray hair that cascade down to his shoulders from the receding hairline along his scalp. His face is bronzed and weathered, and the wrinkles above his eyebrows split his forehead like furrowed troughs.</p>
-<p>The patched green cloak he wears has clearly seen better days, but appears to have been proudly decorated with clusters of raven's feathers meticulously sewn into the cowl and shoulders, as well as a menagerie of nearly a dozen old pewter medallions and trinkets that have been haphazardly stitched into the fabric. His weight leans against an old wooden cane, its wide surface carved with intricate patterns of grapes and vines, and his thick fingers tap impatiently against its edge.</p>
+<p>Sestupujete po dřevěném žebříku; každý krok se v uzavřeném prostoru slabě rozléhá a příčky pod vaší vahou vrzají. Nad hlavou bubnují těžké dešťové kapky neúprosným rytmem o zavřený poklop a vysoko nahoře se tlumeně rozléhá dunění hromu. Po vlhkých kamenných stěnách kolem vás stékají pramínky dešťové vody a slévají se do čvachtající, zatopené jámy třicet stop pod vámi.</p>
+<p>V polovině šachty se stěny otevírají do malé kamenné jeskyně, jejíž drsné stěny jsou vlhké a lesknou se. Ze stěn trčí železné háky, na nichž visí lucerny, a jejich mihotavé plameny zaplňují prostor teplou září svíček. Po obvodu jeskyně jsou naskládány bedny a pytle, které se zdají být v poměrně dobrém stavu. Od jižní stěny jeskyně vede tunel; po jeho podlaze se plazí tenká vrstva mlhy, než zmizí ve tmě.</p>
+<p>Po drsné podlaze jeskyně jsou rozházené spací rohože a pokrývky, na nichž leží či sedí dospělí i děti. O západní stěnu se opírají dva muži, kteří se nápadně podobají Urwinu Martikovovi – starší s tmavými vlasy lehce prokvetlými šedí, mladší s jemnějšími rysy a hřívou nahnědlých vlasů.</p>
+<p>Nedaleko klečí vedle dvou malých chlapců žena, jejíž hranaté rysy rámují kaštanové kadeře. Vedle ní sedí holohlavý, širokoplecí muž tmavší pleti a v náručí kolébá pokojně spící nemluvně. O kus dál sedí dospívající chlapec, v jehož tváři se mísí rysy muže i ženy; kolena má přitažená k hrudi a v rukou svírá napůl vyřezanou hůlku.</p>
+<p>V čele skupiny stojí postava v plášti; kápi má staženou, takže odhaluje tvář muže v pokročilém věku. Jeho šedé, podezíravé oči se na vás zachmuřeně dívají a rámují je prameny stříbrošedých vlasů, které mu z ustupující vlasové linie splývají až na ramena. Jeho tvář je bronzová a ošlehaná a vrásky nad obočím mu rozdělují čelo jako rozbrázděné rýhy.</p>
+<p>Záplatovaný zelený plášť, který nosí, zjevně zažil lepší časy, ale je hrdě zdoben shluky havraních per pečlivě všitých do kápě a ramen a také celou sbírkou téměř tuctu starých cínových medailonů a tretek, které jsou do látky nahodile přišité. Opírá se o starou dřevěnou hůl, jejíž široký povrch zdobí složité řezby hroznů a vinné révy, a jeho silné prsty netrpělivě bubnují o její okraj.</p>
 </div>
 
-The two men resembling Urwin Martikov are Adrian and Elvir Martikov, respectively. The woman is Stefania Martikov and the man beside her is Dag Tomescu, her husband. The two boys are Martin and Viggo, the infant is Yolanda, and the teenager is Claudiu. The cloaked man is Davian Martikov.
+Dva muži, kteří se podobají Urwinu Martikovovi, jsou Adrian a Elvir Martikovovi. Žena je Stefania Martikov a muž vedle ní je její manžel Dag Tomescu. Dva chlapci jsou Martin a Viggo, nemluvně je Yolanda a dospívající chlapec je Claudiu. Muž v plášti je Davian Martikov.
 
-> [!profile]+ **Meet the Martikovs**
-> When roleplaying the Martikov family, keep the following information in mind:
+> [!profile]+ **Seznamte se s Martikovovými**
+> Při hraní rodiny Martikovových mějte na paměti následující:
 > 
-> * **Adrian** is two years older than Urwin, and is generally quiet and observant, though he isn’t afraid to take charge when necessary. He takes no sides in the feud between Davian and Urwin and believes that Elric died fighting for what he believed in, and that his death should therefore be respected. Adrian should make the players feel flattered and grateful, and most often feels thoughtful, determined, or melancholy.
-> * **Elvir** is ten years younger than Urwin and the twin brother of the late Elric Martikov, and is generally sharp, sarcastic, and quick-tempered. He believes that Davian was wrong to scorn Urwin, and that the theft of the third enchanted gem likely wasn’t Urwin’s fault. He shares freely his position that Elric’s death was worthless, and that the whole family would be better off had he never gone to Castle Ravenloft to fight in Doru’s rebellion. Deep down, however, Elvir feels deeply betrayed that Elric would go to fight Strahd without him. Elvir should make the players feel irritated, insulted, sympathetic, and endeared to him, and most often feels frustrated, annoyed, melancholy, angry, determined, or amused.
-> * **Stefania** is five years older than Urwin. She doesn’t begrudge Urwin for the theft of the third enchanted gem, but shares Davian’s position that Urwin was most likely mistaken about what he saw. She believes that Elric’s death was a tragedy, but that he was an adult member of the Keepers of the Feather and that his choice therefore deserves respect. Stefania should make the players feel comforted and grateful, and most often feels cheerful or determined.
-> * **Dag**, who married into the Martikov family, takes no position on Davian’s feud with Urwin, though he shares Stefania’s position that Elric’s death was a tragedy but his choice deserves respect. He most often feels amused, thoughtful, playful, or determined, and should make the players feel grateful, amused, and endeared to him.
-> * **Claudiu** doesn’t care about Davian’s feud with Urwin, and believes that Elric’s death was a clear signal that resisting Strahd is hopeless and anyone who does so is doomed to failure. He most often feels grim, bored, annoyed, frustrated, or melancholy, and should make the players feel irritated, insulted, and sympathetic to him.
-> * **Martin and Viggo** don’t know about Davian’s feud with Urwin, who they have never met. They don’t understand the full nature of Elric’s revolt against Castle Ravenloft, but know enough to understand that he died there. They most often feel playful, bored, fearful, intrigued, or excited, and should make the players feel flattered, amused, and endeared to them.
-> * **Davian** is the patriarch of the Martikov family and the widower of his late wife, Angelika Oraonova. Publicly, he avows that Elric was a fool, insubordinate, and disobedient for refusing Davian’s command to stay away from Castle Ravenloft. Deep down, Davian is shattered that the last words he spoke to his son before Elric’s death were, “*And don’t come back!*" Davian most often feels annoyed, irritated, satisfied, or grumpy, and should make the players feel insulted, grateful, and sympathetic to him.
+> * **Adrian** je o dva roky starší než Urwin, obvykle tichý a všímavý, ale nebojí se v případě potřeby převzít velení. Ve sporu mezi Davianem a Urwinem nestraní nikomu a věří, že Elric zemřel v boji za to, v co věřil, a jeho smrt si proto zaslouží úctu. Adrian by měl v hráčích budit pocit polichocení a vděčnosti a nejčastěji bývá zamyšlený, odhodlaný nebo melancholický.
+> * **Elvir** je o deset let mladší než Urwin a je dvojčetem zesnulého Elrica Martikova; obvykle je ostrý, sarkastický a prchlivý. Věří, že Davian Urwinem neprávem opovrhoval a že krádež třetího očarovaného drahokamu nejspíš nebyla Urwinova vina. Otevřeně hlásá, že Elricova smrt byla zbytečná a že by na tom celá rodina byla lépe, kdyby nikdy neodešel na hrad Ravenloft bojovat v Doruově vzpouře. V hloubi duše se však Elvir cítí hluboce zrazený, že Elric šel bojovat proti Strahdovi bez něj. Elvir by měl v hráčích budit podráždění, uraženost, soucit i náklonnost a nejčastěji bývá frustrovaný, rozmrzelý, melancholický, rozzlobený, odhodlaný nebo pobavený.
+> * **Stefania** je o pět let starší než Urwin. Urwinovi krádež třetího očarovaného drahokamu nevyčítá, ale sdílí Davianův názor, že se Urwin v tom, co viděl, nejspíš mýlil. Elricovu smrt považuje za tragédii, ale věří, že byl dospělým členem Strážců pera, a jeho volba si proto zaslouží úctu. Stefania by měla v hráčích budit pocit útěchy a vděčnosti a nejčastěji bývá veselá nebo odhodlaná.
+> * **Dag**, který se do rodiny Martikovových přiženil, ve sporu mezi Davianem a Urwinem nezaujímá žádné stanovisko, ale sdílí Stefaniin názor, že Elricova smrt byla tragédií, ale jeho volba si zaslouží úctu. Nejčastěji bývá pobavený, zamyšlený, hravý nebo odhodlaný a měl by v hráčích budit vděčnost, pobavení a náklonnost.
+> * **Claudiu** se o Davianův spor s Urwinem nestará a věří, že Elricova smrt byla jasným znamením, že odpor proti Strahdovi je beznadějný a každý, kdo se o něj pokusí, je odsouzen k nezdaru. Nejčastěji bývá zachmuřený, znuděný, rozmrzelý, frustrovaný nebo melancholický a měl by v hráčích budit podráždění, uraženost i soucit.
+> * **Martin a Viggo** o Davianově sporu s Urwinem, kterého nikdy nepotkali, nevědí. Nechápou plně povahu Elricovy vzpoury proti hradu Ravenloft, ale vědí dost na to, aby chápali, že tam zemřel. Nejčastěji bývají hraví, znudění, ustrašení, zvědaví nebo nadšení a měli by v hráčích budit pocit polichocení, pobavení a náklonnost.
+> * **Davian** je patriarchou rodu Martikovových a vdovcem po své zesnulé ženě Angelice Oraonově. Veřejně tvrdí, že Elric byl blázen, neposlušný a vzpurný, když odmítl Davianův příkaz držet se od hradu Ravenloft dál. V hloubi duše je však Davian zdrcený tím, že poslední slova, která svému synovi před jeho smrtí řekl, zněla: „*A už se nevracej!*“ Davian nejčastěji bývá rozmrzelý, podrážděný, spokojený nebo nevrlý a měl by v hráčích budit uraženost, vděčnost i soucit.
 
-Davian greets Muriel with obvious familiarity, then gruffly asks the players to identify themselves and explain their presence. If informed that the players have been sent by Urwin Martikov, Davian snorts and scoffs at “the audacity of that lout." 
+Davian pozdraví Muriel se zjevnou důvěrností a pak hráče úsečně vyzve, aby se představili a vysvětlili, co tu dělají. Pokud se dozví, že hráče poslal Urwin Martikov, Davian si odfrkne a ušklíbne se nad „drzostí toho budižkničemy“.
 
-Davian curtly introduces each member of the family if asked. He is also willing to tersely confirm that Urwin Martikov is his son, though refuses to speak further of their relationship.
-### Davian’s Request
-Upon learning that the players have been sent to investigate the delayed wine shipments, Davian is glad to share the following information:
+Pokud se ho hráči zeptají, Davian stroze představí jednotlivé členy rodiny. Je také ochoten úsečně potvrdit, že Urwin Martikov je jeho syn, ale o jejich vztahu odmítá mluvit dál.
+### Davianova prosba
+Jakmile se Davian dozví, že hráči přišli prošetřit zpožděné dodávky vína, rád jim sdělí následující:
 
-* Three days before the players received Urwin’s request (see [[#J1a. Urwin’s Request]] above), four druids of the Forest Folk invaded the Wizard of Wines and drove the Martikovs out. Davian and his family have hidden themselves away in this hidden cavern ever since.
-* The druids are accompanied by several dozen blights, created by the Gulthias Tree upon Yester Hill, as well as three **greater strix** created by the swamp-witch, Baba Lysaga, who dwells in Berez. The strix have been patrolling the skies, preventing the Martikovs from escaping.
-* Davian isn’t entirely sure why the druids attacked the winery, why they’re still inside, or why Baba Lysaga is assisting them. 
+* Tři dny předtím, než hráči obdrželi Urwinovu prosbu (viz [[#J1a. Urwinova prosba|J1a. Urwinova prosba]] výše), vtrhli do Čaroděje vín čtyři druidové Lesního lidu a Martikovovy vyhnali. Davian a jeho rodina se od té doby skrývají v této tajné jeskyni.
+* Druidy doprovází několik desítek zhoubců, které stvořil strom Gulthias na Yesterském vrchu, a také tři velké strigy (**greater strix**), které stvořila bažinná čarodějnice Baba Lysaga, jež přebývá v Berezu. Strigy hlídkují na nebi a brání Martikovovým v útěku.
+* Davian si není zcela jistý, proč druidové vinařství napadli, proč jsou stále uvnitř ani proč jim Baba Lysaga pomáhá.
 
-A DC 12 Wisdom (Insight) check suggests that Davian might know more than he’s letting on, but he steadfastly refuses to explain further beyond noting that, “Yester Hill isn’t far from here. The Forest Folk have been terrible neighbors for years, and we haven’t been shy about letting them know that. Looks like this is their revenge." A second DC 12 Wisdom (Insight) check reveals that he’s not telling the entire truth; if challenged, Davian responds by irritatedly promising to give the players his family’s “whole damn ledger" if they get rid of the druids first.
+Ověření Wisdom (Insight) se DC 12 naznačí, že Davian možná ví víc, než přiznává, ale vytrvale odmítá cokoli dalšího vysvětlit – poznamená jen: „Yesterský vrch není odsud daleko. Lesní lid je už léta mizerný soused a nikdy jsme se nebáli jim to dát najevo. Vypadá to, že tohle je jejich pomsta.“ Druhé ověření Wisdom (Insight) se DC 12 odhalí, že neříká celou pravdu; pokud ho s tím hráči konfrontují, Davian podrážděně slíbí, že jim dá „celou tu zatracenou účetní knihu“ své rodiny, až se nejdřív zbaví druidů.
 
-Davian welcomes the players’ help in defeating the druids. If the players agree to do so, Davian can share the following additional information:
+Davian pomoc hráčů v boji proti druidům vítá. Pokud hráči souhlasí, může jim Davian sdělit ještě toto:
 
-* There are four druids, eight **needle blights**, eight **vine blights**, and more than a few dozen **twig blights** in the winery. The skies above the winery are guarded by three patrolling **greater strix**, and the vineyard is guarded by too many **needle blights** to count.
-* The leader of the druids bears a strange magical staff, which appears to be the source of the blights’ strength and the means by which the druids are controlling them. If the players can obtain the staff and break it, the hordes of blights in the vineyard (as well as any other blights in the winery) would likely be greatly weakened, if not killed outright.
-* The safest route into the Wizard of Wines is an underground tunnel that leads from this cavern and exits through a secret door into the winery’s cellar. From there, the players will need to sneak or fight their way up until they find the druid with the magical staff.
+* Ve vinařství jsou čtyři druidové, osm jehličnatých zhoubců (**needle blights**), osm popínavých zhoubců (**vine blights**) a víc než pár desítek větvičkových zhoubců (**twig blights**). Nebe nad vinařstvím střeží tři hlídkující velké strigy (**greater strix**) a vinici střeží tolik jehličnatých zhoubců (**needle blights**), že je nelze spočítat.
+* Vůdce druidů nosí podivnou kouzelnou hůl, která se zdá být zdrojem síly zhoubců a prostředkem, jímž je druidové ovládají. Pokud hráči hůl získají a zlomí ji, hordy zhoubců na vinici (i všichni ostatní zhoubci ve vinařství) by nejspíš byly výrazně oslabeny, ne-li rovnou zahubeny.
+* Nejbezpečnější cestou do Čaroděje vín je podzemní tunel, který vede z této jeskyně a ústí tajnými dveřmi do sklepa vinařství. Odtud se hráči budou muset proplížit nebo probojovat nahoru, dokud nenajdou druida s kouzelnou holí.
 
-> [!info]+ **Balancing the Winery**
-> If you are rebalancing the Wizard of Wines for parties of larger or smaller size (see encounter-balancing callouts below), make sure to adjust Davian's information accordingly.
-### Elvir’s Rage
-When Davian has given the players their mission, Claudiu mutters—just loudly enough to be heard—“What does it matter? They’re just going to die, anyway."
+> [!info]+ **Vyvážení vinařství**
+> Pokud Čaroděje vín upravujete pro větší nebo menší družinu (viz rámečky k vyvážení střetnutí níže), nezapomeňte odpovídajícím způsobem upravit i Davianovy informace.
+### Elvirův hněv
+Když Davian hráčům svěří jejich úkol, Claudiu zamumlá – právě dost nahlas, aby ho bylo slyšet: „K čemu to je? Stejně umřou.“
 
-Assuming the players do not intervene, the following sequence then unfolds:
+Pokud hráči nezasáhnou, odehraje se následující:
 
-* Stefania scolds Claudiu, and orders him to apologize to the players. (She glances toward the players and immediately apologizes for her son’s behavior.)
-* After the players respond, Elvir loudly agrees that the players are wasting their time, and there’s no possibility that they’ll be strong enough to defeat “the vampire’s" servants. He gives the players a baleful glare, as though challenging them to disagree.
-* As the players respond, Adrian attempts to calm Elvir, insisting that, “this isn’t like Elric." Elvir snarls at Adrian, “Don’t say his name!", and Davian shouts at all of his children to be silent, vowing that he “will not suffer disobedience again in this household."
-* Elvir snaps back, insisting that Davian “drove Elric away, just like he did Urwin." Davian’s face colors bright red, and he shouts, “*Enough!*"
-* Elvir snarls, turns, and sits cross-legged in a damp alcove away from the rest of the family, facing a wall. Stefania and Adrian move to flank Davian and engage him in hushed whispers, both looking stricken.
+* Stefania Claudia pokárá a nařídí mu, aby se hráčům omluvil. (Pohlédne na hráče a okamžitě se za chování svého syna omluví.)
+* Poté, co hráči odpoví, Elvir nahlas přitaká, že hráči ztrácejí čas a že nemají šanci být dost silní, aby porazili služebníky „toho upíra“. Věnuje hráčům zlověstný pohled, jako by je vyzýval, ať mu odporují.
+* Zatímco hráči odpovídají, Adrian se snaží Elvira uklidnit a trvá na tom, že „tohle není jako s Elricem“. Elvir na Adriana zavrčí: „Nevyslovuj jeho jméno!“ a Davian okřikne všechny své děti, ať zmlknou, a zapřísahá se, že „v téhle domácnosti už žádnou neposlušnost trpět nebude“.
+* Elvir mu odsekne a trvá na tom, že Davian „vyhnal Elrica, stejně jako vyhnal Urwina“. Davian zrudne jako rak a zakřičí: „*Dost!*“
+* Elvir zavrčí, otočí se a usadí se se zkříženýma nohama ve vlhkém výklenku stranou od zbytku rodiny, tváří ke zdi. Stefania a Adrian se postaví po Davianových bocích a zapředou s ním tichý, šeptaný rozhovor; oba vypadají zdrceně.
 
-The players can notice that Claudiu looks pale and vaguely guilty, and that Muriel’s complexion has taken on an ashen pallor, her face becoming a mask of unreadable stone.
+Hráči si mohou všimnout, že Claudiu je bledý a vypadá trochu provinile a že Muriel zešedla v obličeji a její tvář ztuhla v nečitelnou kamennou masku.
 
-As the family splinters, Dag approaches the players and greets them with a sheepish grin. In a low voice, he apologizes for his in-laws’ behavior, and promises that they’re good people “once you get to know them."
+Zatímco se rodina rozchází, přistoupí k hráčům Dag a pozdraví je rozpačitým úsměvem. Tichým hlasem se omluví za chování svých příbuzných a slíbí, že jsou to dobří lidé, „jakmile je člověk pozná“.
 
-Dag can share the following information if asked:
+Pokud se ho hráči zeptají, může Dag prozradit následující:
 
-* Ten years ago, someone stole something valuable from the winery while Urwin Martikov was keeping watch. Davian blamed Urwin for the theft, convinced that he’d been fooling around with his betrothed, Danika Dorakova, instead of paying attention. Davian and Urwin had a furious fight the following morning, which ended with Urwin departing the winery for Vallaki. Urwin hasn’t returned since, and Davian never recovered the thing that was stolen, nor did he ever find the culprit. (If asked what was stolen, Dag says only that it was a gemstone—a prized family heirloom, and one of Davian’s most treasured possessions.)
-* Just over three months ago, Elric Martikov, Elvir’s twin brother and Muriel’s betrothed, joined a rebellion in the village of Barovia that marched on Castle Ravenloft. Elric had always been bright-eyed and optimistic—a dreamer who believed in a better future for his loved ones. Davian forebade him from going, and ordered Elric never to return when he disobeyed. Davian’s words came true—Elric died in the castle, and his death shattered the Martikov family once again.
-* Claudiu was especially close to his two youngest uncles, and Elric most of all. He and Elvir haven’t taken Elric’s death well, with both falling into a kind of melancholic despair and Elvir lashing out at anyone who gets on his bad side.
+* Před deseti lety někdo ukradl z vinařství něco cenného, zatímco Urwin Martikov držel hlídku. Davian z krádeže vinil Urwina, přesvědčený, že místo aby dával pozor, laškoval se svou snoubenkou Danikou Dorakovou. Davian a Urwin se druhý den ráno zuřivě pohádali a hádka skončila tím, že Urwin odešel z vinařství do Vallaki. Od té doby se nevrátil a Davian ukradenou věc nikdy nezískal zpět ani nenašel viníka. (Pokud se hráči zeptají, co bylo ukradeno, Dag řekne jen, že to byl drahokam – cenné rodinné dědictví a jeden z Davianových nejdražších pokladů.)
+* Před něco málo přes třemi měsíci se Elric Martikov, Elvirovo dvojče a Muriellin snoubenec, přidal ke vzpouře ve vesnici Barovii, která vytáhla na hrad Ravenloft. Elric byl vždycky nadšený a optimistický – snílek, který věřil v lepší budoucnost pro své blízké. Davian mu zakázal jít, a když neuposlechl, nařídil mu, ať se už nikdy nevrací. Davianova slova se naplnila – Elric na hradě zemřel a jeho smrt rodinu Martikovových znovu roztříštila.
+* Claudiu měl ke svým dvěma nejmladším strýcům obzvlášť blízko, a k Elricovi ze všech nejvíc. On ani Elvir se s Elricovou smrtí nevyrovnali dobře – oba propadli jakémusi melancholickému zoufalství a Elvir si vylévá zlost na každém, kdo mu přijde do cesty.
 
-If asked, Muriel confirms in a raw, quiet whisper that Elric “inspired us all," but that she—and Elric’s family—have had to learn to get by without him. She then excuses herself and moves to sit beside Elvir.
+Pokud se jí hráči zeptají, Muriel syrovým, tichým šepotem potvrdí, že Elric „inspiroval nás všechny“, ale že se ona – i Elricova rodina – musela naučit žít bez něj. Pak se omluví a přesune se, aby si sedla vedle Elvira.
 
-> [!abstract]+ **Speaking with Elvir**
-> If the players move to speak with Elvir, he ignores them, staring straight at the cavern wall, for the first full minute. He then hoarsely demands to know why they’ve come to the winery, insisting that there’s nothing left for them or anyone else to find there. If the players show Elvir kindness and compassion, they can somewhat lighten his mood with a DC 15 Charisma (Persuasion) check. Otherwise, he firmly but politely asks them to leave him alone, his voice strained and raw.
+> [!abstract]+ **Rozhovor s Elvirem**
+> Pokud se hráči pokusí promluvit s Elvirem, celou první minutu je ignoruje a zírá přímo na stěnu jeskyně. Pak chraplavě požaduje vědět, proč do vinařství přišli, a trvá na tom, že tu pro ně ani pro nikoho jiného nezbylo nic k nalezení. Pokud hráči Elvirovi projeví laskavost a soucit, mohou jeho náladu trochu zlepšit úspěšným ověřením Charisma (Persuasion) se DC 15. V opačném případě je rozhodně, ale zdvořile požádá, aby ho nechali být; jeho hlas zní napjatě a syrově.
 > 
-> If the players get on Elvir’s good side and ask about Elric, Elvir tells them that Elric was a fool who abandoned his family, and that he “deserved what he got." A DC 10 Wisdom (Insight) check reveals that Elvir is uncomfortable with the harshness of his words, and doesn’t appear to entirely believe them. The players can convince Elvir to reveal his true feelings with a DC 20 Charisma (Persuasion) check; otherwise, he shakes his head and firmly denies any deeper meaning.
-### Into the Tunnel
-After the players have spoken with Dag and the other Martikovs to their satisfaction, Davian and Stefania approach them. Davian apologizes to the players for Elvir’s behavior, and—at Stefania’s gentle chiding—his own outburst as well.
+> Pokud si hráči Elvira získají a zeptají se ho na Elrica, Elvir jim řekne, že Elric byl blázen, který opustil svou rodinu, a že „dostal, co si zasloužil“. Ověření Wisdom (Insight) se DC 10 odhalí, že Elvirovi je tvrdost vlastních slov nepříjemná a zdá se, že jim tak docela nevěří. Hráči mohou Elvira přimět, aby odhalil své skutečné city, úspěšným ověřením Charisma (Persuasion) se DC 20; jinak zavrtí hlavou a jakýkoli hlubší význam rozhodně popře.
+### Do tunelu
+Jakmile si hráči s Dagem a ostatními Martikovovými promluví, jak potřebují, přistoupí k nim Davian se Stefanií. Davian se hráčům omluví za Elvirovo chování a – po Stefaniině jemném pokárání – i za svůj vlastní výbuch.
 
-If the players are still willing to enter the winery to defeat the druids within, Davian can share the following final warnings:
+Pokud jsou hráči stále ochotni vstoupit do vinařství a porazit druidy uvnitř, může jim Davian dát tato poslední varování:
 
-* First, Davian shares that the tunnel that leads into the cellar passes through a cavern filled with **brown mold**, which the Martikovs use to keep the wine stored in the cellar cool. Davian advises the players to stick to the path through the center of the mold, and not to approach, attack, or touch the mold lest it harm them.
-* Second, Davian warns that the druids can conjure the force of thunder to defeat their enemies. If the players fail to swiftly defeat any individual druid they come across, the sound of their thunder might alert the others, summoning them to defend the first. (The same is true for any loud spells that the players might use, so Davian warns them to stay quiet to avoid detection. Davian is reasonably confident, however, that the sound of the storm should help to cover up the sounds of any ordinary combat.)
-* Third, Davian reminds the players that the winery is an old structure built of wood. If any of the players appear to be spellcasters, Davian makes them promise not to set it on fire by mistake “like a bloody flaming fool."
+* Zaprvé Davian prozradí, že tunel vedoucí do sklepa prochází jeskyní plnou hnědé plísně (**brown mold**), kterou Martikovovi využívají k chlazení vína uloženého ve sklepě. Radí hráčům, aby se drželi stezky středem plísně a nepřibližovali se k ní, neútočili na ni a nedotýkali se jí, jinak jim ublíží.
+* Zadruhé Davian varuje, že druidové umějí přivolat sílu hromu, aby porazili své nepřátele. Pokud hráči rychle neporazí kteréhokoli druida, na kterého narazí, může zvuk jeho hromu upozornit ostatní a přivolat je na pomoc. (Totéž platí pro jakákoli hlučná kouzla, která by hráči mohli použít, a proto je Davian varuje, ať jsou potichu, aby je nikdo neodhalil. Davian si je však poměrně jistý, že zvuky obyčejného boje by měla bouře přehlušit.)
+* Zatřetí Davian hráčům připomene, že vinařství je stará dřevěná stavba. Pokud někteří z hráčů vypadají jako sesilatelé kouzel, Davian je přinutí slíbit, že ho omylem nezapálí „jako nějaký zatracený hořící pitomec“.
 
-> [!info]+ **Fire Hazard**
-> The players should be cautious when casting spells such as *fireball* or *lightning bolt* within the winery, both of which expressly set their surroundings on fire. If the players nonetheless set the winery aflame, apply the following rules: 
+> [!info]+ **Nebezpečí požáru**
+> Hráči by měli být opatrní při sesílání kouzel jako *fireball* nebo *lightning bolt* uvnitř vinařství, protože obě výslovně zapalují své okolí. Pokud hráči vinařství přesto zapálí, použijte následující pravidla:
 > 
-> * Each contiguous collection of ignited squares counts as a single fire. On initiative count 20 of each round, for each fire, roll a number of d4s equal to the number of squares in that fire. For each 4 rolled, an additional square adjacent to the fire also ignites (your choice), becoming a part of the fire. Ignited squares can include either floors or walls. (An ignited wall is engulfed with flames on both sides.) 
-> * When the fire spreads, each creature within its area must make a DC 10 Dexterity saving throw. On a successful save, that creature can immediately move to an adjacent, unoccupied square within 5 feet. A creature that enters the fire or begins its turn there for the first time on a turn takes 1d8 fire damage. 
-> * All squares within 10 feet of a fire are heavily obscured by smoke. A creature that starts its turn in the smoke must make a DC 10 Constitution saving throw or be poisoned until the start of its next turn. Undead and constructs succeed on the saving throw automatically.
-> * A creature can use its action and suitable means to extinguish a 5-foot section
+> * Každá souvislá skupina zapálených polí se počítá jako jeden požár. Na iniciativě 20 v každém kole hoďte za každý požár tolik d4, kolik polí požár zabírá. Za každou padlou 4 se vzňalo jedno další pole sousedící s požárem (podle vaší volby) a stává se jeho součástí. Zapálenými poli mohou být podlahy i stěny. (Zapálenou stěnu pohltí plameny z obou stran.)
+> * Když se požár rozšíří, musí každý tvor v jeho oblasti provést záchranný hod na Dexterity se DC 10. Při úspěchu se tvor může okamžitě přesunout na sousední volné pole do 5 stop. Tvor, který do ohně vstoupí nebo v něm poprvé během tahu začne svůj tah, utrží 1d8 zranění ohněm (fire).
+> * Všechna pole do 10 stop od požáru jsou kouřem silně zastřena (heavily obscured). Tvor, který začne svůj tah v kouři, musí provést záchranný hod na Constitution se DC 10, jinak je do začátku svého dalšího tahu otráven (poisoned). Nemrtví (undead) a konstrukty (constructs) v záchranném hodu uspějí automaticky.
+> * Tvor může použít svou akci a vhodné prostředky k uhašení 5stopého úseku
 
-Davian also informs the players of the existence of an emergency cache that he kept in the winery, but wasn’t able to retrieve before the druids drove them out. The cache, which is hidden in the barrel nearest the northwest corner in a storage room on the main floor of the winery, contains healing supplies and other items that the players might find useful. (Davian doesn’t remember exactly what he left in the cache, but invites the players to keep its full contents for themselves—assuming, of course, that the druids haven’t found and raided it already.)
-### Brown Mold
+Davian hráčům také prozradí, že ve vinařství má nouzovou skrýš, kterou nestihl vybrat, než je druidové vyhnali. Skrýš, ukrytá v sudu nejblíže severozápadnímu rohu ve skladišti v hlavním podlaží vinařství, obsahuje léčivé zásoby a další předměty, které by se hráčům mohly hodit. (Davian si přesně nepamatuje, co ve skrýši nechal, ale nabídne hráčům, ať si celý její obsah nechají – samozřejmě za předpokladu, že ji druidové už nenašli a nevyplenili.)
+### Hnědá plíseň
 <span class="citation"><em>This scene takes place in Chapter 12, Area W15.</em></span>
-Once the players are ready to go, Muriel approaches them and wishes them luck. (She won’t be accompanying them into the winery, having decided to remain in the cavern to protect the Martikovs should any trouble arise.)
+Jakmile jsou hráči připraveni vyrazit, přistoupí k nim Muriel a popřeje jim hodně štěstí. (Do vinařství je doprovázet nebude – rozhodla se zůstat v jeskyni a chránit Martikovovy pro případ potíží.)
 
-As the players pass through the tunnel, read:
-
-<div class="description">
-<p>The tunnel marches silently through the earth, a thin veil of mist clinging to the ground as it delves deeper into the darkness. The further you travel, the colder it gets, your breath misting on the air. Moisture pooling in the tunnel's nooks and crannies gradually gives way to patches of ice, their brittle surfaces splintering and crunching under your boots.</p>
-<p>The tunnel soon opens into a shallow, freezing cavern. Thick brown mold carpets the walls, floor, and ceiling, its expanse interrupted only by a narrow dirt path that cuts across the floor to a dark stone archway at the opposite end. </p>
-</div>
-
-This area is as described in <span class="citation">W15. Brown Mold (p. 178)</span>. If the players approach the archway, read:
+Když hráči procházejí tunelem, přečtěte:
 
 <div class="description">
-<p>The archway gives way to a stonework tunnel, which seemingly terminates at a blank brick wall fifteen feet beyond. </p>
-<p>Brown mold has filled this cramped corridor, with more recent growths covering the floor, walls, and ceiling around it—except in one place. A short way down the tunnel, a small wooden box covered with old, peeling paint hangs from a rusted iron hook. The box is painted a pale, frigid blue, and has the design of a snowflake carved into its side. A six-inch bare patch covers the wall around the box, with nary a spore of mold nearby.</p>
+<p>Tunel se mlčky noří do země a k zemi se tiskne tenký závoj mlhy, jak se stezka zavrtává hlouběji do tmy. Čím dál jdete, tím je chladněji a váš dech se mění v páru. Vlhkost hromadící se v zákoutích a škvírách tunelu postupně ustupuje skvrnám ledu, jejichž křehký povrch se vám pod botami tříští a křupe.</p>
+<p>Tunel brzy ústí do mělké, mrazivé jeskyně. Stěny, podlahu i strop pokrývá hustý koberec hnědé plísně, přerušený jen úzkou hliněnou stezkou, která se táhne přes podlahu k temnému kamennému oblouku na protější straně.</p>
 </div>
 
-The players can’t proceed safely down the tunnel without first destroying the brown mold obstructing it. A player who makes a successful DC 10 Intelligence (Nature) check to remember information about brown mold learns the information described in <span class="citation">Brown Mold (<em>Dungeon Master’s Guide</em>, p. 105</span>). 
+Tato oblast odpovídá popisu v <span class="citation">W15. Brown Mold (p. 178)</span>. Pokud se hráči přiblíží k oblouku, přečtěte:
 
-A player who casts *detect magic* notices that three small objects within the box are glimmering with transmutation magic. If the players retrieve the box—which is mounted to the wall five feet down the corridor— by magic or other means, they find that it contains three **winter wolf** teeth, each of which are six inches long, cold to the touch, and carved with intricate runic inscriptions. (The teeth were obtained, carved, and enchanted by the Mountain Folk, who sold them to Davian many years ago.) 
+<div class="description">
+<p>Za obloukem pokračuje kamenný tunel, který zjevně končí slepou cihlovou zdí patnáct stop za ním.</p>
+<p>Tuto stísněnou chodbu zaplnila hnědá plíseň a čerstvější porosty pokrývají podlahu, stěny i strop kolem ní – až na jedno místo. Kousek dál v tunelu visí na rezavém železném háku malá dřevěná skříňka pokrytá starou, odlupující se barvou. Je natřená bledou, mrazivou modří a na boku má vyřezaný obrazec sněhové vločky. Zeď kolem skříňky pokrývá šest palců široký holý pruh, kde v okolí není ani jediná spora plísně.</p>
+</div>
 
-A successful DC 15 Intelligence (Nature) check identifies the teeth as belonging to one or more **winter wolves.** A player looking to identify a tooth’s properties must study it for 1 minute and make a DC 10 Intelligence (Arcana) check, succeeding automatically by taking ten times as long. On a success, the player learns that the tooth bears the following properties:
+Hráči nemohou tunelem bezpečně projít, aniž by nejprve zničili hnědou plíseň, která ho zatarasila. Hráč, který uspěje v ověření Intelligence (Nature) se DC 10, aby si vybavil, co ví o hnědé plísni, se dozví informace popsané v <span class="citation">Brown Mold (<em>Dungeon Master’s Guide</em>, p. 105</span>).
 
-* A creature can use their action to pierce their stomach with the tooth. That creature can then immediately exhale a blast of freezing wind in a 15-foot cone. Each creature in that area must make a DC 12 Dexterity saving throw, taking 18 (4d8) cold damage on a failed save, or half as much damage on a successful one.
-* A creature can use their action to pierce their bicep with the tooth. That creature gains immunity to cold damage for 1 minute.
+Hráč, který sešle *detect magic*, si všimne, že tři malé předměty uvnitř skříňky se třpytí transmutační magií. Pokud hráči skříňku – připevněnou na zdi pět stop od začátku chodby – získají pomocí magie či jiným způsobem, zjistí, že obsahuje tři zuby zimního vlka (**winter wolf**). Každý je šest palců dlouhý, studený na dotek a pokrytý složitými runovými nápisy. (Zuby získal, vyřezal a očaroval Horský lid, který je Davianovi před mnoha lety prodal.)
 
-The tooth dissipates into frigid mist if either of these properties are used.
-## J3b. Into the Winery
+Úspěšné ověření Intelligence (Nature) se DC 15 odhalí, že zuby patří jednomu či více zimním vlkům (**winter wolves**). Hráč, který chce určit vlastnosti zubu, ho musí 1 minutu zkoumat a uspět v ověření Intelligence (Arcana) se DC 10; pokud zkoumání věnuje desetkrát více času, uspěje automaticky. Při úspěchu se hráč dozví, že zub má následující vlastnosti:
+
+* Tvor může svou akcí probodnout zubem vlastní břicho. Tento tvor pak může okamžitě vydechnout poryv mrazivého větru v 15stopém kuželu. Každý tvor v této oblasti musí provést záchranný hod na Dexterity se DC 12; při neúspěchu utrží 18 (4d8) zranění chladem (cold), při úspěchu poloviční.
+* Tvor může svou akcí probodnout zubem vlastní biceps. Tento tvor získá na 1 minutu imunitu vůči zranění chladem (cold).
+
+Pokud je použita kterákoli z těchto vlastností, zub se rozplyne v mrazivou mlhu.
+## J3b. Do vinařství
 <span class="citation"><em>This scene takes place in Chapter 12, Area W14.</em></span>
 
-The wine cellar is largely as described in <span class="citation">W14. Wine Cellar (p. 178)</span>. However, modify the descriptive text to read as follows:
+Vinný sklep do značné míry odpovídá popisu v <span class="citation">W14. Wine Cellar (p. 178)</span>. Popisný text však upravte takto:
 
 <div class="description">
-<p>Wooden pillars and beams support the ten-foot-high ceiling of this unseasonably warm cellar, which is split in two by a five-foot-thick brick wall. A thick, humid mist curls across the floor, which is criss-crossed by tiny black roots.</p>
+<p>Strop tohoto nezvykle teplého sklepa, vysoký deset stop, podpírají dřevěné sloupy a trámy; sklep rozděluje vedví pět stop silná cihlová zeď. Po podlaze, křížem krážem protkané drobnými černými kořínky, se plazí hustá, vlhká mlha.</p>
 </div>
 
-As the players step into the cellar, read:
+Když hráči vstoupí do sklepa, přečtěte:
 
 <div class="description">
-<p>Each half of the cellar features an eight-foot tall wooden partition that doubles as a wine rack. The western rack stands empty, but the eastern one is half-filled with wine bottles. Both racks are covered by a thick, choking tangle of vines, interwoven with strands of green ivy bearing blood-red spots and sharp, wicked thorns.</p>
-<p>You see several silhouettes move behind the eastern rack—including one with a full rack of antlers.</p>
+<p>V každé polovině sklepa stojí osm stop vysoká dřevěná přepážka, která zároveň slouží jako stojan na víno. Západní stojan je prázdný, ale východní je napůl zaplněný lahvemi vína. Oba stojany pokrývá hustá, dusivá změť šlahounů protkaná prameny zeleného břečťanu s krvavě rudými skvrnami a ostrými, zlovolnými trny.</p>
+<p>Za východním stojanem zahlédnete pohyb několika siluet – včetně jedné s mohutným parožím.</p>
 </div>
 
-> [!lore]+ **Druidic Decorations**
-> The druids and **berserkers** of the Forest Folk can be identified by the animal hides and wooden jewelry that they wear, as well as the blood-red dye that they use to paint their bodies. **Druid naturalists** use it to paint rings around their eyes, while **druid assailants** paint vampiric fangs beneath their lips. **Berserkers** of the Forest Folk use the dye to paint rings of thorns around their forearms and calves.
+> [!lore]+ **Druidské ozdoby**
+> Druidy a berserkery (**berserkers**) Lesního lidu lze poznat podle zvířecích kůží a dřevěných šperků, které nosí, i podle krvavě rudé barvy, kterou si malují těla. Druidští přírodovědci (**druid naturalists**) si jí malují kruhy kolem očí, kdežto druidští útočníci (**druid assailants**) si pod rty malují upíří tesáky. Berserkeři (**berserkers**) Lesního lidu si barvou malují trnové prstence kolem předloktí a lýtek.
 
-A player who inspects the roots can easily discern that they appear to be originating from the upper floors of the winery.
+Hráč, který si prohlédne kořeny, snadno pozná, že zjevně vyrůstají z horních pater vinařství.
 
-The antlered silhouette, which stands closest to the players' entry point, is a **druid assailant**, and is accompanied by eight **needle blights**. If the players are moving quietly, they can try to sneak past or ambush the druid and blights. (However, because the blights have blindsight, the *invisibility* spell and similar magic won’t work to conceal the players from the blights’ vision.)
+Silueta s parožím, která stojí nejblíž místu, kudy hráči vstoupili, je druidský útočník (**druid assailant**) a doprovází ho osm jehličnatých zhoubců (**needle blights**). Pokud se hráči pohybují potichu, mohou se pokusit druida a zhoubce proplížit nebo je přepadnout. (Protože však zhoubci mají slepozrak (blindsight), kouzlo *invisibility* a podobná magie hráče před jejich vnímáním neukryjí.)
 
 <div class="statblock">
     <h2>Druid Assailant</h2>
@@ -482,125 +482,124 @@ The antlered silhouette, which stands closest to the players' entry point, is a 
     <p><strong><em>Gift of the Gulthias.</em></strong> In response to being attacked by a creature it can see, the druid casts <em>barkskin</em>, provided it has a 2nd-level spell slot available. (The spell doesn't require concentration when cast in this way.)</p>
 </div>
 
-The druid and blights attack on sight. On their first turn in combat, the druid uses their ***speed of the adder*** feature to cast the *faerie fire* spell as a bonus action, followed by a ***multiattack*** as their action. On their second turn, the druid casts *thunderwave* at 2nd level as a bonus action, followed by an additional ***multiattack*** as their action.
+Druid a zhoubci zaútočí, jakmile hráče spatří. Ve svém prvním tahu v boji druid použije schopnost ***speed of the adder***, aby jako bonusovou akci seslal kouzlo *faerie fire*, a jako akci pak provede ***multiattack***. Ve svém druhém tahu druid jako bonusovou akci sešle *thunderwave* na 2. úrovni a jako akci provede další ***multiattack***.
 
-> [!combat]- **Combat - The Cellar**  
-> **Combat Level**: Bruising
-> **Expected Character Level**: 5
-> **Allies:** Ireena Kolyana (CR 2)
-> **Expected HP Consumption:** 29%
+> [!combat]- **Boj – Sklep**  
+> **Úroveň boje**: Bolestivý
+> **Očekávaná úroveň postav**: 5
+> **Spojenci:** Ireena Kolyana (CR 2)
+> **Očekávaná ztráta HP:** 29 %
 > 
-> ### **Enemies:**
+> ### **Nepřátelé:**
 > 
-> | |3 Players | 4 Players | 5 Players | 6 Players |
+> | |3 hráči | 4 hráči | 5 hráčů | 6 hráčů |
 > |-|-|-|-|-|
 > | Druid Assailant | 1 | 1 | 1 | 1 |
 > | Needle Blight | 4 | 6 | 8 | 10 |
 
-> [!info]+ **Alerting the Druids**
-> If a druid or player casts a spell—such as *thunderwave*, *shatter*, or *fireball*—loud and explosive enough to alert the other druids in the winery, druids and blights from the upper floors join the battle as shown below:
+> [!info]+ **Vyburcování druidů**
+> Pokud druid nebo hráč sešle kouzlo – například *thunderwave*, *shatter* nebo *fireball* –, které je dost hlasité a výbušné, aby upozornilo ostatní druidy ve vinařství, připojí se k boji druidové a zhoubci z horních pater podle následující tabulky:
 > 
-> | No. of Rounds Later | Origin | Creatures |
+> | Počet kol poté | Odkud | Tvorové |
 > | :---:|:----:|:---|
-> |1| - |None|
-> |2|[[#Fermentation Vats]]|2 **swarms of twig blights**|
-> |3|[[#Fermentation Vats]]|1 **druid naturalist** and 2 **elder twig blights**|
-> |4| - |None|
-> |5| [[#Printing Press]]|1 **druid assailant** and 3 **vine blights**|
+> |1| - |Nikdo|
+> |2|[[#Kvasné kádě\|Kvasné kádě]]|2 **swarms of twig blights**|
+> |3|[[#Kvasné kádě\|Kvasné kádě]]|1 **druid naturalist** a 2 **elder twig blights**|
+> |4| - |Nikdo|
+> |5| [[#Tiskařský lis\|Tiskařský lis]]|1 **druid assailant** a 3 **vine blights**|
 > 
-> Neither the blights in [[#Loading Dock]] nor Lorghoth and the **greater strix** in [[#Loading Winch]] leave their positions if the alarm is raised, preferring instead to tend the **young Gulthias Tree** growing there.
+> Pokud je vyhlášen poplach, zhoubci v [[#Nakládací rampa|Nakládací rampa]] ani Lorghoth a velká striga (**greater strix**) v [[#Nakládací rumpál|Nakládací rumpál]] neopustí svá stanoviště; raději pečují o mladý strom Gulthias (**young Gulthias Tree**), který tam roste.
 > 
-> If the druid and blights in the cellar are alerted by loud or explosive sounds from [[#Fermentation Vats]], the needle blights join the combat after two rounds, and the druid joins the combat after three rounds. If the fighting is taking place elsewhere in the winery, increase the number of rounds by one each.
+> Pokud druida a zhoubce ve sklepě vyburcují hlasité nebo výbušné zvuky z [[#Kvasné kádě|Kvasné kádě]], připojí se jehličnatí zhoubci k boji po dvou kolech a druid po třech kolech. Pokud se bojuje jinde ve vinařství, zvyšte počet kol u každého o jedno.
 
-The ivy covering the wine racks is a particularly nasty type of carnivorous razorvine called **poison razorvine.** Each mass of poison razorvine has AC 11, 25 hit points, and immunity to bludgeoning, piercing, and psychic damage. 
+Břečťan pokrývající stojany na víno je obzvlášť ošklivý druh masožravého břitvového šlahounu zvaného jedovatý břitvošlahoun (**poison razorvine**). Každý chumáč jedovatého břitvošlahounu má AC 11, 25 HP a imunitu vůči zranění typu bludgeoning, piercing a psychic.
 
-When a creature other than a blight, a **druid naturalist**, or a **druid assailant** moves within 5 feet of a tangle or starts its turn there, the razorvine lashes out like a whip toward it. That creature must succeed on a DC 10 Dexterity saving throw or take 5 (1d10) slashing damage from the razorvine’s bladelike thorns. On a failure, that creature is also grappled (escape DC 10) and must succeed on a DC 10 Constitution saving throw or be poisoned until the start of its next turn.
-## J3c. Ascending the Stairs
-The three exits from the cellar are largely as described in <span class="citation">W11. Spiral Staircase (p. 177)</span>, <span class="citation">W12. Ramp (p. 177)</span>, <span class="citation">W13. Back Staircase (p. 178)</span>, and <span class="citation">W10. Glassblower’s Workshop (p.177)</span>. However, the ramp is completely filled with poison razorvine from the cellar to the top floor, obstructing the players’ ascent by that route.
+Když se tvor, který není zhoubce, druidský přírodovědec (**druid naturalist**) ani druidský útočník (**druid assailant**), přiblíží do 5 stop od chumáče nebo tam začne svůj tah, břitvošlahoun po něm šlehne jako bič. Tvor musí uspět v záchranném hodu na Dexterity se DC 10, jinak utrží 5 (1d10) sečného (slashing) zranění od čepelovitých trnů břitvošlahounu. Při neúspěchu je tvor zároveň uchvácen (grappled; únik DC 10) a musí uspět v záchranném hodu na Constitution se DC 10, jinak je do začátku svého dalšího tahu otráven (poisoned).
+## J3c. Vzhůru po schodech
+Tři východy ze sklepa do značné míry odpovídají popisu v <span class="citation">W11. Spiral Staircase (p. 177)</span>, <span class="citation">W12. Ramp (p. 177)</span>, <span class="citation">W13. Back Staircase (p. 178)</span> a <span class="citation">W10. Glassblower’s Workshop (p.177)</span>. Rampa je však od sklepa až po nejvyšší patro zcela zarostlá jedovatým břitvošlahounem, takže tudy hráči nahoru nevystoupají.
 
-As the players climb the spiral staircase or back staircase toward the first floor, read:
+Když hráči stoupají po točitém nebo zadním schodišti k prvnímu patru, přečtěte:
 
 <div class="description">
-<p>The air grows steadily warmer as you approach the upper floors, your boots treading softly across the soft, supple bed of black roots that cascade across the stairs.</p>
-<p>As you approach the first landing, the silence is pierced by a haunting, desperate scream, which is followed soon after by the rustling of many feathers.</p>
+<p>Jak se blížíte k horním patrům, vzduch se postupně otepluje a vaše boty tiše našlapují po měkkém, poddajném koberci černých kořenů, které se valí přes schody.</p>
+<p>Když se blížíte k prvnímu odpočívadlu, ticho protne strašidelný, zoufalý výkřik, po němž brzy následuje šustění mnoha per.</p>
 </div>
-
-### Fermentation Vats
+### Kvasné kádě
 <span class="citation"><em>This scene takes place in Chapter 12, Area W9.</em></span>
 
-The scream originates from the large room containing the winery’s fermentation vats, which is largely as described in <span class="citation">W9. Fermentation Vats (p. 176)</span>. However, remove the final two sentences of the room’s description. If the players have entered the room from <span class="citation">W10. Glassblower's Workshop (p. 177)</span> or have entered the chamber fully, also read the following text:
+Výkřik se ozývá z velké místnosti s kvasnými káděmi vinařství, která do značné míry odpovídá popisu v <span class="citation">W9. Fermentation Vats (p. 176)</span>. Poslední dvě věty popisu místnosti však vynechte. Pokud hráči vstoupili do místnosti z <span class="citation">W10. Glassblower's Workshop (p. 177)</span> nebo vešli celí dovnitř, přečtěte také následující text:
 
 <div class="description">
-<p>Beneath the sloping roof stretch thick rafters, from which hang six wooden cages arranged side-by-side. Each cage holds more than a dozen ravens crammed together, with little space to move or breathe. Most of the ravens bear cuts or broken beaks, and all of them are missing feathers.</p>
-<p>A wild-looking female figure stands on the western balcony beside the leftmost cage, surrounded by a swarm of nearly two-dozen small, twiglike creatures. She holds a long, gnarled wand in her hand, and wears a gown made of animal skins and a headdress with goat horns. </p>
-<p>Two twiglike creatures, slightly larger than the others, cling to the sides of the wooden cage before her, their sharp, pointed arms pushed through the bars of the cage. The woman nods, and the creatures pierce the sides of a battered-looking raven, which screams again in helpless agony.</p>
+<p>Pod šikmou střechou se táhnou mohutné trámy a z nich visí šest dřevěných klecí seřazených vedle sebe. V každé kleci se tísní přes tucet havranů, kteří nemají skoro kam se hnout ani se nadechnout. Většina havranů má řezné rány nebo zlámané zobáky a všem chybí peří.</p>
+<p>Na západním balkoně vedle klece úplně vlevo stojí divoce vyhlížející ženská postava, obklopená rojem téměř dvou tuctů malých stvoření podobných větvičkám. V ruce drží dlouhou, pokroucenou hůlku a má na sobě šat ze zvířecích kůží a čelenku s kozími rohy.</p>
+<p>Dvě stvoření podobná větvičkám, o něco větší než ostatní, se drží po stranách dřevěné klece před ní a ostré, špičaté paže strkají mezi mříže. Žena kývne a stvoření probodnou boky zbědovaného havrana, který znovu vykřikne v bezmocné agónii.</p>
 </div>
 
-The woman is a **druid naturalist** (see statistics below) and is surrounded by two **swarms of twig blights**. The two creatures clinging to the cage are **elder twig blights**. 
+Žena je druidská přírodovědkyně (**druid naturalist**; statistiky viz níže) a obklopují ji dva roje větvičkových zhoubců (**swarms of twig blights**). Dvě stvoření, která se drží klece, jsou starší větvičkoví zhoubci (**elder twig blights**).
 
-> [!abstract]+ **The Raven's Interrogation**
-> If the players linger and remain undetected, they can hear the druid (using the spell *speak with animals*) speak to the battered raven with a series of caws and clicks. A player who uses similar magic to understand the speech of ravens hears the following conversation:
+> [!abstract]+ **Výslech havrana**
+> Pokud hráči otálejí a zůstanou neodhaleni, uslyší, jak druidka (pomocí kouzla *speak with animals*) mluví se zbědovaným havranem řadou krákání a cvakání. Hráč, který pomocí podobné magie rozumí řeči havranů, uslyší následující rozhovor:
 > 
 > <hr>
 > 
-> The druid hisses. “Where is it?" she asks. “Give it up, and your torment will end."
+> Druidka zasyčí. „Kde to je?“ ptá se. „Vzdej se toho a tvá muka skončí.“
 > 
-> The raven cackles weakly, blood dripping from the corkscrew wounds upon its breast. “The thing you seek was lost long ago. You will never find it."
+> Havran slabě zakráká a z vývrtkovitých ran na hrudi mu kape krev. „To, co hledáš, se ztratilo už dávno. Nikdy to nenajdeš.“
 > 
-> The druid snarls, baring her teeth. “Liar!" She turns to the twig creatures and speaks two words in a strange language. The creatures incline their heads, then turn to pierce the raven’s sides again.
+> Druidka zavrčí a vycení zuby. „Lháři!“ Otočí se ke stvořením z větviček a pronese dvě slova v podivném jazyce. Stvoření skloní hlavy a znovu se obrátí, aby havranovi probodla boky.
 > <hr>
 > 
-> A player who speaks Druidic recognizes the druids’ words as: “Hurt him."
+> Hráč, který mluví druidštinou (Druidic), rozpozná druidčina slova jako: „Ubližte mu.“
 
-If the players reveal themselves without attacking, the druid tilts her head and asks, in a sing-song voice, how such “little mice" found their way into the winery. The druid, who is named Silvia, knows the following information, which she can share as a means of luring the players into a false sense of security:
+Pokud se hráči odhalí, aniž by zaútočili, druidka nakloní hlavu a zpěvavým hlasem se zeptá, jak se takové „myšky“ dostaly do vinařství. Druidka, která se jmenuje Silvia, ví následující a může to prozradit, aby hráče ukolébala falešným pocitem bezpečí:
 
-* The Forest Folk have come from Yester Hill to the south, which lies beside the Whispering Wall. (The Whispering Wall is largely as described in **Y5. Wall of Fog**, except that the ancient god that created the Wall was female.)
-* The Forest Folk have a long enmity with the ravens of the winery and their masters, the “feathered ones," whose ancient service to “the Shadowed Lord" (the Forest Folk’s name for Strahd) inspired the name and sigil of Castle Ravenloft. (This is a lie. A player who makes a DC 10 Wisdom (Insight) check identifies that Silvia sounds slightly too eager as she says it, her voice slightly too smooth.)
-* The “feathered ones" have powerful magic here—magic that the Forest Folk seek to restore to its rightful place. (Silvia is referring to the Keepers of the Feather and the third enchanted gem, which she describes as “the seed of the pine tree, wrought in crystal stone.")
-* Silvia is torturing the raven because it is a servant of the “feathered ones," and therefore knows where the magic seed may be kept. (Silvia is mistaken.)
-* The Forest Folk have allied with the “witch of the swamp," whose flying servants are called “strix." (Silvia is referring to Baba Lysaga.) The witch despises ravens and resents the authority of Castle Ravenloft. (This is a lie. A player who makes a DC 10 Wisdom (Insight) check identifies that Silvia hesitates slightly in delivering her words.)
+* Lesní lid přišel z Yesterského vrchu na jihu, který leží u Šeptající zdi. (Šeptající zeď do značné míry odpovídá popisu v **Y5. Wall of Fog**, jen prastarým božstvem, které zeď stvořilo, byla bohyně.)
+* Lesní lid je odedávna znepřátelen s havrany z vinařství a jejich pány, „opeřenci“, jejichž prastará služba „Pánovi stínů“ (tak Lesní lid nazývá Strahda) dala hradu Ravenloft jméno i znak. (Je to lež. Hráč, který uspěje v ověření Wisdom (Insight) se DC 10, pozná, že to Silvia říká až příliš horlivě a hlas má až příliš úlisný.)
+* „Opeřenci“ tu mají mocnou magii – magii, kterou chce Lesní lid navrátit na její právoplatné místo. (Silvia mluví o Strážcích pera a o třetím očarovaném drahokamu, který popisuje jako „semeno borovice, zrozené v křišťálovém kameni“.)
+* Silvia havrana mučí, protože je služebníkem „opeřenců“, a tudíž ví, kde by mohlo být kouzelné semeno uloženo. (Silvia se mýlí.)
+* Lesní lid se spojil s „čarodějnicí z bažin“, jejíž létající služebníci se nazývají „strigy“. (Silvia mluví o Babě Lysaze.) Čarodějnice havrany nenávidí a nesnáší moc hradu Ravenloft. (Je to lež. Hráč, který uspěje v ověření Wisdom (Insight) se DC 10, pozná, že Silvia při vyslovení těch slov nepatrně zaváhá.)
 
-Silvia invites the players to approach the caged raven and see “the mark of the night" upon its chest, which brands all of Strahd’s servants. (This is a trick meant to lure the players into the open. A player who makes a DC 10 Wisdom (Insight) check notices Silvia’s eyes dart toward the twig blights around her as she asks the players to approach.)
+Silvia vyzve hráče, aby přistoupili k havranovi v kleci a podívali se na „znamení noci“ na jeho hrudi, které cejchuje všechny Strahdovy služebníky. (Je to lest, jejímž cílem je vylákat hráče na otevřené prostranství. Hráč, který uspěje v ověření Wisdom (Insight) se DC 10, si všimne, že Silvia, zatímco hráče vyzývá, aby přistoupili, střelí očima po větvičkových zhoubcích kolem sebe.)
 
-> [!info]+ **The Broken Spigot**
-> The fermentation vat to the immediate west of the central staircase of <span class="citation">W9. Fermentation Vats (p. 176)</span> has a damaged spigot. The first time that a player approaches it, read:
-> 
-> <hr>
-> 
-> The wood of this vat bulges out around a badly dented spigot, the splintered wood straining against the weight of the contents within. A thin line of red, sweet-smelling wine leaks from a small gap where the spigot meets the wood, pooling on the ground two feet below.
+> [!info]+ **Rozbitý kohout**
+> Kvasná káď bezprostředně západně od centrálního schodiště v <span class="citation">W9. Fermentation Vats (p. 176)</span> má poškozený kohout. Když se k ní hráč poprvé přiblíží, přečtěte:
 > 
 > <hr>
 > 
-> In its current state, the damaged spigot has AC 10, 5 hit points, and immunity to piercing, poison, and psychic damage. If the spigot is reduced to 0 hit points, or if a creature successfully makes a DC 10 Strength check to break the spigot while within 5 feet, the vat bursts and releases a wave of wine that crashes down upon all creatures in a 15-foot cube to the north of the vat.
+> Dřevo této kádě se vyboulí kolem ošklivě promáčknutého kohoutu a roztříštěné dřevo se napíná pod tíhou obsahu. Malou škvírou v místě, kde se kohout stýká se dřevem, prosakuje tenký pramínek rudého, sladce vonícího vína a tvoří kaluž na zemi dvě stopy pod ním.
 > 
-> When this happens, each Small or smaller creature within that area must make a DC 15 Strength saving throw. On a failure, that creature is pushed 15 feet away from the vat, is knocked prone, and takes 7 (2d6) bludgeoning damage. (A swarm of Small or smaller creatures, such as the swarm of twig blights, must also make the saving throw.) On a successful save, the creature takes half as much damage, and is not pushed or knocked prone.
+> <hr>
 > 
-> Once the vat bursts, all ground within a 20-foot radius becomes difficult terrain until the wine is cleaned up.
-
-Silvia attacks if the players approach the cage, refuse her invitation, or attack her first. 
-
-* On her first turn in combat, she uses her ***speed of the adder*** feature to cast the *entangle* spell as a bonus action, followed by a cantrip as her action. 
-* On her second turn, she casts *thunderwave* at 2nd level as a bonus action.
-
-> [!info]+ **Alerting the Druids**
-> If a druid or player casts a spell—such as *thunderwave*, *shatter*, or *fireball*—loud and explosive enough to alert the other druids in the winery, druids and blights from the upper floors join the battle as shown below:
+> V současném stavu má poškozený kohout AC 10, 5 HP a imunitu vůči zranění typu piercing, poison a psychic. Pokud kohout klesne na 0 HP nebo pokud tvor do 5 stop od něj uspěje v ověření Strength se DC 10, aby kohout vylomil, káď praskne a uvolní vlnu vína, která se zřítí na všechny tvory v 15stopé krychli severně od kádě.
 > 
-> | No. of Rounds Later | Origin | Creatures |
+> Když se tak stane, musí každý tvor velikosti Small či menší v této oblasti provést záchranný hod na Strength se DC 15. Při neúspěchu je odhozen 15 stop od kádě, sražen k zemi (prone) a utrží 7 (2d6) drtivého (bludgeoning) zranění. (Záchranný hod musí provést i roj tvorů velikosti Small či menší, například roj větvičkových zhoubců.) Při úspěchu utrží tvor poloviční zranění a není odhozen ani sražen k zemi.
+> 
+> Jakmile káď praskne, veškerá zem v okruhu 20 stop se stává těžkým terénem (difficult terrain), dokud víno nikdo neuklidí.
+
+Silvia zaútočí, pokud se hráči přiblíží ke kleci, odmítnou její pozvání nebo na ni zaútočí jako první.
+
+* Ve svém prvním tahu v boji použije schopnost ***speed of the adder***, aby jako bonusovou akci seslala kouzlo *entangle*, a jako akci sešle trik.
+* Ve svém druhém tahu jako bonusovou akci sešle *thunderwave* na 2. úrovni.
+
+> [!info]+ **Vyburcování druidů**
+> Pokud druid nebo hráč sešle kouzlo – například *thunderwave*, *shatter* nebo *fireball* –, které je dost hlasité a výbušné, aby upozornilo ostatní druidy ve vinařství, připojí se k boji druidové a zhoubci z horních pater podle následující tabulky:
+> 
+> | Počet kol poté | Odkud | Tvorové |
 > | :---:|:----:|:---|
-> |1| - |None|
-> |2| [[#Printing Press]]|1 **druid assailant** and three **vine blights**|
+> |1| - |Nikdo|
+> |2| [[#Tiskařský lis\|Tiskařský lis]]|1 **druid assailant** a tři **vine blights**|
 > 
-> Neither the blights in [[#Loading Dock]] nor Lorghoth and the **greater strix** in [[#Loading Winch]] leave their positions if the alarm is raised, preferring instead to tend the **young Gulthias Tree** growing there.
+> Pokud je vyhlášen poplach, zhoubci v [[#Nakládací rampa|Nakládací rampa]] ani Lorghoth a velká striga (**greater strix**) v [[#Nakládací rumpál|Nakládací rumpál]] neopustí svá stanoviště; raději pečují o mladý strom Gulthias (**young Gulthias Tree**), který tam roste.
 
-> [!combat]- **Combat - The Vat Room**  
-> **Combat Level**: Bruising
-> **Expected Character Level**: 5
-> **Allies:** Ireena Kolyana (CR 2)
-> **Expected HP Consumption:** 33%
+> [!combat]- **Boj – Síň s káděmi**  
+> **Úroveň boje**: Bolestivý
+> **Očekávaná úroveň postav**: 5
+> **Spojenci:** Ireena Kolyana (CR 2)
+> **Očekávaná ztráta HP:** 33 %
 > 
-> ### **Enemies:**
+> ### **Nepřátelé:**
 > 
-> | |3 Players | 4 Players | 5 Players | 6 Players |
+> | |3 hráči | 4 hráči | 5 hráčů | 6 hráčů |
 > |-|-|-|-|-|
 > | Druid Assailant | 1 | 1 | 1 | 1 |
 > | Druid Naturalist | 1 | 1 | 1 | 1 |
@@ -609,11 +608,11 @@ Silvia attacks if the players approach the cage, refuse her invitation, or attac
 > | Twig Blight | 2 | 0 | 0 | 0 |
 > | Vine Blight | 3 | 3 | 3 | 3 |
 
-Because she has previously cast *speak with animals*, Silvia has only three 1st-level spell slots remaining at the beginning of combat.
+Protože Silvia již dříve seslala *speak with animals*, zbývají jí na začátku boje jen tři pozice kouzel 1. úrovně.
 
-As she dies, Silvia laughs and warns the players, “You may defeat us—but Wintersplinter is coming."        
+Když umírá, Silvia se zasměje a varuje hráče: „Možná nás porazíte – ale Zimotřísk se blíží.“
 
-If the players free the ravens from their cages, they join the party as a **swarm of ravens**, led by the raven that Silvia was torturing.
+Pokud hráči havrany osvobodí z klecí, připojí se k družině jako roj havranů (**swarm of ravens**), v jehož čele stojí havran, kterého Silvia mučila.
 
 <div class="statblock">
     <h2>Druid Naturalist</h2>
@@ -767,497 +766,496 @@ If the players free the ravens from their cages, they join the party as a **swar
     <p><strong><em>Claws.</em></strong> <em>Melee Weapon Attack:</em> +3 to hit, reach 0 ft., up to two targets in the swarm's space. <em>Hit:</em> 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has half of its hit points or fewer.</p>
 </div>
 
-## J3d. The First Floor
-The first floor of the winery is largely as in <span class="citation">W2. Loading Dock (p. 176)</span>, <span class="citation">W3. Barrel Maker’s Workshop (p. 176)</span>, <span class="citation">W4. Barrel Storage (p. 176)</span>, <span class="citation">W5. Veranda (p. 176)</span>, and <span class="citation">W8. Storage (p. 176)</span>. The two Martikovs' two draft horses have been entrapped in <span class="citation">W1. Stables (p. 176)</span> by thick rows of poison razorvine (see above) that cover the doors.
-### Loading Dock
+## J3d. První patro
+První patro vinařství do značné míry odpovídá popisu v <span class="citation">W2. Loading Dock (p. 176)</span>, <span class="citation">W3. Barrel Maker’s Workshop (p. 176)</span>, <span class="citation">W4. Barrel Storage (p. 176)</span>, <span class="citation">W5. Veranda (p. 176)</span> a <span class="citation">W8. Storage (p. 176)</span>. Dva tažné koně Martikovových zůstali uvězněni v <span class="citation">W1. Stables (p. 176)</span> za hustými řadami jedovatého břitvošlahounu (viz výše), který pokrývá dveře.
+### Nakládací rampa
 <span class="citation"><em>This scene takes place in Chapter 12, Area W2.</em></span>
 
-Revise the description of this area to read as follows:
+Popis této oblasti upravte takto:
 
 <div class="description">
-<p>A raised wooden walkway runs along the west, south, and east wall of this overgrown loading dock, which is choked with roots, dead shrubs, and tangles of hanging vines. A wide door to the south stands closed, its wooden width covered in mosses and assorted fungi. Three wooden barrels lie haphazardly discarded around the room, partially overgrown with strands of green ivy with red spots and sharp thorns.</p>
-<p>At the center of the room, between the wooden walkways, stands a broken wagon with a gnarled, misshapen tree growing through a hole at its center. Blood oozes like sap from its twisted trunk, which rises through and fills a large hole in the ceiling.</p>
+<p>Podél západní, jižní a východní stěny této zarostlé nakládací rampy vede vyvýšená dřevěná lávka; celý prostor je zadušený kořeny, uschlými keři a změtí visících šlahounů. Široké dveře na jihu jsou zavřené a jejich dřevo pokrývá mech a nejrůznější houby. Po místnosti se nahodile válejí tři dřevěné sudy, částečně zarostlé prameny zeleného břečťanu s rudými skvrnami a ostrými trny.</p>
+<p>Uprostřed místnosti, mezi dřevěnými lávkami, stojí rozbitý vůz a otvorem v jeho středu prorůstá pokroucený, znetvořený strom. Z jeho zkrouceného kmene, který stoupá vzhůru a vyplňuje velkou díru ve stropě, prosakuje jako míza krev.</p>
 </div>
 
-The tree is a **young Gulthias tree**, and has AC 13, 100 hit points, and immunity to bludgeoning, piercing, and psychic damage. The druids planted it here to prevent the Martikovs from returning to the winery, and hope to nurture it until it can produce blights of its own.
+Strom je mladý strom Gulthias (**young Gulthias tree**) a má AC 13, 100 HP a imunitu vůči zranění typu bludgeoning, piercing a psychic. Druidové ho tu zasadili, aby zabránili Martikovovým v návratu do vinařství, a doufají, že ho vypěstují, dokud nezačne plodit vlastní zhoubce.
 
-Five **vine blights** lurk atop the wooden walkway on the western side, disguised as tangles of vines through their ***false appearance*** feature. Five **twig blights** are similarly disguised as dead shrubs on the ground around the base of the Gulthias tree. The blights attack anyone who harms the Gulthias tree, which has no actions or effective attacks of its own.
+Na dřevěné lávce na západní straně číhá pět popínavých zhoubců (**vine blights**), kteří se díky své schopnosti ***false appearance*** vydávají za změť šlahounů. Pět větvičkových zhoubců (**twig blights**) se podobně vydává za uschlé keře na zemi kolem paty stromu Gulthias. Zhoubci zaútočí na každého, kdo stromu Gulthias ublíží; strom sám nemá žádné akce ani účinné útoky.
 
-> [!combat]- **Combat - The Loading Dock**  
-> **Combat Level**: Bruising
-> **Expected Character Level**: 5
-> **Allies:** Swarm of Ravens (CR 1/4), Ireena Kolyana (CR 2)
-> **Expected HP Consumption:** 22%
+> [!combat]- **Boj – Nakládací rampa**  
+> **Úroveň boje**: Bolestivý
+> **Očekávaná úroveň postav**: 5
+> **Spojenci:** Swarm of Ravens (CR 1/4), Ireena Kolyana (CR 2)
+> **Očekávaná ztráta HP:** 22 %
 > 
-> ### **Enemies:**
+> ### **Nepřátelé:**
 > 
-> | |3 Players | 4 Players | 5 Players | 6 Players |
+> | |3 hráči | 4 hráči | 5 hráčů | 6 hráčů |
 > |-|-|-|-|-|
 > | Twig Blight | 5 | 5 | 5 | 6 |
 > | Vine Blight | 3 | 4 | 5 | 6 |
 
-The three barrels, which stand in the northeast, southeast, and northwest corners of the room, are largely as described in <span class="citation">W2. Loading Dock (p. 176)</span>, but are covered with strands of **poison razorvine.** 
+Tři sudy, které stojí v severovýchodním, jihovýchodním a severozápadním rohu místnosti, do značné míry odpovídají popisu v <span class="citation">W2. Loading Dock (p. 176)</span>, ale jsou porostlé prameny jedovatého břitvošlahounu (**poison razorvine**).
 
-When a creature other than a blight, a **druid naturalist**, or a **druid assailant** moves within 5 feet of a tangle or starts its turn there, the razorvine lashes out like a whip toward it. That creature must succeed on a DC 10 Dexterity saving throw or take 5 (1d10) slashing damage from the razorvine’s bladelike thorns. On a failure, that creature is also grappled (escape DC 10) and must succeed on a DC 10 Constitution saving throw or be poisoned until the start of its next turn.
-### Barrel Storage
+Když se tvor, který není zhoubce, druidský přírodovědec (**druid naturalist**) ani druidský útočník (**druid assailant**), přiblíží do 5 stop od chumáče nebo tam začne svůj tah, břitvošlahoun po něm šlehne jako bič. Tvor musí uspět v záchranném hodu na Dexterity se DC 10, jinak utrží 5 (1d10) sečného (slashing) zranění od čepelovitých trnů břitvošlahounu. Při neúspěchu je tvor zároveň uchvácen (grappled; únik DC 10) a musí uspět v záchranném hodu na Constitution se DC 10, jinak je do začátku svého dalšího tahu otráven (poisoned).
+### Sklad sudů
 <span class="citation"><em>This scene takes place in Chapter 12, Area W4.</em></span>
 
-The barrel in the northwest corner is visibly older than the others, with darker wood, a rusted metal band, and cracks and chips across its surface. It contains three *potions of greater healing*, a packet of *dust of disappearance*, and a pouch containing 75 gp.
-## J3e. The Second Floor
-The second floor of the winery is largely as described in <span class="citation">W9. Fermentation Vats (p. 176)</span>, <span class="citation">W16. Loading Winch (p. 178)</span>, <span class="citation">W17. Master Bedroom (p. 178)</span>, <span class="citation">W18. Kitchen and Dining Room (p. 179)</span>, <span class="citation">W19. Sleeping Quarters (p. 179)</span>, and <span class="citation">W20, Printing Press (p. 179)</span>. 
+Sud v severozápadním rohu je viditelně starší než ostatní – má tmavší dřevo, rezavou kovovou obruč a jeho povrch je popraskaný a otlučený. Obsahuje tři *potions of greater healing*, balíček *dust of disappearance* a měšec se 75 gp.
+## J3e. Druhé patro
+Druhé patro vinařství do značné míry odpovídá popisu v <span class="citation">W9. Fermentation Vats (p. 176)</span>, <span class="citation">W16. Loading Winch (p. 178)</span>, <span class="citation">W17. Master Bedroom (p. 178)</span>, <span class="citation">W18. Kitchen and Dining Room (p. 179)</span>, <span class="citation">W19. Sleeping Quarters (p. 179)</span> a <span class="citation">W20, Printing Press (p. 179)</span>.
 
-However, the door leading from the balcony of <span class="citation">W9. Fermentation Vats (p. 176)</span> to <span class="citation">W16. Loading Winch (p. 178)</span> is covered in **poison razorvine** and obstructed from the far side, requiring a successful DC 20 Strength check to open.
+Dveře vedoucí z balkonu v <span class="citation">W9. Fermentation Vats (p. 176)</span> do <span class="citation">W16. Loading Winch (p. 178)</span> však pokrývá jedovatý břitvošlahoun (**poison razorvine**) a z druhé strany jsou zatarasené, takže k jejich otevření je potřeba úspěšné ověření Strength se DC 20.
 
-When the players first reach the second floor, they can hear the sound of clattering objects originating from <span class="citation">W20. Printing Press (p. 179)</span>.
-### Printing Press
+Když hráči poprvé dorazí do druhého patra, uslyší z <span class="citation">W20. Printing Press (p. 179)</span> zvuk řinčících předmětů.
+### Tiskařský lis
 <span class="citation"><em>This scene takes place in Chapter 12, Area W20.</em></span>
 
-The room containing the Martikovs’ printing press is largely as described in <span class="citation">W20. Printing Press (p. 179)</span>. However, the druid is a **druid assailant**, and is accompanied by three **vine blights** rather than two. The druid and blights attack the players on sight.
+Místnost s tiskařským lisem Martikovových do značné míry odpovídá popisu v <span class="citation">W20. Printing Press (p. 179)</span>. Druid je však druidský útočník (**druid assailant**) a nedoprovázejí ho dva, ale tři popínaví zhoubci (**vine blights**). Druid i zhoubci na hráče zaútočí, jakmile je spatří.
 
-> [!combat]- **Combat - The Printing Press**  
-> **Combat Level**: Mild
-> **Expected Character Level**: 5
-> **Allies:** Swarm of Ravens (CR 1/4), Ireena Kolyana (CR 2)
-> **Expected HP Consumption:** 12%
+> [!combat]- **Boj – Tiskařský lis**  
+> **Úroveň boje**: Mírný
+> **Očekávaná úroveň postav**: 5
+> **Spojenci:** Swarm of Ravens (CR 1/4), Ireena Kolyana (CR 2)
+> **Očekávaná ztráta HP:** 12 %
 > 
-> ### **Enemies:**
+> ### **Nepřátelé:**
 > 
-> | |3 Players | 4 Players | 5 Players | 6 Players |
+> | |3 hráči | 4 hráči | 5 hráčů | 6 hráčů |
 > |-|-|-|-|-|
 > | Druid Assailant | 1 | 1 | 1 | 1 |
 > | Vine Blight | 1 | 2 | 3 | 4 |
 
-### Loading Winch
+### Nakládací rumpál
 <span class="citation"><em>This scene takes place in Chapter 12, Area W16.</em></span>
 
-This area is largely as described in <span class="citation">W16. Loading Winch (p. 178)</span>. However, revise the descriptive text to read as follows:
+Tato oblast do značné míry odpovídá popisu v <span class="citation">W16. Loading Winch (p. 178)</span>. Popisný text však upravte takto:
 
 <div class="description">
-<p>The roof over this room has collapsed, scattering mounds of debris and revealing a dark, stormy sky overhead that flashes with lightning. Heavy rain falls down onto the room’s wooden floor, which has a ten-foot-square hole cut into the middle of it and a wooden winch mounted upon the north side. </p>
-<p>A dead, misshapen tree grows through the hole at the center of the room, its gnarled branches forming a skeletal canopy overhead where the roof should be. Blood oozes from its trunk like sap, and two man-sized birds crafted of wood, animal skins, and burlap perch among its branches.</p>
-<p>Perched atop the winch is a man with wild hair, rotted teeth, and skin painted blood-red. He carries a gnarled staff made from a black branch, with blood oozing from cracks along its length and a dark trail of smoke wisping from the broader end. </p>
-<p>As you watch, the man waves the staff toward the dead tree, which groans, bark snapping and splintering, as its branches rustle and its trunk grows slightly taller.</p>
+<p>Střecha nad touto místností se zřítila, rozházela všude hromady trosek a odhalila temnou, bouřlivou oblohu, na níž šlehají blesky. Na dřevěnou podlahu místnosti dopadá hustý déšť; uprostřed podlahy je vyříznutý čtvercový otvor o straně deset stop a na severní straně je upevněn dřevěný rumpál.</p>
+<p>Otvorem uprostřed místnosti prorůstá mrtvý, znetvořený strom, jehož pokroucené větve tvoří nad hlavou kostlivou klenbu tam, kde by měla být střecha. Z jeho kmene prosakuje jako míza krev a mezi větvemi hřadují dva ptáci velcí jako člověk, vyrobení ze dřeva, zvířecích kůží a pytloviny.</p>
+<p>Na rumpálu se krčí muž s rozcuchanými vlasy, shnilými zuby a kůží natřenou krvavou červení. Nese pokroucenou hůl z černé větve; z prasklin po celé její délce prosakuje krev a z širšího konce se vine tmavý pramínek kouře.</p>
+<p>Zatímco přihlížíte, muž mávne holí směrem k mrtvému stromu, který zasténá – kůra praská a tříští se, větve šustí a kmen se o kousek vytáhne do výšky.</p>
 </div>
 
-The two artificial birds are **greater strixes.** The man is a **druid naturalist** with 136 hit points named Lorghoth the Decayer. However, instead of the ***gift of the Gulthias*** feature, Lorghoth gains the following additional features:
+Dva umělí ptáci jsou velké strigy (**greater strixes**). Muž je druidský přírodovědec (**druid naturalist**) se 136 HP jménem Lorghoth Rozkladač. Místo schopnosti ***gift of the Gulthias*** však Lorghoth získává následující další schopnosti:
 
-* ***Indomitable.*** <strong>Trigger:</strong> A hostile creature ends its turn. <strong>Effect:</strong> Lorghoth can repeat the saving throw against one effect or condition currently affecting him. (This reaction has no effect if the effect or condition didn’t originally require it to fail a saving throw.).
-* ***Master of Blights.*** As an action, Lorghoth can use the *Gulthias staff* that he carries to summon and command any blights within a 1-mile radius.
-* ***Guardian of the Gulthias (1/day).*** In response to being targeted by an attack or spell, Lorghoth can use his reaction to magically polymorph into a **shambling mound** for 1 minute, summoning the roots and vines around him to encase his humanoid form. Any equipment he is wearing or carrying is absorbed or borne by the new form (Lorghoth’s choice). In his new form, Lorghoth retains his game statistics (including his hit points), spellcasting abilities, and ability to speak, but his AC, movement modes, Strength, Dexterity, resistances, immunities, and special senses are replaced by those of his new form, and he gains any statistics and capabilities that his new form has but that he lacks. While in this form, Lorghoth also gains the following feature: ***Mulchform.*** Lorghoth can move through a space as narrow as 5 feet wide without squeezing.
+* ***Indomitable.*** <strong>Spouštěč:</strong> Nepřátelský tvor ukončí svůj tah. <strong>Účinek:</strong> Lorghoth může zopakovat záchranný hod proti jednomu účinku nebo stavu, který na něj právě působí. (Tato reakce nemá žádný účinek, pokud účinek nebo stav původně nevyžadoval neúspěšný záchranný hod.)
+* ***Master of Blights.*** Lorghoth může akcí použít *hůl Gulthias*, kterou nosí, k přivolání a ovládání všech zhoubců v okruhu 1 míle.
+* ***Guardian of the Gulthias (1/den).*** V reakci na to, že se stane cílem útoku nebo kouzla, se Lorghoth může svou reakcí na 1 minutu magicky proměnit v **shambling mound** – přivolá kořeny a šlahouny kolem sebe, aby obalily jeho humanoidní podobu. Veškeré vybavení, které má na sobě nebo nese, nová podoba pohltí nebo ponese (podle Lorghothovy volby). V nové podobě si Lorghoth ponechává své herní statistiky (včetně HP), sesílání kouzel a schopnost mluvit, ale jeho AC, způsoby pohybu, Strength, Dexterity, odolnosti, imunity a zvláštní smysly nahradí ty, které má nová podoba, a získá všechny statistiky a schopnosti nové podoby, které sám nemá. V této podobě Lorghoth získává také následující schopnost: ***Mulchform.*** Lorghoth se může protáhnout prostorem širokým jen 5 stop, aniž by se musel mačkat (squeezing).
 
-The *Gulthias staff* is largely as described in <span class="citation">Gulthias Staff (p. 221)</span>. However, the staff’s dying wail can be heard in a 1-mile radius, rather than a 300-foot radius. Breaking the staff kills both the blights and the cutting of the Gulthias tree, which rapidly rots into a dark, grayish-black sludge.
+*Hůl Gulthias* do značné míry odpovídá popisu v <span class="citation">Gulthias Staff (p. 221)</span>. Umírající nářek hole je však slyšet v okruhu 1 míle, nikoli 300 stop. Zlomení hole zahubí zhoubce i řízek stromu Gulthias, který rychle shnije v tmavý, šedočerný kal.
 
-> [!info]+ **Strix Statistics**
-> A **greater strix** uses the statistics of a **manticore**, but is Medium and has vulnerability to fire damage. Instead of actual tail spikes, the greater strix’s **_tail spikes_** attack releases a volley of dozens of tiny silver barbs from its wings.
+> [!info]+ **Statistiky strig**
+> Velká striga (**greater strix**) používá statistiky **manticore**, ale má velikost Medium a je zranitelná vůči zranění ohněm (fire). Místo skutečných ocasních ostnů vypustí útok velké strigy **_tail spikes_** z jejích křídel salvu desítek drobných stříbrných ostnů.
 > 
-> Should you adjust this encounter to include one or more **swarms of lesser strix** (see below), each swarm uses the statistics of a **swarm of ravens**.
+> Pokud toto střetnutí upravíte tak, aby zahrnovalo jeden či více rojů menších strig (**swarms of lesser strix**; viz níže), použije každý roj statistiky **swarm of ravens**.
 
-Lorghoth greets the players with maddened cackling upon their arrival, inviting them to “revel in the glory of the spawn of the Gulthias tree" and asking if they have come to “honor the might of the Shadowed Lord."
+Lorghoth hráče při jejich příchodu přivítá šíleným chechtotem, vyzve je, ať se „kochají slávou potomstva stromu Gulthias“, a zeptá se, zda přišli „vzdát hold moci Pána stínů“.
 
-If the players speak with him, Lorghoth is glad to share the following information:
-* The Forest Folk have come from Yester Hill to the south, which lies beside the Whispering Wall. (The Whispering Wall is largely as described in **Y5. Wall of Fog**, except that the ancient god that created the Wall was female.)
-* The Forest Folk worship Strahd von Zarovich as a god, whom they call “the Shadowed Lord." The ravens of the winery and their masters, whom the Forest Folk call “the feathered ones," are old enemies of Strahd and his servants.
-* The Forest Folk have come to “claim what is theirs"—ancient magic that the “feathered ones" stole from the druids’ ancestors long ago. To this end, they have allied with the “witch of the swamp," whose flying servants are called “strix," and whose children call her the “Mother of Darkness." They have also allied with a woman they call the “Child of Blood," whose mastery of magic has given them new power over the Gulthias tree and its spawn. (Lorghoth is referring to Baba Lysaga and Ludmilla Vilisevic, respectively.)
-* The dead tree is a cutting of the Gulthias tree, which grows atop Yester Hill. Soon, nurtured by the *Gulthias staff*, it will grow to rival its parent, and give birth to blights of its own.
-* Tomorrow at dawn, the mighty Wintersplinter will march from Yester Hill and reduce the winery to rubble, turning it into mulch to feed the young Gulthias tree. (Lorghoth won’t say who or what Wintersplinter is, except to cackle “Wintersplinter comes, and all will crumble in his wake!")
+Pokud s ním hráči promluví, Lorghoth jim rád prozradí následující:
+* Lesní lid přišel z Yesterského vrchu na jihu, který leží u Šeptající zdi. (Šeptající zeď do značné míry odpovídá popisu v **Y5. Wall of Fog**, jen prastarým božstvem, které zeď stvořilo, byla bohyně.)
+* Lesní lid uctívá Strahda von Zaroviche jako boha a nazývá ho „Pánem stínů“. Havrani z vinařství a jejich páni, jimž Lesní lid říká „opeřenci“, jsou dávnými nepřáteli Strahda a jeho služebníků.
+* Lesní lid si přišel „vzít, co mu patří“ – prastarou magii, kterou „opeřenci“ kdysi dávno ukradli předkům druidů. Za tím účelem se spojil s „čarodějnicí z bažin“, jejíž létající služebníci se nazývají „strigy“ a jejíž děti jí říkají „Matka temnoty“. Spojil se také se ženou, kterou nazývají „Dítě krve“ a jejíž mistrovství v magii jim dalo novou moc nad stromem Gulthias a jeho potomstvem. (Lorghoth mluví o Babě Lysaze a o Ludmille Vilisevic.)
+* Mrtvý strom je řízek stromu Gulthias, který roste na vrcholu Yesterského vrchu. Brzy, živený *holí Gulthias*, vyroste tak, že se vyrovná svému rodiči, a začne plodit vlastní zhoubce.
+* Zítra za úsvitu vytáhne z Yesterského vrchu mocný Zimotřísk a obrátí vinařství v trosky, z nichž bude mulč, jenž nasytí mladý strom Gulthias. (Lorghoth neprozradí, kdo nebo co Zimotřísk je, jen se zachechtá: „Zimotřísk přichází a vše se v jeho stopách rozpadne v prach!“)
 
-When Lorghoth tires of the players, he thanks them for their presence, promising that their blood shall well-nourish the Gulthias tree. He and the two **greater strix** then attack. 
+Když už Lorghotha hráči omrzí, poděkuje jim za jejich přítomnost a slíbí, že jejich krev strom Gulthias vydatně nasytí. Pak spolu se dvěma velkými strigami (**greater strix**) zaútočí.
 
-> [!combat]- **Combat - The Loading Winch**  
-> **Combat Level**: Bruising
-> **Expected Character Level**: 5
-> **Allies:** Swarm of Ravens (CR 1/4), Ireena Kolyana (CR 2)
-> **Expected HP Consumption:** 21%
+> [!combat]- **Boj – Nakládací rumpál**  
+> **Úroveň boje**: Bolestivý
+> **Očekávaná úroveň postav**: 5
+> **Spojenci:** Swarm of Ravens (CR 1/4), Ireena Kolyana (CR 2)
+> **Očekávaná ztráta HP:** 21 %
 > 
-> ### **Enemies:**
+> ### **Nepřátelé:**
 > 
-> | |3 Players | 4 Players | 5 Players | 6 Players |
+> | |3 hráči | 4 hráči | 5 hráčů | 6 hráčů |
 > |-|-|-|-|-|
 > | Druid Naturalist | 1 | 1 | 1 | 1 |
 > | Greater Strix | 0 | 1 | 2 | 2 |
 > | Swarm of Lesser Strix | 3 | 2 | 0 | 4 |
 >
-> ### **Balancing:**
-> If you have fewer or more than 5 players, modify the encounter in the following ways:
+> ### **Vyvážení:**
+> Pokud máte méně nebo více než 5 hráčů, upravte střetnutí následovně:
 >
-> | Number of Players | Modification |
+> | Počet hráčů | Úprava |
 > |-|-|
-> | 3 | Remove the original two **greater strix**. Add three **swarms of** **lesser strix**. The lesser strix flee when the staff is broken. |
-> | 4 | Reduce the number of **greater strix** to one. Add two **swarms of** **lesser strix**. The greater strix flees when the two swarms are destroyed or when the staff is broken. The lesser strix flee when the greater strix is destroyed or when the staff is broken. |
-> | 6 | Add four **swarms of lesser strix**. The greater strix flees when those four swarms are destroyed or when the staff is broken. The lesser strix flee when the greater strix is destroyed or when the staff is broken. |
+> | 3 | Odeberte původní dvě **greater strix**. Přidejte tři **swarms of** **lesser strix**. Menší strigy uprchnou, jakmile je hůl zlomena. |
+> | 4 | Snižte počet **greater strix** na jednu. Přidejte dva **swarms of** **lesser strix**. Velká striga uprchne, jakmile jsou oba roje zničeny nebo jakmile je hůl zlomena. Menší strigy uprchnou, jakmile je velká striga zničena nebo jakmile je hůl zlomena. |
+> | 6 | Přidejte čtyři **swarms of lesser strix**. Velká striga uprchne, jakmile jsou tyto čtyři roje zničeny nebo jakmile je hůl zlomena. Menší strigy uprchnou, jakmile je velká striga zničena nebo jakmile je hůl zlomena. |
 
-On his first turn in combat, Lorghoth uses his _**master of blights**_ feature to summon the horde of thirty **needle blights** from the vineyard. Read:
-
-<div class="description">
-<p>The man raises his staff to the thundering sky and shrieks, “Nature, heed my will, for I have the Shadowed Lord’s staff!"</p>
-<p>You hear the rustle of dead vines all around you. On the ground below, nearly three dozen inhuman shapes emerge from the vineyard, their limbs cracking as they trudge toward the winery through the mist and rain.</p>
-</div>
-
-The needle blights reach the winery after two rounds, and reach Lorghoth’s chamber after an additional two rounds. (Due to the walls around the room, the blights can’t attack until they reach the chamber.)
-
-Lorghoth uses his _**guardian of the Gulthias**_ feature at the first available opportunity after having used his _**master of blights**_ feature.
-
-On the strixes’ second turn in combat, the third **greater strix** appears in the skies overhead, one hundred and sixty feet above the winery. Before it can attack, four **swarms of ravens** rise from the grove to the north to surround and attack it, distracting the strix and obstructing its advance.
-
-Lorghoth and the blights fight to the death. When Lorghoth is reduced to 0 hit points, he reverts to his true form and vows that the players’ victory shall be short-lived. “For Wintersplinter comes," he wheezes, cackling, “and when dawn rises, the nectar of victory will turn to ash on your lips."
-
-When the players break Lorghoth’s staff, read:
+Ve svém prvním tahu v boji použije Lorghoth schopnost _**master of blights**_, aby z vinice přivolal hordu třiceti jehličnatých zhoubců (**needle blights**). Přečtěte:
 
 <div class="description">
-<p>A terrible human scream erupts from the staff’s splintered wood, piercing the air like a banshee's wail. The earth seems to tremble beneath its intensity—and, all around you, the corrupted flora begins to twist and writhe, blood pouring from blackening leaves and stalks. The blights freeze in place, then slowly crumple, the life leaving their shriveling forms until naught but dead husks remain.</p>
-<p>At the center of the room, the bark of the dead, gnarled tree begins to boil and melt, the trunk collapsing in upon itself until there's nothing left but a pool of thick, grayish sludge. With a final, wheezing wail, the staff disintegrates, leaving behind a stream of fine, gray ash that wisps away on the wind.</p>
+<p>Muž pozvedne hůl k hřmící obloze a zaječí: „Přírodo, poslechni mou vůli, neboť já třímám hůl Pána stínů!“</p>
+<p>Všude kolem sebe slyšíte šustění mrtvých šlahounů. Dole na zemi se z vinice vynoří téměř tři tucty nelidských tvarů; jejich údy praskají, jak se mlhou a deštěm vlečou k vinařství.</p>
 </div>
 
-The three strix fight until two have been destroyed or until the players break the *Gulthias staff*, at which point any surviving strix retreat to Berez to report to Baba Lysaga.
+Jehličnatí zhoubci dorazí k vinařství po dvou kolech a do Lorghothovy komnaty po dalších dvou kolech. (Kvůli stěnám kolem místnosti nemohou zhoubci útočit, dokud do komnaty nedorazí.)
 
-The thunderstorm subsides soon after Lorghoth’s defeat, though the rain lingers to wash away the sludge and blight. The rain stops completely when the players first descend to meet the Martikovs.
-***Milestone.*** Reclaiming the winery completes a story milestone. When the players defeat Lorghoth and break his staff, award each player 2,000 XP.
-## J3f. The Martikovs’ Return
-If the players break the *Gulthias staff*, the Martikovs hear its shrieking wail and return to the winery, where they thank the players for their heroism. 
+Lorghoth použije schopnost _**guardian of the Gulthias**_ při první příležitosti poté, co použil schopnost _**master of blights**_.
 
-Elvir and Claudiu are awed and slightly shaken at the players’ ability to defy Strahd and his servants, and the players’ victory brings hope to them and the entire Martikov family. (Elvir in particular is stricken by the thought that, had Elric asked for help and been granted it, his brother might still be alive today.)
+Ve druhém tahu strig v boji se na obloze sto šedesát stop nad vinařstvím objeví třetí velká striga (**greater strix**). Než stihne zaútočit, vznesou se z háje na severu čtyři roje havranů (**swarms of ravens**), obklopí ji a zaútočí na ni, čímž strigu rozptýlí a zabrání jí v postupu.
 
-After thanking and congratulating the players, Davian Martikov reveals that he has not been entirely forthright with the players. He then agrees to share the following information:
+Lorghoth i zhoubci bojují až do smrti. Když Lorghoth klesne na 0 HP, vrátí se do své skutečné podoby a zapřísahá se, že vítězství hráčů bude mít krátké trvání. „Neboť Zimotřísk přichází,“ sípe a chechtá se, „a až vyjde slunce, nektar vítězství se vám na rtech obrátí v popel.“
 
-* The Forest Folk didn’t attack merely because they are “bad neighbors." Davian and his family are members of the Keepers of the Feather—a secret society dedicated to aiding those who oppose Strahd von Zarovich and his servants. The Keepers of the Feather, which aim to guide and shelter others rather than fighting Strahd directly, uses ravens as their messengers and spies.
-* Davian is the leader of the organization, and all of his children are also members. (Davian can confirm that Muriel Vinshaw and Urwin Martikov are also members of the Keepers of the Feather, as well as a number of other Barovians scattered across the valley.)
-* Just over three months ago, one of Davian’s youngest sons—Elvir’s twin brother, Elric—planned to travel to Castle Ravenloft to join the revolt against Strahd. Davian forebade it, reminding Elric that the Keepers of the Feather were spies, not fighters, and that joining the rebellion openly could compromise the secret of their existence. Elric defied him and joined the revolt anyway.
-* Elric died in Castle Ravenloft. Not long thereafter, Baba Lysaga’s **scarecrows** and the druids of Yester Hill—often accompanied by a mysterious, dark-skinned woman—began staging attacks against the winery. 
-* The Winery’s best-kept secret is the source of its wine: three green gemstones the size and shape of pinecones enchanted with plant-growing magic. Since its founding, the Martikovs have used these gemstones to grow three vintages of wine: Champagne du le Stompe, Red Dragon Crush, and Purple Grapemash No. 3. 
-* However, ten years ago, the gemstone producing the Champagne du le Stompe was stolen. Davian doesn’t know who stole it, but blames Urwin for failing to keep watch. Although Urwin claimed to have seen an old woman in the fog with a raven perched upon her shoulder, and the same raven carrying the gem away shortly thereafter, Davian has never believed his story—largely because the Keepers of the Feather know all of the ravens in the valley.
-* Three weeks ago, Baba Lysaga’s **scarecrows** uncovered and stole the second gem, depriving the winery of the means of producing Red Dragon Crush. Five days ago, the Forest Folk attacked and stole the third gem, preventing the Martikovs from producing Purple Grapemash No. 3. The Keepers staged an attack on Yester Hill in an attempt to reclaim it, but were easily driven back. (“We’re spies," Davian notes mournfully, “not warriors.")
-* The druids returned two days later, now joined by a small army of corrupted blights, and drove the Martikovs out. (Davian had never seen the Forest Folk command the blights of the Gulthias Tree before, and hadn’t known it to be possible.) 
-* According to snippets of conversation that his family overheard before they were driven out of the winery, Davian believes that the druids have been searching for the first enchanted gem—the one stolen ten years prior. (Davian isn’t sure why the druids are searching for it, or how they came to know of it.)
-
-Davian doesn’t believe that the players are capable of defeating Baba Lysaga—certainly not with their current abilities. The druids, however, are a different story. Davian asks the players to travel to Yester Hill, defeat the druids there, and reclaim the third gemstone so that the winery can resume at least part of its production. (Although the Martikovs will be busy restoring the winery, Davian offers Muriel Vinshaw—one of the Keepers’ few combat-ready members—as a companion for the task.)
-
-Davian also promises the players that, should they succeed at Yester Hill, he will provide them with the full support of the Keepers of the Feather permanently thereafter, including intelligence, shelter, supplies, and speedy communication across the valley.
-
-If the players appear interested in taking on his task, Davian also asks them whether the druids mentioned anything by the name of “Wintersplinter"—a word that the Keepers and their raven spies heard briefly during their attack on Yester Hill. The Keepers have noticed that the druids appear to be preparing for a ritual of some kind atop Yester Hill, and have seen them building something in the stone circle at its peak.
-
-If the players share Lorghoth or Silvia’s warning, Davian urges them to travel to Yester Hill before the next dawn, recover the stolen gemstone, and defeat the druids’ evil plot. Because Yester Hill is less than an hour’s walk from the Wizard of Wines, Davian is glad to offer the players shelter that night at the winery to rest and recuperate, promising to send Muriel to wake them a few hours before dawn.
-
-> [!info]+ **Clearing the Skies**
-> Strix are a finite resource, and require both time and resources to craft anew. Defeating the **greater strix** defending Lorghoth clears the skies once again for the Keepers of the Feather and their ravens to fly, at least temporarily.
-# J4. The Path to Yester Hill
-If the players agree to travel to Yester Hill the following morning, Muriel wakes them two hours before dawn. 
-
-After asking the players whether they had a good night’s rest, Muriel quietly informs them that she’ll need to make a quick detour en route to Yester Hill to meet with a contact she has in the area—a man named Kavan. While she can’t be sure, she has reason to believe that Kavan might have more information about the druids’ plans and defenses. 
-
-If the players appear receptive, Muriel asks them to promise not to share this detour with Davian, who she believes would likely disapprove. She’s reluctant to provide more information than that, promising only that Kavan is neither dangerous nor a servant of Strahd, and that she’ll share more when they meet him. 
-
-If pressed, Muriel shares only that Kavan is a spirit that dwells in the Svalich Wood, and that she intends to summon and speak with him as she has multiple times before. (Muriel doesn’t know Kavan’s history, nor his relationship to the druids, and can’t read the inscription on his cairn.)
-
-The journey from the Wizard of Wines to Yester Hill is 2.5 miles and 50 minutes long. As the players set off, read:
-
-<div class="description"> 
-<p>A thin, chilling mist curls through the vineyard, twisting around your ankles as you set off from the winery toward the main path. You head south, cold moonlight filtering in from the lower clouds and casting long shadows across the loamy earth. </p>
-<p>The velvet cloak of the night sky rests silently overhead, but it's soon swallowed by the gnarled canopy of the Svalich Wood, whose long, dark branches reach over the path like skeletal limbs. The mist is thicker here, the air crisp and chill, and a palpable silence seems to envelop the entirety of the wood. The quiet is only occasionally broken by the snap of a twig underfoot, the squelch of mud beneath your boots, or the distant hoot of a mournful owl.</p>
-</div>
-
-As the players travel south, four **swarms of ravens** take off from a nearby tree and follow them down the road, flying above the canopy. Muriel informs the players that the ravens likely want to help, and that they can keep watch in the skies while the players traverse the road. (The ravens perch in the branches of nearby trees whenever the players stop on the road.)
-
-While traveling along the path, Muriel notes wistfully that she used to walk it with Elric not long ago. "It's so strange," she says quietly, "how quickly things can change for the worse." If asked, Muriel can share that Elric proposed to her during a walk in the woods along this very path. If asked more about Elric's fate, Muriel replies curtly, "He died," and refuses to elaborate; if pushed, she shares only that his death is too fresh and painful in her mind to relive it.
-## J4a. Kavan’s Cairn
-Three-quarters of a mile and fifteen minutes south of the winery, if she is with the players, Muriel briefly leads them off of the main path and onto an old and overgrown footpath. If the players follow, read:
+Když hráči Lorghothovu hůl zlomí, přečtěte:
 
 <div class="description">
-<p>The footpath veers deeper into the undergrowth, the vines and underbrush clutching at your clothing like soft, grasping hands as you cut forward through the tangled flora. The trees grow close together here, and the air grows thick with heavy silence. </p>
-<p>It's not long, however, before the path opens up into a small, mossy clearing, illuminated faintly by pale moonlight. A soft, crisp wind dances through the trees here, the rustling of the leaves sounding almost like a cacophony of whispers. At the center of the clearing stands a tall mound of large, black stones—an ancient cairn adorned with lichens, red blooms, and a collection of strange runes. </p>
+<p>Z roztříštěného dřeva hole vytryskne strašlivý lidský výkřik a protne vzduch jako kvílení banshee. Zdá se, že se pod jeho silou zachvěje sama zem – a všude kolem vás se zkažené rostlinstvo začne kroutit a svíjet a z černajících listů a stonků se valí krev. Zhoubci ztuhnou na místě a pak se pomalu zhroutí; život opouští jejich scvrkající se těla, až nezbude nic než mrtvé schránky.</p>
+<p>Uprostřed místnosti se kůra mrtvého, pokrouceného stromu začne vařit a tát a kmen se hroutí sám do sebe, dokud nezbude nic než kaluž hustého šedavého kalu. S posledním sípavým nářkem se hůl rozpadne a zanechá po sobě jen proužek jemného šedého popela, který odvane vítr.</p>
 </div>
 
-A player who speaks Druidic notices that the runes on the mound form an epitaph. They read: 
+Tři strigy bojují, dokud nejsou dvě z nich zničeny nebo dokud hráči *hůl Gulthias* nezlomí; pak se všechny přeživší strigy stáhnou do Berezu, aby podaly hlášení Babě Lysaze.
+
+Bouře po Lorghothově porážce brzy utichne, ale déšť ještě chvíli vydrží a smyje kal i zkázu. Úplně přestane pršet, když hráči poprvé sestoupí za Martikovovými.
+***Milník.*** Znovuzískání vinařství je milníkem příběhu. Když hráči porazí Lorghotha a zlomí jeho hůl, udělte každému hráči 2 000 XP.
+## J3f. Návrat Martikovových
+Pokud hráči *hůl Gulthias* zlomí, Martikovovi uslyší její pronikavý nářek, vrátí se do vinařství a poděkují hráčům za jejich hrdinství.
+
+Elvir a Claudiu jsou ohromeni a trochu otřeseni tím, že se hráči dokázali vzepřít Strahdovi a jeho služebníkům, a vítězství hráčů vlije naději jim i celé rodině Martikovových. (Elvira obzvlášť zasáhne pomyšlení, že kdyby Elric požádal o pomoc a dostalo se mu jí, jeho bratr by možná ještě dnes žil.)
+
+Když Davian Martikov hráčům poděkuje a poblahopřeje, přizná, že k nim nebyl zcela upřímný. Pak souhlasí, že jim prozradí následující:
+
+* Lesní lid nezaútočil jen proto, že je „mizerný soused“. Davian a jeho rodina jsou členy Strážců pera – tajného společenství, jež se zasvětilo pomoci těm, kdo se staví proti Strahdovi von Zarovichovi a jeho služebníkům. Strážci pera, kteří chtějí ostatní spíše vést a poskytovat jim útočiště, než aby proti Strahdovi bojovali přímo, používají havrany jako své posly a zvědy.
+* Davian je vůdcem společenstva a členy jsou i všechny jeho děti. (Davian může potvrdit, že Muriel Vinshaw a Urwin Martikov jsou také členy Strážců pera, stejně jako řada dalších Barovanů roztroušených po celém údolí.)
+* Před něco málo přes třemi měsíci se jeden z Davianových nejmladších synů – Elvirovo dvojče Elric – chystal vydat na hrad Ravenloft a přidat se ke vzpouře proti Strahdovi. Davian mu to zakázal a připomněl mu, že Strážci pera jsou zvědové, ne bojovníci, a že otevřená účast ve vzpouře by mohla ohrozit tajemství jejich existence. Elric se mu vzepřel a ke vzpouře se přesto přidal.
+* Elric zemřel na hradě Ravenloft. Nedlouho poté začali strašáci (**scarecrows**) Baby Lysagy a druidové z Yesterského vrchu – často v doprovodu tajemné ženy tmavé pleti – podnikat útoky na vinařství.
+* Nejstřeženějším tajemstvím vinařství je zdroj jeho vína: tři zelené drahokamy o velikosti a tvaru šišek, očarované magií, která dává růst rostlinám. Od založení vinařství s jejich pomocí Martikovovi pěstují tři ročníky vína: Champagne du le Stompe, Drcený rudý drak a Fialový hroznový mošt č. 3.
+* Před deseti lety však byl ukraden drahokam, z něhož se rodilo Champagne du le Stompe. Davian neví, kdo ho ukradl, ale viní Urwina, že nedával pozor. Přestože Urwin tvrdil, že v mlze viděl stařenu s havranem na rameni a že tentýž havran krátce nato drahokam odnesl, Davian jeho příběhu nikdy nevěřil – hlavně proto, že Strážci pera znají všechny havrany v údolí.
+* Před třemi týdny strašáci (**scarecrows**) Baby Lysagy vykopali a ukradli druhý drahokam, čímž vinařství připravili o možnost vyrábět Drceného rudého draka. Před pěti dny zaútočil Lesní lid a ukradl třetí drahokam, takže Martikovovi nemohou vyrábět ani Fialový hroznový mošt č. 3. Strážci podnikli útok na Yesterský vrch, aby ho získali zpět, ale byli snadno zahnáni. („Jsme zvědové,“ poznamená Davian zkroušeně, „ne válečníci.“)
+* Druidové se o dva dny později vrátili, tentokrát s malou armádou zkažených zhoubců, a Martikovovy vyhnali. (Davian nikdy předtím neviděl, že by Lesní lid ovládal zhoubce stromu Gulthias, a netušil, že je to vůbec možné.)
+* Podle útržků rozhovorů, které jeho rodina zaslechla, než byla z vinařství vyhnána, se Davian domnívá, že druidové pátrali po prvním očarovaném drahokamu – tom, který byl ukraden před deseti lety. (Davian netuší, proč ho druidové hledají ani jak se o něm dozvěděli.)
+
+Davian nevěří, že by hráči dokázali porazit Babu Lysagu – rozhodně ne se svými současnými schopnostmi. S druidy je to však jiné. Davian požádá hráče, aby se vydali na Yesterský vrch, porazili tamní druidy a získali zpět třetí drahokam, aby vinařství mohlo obnovit alespoň část své produkce. (Přestože Martikovovi budou mít plné ruce práce s obnovou vinařství, Davian hráčům na tento úkol nabídne jako společnici Muriel Vinshaw – jednu z mála bojeschopných členek Strážců.)
+
+Davian hráčům také slíbí, že pokud na Yesterském vrchu uspějí, poskytne jim od té chvíle natrvalo plnou podporu Strážců pera, včetně zpravodajských informací, útočiště, zásob a rychlého spojení napříč údolím.
+
+Pokud se zdá, že hráči o jeho úkol stojí, Davian se jich také zeptá, zda se druidové zmínili o něčem jménem „Zimotřísk“ – o slovu, které Strážci a jejich havraní zvědové krátce zaslechli během útoku na Yesterský vrch. Strážci si všimli, že se druidové na vrcholu Yesterského vrchu zřejmě připravují na nějaký rituál, a viděli je, jak v kamenném kruhu na jeho vrcholu něco stavějí.
+
+Pokud hráči Davianovi sdělí Lorghothovo nebo Silviino varování, Davian je naléhavě vyzve, aby se před příštím úsvitem vydali na Yesterský vrch, získali zpět ukradený drahokam a zmařili zlovolný plán druidů. Protože Yesterský vrch leží necelou hodinu chůze od Čaroděje vín, Davian hráčům rád nabídne na noc útočiště ve vinařství, aby si odpočinuli a nabrali síly, a slíbí, že pošle Muriel, aby je několik hodin před úsvitem probudila.
+
+> [!info]+ **Vyčištěné nebe**
+> Strig je omezené množství a výroba nových vyžaduje čas i prostředky. Porážka velkých strig (**greater strix**), které bránily Lorghotha, alespoň dočasně znovu uvolní nebe pro let Strážců pera a jejich havranů.
+# J4. Cesta na Yesterský vrch
+Pokud hráči souhlasí, že se následujícího rána vydají na Yesterský vrch, Muriel je probudí dvě hodiny před úsvitem.
+
+Poté, co se hráčů zeptá, zda se dobře vyspali, jim Muriel potichu oznámí, že cestou na Yesterský vrch si bude muset krátce zajít za jedním svým kontaktem v okolí – mužem jménem Kavan. Jistá si být nemůže, ale má důvod věřit, že by Kavan mohl mít další informace o plánech a obraně druidů.
+
+Pokud se hráči zdají vstřícní, Muriel je požádá, aby slíbili, že se o této zajížďce nezmíní Davianovi, který by ji podle ní nejspíš neschválil. Víc se jí prozrazovat nechce – slíbí jen, že Kavan není nebezpečný ani to není Strahdův služebník a že jim víc řekne, až se s ním setkají.
+
+Pokud na ni hráči naléhají, Muriel prozradí jen, že Kavan je duch, který přebývá ve Svalichském lese, a že ho hodlá vyvolat a promluvit s ním, jako už to udělala několikrát předtím. (Muriel nezná Kavanovu minulost ani jeho vztah k druidům a nápis na jeho mohyle neumí přečíst.)
+
+Cesta z Čaroděje vín na Yesterský vrch měří 2,5 míle a trvá 50 minut. Když hráči vyrazí, přečtěte:
+
+<div class="description"> 
+<p>Vinicí se plazí tenká, mrazivá mlha a ovíjí se vám kolem kotníků, když vyrážíte od vinařství k hlavní cestě. Míříte na jih; nízkými mraky prosvítá studený měsíční svit a vrhá na kyprou zem dlouhé stíny.</p>
+<p>Sametový plášť noční oblohy tiše spočívá nad vašimi hlavami, ale brzy ho pohltí pokroucená klenba Svalichského lesa, jehož dlouhé, temné větve se nad stezku natahují jako kostlivé paže. Mlha je tu hustší, vzduch ostrý a chladný a celý les jako by halilo hmatatelné ticho. Ruší ho jen občas prasknutí větvičky pod nohama, čvachtnutí bláta pod botami nebo vzdálené houkání truchlivé sovy.</p>
+</div>
+
+Když hráči putují na jih, vzlétnou z nedalekého stromu čtyři roje havranů (**swarms of ravens**) a letí za nimi nad korunami stromů. Muriel hráčům řekne, že havrani nejspíš chtějí pomoci a mohou z oblohy držet hlídku, zatímco hráči jdou po cestě. (Kdykoli se hráči na cestě zastaví, havrani usednou do větví okolních stromů.)
+
+Cestou Muriel teskně poznamená, že tudy nedávno chodívala s Elricem. „Je to tak zvláštní,“ řekne tiše, „jak rychle se všechno může obrátit k horšímu.“ Pokud se jí hráči zeptají, Muriel prozradí, že ji Elric požádal o ruku na procházce lesem právě po této stezce. Pokud se jí hráči vyptávají dál na Elricův osud, Muriel úsečně odpoví: „Umřel,“ a odmítá to rozvádět; pokud naléhají, prozradí jen, že jeho smrt je v její mysli příliš čerstvá a bolestná, než aby ji znovu prožívala.
+## J4a. Kavanova mohyla
+Tři čtvrtě míle a patnáct minut jižně od vinařství Muriel – pokud je s hráči – na chvíli sejde z hlavní cesty na starou, zarostlou pěšinu. Pokud ji hráči následují, přečtěte:
+
+<div class="description">
+<p>Pěšina se stáčí hlouběji do podrostu a šlahouny i křoviny se vám jako měkké, chňapající ruce zachytávají o šaty, zatímco se prodíráte spletí rostlin. Stromy tu rostou těsně u sebe a vzduch houstne těžkým tichem.</p>
+<p>Netrvá však dlouho a pěšina ústí na malou mechem porostlou mýtinu, slabě ozářenou bledým měsíčním svitem. Mezi stromy tu tančí jemný, svěží vítr a šustění listí zní skoro jako změť šepotů. Uprostřed mýtiny se tyčí vysoká hromada velkých černých kamenů – prastará mohyla pokrytá lišejníky, rudými květy a souborem podivných run.</p>
+</div>
+
+Hráč, který mluví druidštinou (Druidic), si všimne, že runy na mohyle tvoří náhrobní nápis. Zní:
 
 <div class="description" style="text-align: center">
-<p>KAVAN, THE BLOOD-DRINKER
+<p>KAVAN KRVOPIJEC
 <br>
-FORSAKEN OF THE ROZANA
+ZAVRŽENEC ROZANY
 <br>
-FIRST AND LAST CHIEFTAIN OF THE BALINOK MOUNTAINS.
+PRVNÍ A POSLEDNÍ NÁČELNÍK POHOŘÍ BALINOK.
 <br>
-MAY HIS SPIRIT REAP THE HARVEST OF HIS ARROGANCE</p>
+AŤ JEHO DUCH SKLÍZÍ ÚRODU SVÉ PÝCHY</p>
 </div>
 
-Unless prevented, Muriel kneels before the cairn, produces a dagger from her boot, and makes a cut across her palm, allowing a few drops of blood to drip into a basin at the base of the cairn. (She then quickly curls her palm into a fist, hiding her **wereraven** regeneration as it quickly knits the wound shut.)
+Pokud jí v tom nikdo nezabrání, Muriel před mohylou poklekne, vytáhne z boty dýku a řízne se přes dlaň, aby nechala několik kapek krve skanout do mísy u paty mohyly. (Pak rychle sevře dlaň v pěst, aby skryla svou havranodlačí (**wereraven**) regeneraci, která ránu rychle zacelí.)
 
-When she does, read:
+Když to udělá, přečtěte:
 
 <div class="description">
-<p>As Muriel's blood drips into the basin, the low curtain of mist around the cairn seems to quiver. The mists rise, gently swirling into the air, until the spectral form of a man steps forth from their moonlit depths.</p>
-<p>His face is lined and weather-worn, his thick brow creased above dark, piercing eyes. He is clad in simple, leather armor and roughspun cloth, his arms and chest marked with a tapestry of scars and tattoos that seem to shimmer in the pale, eerie light. Earrings forged of animal bone and jagged obsidian hang down to his shoulders, which are near-covered by a cascade of long, dark hair.</p>
-<p>His hands are calloused and rough, a wooden buckler grasped in his left. In his right hand, he wields a long, wicked spear forged of mist, its point seeming to devour the ethereal light that suffuses the clearing. </p>
-<p>"Greetings, Muriel Vinshaw," the spirit rumbles. "I see you have brought new companions this time."</p>
+<p>Jak Muriellina krev kape do mísy, nízká clona mlhy kolem mohyly jako by se zachvěla. Mlha stoupá a jemně víří vzduchem, až z jejích měsícem ozářených hlubin vystoupí přízračná postava muže.</p>
+<p>Jeho tvář je vrásčitá a ošlehaná počasím, husté obočí svraštěné nad tmavýma, pronikavýma očima. Je oděn do prosté kožené zbroje a hrubě tkané látky a paže i hruď mu zdobí tapiserie jizev a tetování, která jako by se v bledém, přízračném světle třpytila. Až na ramena mu visí náušnice z kostí zvířat a zubatého obsidiánu; ramena mu téměř zakrývá kaskáda dlouhých tmavých vlasů.</p>
+<p>Ruce má mozolnaté a drsné; v levé svírá dřevěný puklíř. V pravé třímá dlouhé, zlovolné kopí ukované z mlhy, jehož hrot jako by požíral éterické světlo, které zaplavuje mýtinu.</p>
+<p>„Buď zdráva, Muriel Vinshaw,“ zaduní duch. „Vidím, že jsi tentokrát přivedla nové společníky.“</p>
 </div>
 
 ![[Kavan.png]]
-<span class="credit">"Kavan" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
-Muriel introduces the spirit as the **ghost** of Kavan, an ancestor of the Mountain Folk, and introduces the players by name.
+<span class="credit">„Kavan“ – autor: Caleb Cleveland. Podpořte ho na <a href="https://patreon.com/calebisdrawing/">Patreonu!</a></span>
+Muriel ducha představí jako přízrak (**ghost**) Kavana, předka Horského lidu, a jmenovitě mu představí hráče.
 
-> [!lore]+ **Kavan's Legacy**
-> Long before Strahd arrived in the valley, Kavan was the young chieftain of one of several tribes of the First Folk that dwelled among the Balinok Mountains. Ambitious and proud, he entered the Whispering Wall in defiance of the ancient strictures. There, an echo of the Devourer whispered to him the secrets of the Huntress’s sacred spear, and the means by which he could claim its power for his own.
+> [!lore]+ **Kavanův odkaz**
+> Dávno předtím, než Strahd přišel do údolí, byl Kavan mladým náčelníkem jednoho z několika kmenů Prvotního lidu, které žily v pohoří Balinok. Ctižádostivý a pyšný vstoupil navzdory prastarým zákazům do Šeptající zdi. Tam mu ozvěna Požírače pošeptala tajemství posvátného kopí Lovkyně a způsob, jak si jeho moc přivlastnit.
 > 
-> Kavan stole the Huntress’s spear from the Forest Fane, and used the Devourer’s secrets to strengthen his warriors and deface the shrines of the Ladies Three. Named “Blood-Drinker" for the power of his spear and his savage rituals in combat, Kavan waged brutal war on the neighboring tribes, seeking to unite them beneath the glory of his own tribe and banner.
+> Kavan ukradl kopí Lovkyně z Lesní svatyně a s pomocí Požíračových tajemství posílil své bojovníky a znesvětil svatyně Tří paní. Pro moc svého kopí a své divoké bojové rituály byl nazván „Krvopijec“ a vedl krutou válku proti sousedním kmenům, neboť je chtěl sjednotit pod slávou svého vlastního kmene a korouhve.
 > 
-> The druids of the First Folk, horrified by his blasphemy, withdrew to the sacred village of Soldav on Mount Ghakis. There, they named him “enemy," banishing him from the holy center of their faith. The Ladies, weakened by Kavan’s acts, withdrew their grace from their people, leaving them despondent under the new tyrant’s rule.
+> Druidové Prvotního lidu, zděšení jeho rouháním, se stáhli do posvátné vesnice Soldav na hoře Ghakis. Tam ho prohlásili za „nepřítele“ a vyhnali ho ze svatého středu své víry. Paní, oslabené Kavanovými činy, odňaly svému lidu svou milost a zanechaly ho sklíčený pod vládou nového tyrana.
 > 
-> Kavan lived long enough to see his sons and daughters turn and squabble amongst themselves, fracturing the nation he had worked long ago to build. As Kavan lay sick and dying in his elder years, the last news he received was that of a new invasion—this time, from the east, as King Dostron the Hellborn swept into the valley in search of new lands to conquer.
+> Kavan se dožil toho, že se jeho synové a dcery obrátili proti sobě a hašteřili se mezi sebou, čímž roztříštili národ, který kdysi tak dlouho budoval. Když Kavan ve stáří ležel nemocný a umírající, poslední zprávou, která k němu dolehla, byla zpráva o nové invazi – tentokrát z východu, kdy do údolí vtrhl král Dostron Pekelný, aby dobyl nové země.
 > 
-> When Kavan died, instead of burying him in a place of honor upon Yester Hill with the great chieftains of the past, the druids he had once spurned buried his body in a lonely cairn far away from Yester Hill, cursing his spirit to linger amidst the twilight without glory, fear, or favor.
+> Když Kavan zemřel, druidové, jimiž kdysi pohrdal, ho nepohřbili na čestném místě na Yesterském vrchu mezi velkými náčelníky minulosti, ale uložili jeho tělo do osamělé mohyly daleko od Yesterského vrchu a prokleli jeho ducha, aby bloudil šerem bez slávy, bez bázně a bez přízně.
 
-Kavan greets the players warmly, hailing them as warriors, and asking to know their "clans and victories." If asked about his own clan, his smile fades, and he declines to respond, noting only that his relationship with his people is complex.
+Kavan hráče vřele pozdraví, osloví je jako válečníky a chce znát jejich „klany a vítězství“. Pokud se ho zeptají na jeho vlastní klan, úsměv mu zmizí z tváře a odmítne odpovědět; poznamená jen, že jeho vztah k vlastnímu lidu je složitý.
 
-Once the players have introduced themselves, Muriel begins by informing Kavan that they’ve come to seek his knowledge of the druids of Yester Hill. At Muriel’s request, Kavan can share the following information about the Forest Folk of Yester Hill:
+Jakmile se hráči představí, Muriel Kavanovi oznámí, že přišli hledat jeho vědění o druidech z Yesterského vrchu. Na Muriellinu žádost může Kavan prozradit o Lesním lidu z Yesterského vrchu následující:
 
-* The druids of the Forest Folk have been more active lately, gathering berserkers from the northern basin and leading blights of the Gulthias Tree down to the lands below. They appear to have obtained a new leader: a dark-skinned woman clad in a white gown and a golden tiara, with piercing eyes and a pair of sharp fangs. Kavan believes her to be a mage, having seen her conjure strange lights and sounds. (This is Ludmilla Vilisevic, one of Strahd’s vampiric brides.)
-* Recently, the Forest Folk of Yester Hill—which Kavan’s people once called Sarmizeget—obtained something both new and yet incredibly old: an enchanted gemstone once belonging to Kavan's people that he thought lost long ago. The Forest Folk have constructed an enormous effigy of wood and earth atop the hill, within the great stone circle that serves as their meeting place, and placed the gemstone within the statue’s chest.
-* Some of the Forest Folk appear to be preparing to instill the power of the gemstone within the statue, which is woven from the roots of the Gulthias Tree that grows atop Yester Hill. The ritualists have bonded themselves to the tree’s bloodthirsty roots, and plan to harness the power of the eternal storm above Yester Hill to give life to the being within the statue.
-* The Gulthias Tree is a dark and corrupted entity, and an accomplice to the druids’ will. Kavan warns them that the tree might attempt to obstruct their efforts, but informs them that radiance burns it and slows its new growth. He notes that the tree thirsts especially for cursed blood, which strengthens and restores it.
-* There are more than a dozen druids and berserkers now atop Yester Hill, though more have been arriving every day. They appear to be waiting for the one they call the “Shadowed Lord"—the lord of the fortress to the east. (Kavan is referring to Strahd von Zarovich and Castle Ravenloft.)
+* Druidové Lesního lidu jsou v poslední době čilejší – shromažďují berserkery ze severní pánve a vedou zhoubce stromu Gulthias dolů do nížin. Zdá se, že získali nového vůdce: ženu tmavé pleti v bílých šatech se zlatou čelenkou, s pronikavýma očima a párem ostrých tesáků. Kavan si myslí, že je to mág, protože ji viděl vyvolávat podivná světla a zvuky. (Je to Ludmilla Vilisevic, jedna ze Strahdových upířích nevěst.)
+* Lesní lid z Yesterského vrchu – kterému Kavanův lid kdysi říkal Sarmizeget – nedávno získal něco nového, a přitom nesmírně starého: očarovaný drahokam, který kdysi patřil Kavanovu lidu a o němž si myslel, že je dávno ztracen. Lesní lid postavil na vrcholu kopce, uvnitř velkého kamenného kruhu, který mu slouží jako shromaždiště, obrovskou modlu ze dřeva a hlíny a drahokam vložil do hrudi sochy.
+* Někteří z Lesního lidu se zřejmě chystají vlít moc drahokamu do sochy, která je upletena z kořenů stromu Gulthias rostoucího na vrcholu Yesterského vrchu. Rituálníci se spojili s krvežíznivými kořeny stromu a chtějí zkrotit sílu věčné bouře nad Yesterským vrchem, aby vdechli život bytosti uvnitř sochy.
+* Strom Gulthias je temná a zkažená bytost a spoluviník druidské vůle. Kavan hráče varuje, že se strom může pokusit zmařit jejich úsilí, ale prozradí jim, že ho zář (radiant) pálí a zpomaluje jeho nový růst. Poznamená, že strom obzvlášť prahne po prokleté krvi, která ho posiluje a obnovuje.
+* Na vrcholu Yesterského vrchu je teď víc než tucet druidů a berserkerů a každým dnem přicházejí další. Zdá se, že čekají na toho, jemuž říkají „Pán stínů“ – na pána pevnosti na východě. (Kavan mluví o Strahdovi von Zarovichovi a hradu Ravenloft.)
 
-Kavan advises the players that the druids of the Forest Folk appear to be far less capable than their ancestors. Should the players succeed in disrupting their ritual — such as by removing the gemstone from the statue’s chest before the ritual is complete— the resulting backlash from the storm’s harnessed energy could kill any surviving ritualists.
+Kavan hráčům poradí, že druidové Lesního lidu se zdají být mnohem méně schopní než jejich předkové. Pokud se hráčům podaří jejich rituál narušit – například tím, že vyjmou drahokam z hrudi sochy dřív, než bude rituál dokončen –, mohl by zpětný úder spoutané energie bouře zabít všechny přeživší rituálníky.
 
-Should the players express interest in destroying the Gulthias Tree itself, Kavan warns them against doing so, noting that, while he does not know the source of its power, it is the host to a great and terrible evil. He can share, however, that until the mage taught the druids to command its children, the tree took little action on its own and appeared content to remain atop Yester Hill. Should the players defeat the druids of the Forest Folk, he notes, they will likely find the Gulthias Tree to pose little threat to them or their friends.
+Pokud hráči projeví zájem zničit samotný strom Gulthias, Kavan je od toho zrazuje a poznamená, že ačkoli nezná zdroj jeho moci, strom je hostitelem velikého a strašlivého zla. Může však prozradit, že dokud mág nenaučil druidy ovládat jeho potomstvo, strom sám od sebe téměř nejednal a zdálo se, že mu stačí zůstávat na vrcholu Yesterského vrchu. Pokud hráči druidy Lesního lidu porazí, poznamená Kavan, strom Gulthias pro ně ani pro jejich přátele nejspíš nebude představovat velkou hrozbu.
 
-As the players depart, or if they have additional questions about Kavan, the Forest Folk, or the enchanted gemstones, Kavan informs them that one of the druids—an elder named Svarog—wields a gnarled wand forged of petrified wood. Kavan asks them to retrieve Svarog's wand, which was once wielded by the spiritual leaders among his people. "Should you return it to me and prove that you are trustworthy," he promises, "I shall tell you where you may find a weapon of great strength to aid you in your fight.
+Když hráči odcházejí, nebo pokud mají další otázky ohledně Kavana, Lesního lidu či očarovaných drahokamů, Kavan jim prozradí, že jeden z druidů – stařešina jménem Svarog – třímá pokroucenou hůlku ze zkamenělého dřeva. Kavan je požádá, aby Svarogovu hůlku, kterou kdysi třímali duchovní vůdci jeho lidu, získali. „Pokud mi ji vrátíte a prokážete, že jste hodni důvěry,“ slibuje, „povím vám, kde naleznete zbraň veliké síly, jež vám v boji pomůže.“
 
-> [!abstract]+ **Kavan's Shame**
-> If a player asks Kavan about his epitaph, he replies, "I failed my people in life. In death, I wish to atone for those mistakes."
-## J4b. The Nightmare
-After departing Kavan’s cairn, the players can return to the path and continue traveling south to Yester Hill. After one and one-quarter miles and an additional twenty-five minutes, the players encounter Strahd von Zarovich riding his **nightmare**, Beucephalus. Read:
+> [!abstract]+ **Kavanova hanba**
+> Pokud se hráč Kavana zeptá na jeho náhrobní nápis, odpoví: „Za života jsem svůj lid zklamal. Po smrti chci své chyby odčinit.“
+## J4b. Přízračný oř
+Když hráči opustí Kavanovu mohylu, mohou se vrátit na cestu a pokračovat na jih k Yesterskému vrchu. Po míli a čtvrt a dalších pětadvaceti minutách narazí hráči na Strahda von Zaroviche, který jede na svém přízračném oři (**nightmare**) Beucephalovi. Přečtěte:
 
 <div class="description">
-<p>"Good evening," echoes a voice from ahead of you, "or, perhaps, good morning?"</p>
-<p>A tall, pale figure emerges from the inky darkness betwixt the trees, riding atop a fiery steed. The figure's eyes burn through the shadows like smoldering coals, and his alabaster skin seems as cold as marble in the moonlight. He is immaculate in dark, tailored armor, and beneath his pristine, obsidian-black hair, his lips—as red as fresh blood—curl into a satisfied, malevolent smile.</p>
-<p>The steed beneath him snorts, flames dancing from its nostrils as its fiery mane flickers like a hellish halo around its head. Wisps of acrid smoke fill the air with a scent like sulfur and burnt flesh, and powerful muscles flex faintly beneath the contours of its coal-black hide. You notice a flash of metal, gleaming with gold and deep burgundy, glittering within the saddlebags strapped to the beast’s back.</p>
-<p>The man's heel clicks against his steed's side, and it steps obediently forward to obstruct your path. Strahd's smile widens as he drinks in the sight of you, his gaze boring through the dancing shadows that lurk amidst the path.</p>
+<p>„Dobrý večer,“ rozlehne se před vámi hlas, „nebo snad dobré jitro?“</p>
+<p>Z inkoustové tmy mezi stromy vyjede vysoká, bledá postava na ohnivém oři. Oči postavy žhnou stíny jako doutnající uhlíky a její alabastrová pleť se v měsíčním světle zdá chladná jako mramor. Je bezvadně oděna do tmavé zbroje šité na míru a pod dokonale upravenými, obsidiánově černými vlasy se její rty – rudé jako čerstvá krev – stáčejí do spokojeného, zlovolného úsměvu.</p>
+<p>Oř pod ní odfrkne a z nozder mu šlehají plameny, zatímco jeho ohnivá hříva plápolá kolem hlavy jako pekelná svatozář. Proužky štiplavého kouře plní vzduch pachem síry a spáleného masa a pod obrysy uhlově černé srsti se slabě napínají mocné svaly. Zahlédnete záblesk kovu, třpytivý zlatem a temnou burgundskou červení, který se leskne v sedlových brašnách připnutých na hřbetě zvířete.</p>
+<p>Mužův podpatek cvakne o bok oře a ten poslušně vykročí vpřed, aby vám zatarasil cestu. Strahdův úsměv se rozšíří, jak se kochá vaším pohledem, a jeho zrak se zavrtává do tančících stínů, které číhají na stezce.</p>
 </div>
 
-Beucephalus is as described in <span class="citation">Crypt 39 (p. 93)</span>. In addition to having 104 hit points, it also gains the following feature:
+Beucephalus odpovídá popisu v <span class="citation">Crypt 39 (p. 93)</span>. Kromě toho, že má 104 HP, získává také následující schopnost:
 
-* ***Ethereal Escape (Recharge 5-6).*** In response to Beucephalus or its rider taking damage, Beucephalus can use its reaction to use its ***ethereal stride*** ability.
+* ***Ethereal Escape (Recharge 5–6).*** V reakci na to, že Beucephalus nebo jeho jezdec utrží zranění, může Beucephalus svou reakcí použít schopnost ***ethereal stride***.
 
-The object in Beucephalus’ saddlebags is **Strahd’s animated armor** (as described in **Strahd’s Animated Armor**, p. 227). It is currently disassembled and inactive, though it attacks with its ***shocking bolt*** action if the players disturb it.
+Předmět v Beucephalových sedlových brašnách je **Strahd’s animated armor** (Strahdova oživlá zbroj, jak je popsána v **Strahd’s Animated Armor**, p. 227). V tuto chvíli je rozložená a nečinná, ale pokud ji hráči vyruší, zaútočí svou akcí ***shocking bolt***.
 
 ![[Strahd and Beucephalus.png]]
-<span class="credit">"Strahd and Beucephalus" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">„Strahd a Beucephalus“ – autor: Caleb Cleveland. Podpořte ho na <a href="https://patreon.com/calebisdrawing/">Patreonu!</a></span>
+### Setkání se Strahdem
+Strahd hráče pozdraví jako staré známé. Jejich společníky osloví takto:
 
-### Greeting Strahd
-Strahd greets the players with familiarity. He also addresses their companions as follows:
+* Pokud je přítomna Ireena, lehce se ukloní a pozdraví ji zdvořilým úsměvem. „Lady Kolyano,“ řekne. „Potěšení, jako vždy.“
+* Pokud je přítomna Muriel, pozdraví ji s líným, předstíraným překvapením a požádá hráče, aby mu představili svou „novou přítelkyni“. Pak mu oči sklouznou k jejím vlasům a tiše poznamená, že mu připadá povědomá, načež nahlas uvažuje, zda se už někdy nesetkali. (Muriel se rozšíří oči a rychle to popře. Strahd samozřejmě ví, že Muriel je ten havranodlak (**wereraven**), který ho u Tserského jezírka v [[Act I - Into the Mists/Arc C - Into the Valley|Oblouk C – Do údolí]] odposlouchával. Nechává ji naživu, protože předpokládá, že svou zprávu už doručila, a protože se už smířil s tím, že místo Arabelle obětuje svou *oživlou zbroj*.)
 
-* If Ireena is present, he bows lightly and greets her with a polite smile. "Lady Kolyana," he says. "A pleasure, as always."
-* If Muriel is present, he greets her with lazy, feigned surprise, asking the players to introduce him to their "new friend." His eyes then flicker to Muriel's hairline, and he suggests, quietly, that she appears familiar, before wondering aloud whether they have met before. (Muriel's eyes widen, and she swiftly denies it. Strahd knows, of course, that Muriel is the **wereraven** that eavesdropped on him at Tser Pool in [[Act I - Into the Mists/Arc C - Into the Valley]]. He allows her to live because he presumes she has already delivered her message, and because he has already accepted the need to sacrifice his *animated armor* in Arabelle's place.)
+Pak se Strahd zeptá, co hráče přivádí na cestu k Yesterskému vrchu – a to v tak temnou a bohy zapomenutou noční hodinu. „Shledávám, že nejvíce si vždy užívám posledních hodin před úsvitem,“ praví Strahd, „ale přiznávám, že jsem dnes večer nečekal, že na tak osamělé stezce potkám spřízněné duše.“
 
-Strahd then asks what business the players might have on the road to Yester Hill—especially at such a dark and forsaken time of night. “I find that it is always the final hours before dawn that I most enjoy," Strahd says, “but I confess I did not expect to find kindred spirits on such a lonely path this eve."
+Pokud se hráči pokusí svůj záměr zatajit, Strahd nahlas hádá, že přišli ze stejného důvodu jako on – aby byli svědky velkého „triumfu“ Lesního lidu, zrození stromového zhoubce (**tree blight**), jemuž říkají Zimotřísk. „Ačkoli,“ poznamená pobaveně a jeho tmavé oči se ve tmě zatřpytí, „troufl bych si hádat, že jste nepřišli oslavovat mocné vítězství druidů, nýbrž ho zmařit – mečem a kouzlem.“
 
-If the players attempt to conceal their purpose, Strahd guesses aloud that they have come for much the same reason he has—to witness the Forest Folks’ great “triumph," the birth of the **tree blight** they call Wintersplinter. “Although," he notes with amusement, his dark eyes glittering in the darkness, “I would hazard to guess that you have come not to celebrate the druids’ mighty victory, but to vanquish it—by sword and spell."
+V obou případech Strahd hráče vyzve, aby šli po jeho boku, zatímco pojede k Yesterskému vrchu, „neboť cesta je temná a společnost vždy vítaná“. Pokud odmítnou, pokárá je za nezdvořilost, pobídne Beucephala vpřed a zmizí ve stínech před nimi. (Je to Beucephalova schopnost ***ethereal stride***, která jeho i Strahda přenese do Ethereal Plane.)
+### Procházka se Strahdem
+Pokud hráči Strahdovo pozvání přijmou a půjdou po jeho boku, začne se jich vyptávat, jak se jim od jejich posledního setkání v Barovii líbí. Pokud hráči v [[Arc D - St. Andral's Feast|Oblouk D – Hostina svatého Andrala]] zahnali Volentu Popofsky, Strahd poznamená, že s nimi zřejmě měla *nanejvýš* nezapomenutelné setkání – příběh, který si po jejím návratu na hrad Ravenloft s velkým potěšením vyslechl. („Stejně jako mé ostatní nevěsty se mi vždy snaží zalíbit – ačkoli musím zahanbeně přiznat, že má přízeň bývá vrtkavá.“)
 
-In either case, Strahd invites the players to walk alongside him as he rides to Yester Hill, “for the road is dark, and company always welcome." If they decline, he chides them for their rudeness and directs Beucephalus forward before vanishing amidst the shadows ahead. (This is Beucephalus’s ***ethereal stride*** feature, spiriting it and Strahd away to the Ethereal Plane.)
-### Walking with Strahd
-If the players accept Strahd’s invitation and walk alongside him, he begins by asking them how they have enjoyed their time in Barovia following their last meeting. If the players drove off Volenta Popofsky in [[Arc D - St. Andral's Feast]], Strahd notes that she appears to have had *quite* the memorable encounter with them—a tale he quite enjoyed hearing upon her return to Castle Ravenloft. (“Like my other brides, she does always endeavor to please me—though I must abashedly confess that my favor can be a fickle one.")
+Pokud se hráči zeptají, Strahd jim rád představí svého přízračného oře (**nightmare**) Beucephala. „Za života mu říkali Zázračný kůň,“ poznamená Strahd a prsty přejíždí plameny oří hřívy. „Nyní je zázrakem jiného druhu.“
 
-If the players ask, Strahd is glad to introduce his **nightmare** steed, Beucephalus. “The Wonder-Horse, they called him in life," Strahd notes, tracing his hands through the flames of the nightmare’s mane. “He is a different sort of wonder now."
+Pokud se hráči zeptají na večeři v Ravenloftu, nebo pokud dříve odmítli Rahadinovo pozvání k večeři se Strahdem v [[Arc O - Dinner with the Devil|Oblouk O – Večeře s ďáblem]], Strahd prozradí, že se na večeři s nimi na svém hradě těší a doufá, že jeho nadšení sdílejí.
 
-If the players inquire as to the dinner at Ravenloft, or if the players previously rejected Rahadin’s invitation to dine with Strahd in [[Arc O - Dinner with the Devil]], Strahd shares that he is looking forward to dining with them at his castle, and that he hopes that they share his enthusiasm.
+Pokud se hráči zeptají na obsah Strahdových sedlových brašen, Strahd prostě prohlásí, že jde o jeho osobní majetek – starou věc, které se přijel zbavit výměnou za něco nového. (Víc to Strahd nerozvede.)
 
-If the players inquire as to the contents of Strahd’s saddlebags, Strahd merely states that they are his personal belongings—an old possession that he has come to dispose of in exchange for something new. (Strahd won’t elaborate further.)
-
-If the players ask whether Strahd knows anything about Kavan, Strahd smiles faintly. Instead of answering their question, he says, "Intriguingly, I was not the first creature called 'blood-drinker' in this valley. Can you guess who that was?" Regardless of the players' answer, he then shares the following tale:
-
-<div class="description">
-<p>"Long before my time, in the centuries before it came under my protection, Barovia was ruled by a different kind of darkness. His name was Kavan, warlord of the Mountain Tribes, and he swept forth from the Balinok Mountains like a raging storm to slaughter all who stood in his path. They called him Blood-Drinker, for the cursed spear he carried and his own, terrible thirst.</p>
-<p>"Kavan, you see, was not of my kin. He was something far worse—a man of mortal lusts and ambitions. He drank the blood of his victims and buried himself beneath the red-stained soil when he slept, bathing in their terror and pain."</p>
-<p>"His reign, though it lasted no longer than his lifetime, was an era of bloody excess—a testament to the depths of human brutality." Strahd's smile is thin and sharp, like broken glass. "Remember his tale as you walk these lands, for the echoes of the past never leave us, and the blood Kavan spilled still stains these hallowed hills."</p>
-</div>
-
-### Strahd's Wager
-As he and the players approach Yester Hill, Strahd asks them—in a bored, disinterested tone—why he should allow them to meddle in the affairs of his servants at Yester Hill. “After all," he notes, with a gleam in his eyes, “they do work so *hard* in their efforts to please me."
-
-As in his first encounter with the players, Strahd is glad to accept any reasonable argument that the players might make in support of Strahd’s neutrality, though he once again revels in playing Devil’s advocate throughout the conversation. Strahd might eventually accept the following arguments, among others:
-
-* As with Volenta, Strahd appears to enjoy seeing his servants tested and challenged. Allowing the players to fight the Forest Folk at Yester Hill will provide an additional opportunity to do so.
-* Strahd appears to be interested enough in the players to have invited them to dine personally at his castle. Killing the players now, before they’ve had a chance to do so, would be a waste.
-* The Wizard of Wines is an economic pillar of the Barovian community. Depriving Strahd’s people of wine would do harm to an old and honorable family, and bring sadness and despair to the people they serve.
-
-> [!abstract] **The Players Attack**
-> If the players move to attack Strahd or Beucephalus at any point, Beucephalus immediately uses its ***ethereal escape*** reaction to step into the Ethereal Plane, bringing Strahd along with it. Strahd then reappears astride Beucephalus a short distance away the following round, whereupon he chides the players for their hastiness and rudeness.
-> 
-> If the players then move to attack Strahd or Beucephalus again, Strahd doesn’t return a second time, instead proceeding directly to meet the druids of Yester Hill.
-
-If the players successfully convince Strahd to allow them to fight the Forest Folk, upon reaching the base of Yester Hill, Strahd notes that he is impressed by their audacity, and offers the following wager: if the players succeed in their task, they may meet him at the base of the Whispering Wall to the west of Yester Hill after the ritual, where he will offer them a gift—and share with them a secret. (If asked what the players will lose should they fail, Strahd merely smiles, and notes that their "opponent" likely has plans for that eventuality.)
-# J5. Yester Hill
-The final stretch of the trail that leads to Yester Hill is as described in <span class="citation">Y1. Trail (p. 197)</span>. However, read the following additional text when the players arrive at the base of Yester Hill:
+Pokud se hráči zeptají, zda Strahd něco ví o Kavanovi, Strahd se slabě usměje. Místo odpovědi na jejich otázku řekne: „Je pozoruhodné, že jsem nebyl prvním tvorem, kterému v tomto údolí říkali ‚krvopijec‘. Uhodnete, kdo to byl?“ Bez ohledu na odpověď hráčů pak vypráví následující příběh:
 
 <div class="description">
-<p>A flash of brilliant emerald light suddenly flickers from within an enormous ring of stacked boulders atop the hilltop. As you watch, the light thrums like an unsteady heartbeat—even as it slowly, gradually, and yet steadily grows in intensity. You think you can faintly hear the distant sound of drumming echoing across the mountains from atop the hill.</p>
+<p>„Dávno přede mnou, ve staletích předtím, než se Barovie ocitla pod mou ochranou, vládla této zemi temnota jiného druhu. Jmenoval se Kavan, vojevůdce Horských kmenů, a vyřítil se z pohoří Balinok jako běsnící bouře, aby pobil každého, kdo mu stál v cestě. Říkali mu Krvopijec – pro prokleté kopí, které nosil, i pro svou vlastní strašlivou žízeň.</p>
+<p>Kavan, jak vidíte, nebyl mého rodu. Byl něčím mnohem horším – mužem smrtelných chtíčů a ctižádostí. Pil krev svých obětí, a když spal, pohřbíval se pod krví zbarvenou zemí a koupal se v jejich hrůze a bolesti.“</p>
+<p>„Jeho vláda, ač netrvala déle než jeho život, byla věkem krvavé nestřídmosti – svědectvím o hlubinách lidské krutosti.“ Strahdův úsměv je tenký a ostrý jako střep. „Pamatujte na jeho příběh, až budete kráčet těmito zeměmi, neboť ozvěny minulosti nás nikdy neopouštějí a krev, kterou Kavan prolil, dosud zbarvuje tyto posvátné kopce.“</p>
 </div>
 
-When the players arrive at Yester Hill, if Strahd has accompanied them, he informs them that, if they wish to make good on their bet, they must first meet him at the point where the road meets the top of the hill. (He promises the players that he'll "make sure the festivities don't start without you," adding, "You must meet your opponent, after all.") If the players accept, he notes that he will "see them at the top," and vanishes astride Beucephalus.
+### Strahdova sázka
+Když se Strahd s hráči blíží k Yesterskému vrchu, zeptá se jich – znuděným, lhostejným tónem –, proč by jim měl dovolit vměšovat se do záležitostí svých služebníků na Yesterském vrchu. „Koneckonců,“ poznamená s jiskrou v očích, „tolik se *snaží*, aby mi udělali radost.“
 
-The players can climb the trail straight to <span class="citation">Y3. Druids Circle (p. 197)</span> at the top of the hill. (They don't need to travel through the berserker cairns, which are as described in <span class="citation">Y2. Berserker Cairns (p. 197)</span> and which they pass during their ascent up the hill, in order to do so.)
+Stejně jako při prvním setkání s hráči Strahd rád přijme jakýkoli rozumný argument, který hráči na podporu jeho neutrality předloží, i když se v průběhu rozhovoru opět s gustem staví do role ďáblova advokáta. Strahd by nakonec mohl přijmout mimo jiné tyto argumenty:
 
-> [!info]+ **The Swarms of Ravens**
-> The **swarms of ravens** that accompanied the players to Yester Hill follow in the skies behind them, but don't join in the fighting. (If the players mention this, Muriel points out that they'd be of little use when attacking against more dangerous foes than the blights of the winery, but notes her belief that they may find some way to help all the same.)
+* Stejně jako u Volenty se zdá, že Strahd rád vidí své služebníky zkoušené a vystavené výzvám. Pokud hráčům dovolí utkat se s Lesním lidem na Yesterském vrchu, dostane k tomu další příležitost.
+* Zdá se, že se Strahd o hráče zajímá natolik, že je osobně pozval k večeři na svůj hrad. Zabít je teď, dřív než k tomu dostanou příležitost, by bylo plýtvání.
+* Čaroděj vín je hospodářským pilířem barovského společenství. Připravit Strahdův lid o víno by ublížilo starému a ctihodnému rodu a přineslo by smutek a zoufalství lidem, jimž slouží.
+
+> [!abstract] **Hráči útočí**
+> Pokud se hráči kdykoli pokusí zaútočit na Strahda nebo Beucephala, Beucephalus okamžitě použije svou reakci ***ethereal escape***, vstoupí do Ethereal Plane a vezme Strahda s sebou. Strahd se pak v následujícím kole znovu objeví v sedle Beucephala kousek opodál a pokárá hráče za jejich ukvapenost a nezdvořilost.
 > 
-> Although the ravens won't act as combatants in battle, they can aid the players in their fight against Ludmilla and in their efforts to escape should the ritual fail. See [[#Ludmilla's Provocations]] and [[#J5f. Stopping the Ritual]] for more information on how the ravens help.
-## J5a. Entering the Circle
-The druids' circle is largely as described in <span class="citation">Y3. Druids' Circle (p. 197)</span>. However, add the following text to the end of the area's description:
+> Pokud se hráči pokusí na Strahda nebo Beucephala zaútočit znovu, Strahd se podruhé nevrátí a zamíří rovnou za druidy na Yesterský vrch.
+
+Pokud hráči Strahda úspěšně přesvědčí, aby jim dovolil utkat se s Lesním lidem, poznamená Strahd po příchodu k úpatí Yesterského vrchu, že na něj jejich troufalost udělala dojem, a nabídne jim následující sázku: pokud ve svém úkolu uspějí, mohou se s ním po rituálu setkat u paty Šeptající zdi západně od Yesterského vrchu, kde jim nabídne dar – a prozradí jim tajemství. (Pokud se ho hráči zeptají, co ztratí, pokud neuspějí, Strahd se jen usměje a poznamená, že jejich „protivník“ má pro takový případ nejspíš vlastní plány.)
+# J5. Yesterský vrch
+Poslední úsek stezky, která vede na Yesterský vrch, odpovídá popisu v <span class="citation">Y1. Trail (p. 197)</span>. Když hráči dorazí k úpatí Yesterského vrchu, přečtěte však navíc následující text:
 
 <div class="description">
-<p>A deep emerald light flashes from the statue's chest, and the swell of the drumbeat fills your ears. As you pass through the boulders, it's joined by the sound of chanting, which rumbles from a circle of thirteen figures that stand around the statue's base. Above the beast hides they wear, they bear antlers, wolfskins, and crowns crafted of wicked thorns, and crimson markings paint their faces a bloody hue.</p>
-<p>A circle of thick, black roots three feet high surrounds the chanting figures, just beneath a thin layer of pale, drifting mist. Several figures bearing stone axes and quarterstaffs form a protective ring around it, their mouths and forearms bearing jagged crimson markings. A dark-skinned woman clad in a white gown stands at their head, her eyes fixed upon the statue and her chin lifted proudly.</p>
+<p>Z nitra obrovského prstence navršených balvanů na vrcholu kopce náhle šlehne záblesk zářivě smaragdového světla. Zatímco přihlížíte, světlo tepe jako nepravidelný tlukot srdce – a přitom pomalu, postupně, a přece vytrvale sílí. Zdá se vám, že z vrcholu kopce slabě slyšíte vzdálené bubnování, které se rozléhá po horách.</p>
 </div>
 
-Just beside the entrance to the ring of black boulders that forms the **Druids’ Circle** and ten feet above the ground hovers Strahd von Zarovich, who is seated on his **nightmare** Beucephalus. As the players enter the circle, if Strahd notices them, read:
+Pokud hráče Strahd doprovázel, po příchodu na Yesterský vrch jim oznámí, že pokud chtějí svou sázku dodržet, musí se s ním nejprve setkat v místě, kde cesta dosahuje vrcholu kopce. (Slíbí hráčům, že „dohlédne, aby slavnost nezačala bez nich“, a dodá: „Koneckonců se musíte setkat se svým protivníkem.“) Pokud hráči souhlasí, poznamená, že se „uvidí nahoře“, a zmizí v sedle Beucephala.
+
+Hráči mohou vystoupat po stezce přímo do <span class="citation">Y3. Druids Circle (p. 197)</span> na vrcholu kopce. (K tomu nemusejí procházet mohylami berserkerů, které odpovídají popisu v <span class="citation">Y2. Berserker Cairns (p. 197)</span> a které cestou do kopce míjejí.)
+
+> [!info]+ **Roje havranů**
+> Roje havranů (**swarms of ravens**), které hráče doprovázely na Yesterský vrch, letí po obloze za nimi, ale do boje se nezapojí. (Pokud to hráči zmíní, Muriel poukáže na to, že proti nebezpečnějším nepřátelům, než byli zhoubci ve vinařství, by jim byli k ničemu, ale poznamená, že věří, že najdou jiný způsob, jak pomoci.)
+> 
+> Přestože havrani v boji nebudou bojovat, mohou hráčům pomoci v boji s Ludmillou a v jejich snaze uprchnout, pokud by rituál selhal. Více o tom, jak havrani pomáhají, najdete v [[#Ludmilliny provokace|Ludmilliny provokace]] a [[#J5f. Zastavení rituálu|J5f. Zastavení rituálu]].
+## J5a. Vstup do kruhu
+Druidský kruh do značné míry odpovídá popisu v <span class="citation">Y3. Druids' Circle (p. 197)</span>. Na konec popisu oblasti však doplňte následující text:
 
 <div class="description">
-<p>You hear a familiar cold, resonant voice pierce the air above you. "Quite the impressive display, wouldn't you say?" intones Strahd von Zarovich.</p>
-<p>He is mounted upon his fiery steed, which hovers nearly ten feet off of the ground above you. His cloak whips gently in the chill air, and a small, contemplative smile curves his lips as he turns a small object over in his hand. "Ludmilla was always one to put on a show."</p>
+<p>Z hrudi sochy šlehne sytě smaragdové světlo a vaše uši zaplní nápor bubnování. Když procházíte mezi balvany, přidá se k němu zvuk zpěvu, který duní z kruhu třinácti postav stojících kolem podstavce sochy. Nad zvířecími kůžemi, které mají na sobě, nosí paroží, vlčí kožešiny a koruny spletené ze zlovolných trnů a karmínové znaky jim barví tváře do krvava.</p>
+<p>Zpívající postavy obklopuje tři stopy vysoký kruh silných černých kořenů, těsně pod tenkou vrstvou bledé, plující mlhy. Několik postav s kamennými sekerami a válečnými holemi kolem něj tvoří ochranný prstenec; na ústech a předloktích mají zubaté karmínové znaky. V jejich čele stojí žena tmavé pleti v bílých šatech, upírá zrak na sochu a hrdě zvedá bradu.</p>
 </div>
 
-The thirteen figures around the statue’s base are thirteen **druid naturalists.** The four figures protecting them are two **druid assailants** and two **berserkers.** The woman is Ludmilla Vilisevic, one of Strahd’s vampiric brides.
+Těsně vedle vstupu do prstence černých balvanů, který tvoří **druidský kruh**, se deset stop nad zemí vznáší Strahd von Zarovich v sedle svého přízračného oře (**nightmare**) Beucephala. Když hráči vstoupí do kruhu a Strahd si jich všimne, přečtěte:
 
-> [!combat]- **Combat - The Ritual's Guards**  
-> **Combat Level**: Bruising
-> **Expected Character Level**: 5
-> **Allies:** Ireena Kolyana (CR 2), and Muriel Vinshaw (CR 2)
-> **Expected HP Consumption:** 25%
+<div class="description">
+<p>Nad sebou zaslechnete známý chladný, zvučný hlas, který protne vzduch. „Nanejvýš působivá podívaná, nemyslíte?“ pronese Strahd von Zarovich.</p>
+<p>Sedí na svém ohnivém oři, který se vznáší téměř deset stop nad zemí nad vámi. Plášť mu jemně vlaje v chladném vzduchu a rty mu zvlní drobný, zadumaný úsměv, zatímco v ruce obrací malý předmět. „Ludmilla si vždycky potrpěla na divadlo.“</p>
+</div>
+
+Třináct postav kolem podstavce sochy je třináct druidských přírodovědců (**druid naturalists**). Čtyři postavy, které je chrání, jsou dva druidští útočníci (**druid assailants**) a dva berserkeři (**berserkers**). Žena je Ludmilla Vilisevic, jedna ze Strahdových upířích nevěst.
+
+> [!combat]- **Boj – Stráže rituálu**  
+> **Úroveň boje**: Bolestivý
+> **Očekávaná úroveň postav**: 5
+> **Spojenci:** Ireena Kolyana (CR 2) a Muriel Vinshaw (CR 2)
+> **Očekávaná ztráta HP:** 25 %
 > 
-> ### **Enemies:**
+> ### **Nepřátelé:**
 > 
-> | |3 Players | 4 Players | 5 Players | 6 Players |
+> | |3 hráči | 4 hráči | 5 hráčů | 6 hráčů |
 > |-|-|-|-|-|
 > | Berserker | 2 | 1 | 2 | 3 |
 > | Druid Assailant | 1 | 2 | 2 | 2 |
 > | Ludmilla Vilisevic | 1 | 1 | 1 | 1 |
 
-A player who succeeds on a DC 14 Wisdom (Perception) check notices that the object in Strahd’s hand is an old, yet well-carved wooden chess piece: a pawn.
-## J5b. Ludmilla's Challenge
-Shortly after the players enter the circle, any players still looking at the circle of chanting druids see Ludmilla turn, notice them, and vanish in a curl of mist. She then reappears before the players in similar fashion, standing just thirty feet away.
+Hráč, který uspěje v ověření Wisdom (Perception) se DC 14, si všimne, že předmět ve Strahdově ruce je stará, ale pečlivě vyřezaná dřevěná šachová figurka: pěšec.
+## J5b. Ludmillina výzva
+Krátce poté, co hráči vstoupí do kruhu, uvidí všichni hráči, kteří se stále dívají na kruh zpívajících druidů, jak se Ludmilla otočí, všimne si jich a zmizí v obláčku mlhy. Pak se stejným způsobem znovu objeví přímo před hráči, pouhých třicet stop od nich.
 
 ![[Ludmilla.png]]
-<span class="credit">"Ludmilla Vilisevic" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">„Ludmilla Vilisevic“ – autor: Caleb Cleveland. Podpořte ho na <a href="https://patreon.com/calebisdrawing/">Patreonu!</a></span>
 
-> [!profile]+ **Profile: Ludmilla Vilisevic**
-> **Roleplaying Information**
-> ***Resonance.*** Ludmilla should inspire irritation with her refusal to let the players provoke her (and her evident inability to feel anger), discomfort with her detached and analytical personality, and anger for her condescension and intricate insults.
+> [!profile]+ **Profil: Ludmilla Vilisevic**
+> **Pro hraní role**
+> ***Vyznění.*** Ludmilla by měla budit podráždění tím, že se nenechá hráči vyprovokovat (a že zjevně neumí cítit hněv), nepohodlí svou odtažitou a analytickou povahou a hněv svou blahosklonností a rafinovanými urážkami.
 > 
-> ***Emotions.*** Ludmilla most often feels intrigued, annoyed, thoughtful, or (mildly) amused.
+> ***Emoce.*** Ludmilla nejčastěji cítí zaujetí, rozmrzelost, zamyšlení nebo (mírné) pobavení.
 > 
-> ***Motivations.*** Ludmilla wants to conquer the secrets of magic and impress Strahd sufficiently to become his arcane advisor, as Khazan once was.
+> ***Motivace.*** Ludmilla chce ovládnout tajemství magie a zapůsobit na Strahda natolik, aby se stala jeho magickou rádkyní, jako kdysi Khazan.
 > 
-> ***Inspirations.*** When playing Ludmilla, channel Severus Snape (*Harry Potter*), Sherlock Holmes (*Sherlock*), and Dr. Gregory House (*House*).
+> ***Inspirace.*** Při hraní Ludmilly čerpejte z postav Severus Snape (*Harry Potter*), Sherlock Holmes (*Sherlock*) a Dr. Gregory House (*House*).
 > 
-> **Character Information**
-> ***Persona.*** To the world, Ludmilla is an ambitious, detached, and sociopathic mage, dedicated to attaining knowledge and power at all costs.
+> **O postavě**
+> ***Tvář.*** Před světem je Ludmilla ctižádostivá, odtažitá a sociopatická mágyně, která se za každou cenu žene za věděním a mocí.
 > 
-> ***Morale.*** In a fight, Ludmilla would seek to lure her opponent into a pre-prepared trap, fleeing if outmatched and unable to meet the fight with some sort of advantage.
+> ***Morálka.*** V boji by se Ludmilla snažila vlákat protivníka do předem připravené pasti a uprchla by, pokud by byla v přesile a nemohla by boj svést s nějakou výhodou.
 > 
-> ***Relationships.*** Ludmilla is Strahd's second-eldest vampiric bride and the matron of the coven of **Barovian witches** at Castle Ravenloft.
+> ***Vztahy.*** Ludmilla je Strahdova druhá nejstarší upíří nevěsta a představená sabatu barovských čarodějnic (**Barovian witches**) na hradě Ravenloft.
 
-Unless the players intervene, the following scene then unfolds:
+Pokud hráči nezasáhnou, odehraje se následující scéna:
 
-* Ludmilla greets Strahd respectfully, calling him "my Lord," and notes with concern—and a slight edge to her voice—that she had not known he would be bringing additional company.
-* Strahd gestures with a flourish toward the players, and notes, with obvious relish, that he had no hand in their arrival—but that he is intrigued by what Ludmilla will do next.
-* Ludmilla recognizes the pawn in Strahd’s hand and abruptly becomes stony-faced, her voice going sharp and cold. She then eyes the players with distaste, her lip curling, and notes, "Another one of your games, then. Very well, my Lord. I assure you, however, that you shall be disappointed."
-* Strahd gives Ludmilla a small smile, and says, “Perhaps. But I have always relished the opportunity for surprise." He and Beucephalus then vanish, disappearing into the Ethereal Plane through the use of Beucephalus’ ***ethereal stride***.
+* Ludmilla uctivě pozdraví Strahda, osloví ho „můj pane“ a znepokojeně – s lehce ostrým podtónem v hlase – poznamená, že nevěděla, že přivede další společnost.
+* Strahd s okázalým gestem ukáže na hráče a se zjevným potěšením poznamená, že s jejich příchodem nemá nic společného – ale je zvědavý, co Ludmilla udělá teď.
+* Ludmilla pozná pěšce ve Strahdově ruce a náhle zkamení ve tváři; její hlas zostří a zchladne. Pak si hráče s odporem změří, ohrne ret a poznamená: „Tedy další z vašich her. Dobrá, můj pane. Ujišťuji vás však, že budete zklamán.“
+* Strahd věnuje Ludmille drobný úsměv a řekne: „Možná. Ale překvapení jsem si vždy vychutnával.“ Pak s Beucephalem zmizí v Ethereal Plane pomocí Beucephalovy schopnosti ***ethereal stride***.
 
-Ludmilla then greets the players. If they have previously defeated Volenta in [[Arc D - St. Andral's Feast]], Ludmilla's eyes narrow and she adds, "I have heard tell of your encounter with my sister-bride. I imagine you thought you could rest easy atop your laurels. But Volenta has always been a halfwit, a hothead, and a fool. You will find me a far less pleasant adversary—as these pitiful ravens and their ilk have done."
+Pak Ludmilla pozdraví hráče. Pokud dříve porazili Volentu v [[Arc D - St. Andral's Feast|Oblouk D – Hostina svatého Andrala]], Ludmilla přimhouří oči a dodá: „Slyšela jsem o vašem setkání s mou sestrou nevěstou. Představuji si, že jste si mysleli, že můžete klidně odpočívat na vavřínech. Volenta však byla vždy pomatenec, horká hlava a hlupák. Já pro vás budu mnohem méně příjemným protivníkem – jak už poznali tihle ubozí havrani a jim podobní.“
 
-As this conversation unfolds, the two **berserkers** and two **druid assailants** split off from the protective ring around the circle of druids and approach the players, moving to flank Ludmilla. They arrive at Ludmilla's location two rounds after she first greets the players.
+Zatímco rozhovor probíhá, oddělí se dva berserkeři (**berserkers**) a dva druidští útočníci (**druid assailants**) od ochranného prstence kolem kruhu druidů, přiblíží se k hráčům a zaujmou postavení po Ludmilliných bocích. K Ludmille dorazí dvě kola poté, co poprvé pozdraví hráče.
 
-Ludmilla flees if attacked, using her ***misty step*** feature to teleport thirty feet into the air and toward the chanting druids. As she does, she creates a *shroud of mist* with a 60-foot radius centered on the statue to cover her retreat. (See **Shroud of Mist** below.)
+Pokud je Ludmilla napadena, uprchne – pomocí své schopnosti ***misty step*** se teleportuje třicet stop do vzduchu směrem ke zpívajícím druidům. Přitom vytvoří *shroud of mist* o poloměru 60 stop se středem u sochy, aby si kryla ústup. (Viz **Závoj mlhy** níže.)
 
-Otherwise, Ludmilla can share the following information if asked:
+Jinak může Ludmilla na požádání prozradit následující:
 
-* Three months ago, when Doru's rebellion awoke Strahd from his slumber, there was a raven among them—but no ordinary raven. It seemed to possess an intelligence far beyond any ordinary beast.
-* Strahd took the raven captive, and when Ludmilla returned to the castle—"to my Lord's service"—she was granted permission to investigate its properties. She soon found that the raven swiftly regenerated any wounds dealt to it, even those that seemed to be mortal—except those inflicted by silver or necrotic magic. She surmised that she had discovered a **wereraven**—a mythic counterpart to the wolfish lycanthropes that ranged in packs across the Barovian valley.
-* With her research completed, Ludmilla moved to vivisect the creature, aiming to uncover any final hidden attributes. "It shrieked and squealed like a pig," she notes coldly, "but fortunately, the silver of its restraints burned it too fiercely for it to even contemplate the possibility of escape." (If Muriel is with the players, she begins to tremble, her hand curling tightly around the hilt of her shortsword until her knuckles turn white.)
-* When the raven finally expired, it reverted to the form of a man—seemingly proving Ludmilla's theory. Ludmilla took the body to Baba Lysaga—an old colleague and mentor of hers—in Berez. Through Baba Lysaga's guidance, she tracked the wereraven to a seditious and traitorous family that dwelled in the Wizard of Wines winery—the Martikov clan.
-* Baba Lysaga vowed to see the wereravens dead, and Ludmilla brokered an alliance between her and the druids of Yester Hill, who were eager to bring the downfall of any who defied their "Shadowed Lord." 
-* It was sheer luck that Baba Lysaga's scarecrows uncovered the source of the winery's fecundity—a pair of enchanted gemstones that the Forest Folk recognized as heirlooms stolen from their ancestors. The druids were, understandably, eager to reclaim their heritage from the feathered usurpers.
+* Před třemi měsíci, když Doruova vzpoura probudila Strahda z jeho spánku, byl mezi vzbouřenci havran – ale žádný obyčejný havran. Zdálo se, že má inteligenci daleko přesahující jakékoli obyčejné zvíře.
+* Strahd havrana zajal, a když se Ludmilla vrátila na hrad – „do služeb mého pána“ –, dostala svolení prozkoumat jeho vlastnosti. Brzy zjistila, že havran rychle regeneruje veškerá zranění, která mu způsobila, i ta, jež se zdála smrtelná – kromě těch, která mu zasadilo stříbro nebo nekrotická magie. Usoudila, že objevila havranodlaka (**wereraven**) – mýtický protějšek vlčích lykantropů, kteří se ve smečkách potulují barovským údolím.
+* Když byl její výzkum hotov, přistoupila Ludmilla k vivisekci tvora, aby odhalila poslední skryté vlastnosti. „Ječel a kvičel jako prase,“ poznamená chladně, „ale naštěstí ho stříbro jeho pout pálilo tak krutě, že ani nepomyslel na možnost útěku.“ (Pokud je Muriel s hráči, začne se třást a ruka se jí pevně sevře kolem jílce krátkého meče, až jí zbělají klouby.)
+* Když havran konečně zemřel, proměnil se zpět v muže – což zdánlivě potvrdilo Ludmillinu teorii. Ludmilla odnesla tělo Babě Lysaze – své staré kolegyni a učitelce – do Berezu. S pomocí Baby Lysagy vystopovala havranodlaka až k pobuřující a zrádné rodině, která žila ve vinařství Čaroděj vín – k rodu Martikovů.
+* Baba Lysaga přísahala, že havranodlaky uvidí mrtvé, a Ludmilla mezi ní a druidy z Yesterského vrchu zprostředkovala spojenectví; druidové dychtili přivodit pád každému, kdo se vzepřel jejich „Pánovi stínů“.
+* Bylo čirou náhodou, že strašáci Baby Lysagy odhalili zdroj plodnosti vinařství – dvojici očarovaných drahokamů, v nichž Lesní lid poznal dědictví ukradené svým předkům. Druidové pochopitelně dychtili získat své dědictví zpět od opeřených uchvatitelů.
 
-Ludmilla concludes by warning the players that, though they may view her as their enemy, their "raven friends" cannot be trusted. "What other secrets are they hiding from you, I wonder?" she asks, eyeing Muriel (if present) thoughtfully. "But a good specimen never holds its secrets for long."
-## J5c. The Ritual Begins
-As the conversation winds down, or if the players attack or attempt to bypass Ludmilla, read:
+Ludmilla na závěr hráče varuje, že ačkoli ji mohou považovat za nepřítele, jejich „havraním přátelům“ se nedá věřit. „Jaká další tajemství před vámi asi skrývají?“ zeptá se a zamyšleně si přitom prohlíží Muriel (pokud je přítomna). „Ale dobrý vzorek si svá tajemství nikdy dlouho neudrží.“
+## J5c. Rituál začíná
+Když rozhovor utichá, nebo pokud hráči zaútočí či se pokusí Ludmillu obejít, přečtěte:
 
 <div class="description">
-<p>The dark storm roils overhead — and a single bolt of lightning lances down from the boiling clouds, surrounding the statue in a nimbus of white, blinding light. A deep groan seems to shudder through the very earth of the hill, and the wind around you whips up into a hot and heavy gale, tearing through the tall grass as it shrieks across the hilltop.</p>
-<p>The sounds of chanting and drum beats intensify—and sparks of deep, emerald energy begin to arc across the earth and toward the statue.</p>
+<p>Temná bouře nad vámi se zmítá – a z vroucích mračen sjede jediný blesk a obklopí sochu svatozáří bílého, oslepujícího světla. Zdá se, že samotnou zemí kopce projede hluboké zasténání, a vítr kolem vás se zvedne v horkou, těžkou vichřici, která rve vysokou trávu a s jekotem se žene přes vrchol kopce.</p>
+<p>Zpěv a údery bubnů zesílí – a po zemi začnou k soše přeskakovat jiskry sytě smaragdové energie.</p>
 </div>
 
-The lightning strike signals the true beginning of the druids’ ritual. Once the ritual begins, the thirteen **druid naturalists** encircling the statue use their action each turn to continue chanting and beating their drums. While participating in the ritual, a druid can't move or use bonus actions or reactions.
+Úder blesku značí skutečný začátek druidského rituálu. Jakmile rituál začne, použije každý ze třinácti druidských přírodovědců (**druid naturalists**), kteří obklopují sochu, každý tah svou akci k dalšímu zpěvu a bubnování. Druid, který se účastní rituálu, se nemůže pohybovat ani používat bonusové akce či reakce.
 
-> [!info]+ **Completing the Ritual**
-> To complete the ritual, the druids must use their actions to chant for 12 rounds, with at least one of them chanting each round. At the end of each round, if fewer than twelve druids are able to chant (e.g., because some druids have broken concentration or died, or due to a *silence* spell), roll a d12. 
+> [!info]+ **Dokončení rituálu**
+> K dokončení rituálu musí druidové svými akcemi zpívat po dobu 12 kol, přičemž v každém kole musí zpívat alespoň jeden z nich. Na konci každého kola, pokud může zpívat méně než dvanáct druidů (např. proto, že někteří druidové ztratili soustředění nebo zemřeli, nebo kvůli kouzlu *silence*), hoďte d12.
 > 
-> If the result is greater than the number of chanting druids that round, sparks of green lightning arc from the statue, shocking all creatures within the wall of roots. Each target must succeed on a DC 17 Constitution saving throw or take 7 (2d6) lightning damage and be dazed until the start of their next turn. (A dazed creature can move or take one action on its turn, not both. It also can’t take a bonus action or a reaction.)
+> Pokud je výsledek vyšší než počet druidů, kteří v tom kole zpívali, vyšlehnou ze sochy jiskry zeleného blesku a zasáhnou všechny tvory uvnitř zdi z kořenů. Každý cíl musí uspět v záchranném hodu na Constitution se DC 17, jinak utrží 7 (2d6) zranění bleskem (lightning) a je do začátku svého dalšího tahu omámen (dazed). (Omámený tvor se může ve svém tahu buď pohnout, nebo provést jednu akci, ne obojí. Nemůže také provést bonusovou akci ani reakci.)
 > 
-> The second time this lightning is triggered, the damage increases to 10 (3d6) lightning damage. The third time this lightning is triggered, the ritual is ruined, unleashing its destructive energy as described in **Stopping the Ritual** below.
+> Když se blesk spustí podruhé, zranění se zvýší na 10 (3d6) zranění bleskem (lightning). Když se blesk spustí potřetí, je rituál zmařen a uvolní svou ničivou energii, jak je popsáno v části **Zastavení rituálu** níže.
 
-> [!abstract]+ **The Ritual is Completed**
-> If the druids successfully complete the ritual, the **tree blight** Wintersplinter is born as described in <span class="citation">Druids’ Ritual (p. 200)</span>. The druid naturalists then turn to attack the players as Wintersplinter begins its march on the Wizard of Wines winery. (If the players don’t stop it, Wintersplinter destroys the winery as described in <span class="citation">Wintersplinter Attacks (p. 180)</span>, then returns to Yester Hill, where it stands dormant near its birthplace awaiting further orders.)
+> [!abstract]+ **Rituál je dokončen**
+> Pokud druidové rituál úspěšně dokončí, zrodí se stromový zhoubce (**tree blight**) Zimotřísk, jak je popsáno v <span class="citation">Druids’ Ritual (p. 200)</span>. Druidští přírodovědci se pak obrátí proti hráčům, zatímco Zimotřísk vyrazí na pochod k vinařství Čaroděj vín. (Pokud ho hráči nezastaví, Zimotřísk vinařství zničí, jak je popsáno v <span class="citation">Wintersplinter Attacks (p. 180)</span>, a pak se vrátí na Yesterský vrch, kde nečinně stojí nedaleko místa svého zrození a čeká na další rozkazy.)
 > 
-> If the players are defeated, the druids stabilize them and bring them to the Gulthias Tree as sacrifices. Before binding the players, the druids remove any visible or easily found weapons, focuses, magic items, and containers (e.g., backpacks) from the players’ persons, which they store at the base of the statue that once held Wintersplinter. 
+> Pokud jsou hráči poraženi, druidové je stabilizují a přinesou je ke stromu Gulthias jako oběti. Než hráče spoutají, odeberou jim veškeré viditelné či snadno nalezitelné zbraně, ohniska (focuses), kouzelné předměty a zavazadla (např. batohy), které uloží u paty sochy, v níž býval Zimotřísk.
 > 
-> All druids then depart from the hill except Svarog, who buries himself in mud nearby as described in <span class="citation">Hidden Graves (p. 198)</span>. Two **berserkers** also bury themselves in mud not far away. The players must succeed on a DC 11 Dexterity (Stealth) check to retrieve their belongings without awakening Svarog or his berserker guardians.
+> Všichni druidové pak kopec opustí – kromě Svaroga, který se nedaleko zahrabe do bahna, jak je popsáno v <span class="citation">Hidden Graves (p. 198)</span>. Nedaleko se do bahna zahrabou také dva berserkeři (**berserkers**). Hráči musí uspět v ověření Dexterity (Stealth) se DC 11, aby své věci získali zpět, aniž by probudili Svaroga nebo jeho berserkerské strážce.
 > 
-> When the players regain consciousness, they find themselves disarmed and lashed to the trunk of the Gulthias Tree, with webs of small, black roots extruding from the tree’s base and penetrating their skin. A player is restrained while bound in this way, and poisoned for as long as the roots remain in their skin. A web of roots has AC 10, 10 hit points, and regenerates 10 hit points at initiative count 20 of each round if it has at least 1 hit point and isn’t in sunlight or running water.
+> Když hráči nabudou vědomí, zjistí, že jsou odzbrojeni a připoutáni ke kmeni stromu Gulthias, přičemž z paty stromu vyrůstají sítě drobných černých kořínků a pronikají jim pod kůži. Hráč spoutaný tímto způsobem je zadržen (restrained) a otráven (poisoned), dokud mu kořeny zůstávají v kůži. Síť kořenů má AC 10, 10 HP a na iniciativě 20 v každém kole regeneruje 10 HP, pokud má alespoň 1 HP a není na slunci ani v tekoucí vodě.
 > 
-> At the end of each hour that a player is infested by the tree’s roots, they must succeed on a DC 17 Constitution saving throw or take 1d6 necrotic damage. Their hit point maximum is reduced by an amount equal to the necrotic damage. This reduction lasts until the player finishes a long rest, and the player dies if this effect reduces their hit point maximum to 0.
-## J5d. The Druidic Guards
-Immediately after the ritual begins, the two **druid assailants** and two **berserkers** work to prevent the players and Muriel from approaching the statue, by force if necessary. If she hasn’t already, Ludmilla retreats to the ritualists’ circle as soon as combat breaks out. As she does, she uses her action to create a *shroud of mist* with a 60-foot radius around the statue to cover her retreat. (See [[Arc J - The Stolen Gem#The Shroud of Mist|The Shroud of Mist]] below.) She then uses her bonus action to summon her **shroud of shadows** (see below).
+> Na konci každé hodiny, po kterou je hráč prorostlý kořeny stromu, musí uspět v záchranném hodu na Constitution se DC 17, jinak utrží 1d6 nekrotického (necrotic) zranění. Jeho maximum HP se sníží o hodnotu rovnou utrženému nekrotickému zranění. Toto snížení trvá, dokud hráč nedokončí dlouhý odpočinek, a pokud tento účinek sníží hráčovo maximum HP na 0, hráč zemře.
+## J5d. Druidské stráže
+Bezprostředně po začátku rituálu se dva druidští útočníci (**druid assailants**) a dva berserkeři (**berserkers**) snaží zabránit hráčům a Muriel v přístupu k soše, v případě nutnosti i silou. Pokud tak Ludmilla ještě neučinila, stáhne se, jakmile vypukne boj, ke kruhu rituálníků. Přitom svou akcí vytvoří kolem sochy *shroud of mist* o poloměru 60 stop, aby si kryla ústup. (Viz [[Arc J - The Stolen Gem#Závoj mlhy|Závoj mlhy]] níže.) Pak svou bonusovou akcí přivolá svůj **shroud of shadows** (viz níže).
 <br>
 
 ![[Yester Hill Layout (Presentation) (1).png]]
 <br>
 
-> [!info]+ **The Size of the Hill**
-> The area encompassed by <span class="citation">Y3. Druids' Circle (p. 197)</span> is approximately two hundred and fifty feet in diameter, or approximately one hundred and twenty-five feet in radius. The players must travel approximately sixty feet from their entry point in the circle—where the **berserkers** and **druid assailants** obstruct them—to reach the edge of Ludmilla's shroud of mist.
-## J5e. Ludmilla's Barricade
-Once the players bypass or defeat the druids and berserkers guarding the entrance to the circle, Ludmilla and her allies create two barriers to obstruct them: a shroud of mist, followed by a wall of roots.
-### The Shroud of Mist
-This hollow cylinder of gray fog has a radius of 60 feet and is 150 feet high, with its opaque, six-inch-thick, "curtain"-like edges obscuring its interior, which is filled and lightly obscured by faint, harmless mist. The cylinder lasts for 10 minutes, or until Ludmilla dismisses it as a bonus action. (Maintaining the shroud doesn't require Ludmilla's concentration.) 
+> [!info]+ **Rozměry kopce**
+> Oblast <span class="citation">Y3. Druids' Circle (p. 197)</span> má průměr přibližně dvě stě padesát stop, tedy poloměr přibližně sto dvacet pět stop. Od místa, kudy vstoupí do kruhu – kde jim cestu zatarasí berserkeři (**berserkers**) a druidští útočníci (**druid assailants**) –, musí hráči ujít přibližně šedesát stop, aby dosáhli okraje Ludmillina závoje mlhy.
+## J5e. Ludmillina bariéra
+Jakmile hráči obejdou nebo porazí druidy a berserkery, kteří střeží vstup do kruhu, vytvoří Ludmilla a její spojenci dvě bariéry, aby je zastavili: závoj mlhy a po něm zeď z kořenů.
+### Závoj mlhy
+Tento dutý válec šedé mlhy má poloměr 60 stop a výšku 150 stop; jeho neprůhledné okraje silné šest palců připomínají „oponu“ a zakrývají vnitřek, který vyplňuje slabá, neškodná mlha, jež ho lehce zastírá (lightly obscured). Válec trvá 10 minut, nebo dokud ho Ludmilla bonusovou akcí nerozptýlí. (Udržování závoje nevyžaduje Ludmillino soustředění.)
  
-A non-undead creature that comes into contact with the mist for the first time on a turn must succeed on a DC 15 Constitution saving throw or take 10 (3d6) necrotic damage and be slowed until the start of its next turn. (It must spend 1 extra foot of movement for every foot it moves using its speed, attack rolls against it have advantage, and it has disadvantage on Dexterity saving throws.)
+Tvor, který není nemrtvý a poprvé během tahu přijde do styku s mlhou, musí uspět v záchranném hodu na Constitution se DC 15, jinak utrží 10 (3d6) nekrotického (necrotic) zranění a je do začátku svého dalšího tahu zpomalen (slowed). (Za každou stopu, kterou urazí svou rychlostí, musí vynaložit 1 stopu pohybu navíc, hody na útok proti němu mají výhodu a má nevýhodu na záchranné hody na Dexterity.)
 
-> [!info]+ **Laying Out the Battlefield**
-> Once the players move through the ring of mist, the structure of the battlefield is as follows:
+> [!info]+ **Rozložení bojiště**
+> Jakmile hráči projdou prstencem mlhy, vypadá bojiště takto:
 > 
-> * The Huge statue of Strahd stands at the center of the ring.
-> * Twelve **druid naturalists** encircle the statue, with each druid standing 10 feet from the statue. Svarog, a thirteenth **druid naturalist**, stands between them.
-> * The fifteen-foot-thick wall of roots surrounds the circle of druids, with the wall’s inner edge five feet away from the druids.
-> * Ludmilla’s thin ring of mist begins twenty feet away from the outer edge of the wall of roots.
-> * Ludmilla remains above the wall of roots and within the circle enclosed by the ring of mist.
-### The Wall of Roots
-The first time that a player passes through Ludmilla’s shroud of mist, read:
+> * Uprostřed prstence stojí obrovská (Huge) socha Strahda.
+> * Sochu obklopuje dvanáct druidských přírodovědců (**druid naturalists**), každý stojí 10 stop od sochy. Mezi nimi stojí Svarog, třináctý druidský přírodovědec (**druid naturalist**).
+> * Kruh druidů obklopuje patnáct stop silná zeď z kořenů, jejíž vnitřní okraj je pět stop od druidů.
+> * Ludmillin tenký prstenec mlhy začíná dvacet stop od vnějšího okraje zdi z kořenů.
+> * Ludmilla zůstává nad zdí z kořenů a uvnitř kruhu ohraničeného prstencem mlhy.
+### Zeď z kořenů
+Když hráč poprvé projde Ludmilliným závojem mlhy, přečtěte:
 
 <div class="description">
-<p>A druid at the center of the circle lifts his hands high, clasping a thin, stone-gray wand in his pale, bony fingers. At his gesture, the ring of black roots pulsates as if alive, quivering and writhing as their blackened bark rises into the air.</p>
-<p>Thorns—long, wicked, and sharp—erupt from the roots' edges, even as droplets of crimson blood bead upon the roots' soft, spongy surfaces. The roots themselves grow vertically, twisting and intertwining, until they form a wall of dark, impenetrable foliage thirty feet high and fifteen feet deep. Black roots pierce from its sides and rise into the air above it, where they tremble and writhe like slick, muddy tendrils.</p>
+<p>Druid uprostřed kruhu vysoko zvedne ruce; v bledých, kostnatých prstech svírá tenkou, kamenně šedou hůlku. Na jeho pokyn prstenec černých kořenů zapulzuje, jako by byl živý, zachvěje se a svíjí, jak se jejich zčernalá kůra zvedá do vzduchu.</p>
+<p>Z okrajů kořenů vyrazí trny – dlouhé, zlovolné a ostré – a na měkkém, houbovitém povrchu kořenů vyrazí kapky karmínové krve. Kořeny samy rostou vzhůru, kroutí se a proplétají, až vytvoří zeď temného, neprostupného porostu, třicet stop vysokou a patnáct stop silnou. Z jejích boků vyrážejí černé kořeny a zvedají se do vzduchu nad ní, kde se chvějí a svíjejí jako slizká, zablácená chapadla.</p>
 </div>
 
-The druid is Svarog, and the wand that he wields is the one mentioned by Kavan. 
+Druid je Svarog a hůlka, kterou třímá, je ta, o níž mluvil Kavan.
 
-If Muriel is with the players and takes the necrotic damage after passing through Ludmilla’s shroud of mist, a player watching her notices that she looks briefly surprised at the beginning of her turn the following round. (Muriel is disturbed that the necrotic damage dealt by the mist appears to be inhibiting her ***regeneration*** feature.)
+Pokud je Muriel s hráči a utrží nekrotické zranění při průchodu Ludmilliným závojem mlhy, hráč, který ji sleduje, si všimne, že na začátku jejího tahu v následujícím kole vypadá na okamžik překvapeně. (Muriel znepokojuje, že nekrotické zranění od mlhy zřejmě brzdí její schopnost ***regeneration***.)
 
-The statistics of the wall of roots are as follows:
+Statistiky zdi z kořenů jsou následující:
 
-* ***Wall Segments.*** The wall of roots is composed of interconnected segments of black roots. Each segment is five feet tall, five feet wide, and five feet deep, and has AC 15 and 20 hit points, as well as vulnerability to radiant damage and immunity to piercing and psychic damage. Each segment has +3 to Strength and Constitution saving throws and automatically fails all Dexterity, Intelligence, Wisdom, and Charisma saving throws. A segment of roots provides full cover and can't be seen through.
-* ***Segment Regeneration.*** A wall segment regains 10 hit points at initiative count 20 if it has at least 1 hit point and isn't in sunlight. If the segment takes radiant or fire damage, this trait doesn't function on the following round. Reducing a segment to 0 hit points destroys it.
-* ***Wrathful Roots.*** A creature other than Ludmilla that moves along the outer edge of the wall for the first time on a turn or ends its turn there must make a DC 17 Dexterity saving throw as long, thorned roots whip out from the wall’s surface. (A creature that moves along an interior edge of the wall—such as a corridor carved out by the players' attacks—is not attacked.) On a failure, the creature is grappled by the roots (escape DC 17) and takes 3 (1d6) bludgeoning damage plus 7 (2d6) piercing damage at the start of each of its turns. A bundle of grappling roots, which takes damage separately from its wall segment, has AC 15, 10 hit points, vulnerability to radiant damage, and immunity to piercing and psychic damage.
+* ***Úseky zdi.*** Zeď z kořenů se skládá z navzájem propojených úseků černých kořenů. Každý úsek je pět stop vysoký, pět stop široký a pět stop hluboký, má AC 15 a 20 HP, je zranitelný vůči zranění zářením (radiant) a imunní vůči zranění typu piercing a psychic. Každý úsek má +3 na záchranné hody na Strength a Constitution a ve všech záchranných hodech na Dexterity, Intelligence, Wisdom a Charisma automaticky neuspěje. Úsek kořenů poskytuje úplné krytí (full cover) a nelze skrz něj vidět.
+* ***Regenerace úseků.*** Úsek zdi získá na iniciativě 20 zpět 10 HP, pokud má alespoň 1 HP a není na slunci. Pokud úsek utrží zranění zářením (radiant) nebo ohněm (fire), tato vlastnost v následujícím kole nefunguje. Snížení úseku na 0 HP ho zničí.
+* ***Hněvivé kořeny.*** Tvor kromě Ludmilly, který se poprvé během tahu pohybuje podél vnějšího okraje zdi nebo tam ukončí svůj tah, musí provést záchranný hod na Dexterity se DC 17, protože z povrchu zdi vyšlehnou dlouhé, trnité kořeny. (Tvor, který se pohybuje podél vnitřního okraje zdi – například chodbou, kterou do ní hráči vysekali svými útoky –, napaden není.) Při neúspěchu je tvor kořeny uchvácen (grappled; únik DC 17) a na začátku každého svého tahu utrží 3 (1d6) drtivého (bludgeoning) zranění plus 7 (2d6) bodného (piercing) zranění. Svazek uchvacujících kořenů, který utrží zranění odděleně od svého úseku zdi, má AC 15, 10 HP, zranitelnost vůči zranění zářením (radiant) a imunitu vůči zranění typu piercing a psychic.
 
 > [!info]+ **Spirit Guardians**
-> The wall of roots takes damage from *spirit guardians* and other spells or abilities that trigger at the start of a creature's turn at initiative count 0 of each round.
+> Zeď z kořenů utrží zranění od kouzla *spirit guardians* a dalších kouzel či schopností, které se spouštějí na začátku tahu tvora, na iniciativě 0 v každém kole.
 
-> [!info]+ **Moving Through the Wall**
-> A creature can move through the wall of roots, albeit slowly and painfully. For every 1 foot a creature moves through the wall, it must spend 4 feet of movement. Furthermore, the first time a creature enters the wall on a turn or ends its turn there, the creature must make a DC 17 Dexterity saving throw. It takes 7d8 slashing damage on a failed save, or half as much damage on a successful one.
+> [!info]+ **Průchod zdí**
+> Tvor může zdí z kořenů projít, i když pomalu a bolestivě. Za každou 1 stopu, kterou zdí urazí, musí vynaložit 4 stopy pohybu. Navíc když tvor poprvé během tahu do zdi vstoupí nebo v ní ukončí svůj tah, musí provést záchranný hod na Dexterity se DC 17. Při neúspěchu utrží 7d8 sečného (slashing) zranění, při úspěchu poloviční.
 
-> [!info]+ **Flying Over the Wall**
-> Whenever a creature other than Ludmilla flies over the wall for the first time on a turn or ends its turn there, if it is within 300 feet of the wall, long, black roots reach from the wall and loop around the creature to hold it in place. The creature must succeed on a DC 17 Dexterity saving throw or be grappled (escape DC 17) and fall prone to the ground below. (The creature takes falling damage as normal.)
+> [!info]+ **Přelet nad zdí**
+> Kdykoli tvor kromě Ludmilly poprvé během tahu přeletí nad zdí nebo tam ukončí svůj tah, a je-li do 300 stop od zdi, natáhnou se ze zdi dlouhé černé kořeny a ovinou se kolem něj, aby ho zadržely na místě. Tvor musí uspět v záchranném hodu na Dexterity se DC 17, jinak je uchvácen (grappled; únik DC 17) a spadne k zemi (prone). (Tvor utrží zranění pádem jako obvykle.)
 > 
-> While grappled in this way, the creature takes 3 (1d6) bludgeoning damage plus 7 (2d6) piercing damage at the start of each of its turns. The roots have AC 15, 20 hit points, vulnerability to radiant damage, and immunity to piercing and psychic damage.
-### Ludmilla's Provocations
-Once the players pass through the shroud of mist, Ludmilla also engages them in combat with her ***shroud of shadows*** activated. (Due to her automatic *contingency* feature, Ludmilla teleports away from the battlefield and flees if her first phase is reduced to 0 hit points.)
+> Dokud je tvor takto uchvácen, utrží na začátku každého svého tahu 3 (1d6) drtivého (bludgeoning) zranění plus 7 (2d6) bodného (piercing) zranění. Kořeny mají AC 15, 20 HP, zranitelnost vůči zranění zářením (radiant) a imunitu vůči zranění typu piercing a psychic.
+### Ludmilliny provokace
+Jakmile hráči projdou závojem mlhy, pustí se do boje s nimi i Ludmilla s aktivovaným ***shroud of shadows***. (Díky své automatické schopnosti *contingency* se Ludmilla teleportuje pryč z bojiště a uprchne, pokud její první fáze klesne na 0 HP.)
 
 <div class="statblock">
     <h2>Ludmilla, First Form</h2>
@@ -1322,271 +1320,271 @@ Once the players pass through the shroud of mist, Ludmilla also engages them in 
     <p><strong><em>Contingency (1/day).</em></strong> If Ludmilla would drop to 0 hit points as a result of taking damage, a <em>contingency</em> spell activates, allowing her to gain the effects of <em>dimension door</em>. (Because Ludmilla doesn't cast the spell at the time of her reaction, it can't be countered.)</p>
 </div>
 
-> [!combat]- **Combat - The Second Bride**  
-> **Combat Level**: Bruising
-> **Expected Character Level**: 5
-> **Allies:** Muriel Vinshaw (CR 1), Ireena Kolyana (CR 2)
-> **Expected HP Consumption:** 20%
+> [!combat]- **Boj – Druhá nevěsta**  
+> **Úroveň boje**: Bolestivý
+> **Očekávaná úroveň postav**: 5
+> **Spojenci:** Muriel Vinshaw (CR 1), Ireena Kolyana (CR 2)
+> **Očekávaná ztráta HP:** 20 %
 > 
-> ### **Balancing:**
-> If you have fewer or more than 5 players, modify the encounter in the following ways:
+> ### **Vyvážení:**
+> Pokud máte méně nebo více než 5 hráčů, upravte střetnutí následovně:
 >
-> | Number of Players | Modification |
+> | Počet hráčů | Úprava |
 > |-|-|
-> | 3 | Decrease Ludmilla’s hit points to 84. Decrease the damage of her mage’s reprisal reaction to 5 (2d4). |
-> | 4 | Decrease Ludmilla’s hit points to 102. Decrease the damage of her mage’s reprisal reaction to 6 (1d12). |
-> | 6 | Increase Ludmilla’s hit points to 136. |
+> | 3 | Snižte Ludmilliny HP na 84. Snižte zranění její reakce mage’s reprisal na 5 (2d4). |
+> | 4 | Snižte Ludmilliny HP na 102. Snižte zranění její reakce mage’s reprisal na 6 (1d12). |
+> | 6 | Zvyšte Ludmilliny HP na 136. |
 
-In combat, Ludmilla prefers to begin by using ***entangling slime***, moving to use ***hypnotic pattern*** only once most of the players have either escaped or evaded her grease and webs.
+V boji Ludmilla nejraději začíná schopností ***entangling slime*** a k ***hypnotic pattern*** přejde až ve chvíli, kdy většina hráčů unikla jejímu mazu a pavučinám nebo se jim vyhnula.
 
 > [!abstract]+ **Hypnotic Pattern**
-> If any players fail their saving throws against Ludmilla's *hypnotic pattern*, one or more of the **swarms of ravens** descend to awaken them on initiative count 20 of the following round before returning to the skies.
+> Pokud někteří hráči neuspějí v záchranném hodu proti Ludmillinu *hypnotic pattern*, jeden či více rojů havranů (**swarms of ravens**) se snese dolů, aby je na iniciativě 20 v následujícím kole probudily, a pak se vrátí na oblohu.
 
-On Ludmilla's first turn in combat, if Muriel is present, Ludmilla also attempts to provoke her. The following sequence then unfolds, assuming the players do not intervene:[^1]
+Pokud je Muriel přítomna, pokusí se ji Ludmilla v prvním tahu boje také vyprovokovat. Pokud hráči nezasáhnou, odehraje se následující:[^1]
 
-[^1]: Inspired by *The Dark Knight*
-
-<div class="description">
-<p>Ludmilla eyes Muriel with mild curiosity. "I saw how you reacted when I mentioned the wereraven's death. Did you know him perhaps? Was he someone close to you?"</p>
-<p>A small, cold smile twists Ludmilla's lips. "Do you want to know why I dissect my test subjects? In their final moments, people reveal their true selves—their deepest fears and regrets. In a way, I know him better than you ever did."</p>
-<p>A calculating, predatory glint appears in her eyes. "Would you like to know if he was a coward in the end?"</p>
-<p>Muriel's face turns white, and she begins to tremble, heaving with exertion and rage.</p>
-</div>
-
-A player can dissuade Muriel from attacking Ludmilla with a successful DC 25 Charisma (Persuasion) check, with no action required. Otherwise, Muriel uses her ***shapechange*** ability on her next turn to transform into a humanoid-raven hybrid and immediately attacks Ludmilla with her ***shortsword multiattack***. Read:
+[^1]: Inspirováno filmem *The Dark Knight*
 
 <div class="description">
-<p>An anguished howl bursts from Muriel's lips—lips which, you notice, are suddenly growing longer, harder, and as sharp as an avian's beak. The sound of ripping fabric pierces the air as two enormous, black-feathered, blue-tipped wings tear from her back, her hands and feet shriveling into gnarled raven's claws.</p>
-<p>With a shriek of rage and impotent fury, Muriel spreads her wings and launches into the air.</p>
+<p>Ludmilla si Muriel prohlíží s mírnou zvědavostí. „Viděla jsem, jak jsi zareagovala, když jsem zmínila smrt toho havranodlaka. Znala jsi ho snad? Byl ti blízký?“</p>
+<p>Ludmilliny rty zkřiví malý, chladný úsměv. „Chceš vědět, proč své pokusné subjekty pitvám? Ve svých posledních chvílích lidé odhalí své pravé já – své nejhlubší strachy a lítosti. Svým způsobem jsem ho znala lépe, než jsi ho kdy znala ty.“</p>
+<p>V očích se jí objeví vypočítavý, dravý záblesk. „Chceš vědět, jestli byl nakonec zbabělec?“</p>
+<p>Muriel zbělá v obličeji a začne se třást; zvedá se jí hruď námahou i vztekem.</p>
 </div>
 
-Each time Muriel takes piercing or slashing damage (e.g. from Ludmilla's ***shroud of shadows*** feature), blood from her wounds spills onto the earth of Yester Hill below. Read:
+Hráč může Muriel od útoku na Ludmillu odradit úspěšným ověřením Charisma (Persuasion) se DC 25, které nevyžaduje akci. Jinak Muriel ve svém dalším tahu použije schopnost ***shapechange***, promění se v hybrida člověka a havrana a okamžitě zaútočí na Ludmillu svým ***shortsword multiattack***. Přečtěte:
+
+<div class="description">
+<p>Z Murielliných rtů vytryskne zmučené zavytí – z rtů, které se, jak si všimnete, náhle prodlužují, tvrdnou a ostří jako ptačí zobák. Vzduch protne zvuk trhající se látky, jak se jí ze zad vyderou dvě obrovská křídla s černým peřím a modrými konci a ruce i nohy se jí scvrknou v pokroucené havraní pařáty.</p>
+<p>S výkřikem vzteku a bezmocné zuřivosti Muriel roztáhne křídla a vymrští se do vzduchu.</p>
+</div>
+
+Pokaždé, když Muriel utrží bodné (piercing) nebo sečné (slashing) zranění (např. od Ludmilliny schopnosti ***shroud of shadows***), krev z jejích ran skane na zem Yesterského vrchu pod ní. Přečtěte:
 
 <div class=description>
-<p>Muriel's blood pours onto the ground, forming crimson pools in the muddy earth. As you watch, small black roots extrude from the wall of roots and pierce the pools' surface, bulges of liquid traversing the roots' length as they drink greedily of the spilled blood.</p>
+<p>Muriellina krev se řine na zem a v bahnité půdě tvoří karmínové kaluže. Zatímco přihlížíte, ze zdi z kořenů se vysunou malé černé kořínky, proniknou hladinou kaluží a po celé jejich délce putují boule tekutiny, jak hltavě pijí prolitou krev.</p>
 </div>
 
-Each 5-foot square within 30 feet of the ground beneath Muriel then undergoes the following effects:
+Každé pole o straně 5 stop do 30 stop od země pod Muriel pak podléhá následujícím účinkům:
 
-* If the square contains a wall segment, it regains 10 hit points. (A segment regains hit points even if its ***regeneration*** feature isn’t currently functioning.)
-* If the square previously contained a wall segment but is now empty, that square gains the effects of a *spike growth* spell.
-* If the square previously contained a wall segment and currently has the effects of a *spike growth* spell, the _spike growth_ effect is replaced by a wall segment with 5 hit points.
+* Pokud je na poli úsek zdi, získá zpět 10 HP. (Úsek získá HP zpět, i když jeho vlastnost ***regeneration*** právě nefunguje.)
+* Pokud na poli dříve byl úsek zdi, ale nyní je prázdné, získá pole účinky kouzla *spike growth*.
+* Pokud na poli dříve byl úsek zdi a nyní na něm působí kouzlo *spike growth*, nahradí účinek _spike growth_ úsek zdi s 5 HP.
 
-A player can persuade Muriel to cease attacking Ludmilla with a DC 20 Charisma (Persuasion) check, with advantage if the player invokes Elric's memory and urges Muriel against seeking revenge. (The check succeeds automatically if Muriel and the player have previously bonded over their experience with loss.) This check doesn't require an action.
-## J5f. Stopping the Ritual
-The thirteen **druid naturalists** within the wall of roots have a speed of 0 for the duration of the ritual, their legs and feet bound by the roots of the Gulthias tree, which connect them to the statue at the center of the circle. 
+Hráč může Muriel přesvědčit, aby přestala útočit na Ludmillu, ověřením Charisma (Persuasion) se DC 20, s výhodou, pokud připomene Elricovu památku a naléhá na Muriel, aby se nemstila. (Ověření uspěje automaticky, pokud si Muriel a hráč již dříve porozuměli díky společné zkušenosti se ztrátou.) Toto ověření nevyžaduje akci.
+## J5f. Zastavení rituálu
+Třináct druidských přírodovědců (**druid naturalists**) uvnitř zdi z kořenů má po dobu rituálu rychlost 0 – jejich nohy poutají kořeny stromu Gulthias, které je spojují se sochou uprostřed kruhu.
 
-The druids must use their actions each turn to chant the words of the ritual, which requires their concentration, as if concentrating on a spell. While chanting in this way, the druids can't use bonus actions or reactions. The druids also dare not cast *thunderwave* or other damaging spells in the circle, for fear of damaging the statue. 
+Druidové musí každý tah svou akcí pronášet slova rituálu, což vyžaduje jejich soustředění, jako by se soustředili na kouzlo. Zatímco takto zpívají, nemohou druidové používat bonusové akce ani reakce. Druidové se také neodváží v kruhu seslat *thunderwave* ani jiná zraňující kouzla, aby nepoškodili sochu.
 
-When the players first enter the circle, the thirteenth druid, Svarog, ceases chanting and enters combat. Roll initiative for Svarog.
+Když hráči poprvé vstoupí do kruhu, třináctý druid, Svarog, přestane zpívat a zapojí se do boje. Hoďte Svarogovi na iniciativu.
 
-Svarog has the statistics of a **druid naturalist**, except he gains the following features: 
+Svarog má statistiky **druid naturalist**, ale získává následující schopnosti:
 
-* ***Gust of Wind.*** As an action, Svarog casts *gust of wind*.
-* ***Bind Elements (3/day).*** _2nd Level Spell:_ range 60 feet, components V S, 1 round. As a reaction when he sees a creature casting a spell of 3rd level or lower within range that deals acid, cold, fire, lightning, or thunder damage, Svarog can force that creature to make a DC 12 saving throw using its spellcasting ability. On a failure, the creature's spell fails and it has no effect, and a small orb of elemental energy appears in Svarog's hand. Svarog can use a bonus action on his next turn to fling the orb, making a ranged spell attack using the orb (+5 to hit) against a creature within 60 feet. On a hit, the orb deals 1d6 damage of the type absorbed, plus an additional 1d6 damage for each level of the spell absorbed.
+* ***Gust of Wind.*** Svarog akcí sešle *gust of wind*.
+* ***Bind Elements (3/den).*** _Kouzlo 2. úrovně:_ dosah 60 stop, složky V S, 1 kolo. Jako reakci, když vidí tvora v dosahu sesílat kouzlo 3. či nižší úrovně, které způsobuje zranění kyselinou (acid), chladem (cold), ohněm (fire), bleskem (lightning) nebo hromem (thunder), může Svarog přinutit tohoto tvora provést záchranný hod se DC 12 na jeho vlastnost pro sesílání kouzel. Při neúspěchu kouzlo tvora selže a nemá žádný účinek a ve Svarogově ruce se objeví malá koule elementální energie. Svarog může ve svém dalším tahu bonusovou akcí kouli vrhnout – provede jí útok kouzlem na dálku (+5 to hit) proti tvorovi do 60 stop. Při zásahu způsobí koule 1d6 zranění pohlceného typu plus dalších 1d6 zranění za každou úroveň pohlceného kouzla.
 
-The statue is largely as described in <span class="citation">Y3. Druids' Circle (p. 197)</span>. However, the statue has 100 hit points. In addition, the portion of the statue's chest containing the gem, which lies 30 feet above the ground, has AC 10 and 10 hit points, with immunity to poison and psychic damage. The gem cannot be retrieved until the statue's chest is reduced to 0 hit points, at which point the gem is exposed. 
+Socha do značné míry odpovídá popisu v <span class="citation">Y3. Druids' Circle (p. 197)</span>. Socha však má 100 HP. Navíc část hrudi sochy, v níž je drahokam a která se nachází 30 stop nad zemí, má AC 10 a 10 HP a imunitu vůči zranění typu poison a psychic. Drahokam nelze vyjmout, dokud hruď sochy neklesne na 0 HP; v tu chvíli je drahokam odhalen.
 
-If the ritual is permanently disrupted (see **The Ritual Begins** above) or if the players retrieve the gem from the statue's chest, the ritual's destructive energy is unleashed upon the circle. Read:
+Pokud je rituál trvale narušen (viz **Rituál začíná** výše) nebo pokud hráči vyjmou drahokam z hrudi sochy, uvolní se ničivá energie rituálu na celý kruh. Přečtěte:
 
 <div class="description">
-<p>Bolts of brilliant emerald lightning crackle across the statue's surface, and the air within the circle grows thick with ozone. All around you, the druids wail and gnash their teeth, casting down their drums and staffs as they fruitlessly work to free themselves of the roots that bind them to the black earth below. The wand-bearing druid flings his wand to the earth with a shrieked curse, then lifts the staff from his shoulders to the sky, chanting words of desperation and defiance. </p>
-<p>The wind whips into a frenzied gale, screaming through your ears, as the bark of the statue begins to splinter and creak. The electric potential suffusing the air grows to a terrible peak around the statue, your flesh prickling with the energy impatiently waiting to be unleashed. </p>
+<p>Po povrchu sochy praskají blesky zářivě smaragdového světla a vzduch uvnitř kruhu zhoustne ozónem. Všude kolem vás druidové kvílejí a skřípou zuby, odhazují bubny a hole a marně se snaží vymanit z kořenů, které je poutají k černé zemi pod nimi. Druid s hůlkou s ječivou kletbou mrští hůlkou o zem, pak sejme z ramen hůl, pozvedne ji k nebi a odříkává slova zoufalství a vzdoru.</p>
+<p>Vítr se rozbouří v šílenou vichřici, která vám ječí v uších, a kůra sochy začne pukat a skřípat. Elektrický náboj, jímž je vzduch prosycen, kolem sochy vystoupá ke strašlivému vrcholu a kůže vás brní energií, která netrpělivě čeká, až bude uvolněna.</p>
 </div>
 
-In the three rounds following the ritual's disruption, the following events occur:
+Ve třech kolech po narušení rituálu nastanou následující události:
 
-* On initiative count 20, the statue collapses. When this occurs, any player still climbing the statue must succeed on a DC 10 Dexterity saving throw or take 1d6 bludgeoning damage and fall prone 30 feet from the statue's base, in the direction of the stone circle's exit. In addition, Svarog, if still alive, takes 14 (4d6) bludgeoning damage and is knocked prone and restrained by the fallen statue.
-* On initiative count 10 of the following round, if any players remain within 30 feet of the statue, the **swarms of ravens** descend to carry them away, with a minimum of two swarms needed to carry a player of size Medium and a minimum of one swarm needed to carry a player of size Small or smaller.
-* On initiative count 0 of the following round, all creatures within 30 feet of the statue must make a DC 17 Constitution saving throw, taking 56 (16d6) lightning damage on a failure or half as much on a success.
+* Na iniciativě 20 se socha zhroutí. Když se tak stane, musí každý hráč, který po soše ještě šplhá, uspět v záchranném hodu na Dexterity se DC 10, jinak utrží 1d6 drtivého (bludgeoning) zranění a dopadne k zemi (prone) 30 stop od paty sochy, směrem k východu z kamenného kruhu. Svarog, pokud je stále naživu, navíc utrží 14 (4d6) drtivého (bludgeoning) zranění a je zřícenou sochou sražen k zemi (prone) a zadržen (restrained).
+* Na iniciativě 10 následujícího kola, pokud někteří hráči zůstávají do 30 stop od sochy, snesou se roje havranů (**swarms of ravens**) a odnesou je pryč; k unesení hráče velikosti Medium jsou potřeba nejméně dva roje, k unesení hráče velikosti Small či menší nejméně jeden roj.
+* Na iniciativě 0 následujícího kola musí všichni tvorové do 30 stop od sochy provést záchranný hod na Constitution se DC 17; při neúspěchu utrží 56 (16d6) zranění bleskem (lightning), při úspěchu poloviční.
 
-In addition, if still present on her next turn, Ludmilla uses her action to use her ***dimension door*** to escape, teleporting to the Gulthias grove to the south before returning to Castle Ravenloft.
+Pokud je Ludmilla ve svém dalším tahu stále přítomna, použije navíc svou akci k útěku pomocí ***dimension door*** – teleportuje se do háje Gulthias na jihu a odtud se vrátí na hrad Ravenloft.
 
-> [!abstract]+ **Strahd’s Wager**
-> If the players successfully stop the ritual, Strahd briefly reappears upon Beucephalus, hovering thirty feet above the ground on the northwest edge of the stone circle. Once noticed by the players, Strahd inclines his head toward <span class="citation">Y5. Wall of Fog (p. 200)</span>, nudges Beucephalus in its direction, and vanishes once again as the **nightmare** canters toward it.
-# J6. After the Ritual
-## J6a. Muriel’s Confession
-If the players confront Muriel after the fight, she is willing to share the following information:
+> [!abstract]+ **Strahdova sázka**
+> Pokud hráči rituál úspěšně zastaví, Strahd se na okamžik znovu objeví na Beucephalovi, vznášeje se třicet stop nad zemí na severozápadním okraji kamenného kruhu. Jakmile si ho hráči všimnou, Strahd kývne hlavou směrem k <span class="citation">Y5. Wall of Fog (p. 200)</span>, pobídne Beucephala tím směrem a znovu zmizí, zatímco přízračný oř (**nightmare**) k ní vyrazí cvalem.
+# J6. Po rituálu
+## J6a. Muriellino přiznání
+Pokud hráči po boji Muriel konfrontují, je ochotna prozradit následující:
 
-* She, like all of the members of the Keepers of the Feather, is a **wereraven**—a lycanthrope cursed to assume the form of a raven beneath the light of the full moon. (If asked, Muriel can confirm that Elric Martikov was the Keeper who bestowed the curse upon her, and who initiated her into the Keepers of the Feather.)
-* Her lycanthropy allows her to assume the form of a raven or a raven-humanoid hybrid, and provides her with regenerative abilities and flight, though silvered weapons are lethal to her. If she took damage from Ludmilla’s shroud of mist, she shares that certain kinds of dark magic appear to be lethal to her as well.
-* Her betrothed, Elric Martikov, was a wereraven who accompanied Doru’s rebellion in raven form, seeking to provide guidance to the ramshackle mob. He never returned from Castle Ravenloft—evidently, because Ludmilla killed him.
+* Ona, stejně jako všichni členové Strážců pera, je havranodlak (**wereraven**) – lykantrop prokletý tím, že ve světle úplňku přijímá podobu havrana. (Pokud se jí hráči zeptají, Muriel potvrdí, že prokletí na ni přenesl Elric Martikov, který ji také uvedl mezi Strážce pera.)
+* Její lykantropie jí umožňuje přijmout podobu havrana nebo hybrida člověka a havrana a dává jí regenerační schopnosti a schopnost létat, ale postříbřené zbraně jsou pro ni smrtící. Pokud utrpěla zranění od Ludmillina závoje mlhy, prozradí, že některé druhy temné magie jsou pro ni zřejmě smrtící také.
+* Její snoubenec Elric Martikov byl havranodlak, který v havraní podobě doprovázel Doruovu vzpouru a snažil se nesourodé tlupě poskytnout vedení. Z hradu Ravenloft se už nevrátil – zjevně proto, že ho zabila Ludmilla.
 
-If she lost control and attacked Ludmilla, Muriel sincerely and shamefacedly apologizes for doing so. “Everything felt so far away," she says, quietly. “I thought I was going to lose myself, I was so angry." If the players brought her back to her senses, she is deeply grateful to them for doing so.
+Pokud ztratila sebeovládání a zaútočila na Ludmillu, Muriel se za to upřímně a zahanbeně omluví. „Všechno mi připadalo tak daleko,“ řekne tiše. „Myslela jsem, že se v tom vzteku ztratím.“ Pokud ji hráči přivedli k rozumu, je jim za to hluboce vděčná.
 
-If the players ask Muriel to curse them with wereraven lycanthropy, she laughs softly, and apologizes for disappointing them. “Even if I gave it to you, you couldn’t control it—not without months of proper training," she tells them. (Muriel is referring to the mechanism by which wereravens embrace their curse, which can only be achieved unknowingly.) Muriel apologetically refuses to say anything further on the subject, though she is glad to reassure the players that her refusal doesn’t arise from a lack of trust.
-## J6b. The Whispering Wall
+Pokud hráči Muriel požádají, aby je prokletím havraní lykantropie nakazila, tiše se zasměje a omluví se, že je musí zklamat. „I kdybych vám ho předala, nedokázali byste ho ovládat – ne bez měsíců pořádného výcviku,“ řekne jim. (Muriel mluví o mechanismu, jímž havranodlaci své prokletí přijímají a jehož lze dosáhnout jen nevědomky.) Muriel se omluvně zdráhá říct k tomu cokoli dalšího, ale ráda hráče ujistí, že její odmítnutí nepramení z nedostatku důvěry.
+## J6b. Šeptající zeď
 
-> [!warning]+ **Player Dreams**
-> Before running this scene, ask your players to provide you with information about their characters' deepest desires, then use this information to craft a suitable encounter should that player enter the Whispering Wall.
+> [!warning]+ **Sny hráčů**
+> Než tuto scénu odehrajete, požádejte hráče, aby vám prozradili, po čem jejich postavy nejhlouběji touží, a s pomocí těchto informací připravte vhodné střetnutí pro případ, že hráč do Šeptající zdi vstoupí.
 
-This area takes the place of <span class="citation">Y5. Whispering Wall (p. 200)</span>. When the players first arrive, read:
+Tato oblast nahrazuje <span class="citation">Y5. Whispering Wall (p. 200)</span>. Když sem hráči poprvé dorazí, přečtěte:
 
 <div class="description">
-<p>A shadowed wall of impenetrable fog looms above the earth here, stretching forth to meet the heavens far above. Strange shapes and silhouettes seem to drift through its depths, and distant voices seem to whisper just out of earshot.</p>
+<p>Nad zemí se tu tyčí zastíněná stěna neproniknutelné mlhy a sahá vysoko až k nebesům. Jejími hlubinami jako by se vznášely podivné tvary a siluety a vzdálené hlasy jako by šeptaly těsně za hranicí slyšitelnosti.</p>
 </div>
 
-If the players recently defeated the druids and stopped their ritual, Strahd can be found here, kneeling before the wall, thirty feet away from Beucephalus. (A player that inspects Beucephalus notices that the **nightmare**'s saddlebags appear to be empty.)
+Pokud hráči nedávno porazili druidy a zastavili jejich rituál, najdou tu Strahda, jak klečí před zdí třicet stop od Beucephala. (Hráč, který si Beucephala prohlédne, si všimne, že sedlové brašny přízračného oře jsou zřejmě prázdné.)
 
-As the players approach, Strahd rises and appears to pocket something in his cloak. (Strahd won't share what this is, amusedly chiding the players for asking gifts not given.) He welcomes the players warmly, and congratulates them on defeating the Forest Folk.
+Když se hráči přiblíží, Strahd vstane a zdá se, že si něco schová do pláště. (Strahd neprozradí, co to je, a pobaveně hráče pokárá, že se ptají po darech, které nebyly dány.) Vřele hráče přivítá a blahopřeje jim k porážce Lesního lidu.
 
-If asked whether he regrets Ludmilla's defeat, Strahd smiles and claims that "a reminder of her place will be good for her" — although, he notes, she is unlikely to forget her humiliation, even after licking her wounds.
+Pokud se ho hráči zeptají, zda lituje Ludmilliny porážky, Strahd se usměje a prohlásí, že „připomínka jejího místa jí prospěje“ – i když, jak poznamená, na své ponížení nejspíš nezapomene, ani až si vylíže rány.
 
-Strahd thanks the players for playing "his little game," and congratulates them on winning their wager. He welcomes them to the Whispering Wall, and shares that the ancestors of the Forest Folk believed it to be the corpse or tomb of an ancient god, whose last exhalation of divinity produced this mist.
+Strahd hráčům poděkuje, že hráli „jeho malou hru“, a blahopřeje jim k vyhrané sázce. Vítá je u Šeptající zdi a prozradí, že předkové Lesního lidu věřili, že je to mrtvola či hrobka prastarého boha, jehož poslední vydechnutí božství stvořilo tuto mlhu.
 
-Strahd informs the players that these ancestors believed the Wall to offer visions of one's deepest desires, if one entered it as a pilgrim. "It is a powerful thing, to know oneself and one's desires," he says, adding softly. "and yet dangerous, as well." 
+Strahd hráčům sdělí, že tito předkové věřili, že zeď poutníkovi, který do ní vstoupí, ukáže vidiny jeho nejhlubších tužeb. „Znát sebe sama a své touhy je mocná věc,“ řekne a tiše dodá, „a přesto také nebezpečná.“
 
-If asked whether he has stepped into the Wall himself, Strahd nods. If asked what he sees within the Wall, he shares that he sees a "white fortress above a great city, with a church bell ringing through the fog." (This is a vision of Strahd's homeland, though he won't say so to the players.)
+Pokud se ho hráči zeptají, zda do zdi sám vstoupil, Strahd přikývne. Pokud se ho zeptají, co v ní vidí, prozradí, že vidí „bílou pevnost nad velkým městem a kostelní zvon, jehož hlas zní mlhou“. (Je to vidina Strahdovy domoviny, ale to hráčům neřekne.)
 
-Before giving the players their reward from winning Strahd's wager, Strahd asks them to complete one simple task: They must step into the Wall and view their deepest desires. "I will not ask what you see," Strahd promises. "One's desires are their own."
+Než hráčům předá odměnu za vyhranou sázku, požádá je Strahd o splnění jednoho prostého úkolu: musí vstoupit do zdi a pohlédnout na své nejhlubší touhy. „Nebudu se ptát, co jste spatřili,“ slibuje Strahd. „Touhy člověka patří jen jemu.“
 
-Strahd warns them, however, that many have become lost in the Whispering Wall, too entranced by its visions to depart. "It guides you forward, but you must leave under your own power," he says. "Remember: The way back will come but once."
+Strahd je však varuje, že mnozí se v Šeptající zdi ztratili, příliš uchváceni jejími vidinami, než aby odešli. „Vede vás vpřed, ale odejít musíte vlastní silou,“ praví. „Pamatujte: Cesta zpět se otevře jen jednou.“
 
-Strahd promises that each player who enters the Wall and returns safely will receive an additional gift: a shard of the power of the Whispering Wall itself. (He won't say more than that.) He wonders aloud, however, whether they will have the strength of will to do so. "Lesser men often lose themselves to its illusions," he says, a taunting glint in his eye. "They trade life for dreams, and receive neither. They are lost to the mist, doomed to remain there for eternity."
+Strahd slíbí, že každý hráč, který do zdi vstoupí a bezpečně se vrátí, obdrží další dar: střípek moci samotné Šeptající zdi. (Víc neprozradí.) Nahlas však uvažuje, zda na to budou mít dost síly vůle. „Menší muži se v jejích přeludech často ztratí,“ praví s posměšnou jiskrou v oku. „Vymění život za sny a nedostanou ani jedno. Ztratí se v mlze, odsouzeni zůstat v ní navěky.“
 
-If any or all players decline Strahd’s challenge, he frowns, shakes his head, and notes his disappointment in them. Otherwise, a player who enters the Whispering Wall finds themselves within a new location, indistinguishable from reality. The location is a reflection of that player character's deepest desire, sculpted to be as real and alluring as possible. The location is populated by any inhabitants necessary for that character's desire. Both the location and any inhabitants are illusory, but appear solid and real to those who enter.
+Pokud někteří nebo všichni hráči Strahdovu výzvu odmítnou, zamračí se, zavrtí hlavou a dá najevo, jak je jimi zklamán. Jinak se hráč, který vstoupí do Šeptající zdi, ocitne na novém místě, k nerozeznání od skutečnosti. Místo je odrazem nejhlubší touhy jeho postavy, vytvarovaným tak, aby bylo co nejskutečnější a nejlákavější. Místo obývají všichni obyvatelé, jichž je k naplnění touhy postavy zapotřebí. Místo i jeho obyvatelé jsou iluzorní, ale těm, kdo vstoupí, se zdají hmotní a skuteční.
 
-After a period of time — which may be subjective minutes, hours, or even years after they entered — the player receives a "hook": an invitation, subtle or direct, for that player to remain. A location's hook might be, among other things, the tolling of a familiar church bell, a child asking the player to play with them, or a loved one pleading the player to stay.
+Po nějaké době – může to být pro postavu několik minut, hodin či dokonce let od vstupu – obdrží hráč „návnadu“: jemné či přímé pozvání, aby zůstal. Návnadou daného místa může být mimo jiné vyzvánění známého kostelního zvonu, dítě, které hráče prosí, aby si s ním hrál, nebo milovaná osoba, která hráče prosí, ať zůstane.
 
-When the hook first manifests, a tall arch formed of fog and swirling mist appears ten feet behind the player, in the direction from whence they came. A faint sound similar to wind chimes echoes from its threshold, and a woman's voice, distant and cold, whispers from behind the player: "_The way back comes but once._" The arch begins to fade one round afterward.
+Když se návnada poprvé projeví, objeví se deset stop za hráčem, ve směru, odkud přišel, vysoký oblouk z mlhy a vířícího oparu. Z jeho prahu se ozve slabý zvuk podobný zvonkohře a ženský hlas, vzdálený a chladný, za hráčem zašeptá: „_Cesta zpět se otevře jen jednou._“ Oblouk začne o kolo později blednout.
 
-After three rounds, the arch vanishes forever, and the player character is trapped within the Whispering Wall for eternity, with no means of escape. (The character can be freed only if the players restore the memory of the Dreamer in the **Epilogue.**)
+Po třech kolech oblouk navždy zmizí a hráčova postava zůstane uvězněna v Šeptající zdi na věčnost, bez možnosti úniku. (Postavu lze osvobodit, jedině pokud hráči v **Epilogu** obnoví vzpomínku Snícího.)
 
-> [!abstract]+ **What Ireena Sees**
-> If Muriel is with the players, she declines to enter the Wall alongside them. “I’ll take no gift from von Zarovich," she says quietly. “And I know what I’d see, anyway." (Muriel is referring to Elric.)
+> [!abstract]+ **Co vidí Ireena**
+> Pokud je Muriel s hráči, odmítne s nimi do zdi vstoupit. „Od von Zaroviche si žádný dar nevezmu,“ řekne tiše. „A stejně vím, co bych tam viděla.“ (Muriel myslí Elrica.)
 > 
-> If Ireena is with the players, she enters the Wall if at least half of the players do so (rounded down), and remains outside otherwise. If she enters, she sees a dawning sun rising over an open road, which flows through a picturesque landscape toward a gleaming city that stands in the distance. A covered wagon stands upon the road, and a woman’s voice invites her warmly to enter, “because we’ve got a long journey ahead of us." Upon exiting the Wall, Ireena’s cheeks glisten with tears. (She refuses to share the contents of her vision while Strahd is present, but is willing to share them later if asked.)
+> Pokud je Ireena s hráči, vstoupí do zdi, pokud tak učiní alespoň polovina hráčů (zaokrouhleno dolů); jinak zůstane venku. Pokud vstoupí, uvidí slunce, které vychází nad otevřenou cestou, jež se vine malebnou krajinou k zářícímu městu v dálce. Na cestě stojí krytý vůz a ženský hlas ji vřele zve, ať nastoupí, „protože nás čeká dlouhá cesta“. Když Ireena ze zdi vystoupí, lesknou se jí na tvářích slzy. (Obsah své vidiny odmítne prozradit, dokud je přítomen Strahd, ale později, pokud se jí hráči zeptají, je ochotna o něm mluvit.)
 
-To an outside observer, a player who leaves the Wall returns no more than one round after they entered it, and in exactly the same condition. When all players have either returned from or been trapped in the Wall, Strahd retrieves a small, luminescent object from a pocket within his cloak and holds it into the air. (The object, which Strahd obtained from the Whispering Wall in exchange for the sacrifice of his **animated armor**, and which he stowed in his cloak at the beginning of the conversation, resembles a spark of light condensed into solid form.)
+Pro vnějšího pozorovatele se hráč, který zeď opustí, vrátí nejpozději jedno kolo poté, co do ní vstoupil, a to v naprosto stejném stavu. Když se všichni hráči buď vrátí ze zdi, nebo v ní uvíznou, vytáhne Strahd z kapsy pláště malý, světélkující předmět a zvedne ho do vzduchu. (Předmět, který Strahd získal od Šeptající zdi výměnou za oběť své oživlé zbroje (**animated armor**) a který si na začátku rozhovoru uložil do pláště, připomíná jiskru světla zhuštěnou do pevné podoby.)
 
-"As promised," Strahd says, "your reward." He touches the spark to the edge of the Whispering Wall, and then draws it back toward him. As he does so, several tendrils of mist extrude from the Wall and condense into small gemstones which hover in the air. The number of gemstones is equal to the number of players in the party, and each gemstone is no larger than a fingernail. Half of the gemstones (rounded up) are gray, and half of the gemstones (rounded down) are silver.
+„Jak jsem slíbil,“ praví Strahd, „vaše odměna.“ Dotkne se jiskrou okraje Šeptající zdi a pak ji přitáhne zpět k sobě. Přitom se ze zdi vysune několik chapadel mlhy a zhustí se v malé drahokamy, které se vznášejí ve vzduchu. Drahokamů je tolik, kolik je v družině hráčů, a žádný není větší než nehet. Polovina drahokamů (zaokrouhleno nahoru) je šedá a polovina (zaokrouhleno dolů) stříbrná.
 
-Strahd then presents the gemstones to the players, allowing them to choose which they take. He can share only that a gray gemstone will lead its bearer to an object of their desire, and that a silver gemstones will take their bearer to a place they wish to go. "They are, of course, not the most powerful artifacts," Strahd notes. "The Wall is the product of a _dead_ god, after all."
+Strahd pak drahokamy hráčům nabídne a nechá je vybrat si. Může prozradit jen to, že šedý drahokam dovede svého nositele k předmětu jeho touhy a stříbrný drahokam přenese svého nositele na místo, kam si přeje jít. „Nejsou to samozřejmě nejmocnější artefakty,“ poznamená Strahd. „Zeď je koneckonců dílem _mrtvého_ boha.“
 
-A creature can crush a *gray gemstone of desire* as an action to cast _locate object._ A creature can crush a *silver gemstone of desire* as a bonus action to cast *misty step*.
+Tvor může akcí rozdrtit *šedý drahokam touhy* (*gray gemstone of desire*) a seslat _locate object._ Tvor může bonusovou akcí rozdrtit *stříbrný drahokam touhy* (*silver gemstone of desire*) a seslat *misty step*.
 
-If the players ask about the nature of the spark Strahd holds, he holds it up to the light and remarks, thoughtfully, "A glede — a dragon's eye, it's called in some cultures. A spark of power, made tangible." If the players ask how Strahd obtained it, he offers a small, tight smile and notes only that, "Some things must be earned."
+Pokud se hráči zeptají na povahu jiskry, kterou Strahd drží, zvedne ji proti světlu a zamyšleně poznamená: „Žhavý uhlík – v některých kulturách se mu říká dračí oko. Jiskra moci, jež nabyla hmotné podoby.“ Pokud se hráči zeptají, jak ji Strahd získal, věnuje jim malý, sevřený úsměv a poznamená jen: „Některé věci je třeba si zasloužit.“
 
-When the players all either return from the Whispering Wall or decline to do so, Strahd presents them their reward for defeating the Forest Folk: the *twilight crest* (see below). “It is said that the god who died here, though its name is lost to time, left several relics behind. This is one of them."
+Když se všichni hráči buď vrátí ze Šeptající zdi, nebo vstup odmítnou, předá jim Strahd odměnu za porážku Lesního lidu: *soumračný erb* (*twilight crest*; viz níže). „Říká se, že bůh, který zde zemřel – ač jeho jméno se ztratilo v čase –, po sobě zanechal několik relikvií. Toto je jedna z nich.“
 
-> [!item]+ **Twilight Crest**
-> _Uncommon wondrous item_
+> [!item]+ **Soumračný erb (Twilight Crest)**
+> _Zázračný předmět, neobvyklý (uncommon wondrous item)_
 > 
-> This small medallion is carved from petrified wood and dotted with tiny gleaming clusters of azurite. From dawn until dusk, the azurite is colored a deep blue. From dusk until dawn, the azure is instead a dark, vivid purple.
+> Tento malý medailon je vyřezán ze zkamenělého dřeva a posetý drobnými třpytivými shluky azuritu. Od úsvitu do soumraku má azurit sytě modrou barvu. Od soumraku do úsvitu je azur naopak temně, sytě fialový.
 > 
-> The crest has 3 charges, and regains 1 charge at dawn. 
+> Erb má 3 náboje a za úsvitu obnoví 1 náboj.
 > 
-> During the day, the crest's wielder can spend 1 charge as an action to cast *aid*.
+> Během dne může nositel erbu akcí utratit 1 náboj a seslat *aid*.
 > 
-> At night, the crest's wielder can spend 1 charge as an action to cast *spirit guardians* (save DC 15). When cast in this way, the guardians take the form of shadowy, ash-like moths, and the spell deals only necrotic damage.
+> V noci může nositel erbu akcí utratit 1 náboj a seslat *spirit guardians* (DC záchranného hodu 15). Při seslání tímto způsobem mají strážci podobu stínových můr připomínajících popel a kouzlo způsobuje pouze nekrotické (necrotic) zranění.
 > 
-> The wielder can spend all 3 charges as an action at any time of day to cast _enervation_ (save DC 15). If they do, the crest doesn’t regain charges for the next three dawns.
+> Nositel může kdykoli během dne akcí utratit všechny 3 náboje a seslat _enervation_ (DC záchranného hodu 15). Pokud tak učiní, erb během následujících tří úsvitů žádné náboje neobnoví.
 
 ![[Twilight_Crest.png]]
 
-<span class="credit">"Twilight Crest" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">„Soumračný erb“ – autor: Caleb Cleveland. Podpořte ho na <a href="https://patreon.com/calebisdrawing/">Patreonu!</a></span>
 
-When all players have either accepted or declined their gifts, Strahd mounts Beucephalus once again, bids them farewell, and notes that he looks forward to seeing them at dinner. He and Beucephalus then vanish into the Ethereal Plane.
-## J6c. Gulthias Tree
-The players should have no reason to visit the grove of the Gulthias Tree at this time. Should they do, this area as described in <span class="citation">Y4. Gulthias Tree (p. 198)</span>. However, replace the last two sentences of the area description with the following text:
-
-<div class="description">
-<p>A circle of craggy, jagged megaliths stands hunkered down among the undergrowth, draped with rotted vines and overgrown by large brambles and dead shrubs. The air here is thick and unseasonably warm, and a sickly, putrid smell chokes the air.</p>
-</div>
-
-These megaliths demarcate the boundaries of the Forest Fane: the shrine to the Huntress of the Ladies Three.
-
-A character who inspects the eight carved megaliths finds the following animals’ images carved into their stone surfaces, moving clockwise from the north: bear, owl, goat, wolf, hawk, elk, panther, and raven.
-
-One minute after the players enter the grove, their presence draws the attention of four **needle blights**, which emerge from the undergrowth around the tree. The following round, the needle blights are joined by four additional **needle blights**, four **vine blights**, and four **swarms of twig blights**. If the players remain within the grove, all of the blights attack the following round.
-# J7. Return to the Winery
-## J7a. Kavan’s Tale
-If the players return to Kavan’s cairn bearing Svarog’s wand and summon Kavan by dripping their blood into the basin, Kavan can share the following additional information about the Forest Folk and his own people:
-
-* Long ago, Kavan was a chieftain among the First Folk, whose people arrived in the valley long before Kavan’s own birth.
-* The First Folk worshipped a trio of goddesses known as the Rozana, or the Ladies Three: the Seeker, the Weaver, and the Huntress. The druids of the First Folk paid homage to the Ladies at their holy sites—three fanes that dwelled within the valley, known as the Mountain Fane, the Forest Fane, and the Swamp Fane. Each Fane held a gemstone imbued with the power of the Weaver, which was said to give life and vitality to the wilderness around it. "This wand," Kavan notes somberly, "was once wielded by those who connected our people to the Rozana."
-
-Before proceeding further, Kavan asks the players whether they have ever betrayed anyone close to them or whether their pride wounded someone they loved. (A player must make a DC 16 Charisma (Deception) check in order to successfully lie to Kavan.) 
-
-Whether the players have betrayed or wounded anyone or not, once he is satisfied that the players understand the weight of the crimes of betrayal and hubris, Kavan proceeds:
-
-* Nearly one thousand years ago, Kavan came to power as chieftain of his tribe. Arrogant and proud, he defied his people’s strictures and ventured forth into the Whispering Wall, a wall of thick fog said to hold the corpse of the Devourer—an ancient monster that the Ladies killed long before.
-* While within the Wall, Kavan learned terrible secrets—including the means by which he could steal the Huntress’s sacred spear from the Forest Fane and claim its power for his own. Upon doing so, he waged war on the other tribes, reuniting them beneath his own banner. 
-* The servants of the Seeker, a clan of **wereravens**, hid away the life-giving gems that blessed the Fanes to conceal them from his ambitions, and vanished into the wilderness. (Upon saying this, Kavan gives Muriel a long, meaningful look, though he cannot confirm whether she is spiritually descended from one of the original wereravens that served the Seeker.)
-* The druids of the First Folk condemned Kavan for his hubris, and retreated to the village of Soldav in the Balinok Mountains, their people’s most sacred site and the center of their faith. They named Kavan “enemy," and banished him from Soldav for his crimes. When he died, instead of burying him in a place of honor upon Yester Hill with the great chieftains of the past, the druids buried him here, in a lonely cairn far from the graves of his forefathers. Kavan has been haunted by his isolation from his people as a result ever since his death.
-
-Before proceeding further, Kavan asks the players a question: What do they hold sacred, and why? Upon hearing their answers, Kavan challenges them with an additional question: If they were forced to choose whether to betray everything they hold sacred in exchange for a promise of safety and comfort, how would they decide? 
-
-If he is satisfied that any of the players would choose sanctity over comfort, Kavan first dismisses any who would choose comfort over sanctity, and then proceeds:
-
-* In Kavan’s ailing years, a tyrant named King Dostron the Hellborn invaded the valley with his army, scattering the First Folk and destroying their homes. He dammed up the Luna River to make farmland, and shattered the First Folks’ faith in the Ladies Three. When Dostron died, his armies withdrew and abandoned his fortress, but the First Folk remained apart and weak.
-* When Strahd invaded the valley hundreds of years later, many members of the druidic caste—still angered by Kavan’s betrayal and Dostron’s oppression—sought out his protection. A great schism split the First Folk, with those who opposed Strahd retreating to Soldav and those who favored Strahd remaining within the Svalich Wood. Today, Barovians know them as the Mountain Folk and the Forest Folk.
-* The land of Barovia, which the First Folk once called “Girvisa"—meaning “fertile land"—has been corrupted by Strahd’s will and magic. Kavan doesn’t understand the nature of Strahd’s corruption, but he knows that Strahd draws power from the land, and that this profane connection causes great suffering to the creatures and landscape of the valley. To learn how to cleanse Strahd’s corruption, the players must travel to Soldav to seek the guidance of an elder of the faith of the Rozana among the Mountain Folk. (Only an elder of the faith of the Rozana can conjure and maintain the mist that shields Soldav from outsiders.)
-* Soldav is hidden somewhere in the Balinok Mountains, protected by a shroud of enchanted mist. So long as the mist remains, Soldav’s enemies can never find it, nor can they remember where it lies. Kavan remembers only the landmark that marks its entrance: a place in the mountains where two waterfalls run together. "Without a token of the Ladies, however," he warns, "you will never find the entrance, nor will Soldav's elders grant you entry."
-
-If the players ask why Kavan withheld this information during their initial meeting, he truthfully tells them that he sought to avoid revealing Soldav’s existence to Strahd’s servants or spies. “I betrayed my people once by choice," he rumbles. “I will not betray them a second time through foolish indiscretion."
-
-As the conversation comes to a close, Kavan informs the players that, while he cannot give it to them directly, he can tell them where to find the spear that he stole from the Forest Fane of the Huntress, whose return may convince the people of Soldav to grant them entry. “The spear's power waned when I took it, and it has no doubt grown ever-weaker since," he says. "But, should it serve your purposes, you can find it in the tomb of King Dostron, who claimed it from my tent when my chiefdom crumbled in the wake of his armies." 
-
-Kavan can inform the players that the tomb of King Dostron was hewn from the stone beneath Dostron’s fortress, which Dostron built in the eastern mountains—upon what is now called the Pillarstone of Ravenloft. Should they find it, Kavan asks that they take it to the shrine of the Ladies Three in Soldav, to reconsecrate it there and redeem his past mistakes.
-
-When the players depart, Kavan bids them farewell, offering: “Go with the blessings of the Ladies Three, if they still listen."
-## J7b. Returning the Gem
-If the players return the gem to Davian Martikov at the Wizard of Wines, he is deeply grateful, and warms to them considerably compared to his prior prickly demeanor. (He is, of course, still a grumpy old man at heart.)
-
-If asked, Davian now willingly shares the following information:
-
-* He is the leader of the Keepers of the Feather, a secret society of **wereravens** dedicated to aiding those who oppose Strahd von Zarovich and his servants. (Davian admits that he himself is a **wereraven**, as are all of his children and grandchildren.)
-* Despite the abilities bestowed by their curse, the Keepers are spies, not warriors. Many among them are untrained at combat, and fear the dark magic that Strahd wields.
-* The Keepers were first founded by Livius Martikov, Davian’s grandfather and a little-known accomplice of the paladin Lugdana, who rooted out nests of **vampire spawn** across the valley using the *Holy Symbol of Ravenkind* one hundred years ago.
-* As a younger man, Livius helped Lugdana and Burgomaster Ismark Antonovich steal the *Holy Symbol of Ravenkind*—then called the *Sigil of the Sun*—from Castle Ravenloft shortly after Strahd began his hibernation. (Livius stole it, as well as the *Tome of Strahd*, from the depths of the catacombs while Ismark and Lugdana distracted Strahd’s servants and children.)
-* It was Ismark the Great who proposed renaming the *Sigil* to be the *Holy Symbol of Ravenkind* in order to inspire the Barovian people and conceal its origins, crafting a tale in which an angel in the shape of a raven delivered the relic to Lugdana directly. (Livius always found the tale incredibly amusing.) Lugdana would continue to wield the *Holy Symbol* until her death fighting the Green God Chernovog, a greater demon conjured by the mad witch Baba Zelenna, atop Yester Hill. The *Holy Symbol* was thought lost when Lugdana fell—seemingly for good.
-
-Davian flatly refuses to infect any of the players with **wereraven** lycanthropy, noting with scorn that they would require months of training to master the ability. He refuses to speak further of the matter.
-
-In gratitude for the players’ efforts in recovering the gem from Yester Hill, Davian provides them with an obsidian whistle shaped like a raven. (Davian can share that it is one of several such whistles passed down through his family across the generations.)
-
-Davian also informs the players that Muriel, a key field operative with the Keepers of the Feather, recently overheard a troubling prophecy involving Strahd. Muriel can inform the players that the prophecy took the form of a Tarokka reading delivered by Madam Eva to Strahd on the day the players rescued Muriel from the **greater strix**.
-
-Although Muriel was chased away before she could hear the end of the reading, she can share that the first part unfolded as follows:
+Když všichni hráči své dary buď přijmou, nebo odmítnou, Strahd znovu nasedne na Beucephala, rozloučí se s nimi a poznamená, že se těší, až je uvidí u večeře. Pak s Beucephalem zmizí v Ethereal Plane.
+## J6c. Strom Gulthias
+Hráči by v tuto chvíli neměli mít důvod navštívit háj stromu Gulthias. Pokud tak přesto učiní, odpovídá tato oblast popisu v <span class="citation">Y4. Gulthias Tree (p. 198)</span>. Poslední dvě věty popisu oblasti však nahraďte následujícím textem:
 
 <div class="description">
-<p>"The Darklord—the master of shadows, the beast in the labyrinth that tears at his chains.</p>
-<p>"The Six of Stars, the Evoker—the power you covet, a force untamed by mortal hands, raw and wild with burning fury.</p>
-<p>"The Artifact—the token you seek, the key to power. Divinity’s heart waits, but where?</p>
-<p>"The Innocent. I see a maid of raven hair and twilit eyes. She is one way to the token.</p>
-<p>"But there is another—the Broken One. The path of sacrifice opens another door. The wall that whispers awaits your tribute."</p>
+<p>V podrostu se krčí kruh rozeklaných, zubatých megalitů, ověšených shnilými šlahouny a zarostlých velkými ostružiníky a uschlými keři. Vzduch je tu hustý a nezvykle teplý a dusí ho chorobný, hnilobný zápach.</p>
 </div>
 
-***Milestone.*** Defeating the druids of Yester Hill completes a story milestone. When the players return the stolen gem to Davian Martikov, award each player 2,500 XP. (This should bring the players to 6th level.)
+Tyto megality vyznačují hranice Lesní svatyně: svatyně Lovkyně, jedné z Tří paní.
 
-> [!item]+ **Keeper's Whistle**
-> The whistle is a magic item tied to the curse of wereraven lycanthropy. Once per day, the players can blow the whistle to summon the nearest **wereraven** agent of the Keepers of the Feather within five miles (if any). (The agent takes a reasonable amount of time to arrive, flying from its current location to the location where the players blew the whistle.)
+Postava, která si prohlédne osm tesaných megalitů, najde na jejich kamenném povrchu vytesané podoby následujících zvířat, po směru hodinových ručiček od severu: medvěd, sova, kozel, vlk, jestřáb, los, panter a havran.
+
+Minutu poté, co hráči vstoupí do háje, upoutá jejich přítomnost pozornost čtyř jehličnatých zhoubců (**needle blights**), kteří se vynoří z podrostu kolem stromu. V následujícím kole se k nim přidají další čtyři jehličnatí zhoubci (**needle blights**), čtyři popínaví zhoubci (**vine blights**) a čtyři roje větvičkových zhoubců (**swarms of twig blights**). Pokud hráči zůstanou v háji, všichni zhoubci v následujícím kole zaútočí.
+# J7. Návrat do vinařství
+## J7a. Kavanův příběh
+Pokud se hráči vrátí ke Kavanově mohyle se Svarogovou hůlkou a vyvolají Kavana tím, že nechají skanout svou krev do mísy, může jim Kavan prozradit následující další informace o Lesním lidu a o svém vlastním lidu:
+
+* Kdysi dávno byl Kavan náčelníkem Prvotního lidu, jehož předkové přišli do údolí dlouho před Kavanovým narozením.
+* Prvotní lid uctíval trojici bohyň známou jako Rozana neboli Tři paní: Hledačku, Tkadlenu a Lovkyni. Druidové Prvotního lidu vzdávali Paním hold na jejich posvátných místech – ve třech svatyních v údolí, známých jako Horská svatyně, Lesní svatyně a Bažinná svatyně. V každé svatyni spočíval drahokam prodchnutý mocí Tkadleny, o němž se říkalo, že dává život a sílu divočině kolem. „Tuto hůlku,“ poznamená Kavan zachmuřeně, „kdysi třímali ti, kdo spojovali náš lid s Rozanou.“
+
+Než bude pokračovat, zeptá se Kavan hráčů, zda někdy zradili někoho blízkého nebo zda jejich pýcha zranila někoho, koho milovali. (Hráč musí uspět v ověření Charisma (Deception) se DC 16, aby Kavanovi úspěšně zalhal.)
+
+Ať už hráči někoho zradili či zranili, nebo ne, jakmile je Kavan přesvědčen, že chápou tíhu zločinů zrady a pýchy, pokračuje:
+
+* Téměř před tisíci lety se Kavan chopil moci jako náčelník svého kmene. Domýšlivý a pyšný se vzepřel zákazům svého lidu a vstoupil do Šeptající zdi – stěny husté mlhy, o níž se říkalo, že ukrývá mrtvolu Požírače, prastaré stvůry, kterou Paní zabily dávno předtím.
+* Uvnitř zdi se Kavan dozvěděl strašlivá tajemství – včetně způsobu, jak ukrást posvátné kopí Lovkyně z Lesní svatyně a přivlastnit si jeho moc. Když tak učinil, vytáhl do války proti ostatním kmenům a znovu je sjednotil pod svou korouhví.
+* Služebníci Hledačky, klan havranodlaků (**wereravens**), ukryli životodárné drahokamy, které žehnaly svatyním, aby je uchránili před jeho ctižádostí, a zmizeli v divočině. (Při těchto slovech věnuje Kavan Muriel dlouhý, významný pohled, ale nemůže potvrdit, zda je duchovní pokračovatelkou některého z původních havranodlaků, kteří Hledačce sloužili.)
+* Druidové Prvotního lidu Kavana za jeho pýchu odsoudili a stáhli se do vesnice Soldav v pohoří Balinok, nejposvátnějšího místa svého lidu a středu své víry. Prohlásili Kavana za „nepřítele“ a za jeho zločiny ho ze Soldavu vyhnali. Když zemřel, nepohřbili ho druidové na čestném místě na Yesterském vrchu mezi velkými náčelníky minulosti, ale tady, v osamělé mohyle daleko od hrobů jeho předků. Od své smrti Kavana pronásleduje odloučení od jeho lidu.
+
+Než bude pokračovat, položí Kavan hráčům otázku: Co je jim svaté a proč? Když vyslechne jejich odpovědi, vyzve je další otázkou: Kdyby byli nuceni rozhodnout se, zda zradí vše, co je jim svaté, výměnou za příslib bezpečí a pohodlí, jak by se rozhodli?
+
+Pokud je Kavan přesvědčen, že by někteří z hráčů dali přednost posvátnosti před pohodlím, nejprve propustí ty, kdo by dali přednost pohodlí před posvátností, a pak pokračuje:
+
+* V Kavanových posledních letech vtrhl do údolí se svým vojskem tyran jménem král Dostron Pekelný, rozehnal Prvotní lid a zničil jeho domovy. Přehradil řeku Lunu, aby získal ornou půdu, a roztříštil víru Prvotního lidu v Tři paní. Když Dostron zemřel, jeho vojska se stáhla a jeho pevnost opustila, ale Prvotní lid zůstal rozdělený a slabý.
+* Když o stovky let později vtrhl do údolí Strahd, mnozí příslušníci druidské kasty – stále rozhořčení Kavanovou zradou a Dostronovým útlakem – vyhledali jeho ochranu. Prvotní lid rozpoltil velký rozkol: ti, kdo se Strahdovi stavěli na odpor, se stáhli do Soldavu, a ti, kdo mu byli nakloněni, zůstali ve Svalichském lese. Dnes je Barované znají jako Horský lid a Lesní lid.
+* Barovská země, kterou Prvotní lid kdysi nazýval „Girvisa“ – což znamená „úrodná země“ –, byla zkažena Strahdovou vůlí a magií. Kavan nechápe podstatu Strahdovy zkaženosti, ale ví, že Strahd čerpá moc ze země a že toto bezbožné pouto působí tvorům i krajině údolí velké utrpení. Aby se hráči dozvěděli, jak Strahdovu zkaženost očistit, musí se vydat do Soldavu a vyhledat radu stařešiny víry Rozany mezi Horským lidem. (Jen stařešina víry Rozany dokáže vyvolat a udržovat mlhu, která Soldav chrání před cizinci.)
+* Soldav je ukrytý kdesi v pohoří Balinok, chráněný závojem očarované mlhy. Dokud mlha trvá, nepřátelé Soldavu ho nikdy nenajdou ani si nevzpomenou, kde leží. Kavan si pamatuje jen orientační bod, který označuje vstup: místo v horách, kde se slévají dva vodopády. „Bez znamení Paní však,“ varuje, „vstup nikdy nenajdete a stařešinové Soldavu vás dovnitř nevpustí.“
+
+Pokud se hráči zeptají, proč jim Kavan tyto informace při prvním setkání zatajil, po pravdě jim řekne, že se nechtěl zmínit o existenci Soldavu před Strahdovými služebníky či zvědy. „Jednou jsem svůj lid zradil z vlastní vůle,“ zaduní. „Podruhé ho nezradím pošetilou neopatrností.“
+
+Když se rozhovor chýlí ke konci, Kavan hráčům oznámí, že ačkoli jim ho nemůže dát přímo, může jim prozradit, kde najdou kopí, které ukradl z Lesní svatyně Lovkyně a jehož navrácení by mohlo lid Soldavu přesvědčit, aby je vpustil dovnitř. „Moc kopí zeslábla, když jsem si ho vzal, a od té doby nepochybně slábne dál,“ řekne. „Ale pokud poslouží vašim záměrům, najdete ho v hrobce krále Dostrona, který si ho vzal z mého stanu, když se má vláda pod náporem jeho vojsk rozpadla.“
+
+Kavan může hráčům prozradit, že hrobka krále Dostrona byla vytesána do skály pod Dostronovou pevností, kterou Dostron postavil ve východních horách – na místě, kterému se dnes říká Skalní pilíř Ravenloftu. Pokud kopí najdou, Kavan je požádá, aby ho odnesli do svatyně Tří paní v Soldavu, aby ho tam znovu vysvětili a odčinili jeho minulé chyby.
+
+Když hráči odcházejí, Kavan se s nimi rozloučí slovy: „Jděte s požehnáním Tří paní, pokud ještě naslouchají.“
+## J7b. Navrácení drahokamu
+Pokud hráči vrátí drahokam Davianu Martikovovi v Čaroději vín, je jim hluboce vděčný a ve srovnání se svým dřívějším pichlavým chováním k nim značně roztaje. (V jádru je to samozřejmě pořád nevrlý stařec.)
+
+Pokud se ho hráči zeptají, Davian nyní ochotně prozradí následující:
+
+* Je vůdcem Strážců pera, tajného společenství havranodlaků (**wereravens**), jež se zasvětilo pomoci těm, kdo se staví proti Strahdovi von Zarovichovi a jeho služebníkům. (Davian přizná, že i on sám je havranodlak (**wereraven**), stejně jako všechny jeho děti a vnoučata.)
+* Navzdory schopnostem, které jim prokletí propůjčuje, jsou Strážci zvědové, ne válečníci. Mnozí z nich nejsou v boji vycvičení a bojí se temné magie, kterou Strahd vládne.
+* Strážce původně založil Livius Martikov, Davianův děd a málo známý pomocník paladinky Lugdany, která před sto lety s pomocí *Svatého symbolu Havraního rodu* vyhubila po celém údolí hnízda upířích zplozenců (**vampire spawn**).
+* Jako mladší muž pomohl Livius Lugdaně a purkmistrovi Ismarkovi Antonovichovi ukrást *Svatý symbol Havraního rodu* – tehdy zvaný *Pečeť slunce* – z hradu Ravenloft krátce poté, co Strahd upadl do svého dlouhého spánku. (Livius ho spolu se *Strahdovým foliantem* ukradl z hlubin katakomb, zatímco Ismark a Lugdana odváděli pozornost Strahdových služebníků a dětí.)
+* Byl to Ismark Veliký, kdo navrhl přejmenovat *Pečeť* na *Svatý symbol Havraního rodu*, aby povzbudil barovský lid a zakryl její původ; vymyslel příběh, v němž relikvii Lugdaně osobně přinesl anděl v podobě havrana. (Liviusovi ten příběh vždycky připadal nesmírně zábavný.) Lugdana *Svatý symbol* třímala až do své smrti v boji se Zeleným bohem Černovogem, mocným démonem vyvolaným šílenou čarodějnicí Babou Zelennou na vrcholu Yesterského vrchu. Když Lugdana padla, *Svatý symbol* byl považován za ztracený – zdánlivě navždy.
+
+Davian rozhodně odmítne nakazit kohokoli z hráčů havraní lykantropií (**wereraven**) a s opovržením poznamená, že by potřebovali měsíce výcviku, aby tu schopnost ovládli. O té věci odmítá dál mluvit.
+
+Z vděčnosti za úsilí, které hráči vynaložili na získání drahokamu z Yesterského vrchu, jim Davian daruje obsidiánovou píšťalku ve tvaru havrana. (Davian může prozradit, že je to jedna z několika takových píšťalek, které se v jeho rodině dědí z generace na generaci.)
+
+Davian hráčům také sdělí, že Muriel, klíčová terénní agentka Strážců pera, nedávno vyslechla znepokojivé proroctví týkající se Strahda. Muriel může hráčům prozradit, že proroctví mělo podobu výkladu Tarokky, který madam Eva podala Strahdovi v den, kdy hráči zachránili Muriel před velkou strigou (**greater strix**).
+
+Přestože byla Muriel zahnána dřív, než stihla vyslechnout konec výkladu, může prozradit, že jeho první část zněla takto:
+
+<div class="description">
+<p>„Temný pán – pán stínů, šelma v labyrintu, jež rve své okovy.</p>
+<p>Šestka hvězd, Vyvolávač – moc, po níž prahneš, síla nezkrocená smrtelnýma rukama, syrová a divoká, plná spalující zuřivosti.</p>
+<p>Artefakt – znamení, jež hledáš, klíč k moci. Srdce božství čeká, ale kde?</p>
+<p>Nevinná. Vidím dívku havraních vlasů a očí jako soumrak. Ona je jednou cestou ke znamení.</p>
+<p>Ale je tu ještě jiná – Zlomený. Cesta oběti otevírá jiné dveře. Zeď, jež šeptá, očekává tvou daň.“</p>
+</div>
+
+***Milník.*** Porážka druidů z Yesterského vrchu je milníkem příběhu. Když hráči vrátí ukradený drahokam Davianu Martikovovi, udělte každému hráči 2 500 XP. (Tím by hráči měli dosáhnout 6. úrovně.)
+
+> [!item]+ **Píšťalka Strážců (Keeper's Whistle)**
+> Píšťalka je kouzelný předmět spjatý s prokletím havraní lykantropie. Jednou denně mohou hráči na píšťalku zapískat a přivolat nejbližšího havranodlačího (**wereraven**) agenta Strážců pera do vzdálenosti pěti mil (pokud nějaký je). (Agentovi trvá přiměřeně dlouho, než dorazí – letí ze svého současného místa tam, kde hráči na píšťalku zapískali.)
 > 
-> When the agent arrives (in **raven** form), the players can ask that the agent do one of the following tasks, within reason:
+> Když agent dorazí (v podobě havrana (**raven**)), mohou ho hráči v rozumných mezích požádat o jeden z následujících úkolů:
 >
->* **Scout** out a nearby environment, providing information on enemy numbers, traps, or layout. (The agent won’t get too close if the area is potentially dangerous, preferring to survey it from a distance.)
->* **Deliver** an item or message (either oral or written) to another creature in Barovia, assuming the agent knows of or can find that creature.
->* **Obtain** a small, light item from a nearby location or settlement, so long as it can be easily found, purchased, or otherwise retrieved.
->* **Distract** one or more nearby enemies (e.g., by using its ***mimicry*** ability). (The agent won’t put itself at risk of being grappled, and is wary of approaching any ranged combatants unless reassured that they wield neither silver weapons nor magic spells.)
->* **Spy** on a location or character, tailing them discreetly and reporting back on their activities and associations after a predetermined period of time. (The agent won’t enter any structures while doing so.)
+>* **Průzkum** blízkého okolí – poskytne informace o počtu nepřátel, pastech či rozvržení. (Pokud je oblast potenciálně nebezpečná, agent se k ní příliš nepřiblíží a raději ji prozkoumá z dálky.)
+>* **Doručení** předmětu nebo zprávy (ústní či písemné) jinému tvorovi v Barovii, pokud agent o tomto tvorovi ví nebo ho dokáže najít.
+>* **Opatření** malého, lehkého předmětu z blízkého místa či osady, pokud ho lze snadno najít, koupit či jinak získat.
+>* **Rozptýlení** jednoho či více blízkých nepřátel (např. pomocí schopnosti ***mimicry***). (Agent se nevystaví riziku, že bude uchvácen, a k bojovníkům na dálku se přibližuje obezřetně, pokud není ujištěn, že nemají stříbrné zbraně ani kouzla.)
+>* **Sledování** místa či postavy – agent je nenápadně sleduje a po předem domluvené době podá hlášení o jejich činnosti a stycích. (Přitom nevstoupí do žádných staveb.)
 >
->The agent departs after completing the requested task.
+>Po splnění požadovaného úkolu agent odletí.
 
 ![[Keepers_Whistle.png]]
 
-<span class="credit">"Keeper's Whistle" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">„Píšťalka Strážců“ – autor: Caleb Cleveland. Podpořte ho na <a href="https://patreon.com/calebisdrawing/">Patreonu!</a></span>
 
-> [!abstract]+ **The Wine Shipments**
-> With the winery saved and the gem recovered, Davian sets Adrian and Elvir to preparing the winery's remaining wine for shipment. The following morning, the two brothers load an additional three barrels onto the (freshly repaired) cart in <span class="citation">W2. Loading Dock (p. 176)</span> and set off, delivering three barrels first to Krezk then an additional three barrels to the Blue Water Inn in Vallaki. 
+> [!abstract]+ **Dodávky vína**
+> Když je vinařství zachráněno a drahokam získán zpět, Davian pověří Adriana a Elvira, aby připravili zbývající víno vinařství k odeslání. Následujícího rána oba bratři naloží další tři sudy na (čerstvě opravený) vůz v <span class="citation">W2. Loading Dock (p. 176)</span> a vyrazí – tři sudy dovezou nejprve do Krezku a další tři pak do hostince U Modré vody ve Vallaki.
 > 
-> Should the players mention an interest in traveling to Krezk, Adrian asks them to accompany the wagon, noting, "Krezk can be unwelcoming to strangers, but with a good word from us and a shipment of wine, they'll be sure to welcome you with open arms."
+> Pokud hráči zmíní, že by se rádi vydali do Krezku, Adrian je požádá, aby vůz doprovodili, a poznamená: „Krezk umí být k cizincům nevlídný, ale s dobrým slovem od nás a zásilkou vína vás určitě přivítají s otevřenou náručí.“
 > 
-> While visiting Krezk, the brothers mention the players' names and descriptions to Burgomaster Dmitri Krezkov. The players are welcome guests in Krezk should they visit the village thereafter. See [[Arc K - The Fallen Abbey]] for more information about the players' adventures in Krezk.
+> Během návštěvy Krezku zmíní bratři purkmistrovi Dmitrimu Krezkovovi jména hráčů a jejich popis. Pokud hráči poté vesnici navštíví, budou v Krezku vítanými hosty. Více o dobrodružstvích hráčů v Krezku najdete v [[Arc K - The Fallen Abbey|Oblouk K – Padlé opatství]].
 
-> [!abstract]+ **News from Barovia**
-> If the players use the *Keeper's whistle* to seek news from the village of Barovia, they can receive the following information:
+> [!abstract]+ **Zprávy z Barovie**
+> Pokud hráči pomocí *píšťalky Strážců* (*Keeper's whistle*) zjišťují novinky z vesnice Barovie, mohou se dozvědět následující:
 > 
-> * The village is still recovering from Strahd's siege. If Bildrath lived, he has become something of a magnet for malcontents. More and more, however, the people of the village have been looking to Ismark, and—if Doru passed his trial successfully—Father Donavich for leadership.
-> * If Doru passed his trial, he is being reintroduced into the village and has deeply apologized to the families that lost loved ones as a consequence of his failed rebellion. Not all have accepted his apologies, and many are wary of his vampirism, but he appears to have mastered his bloodlust and is overcome with remorse.
-> * The departure of the refugees and casualties of the siege have left the town hollowed out, with many businesses no longer in existence and those that survived struggling to make do with far fewer customers. Overall, the process of rebuilding has been a difficult one, but many families whose houses were damaged or destroyed have been able to relocate into the surplus homes still standing. 
+> * Vesnice se stále vzpamatovává ze Strahdova obléhání. Pokud Bildrath přežil, stal se jakýmsi magnetem pro nespokojence. Lidé ve vesnici však stále častěji vzhlížejí k Ismarkovi a – pokud Doru úspěšně prošel svou zkouškou – k otci Donavichovi jako ke svým vůdcům.
+> * Pokud Doru prošel svou zkouškou, postupně se vrací do života vesnice a hluboce se omluvil rodinám, které v důsledku jeho nezdařené vzpoury přišly o své blízké. Ne všichni jeho omluvy přijali a mnozí se mají před jeho upírstvím na pozoru, ale zdá se, že svou krvežíznivost ovládl, a zmítají jím výčitky svědomí.
+> * Odchod uprchlíků a oběti obléhání zanechaly město vyprahlé – mnohé živnosti zanikly a ty, které přežily, se jen stěží protloukají s mnohem menším počtem zákazníků. Celkově je obnova obtížná, ale mnoha rodinám, jejichž domy byly poškozeny či zničeny, se podařilo přestěhovat do nadbytečných domů, které zůstaly stát.

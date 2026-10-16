@@ -1,455 +1,455 @@
-_An adventure for five 4th, 5th, or 6th-level characters._
+_Dobrodružství pro pět postav 4., 5. nebo 6. úrovně._
 
-In this arc, upon arriving at the mansion of Argynvostholt as suggested by the revenants at Tser Falls or the Raven River Crossroads, the players encounter Sir Godfrey Gwilym, an ancient **revenant** knight of the Order of the Silver Dragon.
+V tomto oblouku, když hráči na radu revenantů u Tserských vodopádů či u rozcestí u Havraní řeky dorazí do sídla Argynvostholt, setkají se se sirem Godfreyem Gwilymem, prastarým rytířem-revenantem (**revenant**) Řádu stříbrného draka.
 
-Godfrey solemnly informs the players that, because he is bound to the will of his commander, Vladimir Horngaard, he can offer them no aid in their fight against Strahd. He can share, however, that the slumbering spirit of the silver dragon Argynvost—the deceased leader of their Order—has stirred in recent weeks, and that the dragon is seeking heroes willing to stand against Strahd, though Godfrey doesn't know for what purpose.
+Godfrey hráčům vážně oznámí, že protože je vázán vůlí svého velitele Vladimíra Horngaarda, nemůže jim v boji proti Strahdovi nijak pomoci. Může však prozradit, že dřímající duch stříbrného draka Argynvosta – zesnulého vůdce jejich řádu – se v posledních týdnech pohnul a že drak hledá hrdiny ochotné postavit se Strahdovi, i když Godfrey neví, za jakým účelem.
 
-Though Godfrey cannot hear the voice of Argynvost himself, he encourages the players to explore the mansion and seek out the clues left by the dragon’s spirit by speaking with the other ghosts of the mansion—though he warns them to avoid the audience hall of Commander Horngaard himself. 
+Přestože Godfrey sám Argynvostův hlas neslyší, vybízí hráče, aby sídlo prozkoumali a hledali stopy, které po sobě drakův duch zanechal, v rozhovorech s ostatními duchy sídla – varuje je však, aby se vyhnuli audienční síni samotného velitele Horngaarda.
 
-Godfrey also warns the players to be wary of the cursed spirits that still haunt the mansion’s halls: soldiers who fell defending the mansion from Strahd’s armies long ago, and who have never ceased their fight against invaders. Should the players wish to protect themselves from those spirits, Godfrey advises them to travel to a mass grave north of Berez, where the players can obtain paraphernalia bearing the insignia of the Order of the Silver Dragon.
+Godfrey hráče také varuje před prokletými duchy, kteří dosud strašijí v síních sídla: před vojáky, kteří kdysi dávno padli při obraně sídla před Strahdovými vojsky a kteří nikdy nepřestali bojovat proti vetřelcům. Pokud se hráči chtějí před těmito duchy chránit, Godfrey jim poradí, aby se vydali k hromadnému hrobu severně od Berezu, kde mohou získat předměty nesoucí znak Řádu stříbrného draka.
 
-As the players explore Argynvostholt, they can encounter Zorya, the spirit of Argynvost's late **pseudodragon** familiar; Minodora, the spirit of a former clerk of the Order of the Silver Dragon; and Brother Marek, the spirit of the Order's former chaplain. The spirits' guidance will bring the players to Argynvost's beacon, where Argynvost's spirit lurks within a silver dragon gargoyle.
+Při průzkumu Argynvostholtu mohou hráči narazit na Zorju, ducha Argynvostova zesnulého pseudodráčka (**pseudodragon**), který mu byl familiárem; na Minodoru, ducha bývalé písařky Řádu stříbrného draka; a na bratra Marka, ducha bývalého kaplana řádu. Vedení duchů přivede hráče k Argynvostovu majáku, kde Argynvostův duch dlí ve chrliči v podobě stříbrného draka.
 
-To invoke Argynvost's spirit, however, the players must obtain and speak aloud the oath of the Order of the Silver Dragon and light the gargoyle's brazier with silver flames obtained from Zorya or Argynvost's tomb. However, Vladimir Horngaard himself stands watch over the mansion's high beacon. If the players wish to learn Argynvost's will, they must first reassure Horngaard that they pose no threat to him or Strahd—or else defeat Horngaard in battle.
+Aby však hráči Argynvostova ducha vyvolali, musí získat a nahlas pronést přísahu Řádu stříbrného draka a zapálit pánev chrliče stříbrnými plameny, které získají od Zorji nebo z Argynvostovy hrobky. Nad vysokým majákem sídla však drží stráž sám Vladimír Horngaard. Chtějí-li hráči poznat Argynvostovu vůli, musí nejprve Horngaarda ujistit, že nepředstavují žádnou hrozbu pro něj ani pro Strahda – nebo Horngaarda porazit v boji.
 
-From the gargoyle, the players can obtain a cryptic prophecy directing them to return Argynvost's bones to their rightful place in his crypt. To do so, however, they must first retrieve his remains from the depths of Castle Ravenloft.
+Od chrliče mohou hráči získat záhadné proroctví, které jim velí vrátit Argynvostovy kosti na jejich právoplatné místo v jeho kryptě. K tomu však musí nejprve získat jeho ostatky z hlubin hradu Ravenloft.
 
-If the players return to Argynvostholt after successfully retrieving Argynvost’s skull, they must fight their way past Vladimir and his **phantom warrior** bodyguards in order to return the dragon’s remains to their rightful place. Should they succeed, Argynvost’s spirit lights the beacon atop the darkened mansion, bringing light and hope to all corners of Barovia, and allowing the knights of the Order of the Silver Dragon to find rest and blessed peace.
+Pokud se hráči do Argynvostholtu vrátí poté, co úspěšně získali Argynvostovu lebku, musí se probojovat kolem Vladimíra a jeho tělesné stráže z přízračných válečníků (**phantom warrior**), aby dračí ostatky vrátili na jejich právoplatné místo. Pokud uspějí, Argynvostův duch zažehne maják na vrcholu potemnělého sídla, přinese světlo a naději do všech koutů Barovie a dovolí rytířům Řádu stříbrného draka nalézt odpočinek a požehnaný mír.
 
-> [!warning]+ **Impossible Encounters**
-> Two combat encounters in this arc—the battle with the **phantom warriors** and the potential battle with **Vladimir Horngaard**—have been balanced for a party of five 6th-level players plus Ezmerelda and Ireena. Parties without Ezmerelda and/or below 6th level will likely be unable to overcome these encounters. Accordingly, all players have been given a noncombat route to bypassing the **phantom warriors**, a social route to bypassing Vladimir Horngaard, and a "failing forward" failsafe in the event of a TPK to Vladimir Horngaard.
+> [!warning]+ **Nemožná střetnutí**
+> Dvě bojová střetnutí v tomto oblouku – bitva s přízračnými válečníky (**phantom warriors**) a případná bitva s Vladimírem Horngaardem (**Vladimir Horngaard**) – jsou vyvážena pro družinu pěti hráčů 6. úrovně plus Ezmereldu a Ireenu. Družiny bez Ezmereldy a/nebo pod 6. úrovní tato střetnutí nejspíš nezvládnou. Proto mají všichni hráči k dispozici nebojovou cestu, jak přízračné válečníky (**phantom warriors**) obejít, společenskou cestu, jak obejít Vladimíra Horngaarda, a pojistku „neúspěchu vpřed“ pro případ, že by Vladimír Horngaard pobil celou družinu.
 
-# M1. Road to Argynvostholt
-When the players arrive at the path from the Old Svalich Road to Argynvostholt, read:
-
-<div class="description">
-<p>A dirt path branches off from the Old Svalich Road here, winding its way south up a craggy mountain spur. The earth of the path is hard-packed, its color a pallid gray-brown reminiscent of cold ashes. The trees on either side stand silent and stoic, their leaves a faded green. As the path winds upward, it's eventually replaced by the deep shadows of the mountain's forested incline, vanishing into the gloom of the woods beyond.</p>
-</div>
-
-The journey from the Old Svalich Road to Argynvostholt is two miles long and takes forty minutes. Approximately halfway down the path, the players are met by a **revenant** knight of the Order of the Silver Dragon standing watch in the woods. Read:
+# M1. Cesta do Argynvostholtu
+Když hráči dorazí ke stezce, která vede ze Staré svalichské cesty do Argynvostholtu, přečtěte:
 
 <div class="description">
-<p>Something stirs amidst the tree line, and a figure clad in rusted armor steps forth from the underbrush.</p>
+<p>Od Staré svalichské cesty se tu odděluje prašná stezka a vine se na jih vzhůru po rozeklaném horském ostrohu. Zem stezky je tvrdě udusaná a má bledou šedohnědou barvu, která připomíná vychladlý popel. Stromy po obou stranách stojí mlčky a stoicky, jejich listí má vybledle zelenou barvu. Jak stezka stoupá, nakonec ji pohltí hluboké stíny zalesněného horského svahu a zmizí v šeru lesa za ním.</p>
 </div>
 
-The figure is recognizably similar to the **revenants** standing guard at Tser Falls and the Raven River Crossroads.
+Cesta ze Staré svalichské cesty do Argynvostholtu měří dvě míle a trvá čtyřicet minut. Přibližně v polovině cesty narazí hráči na rytíře-revenanta (**revenant**) Řádu stříbrného draka, který drží v lese stráž. Přečtěte:
 
-The revenant hails the players and asks them to identify themselves and their business. If informed that they have come seeking Sir Godfrey Gwilym, it closes its eyes and murmurs gratefully, “So there are still those who oppose Zarovich’s reign. Good." 
+<div class="description">
+<p>Mezi stromy se něco pohne a z podrostu vystoupí postava v rezavé zbroji.</p>
+</div>
 
-The revenant can inform the players that Sir Godfrey awaits visitors in the Chapel of Morning, at the eastern side of the first floor of the mansion of Argynvostholt. It warns them, however, that many unquiet spirits haunt the ruined manor, and to be wary should they explore its crumbling halls. 
+Postava se nápadně podobá revenantům (**revenants**), kteří drží stráž u Tserských vodopádů a u rozcestí u Havraní řeky.
 
-Should the players request directions to the chapel, the revenant advises them to enter the foyer through the main entrance, then proceed eastward into the dining hall. There, the revenant tells them, “the doors to the chapel stand ever-open to those who seek a brighter dawn."
+Revenant hráče osloví a požádá je, aby se představili a prozradili, co je sem přivádí. Pokud se dozví, že hledají sira Godfreye Gwilyma, zavře oči a vděčně zamumlá: „Tak přece ještě jsou tací, kdo se staví proti Zarovichově vládě. Dobře.“
 
-If the players ask the revenant to escort them to the mansion, it declines, noting gravely that it has been banished from its grounds and estate “for raising my voice against my commander, Vladimir Horngaard, when my oath could suppress my conscience no longer." It declines to explain further, advising the players to speak with Sir Godfrey instead.
-# M2. Approaching the Mansion
-This scene is as described in <span class="citation">Approaching the Mansion (p. 130).</span>
-## M2a. Dragon Statue
+Revenant může hráčům prozradit, že sir Godfrey očekává návštěvníky v Kapli jitra na východní straně prvního podlaží sídla Argynvostholt. Varuje je však, že rozpadlé sídlo straší mnoho neklidných duchů a že by měli být při průzkumu jeho drolících se síní ostražití.
+
+Pokud se hráči zeptají na cestu do kaple, revenant jim poradí, aby vstoupili hlavním vchodem do vstupní haly a pak pokračovali na východ do jídelní síně. Tam, říká revenant, „stojí dveře do kaple vždy otevřené těm, kdo hledají jasnější úsvit“.
+
+Pokud hráči revenanta požádají, aby je do sídla doprovodil, odmítne a vážně poznamená, že byl z jeho pozemků a panství vyhnán, „neboť jsem pozvedl hlas proti svému veliteli Vladimíru Horngaardovi, když už má přísaha nedokázala umlčet mé svědomí“. Odmítne cokoli dalšího vysvětlovat a poradí hráčům, aby místo toho promluvili se sirem Godfreyem.
+# M2. Příchod k sídlu
+Tato scéna odpovídá popisu v <span class="citation">Approaching the Mansion (p. 130).</span>
+## M2a. Dračí socha
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q1.</em></span>
 
-This area is largely as described in <span class="citation">Q1. Dragon Statue (p. 130).</span>  However, the statue faces west, away from the mansion, and does not radiate any magical aura.
-## M2b. Main Entrance
+Tato oblast do značné míry odpovídá popisu v <span class="citation">Q1. Dragon Statue (p. 130).</span> Socha však hledí na západ, směrem od sídla, a nevyzařuje žádnou magickou auru.
+## M2b. Hlavní vchod
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q2.</em></span>
 
-This area is largely as described in <span class="citation">Q2. Main Entrance (p. 130).</span> However, no trap activates as the players climb the stairs or set foot on the landing.
+Tato oblast do značné míry odpovídá popisu v <span class="citation">Q2. Main Entrance (p. 130).</span> Když však hráči stoupají po schodech nebo vstoupí na podestu, žádná past se nespustí.
 
-> [!info]+ **Scale of the Map**
-> If you’re running the players’ exploration of Argynvostholt on a battlemap, remember that each square on the official map is 10 feet across, rather than 5 feet.
-# M3. Entering the Mansion
-## M3a. Foyer
+> [!info]+ **Měřítko mapy**
+> Pokud průzkum Argynvostholtu vedete na bitevní mapě, pamatujte, že každé pole na oficiální mapě má 10 stop, nikoli 5 stop.
+# M3. Vstup do sídla
+## M3a. Vstupní hala
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q3.</em></span>
 
-This area is largely as described in <span class="citation">Q3. Dragon’s Foyer (p. 132).</span> However, the draconic shadow passes into <span class="citation">Q12. Dining Hall (p. 132)</span> before disappearing.
-## M3b. Dining Hall
+Tato oblast do značné míry odpovídá popisu v <span class="citation">Q3. Dragon’s Foyer (p. 132).</span> Dračí stín však před zmizením přejde do <span class="citation">Q12. Dining Hall (p. 132)</span>.
+## M3b. Jídelní síň
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q12.</em></span>
 
-This area is as described in <span class="citation">Q12. Dining Hall (p. 132).</span>
-## M3c. Chapel of Morning
+Tato oblast odpovídá popisu v <span class="citation">Q12. Dining Hall (p. 132).</span>
+## M3c. Kaple jitra
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q13.</em></span>
 
-This area is largely as described in <span class="citation">Q13. Chapel of Morning (p. 134).</span> However, the pillars are made of stone, rather than wood, and the three kneeling revenants are not present. Instead, add the following text to the end of this area’s description:
+Tato oblast do značné míry odpovídá popisu v <span class="citation">Q13. Chapel of Morning (p. 134).</span> Sloupy jsou však z kamene, nikoli ze dřeva, a tři klečící revenanti tu nejsou. Místo toho na konec popisu této oblasti doplňte následující text:
 
 <div class="description">
-<p>A rusted, wrought-iron lantern hangs from each of the six pillars, each lantern’s glass panels fogged with age. Cold, ethereal lights flicker and writhe within them, and faint whispers seem to emanate from their depths.</p>
-<p>A knight stands between two of the furthest pillars, his arms outstretched like a haunting mockery of a scarecrow. Strands of black wire ensnare his chest in a macabre web, with additional strands looping down and around his biceps and rusted gauntlets before stretching across to the stone pillars on either side.</p>
-<p>The knight's chain-mail shirt is dulled and corroded with age, his silver helm cracked and blackened. Beneath it, strands of silver-gray hair fall limply across his gaunt and ashen face. His flesh is gray and pallid, skin stretched taut over sharp, skeletal cheekbones, and his head slumps forward toward the ground.</p>
+<p>Na každém ze šesti sloupů visí rezavá lucerna z kovaného železa, jejíž skleněné tabulky stářím zmatněly. Uvnitř se mihotají a svíjejí chladná, éterická světla a z jejich hlubin jako by se linuly slabé šepoty.</p>
+<p>Mezi dvěma nejvzdálenějšími sloupy stojí rytíř s rozpřaženýma rukama jako strašidelná parodie strašáka. Prameny černého drátu mu obepínají hruď v morbidní pavučině a další prameny se mu smyčkami ovíjejí kolem bicepsů a rezavých kovových rukavic a pak se táhnou ke kamenným sloupům po obou stranách.</p>
+<p>Rytířova kroužková košile je zmatnělá a zkorodovaná stářím a jeho stříbrná přilba popraskaná a zčernalá. Pod ní mu do vyzáblé, popelavé tváře splývají zplihlé prameny stříbrošedých vlasů. Jeho maso je šedé a bledé, kůže napjatá přes ostré, kostnaté lícní kosti a hlava mu klesá vpřed k zemi.</p>
 </div>
 
-This is the **revenant** Sir Godfrey Gwilym, who is as described in <span class="citation">Q37. Knights of the Order (p. 139).</span> If the players approach, interact with, or otherwise make themselves known to him, read:
+Je to revenant (**revenant**) sir Godfrey Gwilym, který odpovídá popisu v <span class="citation">Q37. Knights of the Order (p. 139).</span> Pokud se k němu hráči přiblíží, osloví ho nebo se mu jinak dají poznat, přečtěte:
 
 <div class="description">
-<p>The knight’s head lifts, revealing red eyes that flash with a quiet intensity. His arms seem to flex, almost instinctively, against his black-wire bindings—and it’s then that you notice that each wire is covered with tiny, razor-sharp barbs, many of which bite deeply into his armor and flesh.</p>
-<p>"Welcome, travelers," he rasps. “I must ask that you forgive my rudeness. I am ill-disposed to greet you properly."</p>
+<p>Rytíř zvedne hlavu a odhalí rudé oči, které planou tichou intenzitou. Jeho paže se téměř instinktivně napnou proti černým drátěným poutům – a teprve teď si všimnete, že každý drát je pokrytý drobnými, břitkými ostny, z nichž se mnohé hluboko zarývají do jeho zbroje i masa.</p>
+<p>„Vítejte, poutníci,“ zachraptí. „Musím vás prosit, abyste mi prominuli mou nezdvořilost. Nejsem ve stavu, abych vás řádně přivítal.“</p>
 </div>
 
 ![[Godfrey_trans.png]]
-<span class="credit">"Sir Godfrey Gwilym" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">„Sir Godfrey Gwilym“ – autor: Caleb Cleveland. Podpořte ho na <a href="https://patreon.com/calebisdrawing/">Patreonu!</a></span>
 
-> [!profile]+ **Profile: Sir Godfrey Gwilym**
-> **Roleplaying Information**
-> ***Resonance.*** Godfrey should inspire pity over his imprisonment, and sympathy for his desire to redeem Vladimir.
+> [!profile]+ **Profil: sir Godfrey Gwilym**
+> **Pro hraní role**
+> ***Vyznění.*** Godfrey by měl budit lítost nad svým uvězněním a soucit se svou touhou vykoupit Vladimíra.
 > 
-> ***Emotions.*** Godfrey most often feels sadness and remorse for what has befallen Vladimir, hope that someone will arrive to restore Argynvost's power, and distrust for those who seek the Amber Temple.
+> ***Emoce.*** Godfrey nejčastěji cítí smutek a lítost nad tím, co postihlo Vladimíra, naději, že dorazí někdo, kdo obnoví Argynvostovu moc, a nedůvěru k těm, kdo hledají Jantarový chrám.
 > 
-> ***Motivations.*** Godfrey wants to meet heroes who will seek out the whispers of Argynvost's spirit.
+> ***Motivace.*** Godfrey chce potkat hrdiny, kteří se vydají za šepotem Argynvostova ducha.
 > 
-> ***Inspirations.*** When playing Godfrey, channel Theoden (*The Lord of the Rings*), Aragorn (*The Lord of the Rings*), and Ned Stark (*A Game of Thrones*).
+> ***Inspirace.*** Při hraní Godfreye čerpejte z postav Theoden (*The Lord of the Rings*), Aragorn (*The Lord of the Rings*) a Ned Stark (*A Game of Thrones*).
 > 
-> **Character Information**
-> ***Persona.*** To the world, Godfrey is a tortured revenant bound by his oath to Vladimir. To those he trusts, he is a faithful husband who believes that love can conquer vengeance.
+> **O postavě**
+> ***Tvář.*** Před světem je Godfrey zmučený revenant spoutaný přísahou Vladimírovi. Pro ty, jimž důvěřuje, je věrným manželem, který věří, že láska dokáže přemoci pomstu.
 > 
-> ***Morale.*** In a fight, Godfrey would gladly take up arms against those who he sees as evil, or preying on the weak.
+> ***Morálka.*** V boji by Godfrey ochotně pozvedl zbraň proti těm, které považuje za zlé nebo kteří se sápou na slabé.
 > 
-> ***Relationships.*** Godfrey is a member of the Order of the Silver Dragon (to whom he has sworn an oath), and the husband of Vladimir Horngaard (whose relationship Vladimir has forgotten).
+> ***Vztahy.*** Godfrey je členem Řádu stříbrného draka (jemuž složil přísahu) a manželem Vladimíra Horngaarda (který na jejich vztah zapomněl).
 
-> [!info]+ **Godfrey’s Bindings**
-> Because the revenants of the Order of the Silver Dragon were raised and bound by the hatred of Commander Vladimir Horngaard, they are magically bound in undeath by the oaths they made in life to obey and serve him. A revenant that contemplates violating one of Horngaard’s orders is ensnared by strands of black razor wire, which burrow into and restrain them to prevent such violation. (For example, a revenant that attempts to raise arms against Commander Horngaard may find their sword-arm bound, while a revenant that attempts to reveal Commander Horngaard’s secrets may find its jaw or tongue ensnared in razor wire.)
+> [!info]+ **Godfreyova pouta**
+> Protože revenanti Řádu stříbrného draka byli vzkříšeni a spoutáni nenávistí velitele Vladimíra Horngaarda, jsou v nemrtvém bytí magicky vázáni přísahami, které za života složili, že ho budou poslouchat a sloužit mu. Revenanta, který jen pomyslí na porušení některého z Horngaardových rozkazů, spoutají prameny černého žiletkového drátu, které se do něj zavrtají a omezí ho, aby porušení zabránily. (Například revenant, který se pokusí pozvednout zbraň proti veliteli Horngaardovi, může mít spoutanou paži s mečem, kdežto revenant, který se pokusí prozradit tajemství velitele Horngaarda, může mít čelist či jazyk zapletený do žiletkového drátu.)
 >
-> The wire disappears when the revenant relinquishes its intentions to violate Horngaard’s command, leaving no wound or other trace. Until such a point, the wires have immunity to all damage and cannot be removed by any means.
+> Drát zmizí, jakmile se revenant vzdá úmyslu porušit Horngaardův rozkaz, a nezanechá žádnou ránu ani jinou stopu. Do té chvíle je drát imunní vůči veškerému zranění a nelze ho žádným způsobem odstranit.
 
-> [!abstract]+ **The Lanterns**
-> A player who inspects the lanterns realizes that the lights are not flames, but blurred and writhing spectral figures wearing armor and horned helmets. A successful DC 13 Wisdom (Perception) check reveals the words of their whispers, repeated in a maddened refrain: “Free us," “Forgive us," and “Where is the light?"
+> [!abstract]+ **Lucerny**
+> Hráč, který si lucerny prohlédne, zjistí, že světla nejsou plameny, ale rozmazané, svíjející se přízračné postavy ve zbroji a v přilbách s rohy. Úspěšné ověření Wisdom (Perception) se DC 13 odhalí slova jejich šepotu, opakovaná v šíleném refrénu: „Osvoboďte nás,“ „Odpusťte nám“ a „Kde je světlo?“
 >
-> If asked, Godfrey can inform the players that the spirits belong to soldiers of Strahd’s army—the same soldiers who slew Argynvost and died in Argynvostholt’s bloodstained halls on the final day of the war. Commander Horngaard, Godfrey shares, ordered that their spirits be imprisoned to suffer here for all eternity, without hope of rest or reincarnation. 
+> Pokud se ho hráči zeptají, Godfrey jim může prozradit, že duchové patří vojákům Strahdova vojska – týmž vojákům, kteří zabili Argynvosta a poslední den války zemřeli v krví zbrocených síních Argynvostholtu. Velitel Horngaard, prozradí Godfrey, nařídil, aby byli jejich duchové uvězněni a trpěli tu po celou věčnost, bez naděje na odpočinek či znovuzrození.
 >
-> Godfrey pities the spirits, having relinquished all hatred for them long ago. “Many were but children themselves," he murmurs, “fighting for mere coin to feed themselves or their families. They share not the blame for the hubris of their masters." Neither he nor the other knights of the Order can release the spirits against Horngaard’s orders, but he makes no protest if the players move to do so, and treats such a decision warmly.
+> Godfreyovi je duchů líto; veškeré nenávisti k nim se vzdal už dávno. „Mnozí byli sami ještě dětmi,“ zamumlá, „bojovali za pouhý peníz, aby nasytili sebe či své rodiny. Nenesou vinu za pýchu svých pánů.“ On ani ostatní rytíři řádu nemohou duchy proti Horngaardovým rozkazům osvobodit, ale pokud se k tomu odhodlají hráči, nijak neprotestuje a takové rozhodnutí přijme vřele.
 >
-> The players can release a spirit from its lantern by opening the lantern’s glass door. A spirit released from its lantern thanks the players for their mercy before dissipating into mist.
+> Hráči mohou ducha z jeho lucerny osvobodit tím, že otevřou její skleněná dvířka. Duch osvobozený z lucerny hráčům poděkuje za jejich milosrdenství a pak se rozplyne v mlhu.
 
-Godfrey introduces himself as Sir Godfrey Gwilym, knight of the Order of the Silver Dragon. If told the reason for the players’ arrival, he can confirm that the revenants at Tser Falls and the Raven River Crossroads invited the players to Argynvostholt on his orders, “for the hour is dire, and I have need of your aid."
-### What Godfrey Knows
-At the players’ request, Godfrey can share the following information regarding the Order of the Silver Dragon and his current predicament.
+Godfrey se představí jako sir Godfrey Gwilym, rytíř Řádu stříbrného draka. Pokud se dozví, proč hráči přišli, může potvrdit, že revenanti u Tserských vodopádů a u rozcestí u Havraní řeky pozvali hráče do Argynvostholtu na jeho rozkaz, „neboť hodina je zlá a potřebuji vaši pomoc“.
+### Co ví Godfrey
+Na žádost hráčů může Godfrey prozradit následující o Řádu stříbrného draka a o svém současném údělu.
 
-* Long ago, before the Mists descended upon the valley, the Order of the Silver Dragon was an order of knights dedicated to justice and the protection of the weak. The order was founded by Lord Argynvost—a man of great wealth, kindness, and valor. Only Godfrey and the remainder of Argynvost’s most trusted knights knew Argynvost’s deepest secret: that he was, in truth, a **silver dragon** in disguise.
-* Not ten years after the Order first settled at Argynvostholt, Strahd von Zarovich brought war to the lands surrounding the valley. The Order ranged far afield to defend against Zarovich’s invading armies and shelter those made refugees by the violence, but ultimately found itself driven back to the valley and, ultimately, the mansion of Argynvostholt.
+* Kdysi dávno, než se na údolí snesly mlhy, byl Řád stříbrného draka rytířským řádem zasvěceným spravedlnosti a ochraně slabých. Řád založil lord Argynvost – muž velikého bohatství, laskavosti a udatnosti. Jen Godfrey a hrstka Argynvostových nejvěrnějších rytířů znali Argynvostovo nejhlubší tajemství: že je ve skutečnosti převlečený stříbrný drak (**silver dragon**).
+* Necelých deset let poté, co se řád usadil v Argynvostholtu, přinesl Strahd von Zarovich válku do zemí obklopujících údolí. Řád se vydával daleko, aby bránil zemi před Zarovichovými vojsky a poskytoval útočiště těm, z nichž násilí učinilo uprchlíky, ale nakonec byl zatlačen zpět do údolí a nakonec až do sídla Argynvostholt.
 
-> [!abstract]+ **The Dragon's Scale**
-> If a player in possession of the [[Character Creation#Inheritance—The Dragon's Scale|Dragon's Scale]] reveals it to Godfrey, the knight is briefly overcome with emotion and asks, hoarsely, to be allowed to see it more closely. He recognizes it aloud as one of Argynvost's own scales, and asks the player how they came upon it. If the player treats Argynvost's scale and legacy with reverence and respect, they have advantage on Charisma checks made toward Godfrey unless he becomes hostile to them.
+> [!abstract]+ **Dračí šupina**
+> Pokud hráč, který vlastní [[Character Creation#Inheritance—The Dragon's Scale|Dračí šupinu]], ji Godfreyovi ukáže, rytíře na okamžik přemůže dojetí a chraplavě požádá, aby si ji směl prohlédnout zblízka. Nahlas v ní pozná jednu z Argynvostových vlastních šupin a zeptá se hráče, jak k ní přišel. Pokud hráč s Argynvostovou šupinou a jeho odkazem zachází s úctou a respektem, má výhodu na ověření Charisma vůči Godfreyovi, dokud se Godfrey nestane nepřátelským.
 
-Godfrey then asks the players whether they would seek to betray and abandon their comrades if forced to fight a hopeless battle, or if they would fight alongside them to the death. If he is satisfied that any of the players would choose loyalty over selfishness, he gently chides any who would do the opposite, then proceeds:
+Godfrey se pak hráčů zeptá, zda by své druhy zradili a opustili, kdyby byli nuceni bojovat v beznadějné bitvě, nebo zda by po jejich boku bojovali až do smrti. Pokud je přesvědčen, že by někteří z hráčů dali přednost věrnosti před sobectvím, jemně pokárá ty, kdo by jednali opačně, a pak pokračuje:
 
-* A great battle took place on the floodplain east of the mansion, and many of the knights of the Order were slaughtered. As Godfrey and his commander, Vladimir Horngaard, led a final sortie against the enemy general’s camp, both were killed as well—Commander Horngaard by Zarovich himself, and Godfrey by Zarovich’s second-in-command: a cruel-eyed dusk elf bearing twin scimitars. (If asked, Godfrey can confirm that the elf was Rahadin, the current chamberlain of Castle Ravenloft.)
-* Several years thereafter, Godfrey felt Commander Horngaard’s rage pull his soul from beyond the grave, and found himself and the other knights of the Order returned to life as undead revenants. He learned that Zarovich had desecrated Argynvost’s remains, burning the dragon's bones and taking his skull as a trophy to the new Castle Ravenloft—an act so foul it had stirred Horngaard to vengeful hatred even in death.
-* The revenant knights renewed the fight against Strahd, waging war for months—until the Mists descended upon Barovia. The knights marched on Castle Ravenloft, where the Vistani crone Madam Eva met them at the castle gates. She told them Strahd had died and been reborn, and that he and all Barovia were now captives of the Mists.
+* Na nivě východně od sídla se odehrála velká bitva a mnoho rytířů řádu bylo pobito. Když Godfrey se svým velitelem Vladimírem Horngaardem vedli poslední výpad proti táboru nepřátelského vojevůdce, byli zabiti i oni – velitel Horngaard samotným Zarovichem a Godfrey Zarovichovým zástupcem: soumračným elfem s krutýma očima, který třímal dvě šavle. (Pokud se ho hráči zeptají, Godfrey může potvrdit, že tím elfem byl Rahadin, současný komoří hradu Ravenloft.)
+* O několik let později ucítil Godfrey, jak Horngaardův hněv vytrhává jeho duši zpoza hrobu, a zjistil, že se on i ostatní rytíři řádu vrátili k životu jako nemrtví revenanti. Dozvěděl se, že Zarovich znesvětil Argynvostovy ostatky – spálil drakovy kosti a jeho lebku odnesl jako trofej do nového hradu Ravenloft –, což byl čin tak ohavný, že Horngaarda i po smrti probudil k pomstychtivé nenávisti.
+* Rytíři-revenanti obnovili boj proti Strahdovi a měsíce proti němu vedli válku – dokud se na Barovii nesnesly mlhy. Rytíři vytáhli na hrad Ravenloft, kde je u hradních bran přivítala stará Vistanka madam Eva. Řekla jim, že Strahd zemřel a znovu se zrodil a že on i celá Barovie jsou nyní zajatci mlh.
 
-Godfrey then asks the players if there is anyone that they hate—within or beyond the valley. He then asks if they would condemn all those they love to death and despair, if only to ensure that the one they hate would suffer the same fate for eternity. If he is satisfied that any of the players would choose love over vengeance, he informs them that they “stand amidst the ruin of one who made a different choice," then proceeds:
+Godfrey se pak hráčů zeptá, zda je někdo, koho nenávidí – v údolí či mimo něj. Pak se zeptá, zda by odsoudili všechny, které milují, ke smrti a zoufalství, jen aby zajistili, že ten, koho nenávidí, bude navěky trpět stejným osudem. Pokud je přesvědčen, že by někteří z hráčů dali přednost lásce před pomstou, oznámí jim, že „stojí v troskách toho, kdo se rozhodl jinak“, a pak pokračuje:
 
-* Commander Horngaard and the knights returned to Argynvostholt. There, Commander Horngaard, his heart still clutched by hate, forbade the members of the Order from fighting Zarovich, who Commander Horngaard believed deserved to suffer in his prison for all eternity. Later, Commander Horngaard expanded his interdiction to Strahd’s servants and creatures as well, believing that Strahd’s dark dominion would only drive him to deeper levels of pain and misery—for what was a conqueror without anything left to conquer?
-* The knights of the Order reluctantly obeyed Horngaard’s order, even as they watched the people of Barovia sink deeper into despair. As Strahd slumbered in his tomb, many among them came to believe that the Barovians’ nightmare may one day lift—until a knight came bearing news of a failed rebellion from the village of Barovia to the southeast, and Strahd’s threat to wipe the village and its people from the valley.
-* A great quarrel erupted, as the knights demanded the right to defend the village from Strahd’s vengeance. Commander Horngaard, angered by their defiance, banished the other knights from the mansion. Only Godfrey, restrained by his bindings, did Horngaard allow to remain.
+* Velitel Horngaard a rytíři se vrátili do Argynvostholtu. Tam velitel Horngaard, jehož srdce dosud svírala nenávist, zakázal členům řádu bojovat proti Zarovichovi, o němž věřil, že si zaslouží trpět ve svém vězení po celou věčnost. Později velitel Horngaard svůj zákaz rozšířil i na Strahdovy služebníky a tvory, neboť věřil, že Strahdova temná vláda ho jen uvrhne do hlubší bolesti a bídy – neboť co je dobyvatel, kterému nezbylo nic k dobývání?
+* Rytíři řádu Horngaardův rozkaz neochotně uposlechli, i když přihlíželi, jak se barovský lid noří hlouběji do zoufalství. Zatímco Strahd dřímal ve své hrobce, mnozí z nich začali věřit, že se barovská noční můra jednoho dne rozplyne – dokud nepřišel rytíř se zprávou o nezdařené vzpouře ve vesnici Barovii na jihovýchodě a o Strahdově hrozbě, že vesnici i s jejími obyvateli vymaže z údolí.
+* Vypukla velká hádka, protože rytíři žádali právo bránit vesnici před Strahdovou pomstou. Velitel Horngaard, rozhněvaný jejich vzdorem, ostatní rytíře ze sídla vyhnal. Jen Godfreyovi, spoutanému svými pouty, dovolil Horngaard zůstat.
 
-If asked about his bindings, Godfrey chuckles quietly, and explains that neither Commander Horngaard nor any of Strahd’s servants bound him here. “They are forged of my oath to Horngaard and the Order," he rumbles, “corrupted by the curse of undeath. They bind me against the defiance that burns in my heart." So long as he intends harm against Strahd, he tells them—a vow he will not and cannot forsake following Strahd’s crimes against the Barovians—they shall remain to restrain him.
+Pokud se ho hráči zeptají na jeho pouta, Godfrey se tiše zasměje a vysvětlí, že ho tu nespoutal velitel Horngaard ani žádný ze Strahdových služebníků. „Jsou ukována z mé přísahy Horngaardovi a řádu,“ zaduní, „zkažené kletbou nemrtvého bytí. Poutají mě proti vzdoru, který mi hoří v srdci.“ Dokud bude Strahdovi chtít ublížit – a tohoto slibu se po Strahdových zločinech na Barovanech nevzdá a vzdát se nemůže –, budou ho prý pouta držet.
 
-If asked why he has summoned the players to Argynvostholt, Godfrey can share the following additional information:
+Pokud se ho hráči zeptají, proč je do Argynvostholtu povolal, může Godfrey prozradit následující:
 
-* Argynvost may have fallen in the war against Strahd, but his spirit still lingers at Argynvostholt. In the decades after the Mists first descended, the dragon’s spirit appeared to Commander Horngaard in flickering visions, urging him away from his path of hatred and vengeance. However, Horngaard never turned from his path, and Argynvost’s spirit gradually fell quiet, sinking into a silent, dormant slumber.
-* Shortly after Strahd awoke from his hibernation, Argynvost’s spirit began to stir again, though Godfrey doesn’t know why. The dragon’s spirit is too old and weak to manifest directly, but several of the other ghosts that haunt the mansion’s halls claim to have heard him whispering in his ethereal slumber, murmuring of a new generation of heroes, and a new and final front in the fight against darkness. 
-* When the knights of the order were banished from Argynvostholt, Godfrey sent them to seek out those who Argynvost might be searching for, and direct them toward the manor.
+* Argynvost možná padl ve válce proti Strahdovi, ale jeho duch dosud dlí v Argynvostholtu. V desetiletích poté, co se poprvé snesly mlhy, se drakův duch zjevoval veliteli Horngaardovi v mihotavých vidinách a nabádal ho, aby sešel ze své cesty nenávisti a pomsty. Horngaard se však ze své cesty nikdy neodvrátil a Argynvostův duch postupně utichl a upadl do tichého, nečinného spánku.
+* Krátce poté, co se Strahd probudil ze svého spánku, se Argynvostův duch znovu pohnul, i když Godfrey neví proč. Drakův duch je příliš starý a slabý, než aby se mohl zjevit přímo, ale několik dalších duchů, kteří strašijí v síních sídla, tvrdí, že ho slyšeli šeptat v jeho éterickém spánku – mumlat o nové generaci hrdinů a o nové a poslední frontě v boji proti temnotě.
+* Když byli rytíři řádu z Argynvostholtu vyhnáni, poslal je Godfrey hledat ty, které by Argynvost mohl hledat, a nasměrovat je k sídlu.
 
-“Perhaps you are the ones who he has been waiting for," Godfrey says. If any of the players are carrying an amber shard, he pauses, then fixes his gaze on that player. (If no player is carrying an amber shard, he instead looks toward whichever player most recently touched an amber shard, such as the one belonging to Elisabeth Durst or the one worn by Izek Strazni.) Godfrey then frowns and rasps, “Or perhaps not. I feel the chill of amber upon you. If you are pilgrims to the Amber Temple, then begone—I shall have no dealings with those who seek out its corruption."
-### Godfrey & the Amber Shards
-Godfrey is willing to continue dealing with the players if he is assured that they do not seek the dark gifts of the Amber Temple. The players can assure him as follows:
+„Možná jste to vy, na koho čekal,“ řekne Godfrey. Pokud některý z hráčů nese jantarový střep, odmlčí se a upře na něj zrak. (Pokud žádný hráč jantarový střep nenese, pohlédne místo toho na hráče, který se jantarového střepu dotkl naposledy, například toho, který patřil Elisabeth Durst, nebo toho, který nosí Izek Strazni.) Pak se Godfrey zamračí a zachraptí: „Anebo ne. Cítím na vás chlad jantaru. Jste-li poutníky do Jantarového chrámu, pak odejděte – nebudu mít nic společného s těmi, kdo vyhledávají jeho zkázu.“
+### Godfrey a jantarové střepy
+Godfrey je ochoten s hráči dál jednat, pokud je ujištěn, že nehledají temné dary Jantarového chrámu. Hráči ho mohou ujistit takto:
 
-* A player without an amber shard can automatically convince Godfrey that they are free of any shard’s influence.
-* A player in Stage One or Two of an amber shard’s corruption (see the [[Amber Shards]] appendix) can convince Godfrey that they do not intend to pursue the vestige’s gifts with a successful DC 14 Charisma (Deception) check if they are lying, and automatically if not. 
-* A player in Stage Three of an amber shard’s corruption with visible signs of that corruption can convince Godfrey that they regret accepting the shard’s gift with a successful DC 14 Charisma (Deception) or Charisma (Persuasion) check (depending on whether or not they’re telling the truth).
+* Hráč bez jantarového střepu může Godfreye automaticky přesvědčit, že je prost vlivu jakéhokoli střepu.
+* Hráč v první či druhé fázi jantarové zkaženosti (viz příloha [[Amber Shards|Jantarové střepy]]) může Godfreye přesvědčit, že se nechce za dary pozůstatku hnát, úspěšným ověřením Charisma (Deception) se DC 14, pokud lže, a automaticky, pokud ne.
+* Hráč ve třetí fázi jantarové zkaženosti s viditelnými známkami této zkaženosti může Godfreye přesvědčit, že lituje přijetí daru střepu, úspěšným ověřením Charisma (Deception) nebo Charisma (Persuasion) se DC 14 (podle toho, zda mluví pravdu).
 
-If Godfrey believes that any among the players are seeking the dark gifts of the Amber Temple or its amber shards, he demands those players explain their pursuit of corruption. “Its gifts are not gifts," he warns, “but chains that bind one's soul to the darkness. I have seen the strongest of wills crumble beneath its influence. The temple does not grant power, but consumes the soul that sought it out, leaving naught but a husk behind."
+Pokud Godfrey věří, že někteří z hráčů hledají temné dary Jantarového chrámu či jeho jantarových střepů, požaduje, aby tito hráči vysvětlili, proč se ženou za zkažeností. „Jeho dary nejsou dary,“ varuje, „ale okovy, jež poutají duši k temnotě. Viděl jsem, jak se pod jeho vlivem hroutí ta nejsilnější vůle. Chrám moc neuděluje, nýbrž pohlcuje duši, která ji hledala, a nezanechá nic než prázdnou schránku.“
 
-If a player possessing a shard fails to reassure Godfrey, he asks them gravely why they feel they *need* its power. "There is no shame in confessing fear or uncertainty," he says, his expression softening. "It is only when we allow those demons to cloud our judgment that we step wrongly."
+Pokud hráč, který vlastní střep, Godfreye neuklidní, Godfrey se ho vážně zeptá, proč má pocit, že jeho moc *potřebuje*. „Není hanbou přiznat strach či nejistotu,“ řekne a jeho výraz změkne. „Chybujeme teprve tehdy, když dovolíme těm démonům zamlžit náš úsudek.“
 
-If the player admits to desiring the shard's power for understandable—if not sympathetic—reasons, Godfrey assures them that they are no lesser for their struggles. "You are stronger than you know," he insists. "Embrace the power within you—not the lies and illusions these shards may promise. There is always a chance to turn away from the darkness, no matter how far we may feel we have fallen."
+Pokud hráč přizná, že po moci střepu touží z pochopitelných – ne-li přímo sympatických – důvodů, Godfrey ho ujistí, že kvůli svým zápasům není o nic menší. „Jsi silnější, než tušíš,“ trvá na svém. „Přijmi moc, jež je v tobě – ne lži a přeludy, které ti tyto střepy mohou slibovat. Vždy je šance odvrátit se od temnoty, ať máme pocit, že jsme klesli jakkoli hluboko.“
 
-If a player possessing a shard stands steadfast by their decision to seek out its power or otherwise fails to reassure Godfrey, he demands that the players promise to cast the shard away—whether into Lake Zarovich, Lake Baratok, or elsewhere—upon departing Argynvostholt. Godfrey refuses to speak with the players further unless they make a promise to do so. (If the players are lying, they must also succeed on a group DC 14 Charisma (Deception) check to convince him.)
+Pokud hráč, který vlastní střep, trvá na svém rozhodnutí hledat jeho moc nebo Godfreye jinak neuklidní, Godfrey požaduje, aby hráči slíbili, že střep po odchodu z Argynvostholtu zahodí – do jezera Zarovich, do jezera Baratok či jinam. Godfrey odmítne s hráči dál mluvit, dokud to neslíbí. (Pokud hráči lžou, musí ho navíc přesvědčit úspěšným skupinovým ověřením Charisma (Deception) se DC 14.)
 
-If asked about the Amber Temple, Godfrey is willing to share that the Amber Temple is a place of corruption and evil—and that the Order of the Silver Dragon’s first and secret purpose was to defend the Amber Temple from those who would seek out its power.
+Pokud se ho hráči zeptají na Jantarový chrám, je Godfrey ochoten prozradit, že Jantarový chrám je místem zkaženosti a zla – a že prvním a tajným posláním Řádu stříbrného draka bylo bránit Jantarový chrám před těmi, kdo by se chtěli zmocnit jeho moci.
 
-Godfrey is willing to share no more information than that. However, should the players express an interest in visiting the Amber Temple—such as to obtain the *Sunsword* or decode the mysteries of the *Tome of Strahd*—he laughs quietly and promises that he shall tell them of the Amber Temple if they first prove their character and will by uncovering and carrying out Argynvost’s final mission.
-### Godfrey’s Request
-Due to his restraints, Godfrey asks the players to explore the mansion of Argynvostholt on his behalf, investigating the spirits that lurk within to uncover their knowledge of Argynvost’s whispers.
+Víc než to Godfrey prozradit nechce. Pokud však hráči projeví zájem Jantarový chrám navštívit – například aby získali *Sluneční meč* nebo rozluštili tajemství *Strahdova foliantu* –, tiše se zasměje a slíbí, že jim o Jantarovém chrámu poví, pokud nejprve prokážou svůj charakter a vůli tím, že odhalí a vykonají Argynvostovo poslední poslání.
+### Godfreyova prosba
+Kvůli svým poutům požádá Godfrey hráče, aby sídlo Argynvostholt prozkoumali místo něj a vyptali se duchů, kteří v něm dlí, co vědí o Argynvostových šepotech.
 
-If the players accept his request, Godfrey warns them to be wary of Commander Vladimir Horngaard, who yet stands vigil among the upper halls of the manor. “You must not allow him to see or hear you, or incite his anger should he do so," he insists. “He does not take kindly to outsiders, and far less so to those he believes seek Zarovich’s destruction. In life, he was the best of us; in death, his strength has only waxed—and now, he cannot be killed by sword, claw, or spell. His undeath is eternal; even if Zarovich himself slew him, Horngaard would soon return to pursue his prey again—a dogged and inevitable hunter." 
+Pokud hráči jeho prosbu přijmou, Godfrey je varuje, aby si dávali pozor na velitele Vladimíra Horngaarda, který dosud drží hlídku v horních síních sídla. „Nesmíte dopustit, aby vás viděl či slyšel, ani v něm probudit hněv, pokud se tak stane,“ trvá na svém. „Cizince nemá v lásce a ještě méně ty, o nichž věří, že usilují o Zarovichovu zkázu. Za života byl nejlepší z nás; po smrti jeho síla jen vzrostla – a nyní ho nelze zabít mečem, drápem ani kouzlem. Jeho nemrtvé bytí je věčné; i kdyby ho zabil sám Zarovich, Horngaard by se brzy vrátil, aby znovu pronásledoval svou kořist – neúnavný a neodvratný lovec.“
 
-Godfrey warns the players to avoid mentioning his name should they meet with Commander Horngaard. "He does not look fondly upon me now, I fear," he mourns. "Should he believe I hold your sympathies, his suspicions shall only grow."
+Godfrey hráče varuje, aby se při setkání s velitelem Horngaardem nezmiňovali o jeho jménu. „Obávám se, že nyní na mě nepohlíží s láskou,“ truchlí. „Kdyby se domníval, že mám vaše sympatie, jeho podezření by jen vzrostlo.“
 
-Sir Godfrey further warns the players that not all of the mansion's restless spirits are friendly. "Some among us never left the moments of our deaths," he warns. "Damned to relive the final days of the war, they attack all outsiders on sight, determined to defend these halls for eternity." 
+Sir Godfrey hráče dále varuje, že ne všichni neklidní duchové sídla jsou přátelští. „Někteří z nás nikdy neopustili okamžiky své smrti,“ varuje. „Prokletí, aby znovu a znovu prožívali poslední dny války, útočí na každého cizince, jakmile ho spatří, odhodlaní bránit tyto síně navěky.“
 
-Godfrey notes that these warlike spirits cannot be dissuaded from their mad crusade, and that few weapons or spells can harm their incorporeal forms. "Of all the creatures in this manor," he notes, "only the arachnids that haunt the Ethereal realm give them pause." (Godfrey is referring to the mated pair of **phase spiders** residing in [[#M4c. Spiders’ Ballroom]].) He adds that, even if the players were capable of harming the spirits of the manor, all were fearsome warriors in life. Only warriors with great strength of arms, he shares, may be able to overcome them.
+Godfrey poznamená, že tyto bojovné duchy nelze odradit od jejich šílené výpravy a že jen málo zbraní či kouzel dokáže ublížit jejich nehmotným podobám. „Ze všech tvorů v tomto sídle,“ poznamená, „jim dávají na pozor jen pavoukovci, kteří obývají éterickou říši.“ (Godfrey mluví o páru fázových pavouků (**phase spiders**), kteří sídlí v [[#M4c. Pavoučí taneční sál|M4c. Pavoučí taneční sál]].) Dodá, že i kdyby hráči dokázali duchům sídla ublížit, všichni byli za života obávanými válečníky. Překonat je podle něj dokážou jen válečníci velké zbrojné síly.
 
-> [!abstract]+ **Harming the Incorporeal**
-> A player who attempts to recall information about harming spirits and succeeds on a DC 16 Intelligence (Arcana) check learns the following information:
+> [!abstract]+ **Jak zranit nehmotné**
+> Hráč, který se pokusí vybavit si, jak ublížit duchům, a uspěje v ověření Intelligence (Arcana) se DC 16, se dozví následující:
 > 
-> * Spirits and other incorporeal undead are generally immune to elemental and natural forces, including acid, cold, fire, lightning, thunder, and poison damage, as well as bludgeoning, piercing, and slashing damage dealt by nonmagical attacks.
-> * Such spirits lose these damage immunities upon entering the Ethereal Plane, where they exist as corporeal beings.
-> * Some creatures have developed natural means of counteracting these immunities. For example, the fangs and venom of a **phase spider** are capable of harming spirits on both the Material and Ethereal Plane. 
-> * A spellcaster can deal damage to an incorporeal spirit normally by using a phase spider's fang as an additional material component to cast their spells. (The fang isn't consumed when used in this way.)
-> * A martial combatant can also deal damage to an incorporeal spirit normally by coating one weapon or up to three pieces of ammunition with phase spider venom or *holy water*. When applied in this way, the venom or *holy water* acts as a contact poison that nullifies the spirit's immunity to the coated weapon, except the coating remains potent for 10 minutes and isn't rendered impotent by touching an incorporeal creature.
+> * Duchové a jiní nehmotní nemrtví jsou obvykle imunní vůči živelným a přírodním silám, včetně zranění kyselinou (acid), chladem (cold), ohněm (fire), bleskem (lightning), hromem (thunder) a jedem (poison), a také vůči drtivému, bodnému a sečnému (bludgeoning, piercing, slashing) zranění od nemagických útoků.
+> * Tito duchové o své imunity přicházejí, když vstoupí do Ethereal Plane, kde existují jako hmotné bytosti.
+> * Někteří tvorové si vyvinuli přirozené prostředky, jak tyto imunity potlačit. Například tesáky a jed fázového pavouka (**phase spider**) dokážou duchům ublížit na Material Plane i na Ethereal Plane.
+> * Sesilatel může nehmotnému duchu způsobit zranění normálně, pokud při sesílání kouzla použije tesák fázového pavouka jako další materiální složku. (Tesák se při tomto použití nespotřebuje.)
+> * Bojovník může nehmotnému duchu také způsobit zranění normálně, pokud natře jednu zbraň nebo až tři kusy střeliva jedem fázového pavouka nebo *svěcenou vodou* (*holy water*). Při takovém použití působí jed či *svěcená voda* jako kontaktní jed, který vůči natřené zbrani ruší imunitu ducha, ale nátěr zůstává účinný 10 minut a dotykem s nehmotným tvorem neztrácí účinnost.
 >   
-> The players can also learn this information automatically by consulting the book *Ethereal Entities* (see [[Arc E - The Missing Vistana]] or [[Arc H - The Lost Soul]]), by asking Dr. Rudolph van Richten after revealing his true identity (see [[Arc E - The Missing Vistana]]), or by asking Ezmerelda d'Avenir after recruiting her (see [[Arc K - The Fallen Abbey]]).
+> Hráči se tyto informace mohou dozvědět také automaticky z knihy *Ethereal Entities* (viz [[Arc E - The Missing Vistana|Oblouk E – Pohřešovaná Vistanka]] nebo [[Arc H - The Lost Soul|Oblouk H – Ztracená duše]]), od dr. Rudolpha van Richtena poté, co odhalí jeho pravou totožnost (viz [[Arc E - The Missing Vistana|Oblouk E – Pohřešovaná Vistanka]]), nebo od Ezmereldy d'Avenir poté, co ji naverbují (viz [[Arc K - The Fallen Abbey|Oblouk K – Padlé opatství]]).
 
-Godfrey notes, however, that these hostile spirits *can* be deceived. If the players feel they need protection from the manor's hostile spirits, Sir Godfrey advises them to travel south from the Luna River Crossroads, to a point where the Luna River briefly becomes a small lake with an island.
+Godfrey však poznamená, že tyto nepřátelské duchy *lze* oklamat. Pokud mají hráči pocit, že potřebují ochranu před nepřátelskými duchy sídla, sir Godfrey jim poradí, aby se vydali na jih od rozcestí u řeky Luny, k místu, kde se řeka Luna na krátkém úseku rozlévá v malé jezero s ostrůvkem.
 
-"Find an ancient stone slab where the river meets the lake," he directs them. "Two hundred paces west from there, a wide river-rock marks the final resting place of nearly one thousand souls. Some among them may still bear the liveries of the Order. Should you clothe yourselves in their garments, the maddened spirits that haunt these halls shall allow you to come and go in peace." (Godfrey warns, however, that Vladimir himself will not be fooled by any such tricks.)
+„Najděte prastarou kamennou desku tam, kde se řeka stýká s jezerem,“ instruuje je. „Dvě stě kroků západně odtud označuje velký říční kámen místo posledního odpočinku téměř tisíce duší. Někteří z nich možná dosud nosí barvy řádu. Oblečete-li se do jejich šatů, šílení duchové, kteří strašijí v těchto síních, vás nechají pokojně přicházet i odcházet.“ (Godfrey však varuje, že samotného Vladimíra žádný takový trik neoklame.)
 
-> [!abstract]+ **The Stone Slab**
-> Godfrey isn't sure what the stone slab symbolizes, and knows only that it was placed there by the land's indigenous inhabitants millennia before the Order of the Silver Dragon ever arrived in the valley. "We dealt little with them aside from the occasional trade," he recalls. "Their religion is one of wild places—a faith of beast and root and sky, rather than the dawn of the Morninglord or the shade of Mother Night."
+> [!abstract]+ **Kamenná deska**
+> Godfrey si není jistý, co kamenná deska symbolizuje, a ví jen, že ji tam umístili původní obyvatelé této země tisíce let předtím, než do údolí vůbec přišel Řád stříbrného draka. „Kromě občasného obchodu jsme s nimi měli jen málo do činění,“ vzpomíná. „Jejich náboženství je náboženstvím divokých míst – vírou zvířete, kořene a nebe, nikoli úsvitu Jitřního pána či stínu Matky Noci.“
 
-Should the players express interest in retrieving those garments, Godfrey asks only that they treat any uncovered remains with respect and take no more than necessary. "In burying our own dead," he shares, "it was customary to remark: '*May the day's last light guide you home*.' Such sentiment may be still appreciated, even in such a cold and forsaken place."
+Pokud hráči projeví zájem ty šaty získat, Godfrey je požádá jen o to, aby s nalezenými ostatky zacházeli s úctou a nebrali víc, než je nutné. „Když jsme pohřbívali své mrtvé,“ prozradí, „bylo zvykem říkat: ‚*Ať tě poslední světlo dne dovede domů.*‘ Takové přání může být oceněno i na tak chladném a opuštěném místě.“
 
-If the players ask about the origin of the buried remains, Godfrey solemnly informs them that the Order of the Silver Dragon made its final stand there.
-### Obtaining the Garments
-If the players choose to recover the soldiers' garments from the mass grave on the Luna River, they will first need to obtain shovels to excavate the site, which they can purchase from Arasek Stockyard in Vallaki, borrow from the dusk elves of the Vallakian <span class="citation">N9. Vistani Camp (p. 119)</span>, or borrow from Burgomaster Dmitri Krezkov of Krezk.
+Pokud se hráči zeptají na původ pohřbených ostatků, Godfrey jim vážně oznámí, že tam Řád stříbrného draka svedl svůj poslední boj.
+### Získání šatů
+Pokud se hráči rozhodnou získat šaty vojáků z hromadného hrobu u řeky Luny, budou nejprve potřebovat lopaty, aby mohli místo vykopat. Mohou je koupit v Arasekově dvoře ve Vallaki, půjčit si je od soumračných elfů z vallacké <span class="citation">N9. Vistani Camp (p. 119)</span> nebo si je půjčit od purkmistra Dmitriho Krezkova v Krezku.
 
-As the players head south from the Luna River Crossroads after obtaining one or more shovels, read:
-
-<div class="description">
-<p>Leaving the crossroads behind, you set a southern course alongside the Luna River. It's not long, however, before a low-lying fog bank swallows up the path, leaving no sign of the river but the muffled echo of its drifting currents.</p>
-<p>The canopy of the Svalich Wood looms oppressively on either side, each tree a gnarled ghost that whispers amidst the fog. Ahead, a strange, misshapen shadow lies unmoving across the road.</p>
-</div>
-
-The misshapen shadow is the corpse of a **dire wolf**. If the players approach it, read:
+Když hráči po získání jedné či více lopat míří od rozcestí u řeky Luny na jih, přečtěte:
 
 <div class="description">
-<p>The fog pulls away from the shadow, revealing the broken and battered corpse of an enormous wolf, easily six feet at the shoulder. The wolf's side bears several large puncture wounds, and its head and shoulders appear to have been crushed beneath an incredible weight.</p>
+<p>Rozcestí necháte za sebou a vydáte se na jih podél řeky Luny. Netrvá však dlouho a stezku pohltí nízko ležící mlžný val, takže z řeky nezbude nic než tlumená ozvěna jejího plynoucího proudu.</p>
+<p>Z obou stran se tísnivě tyčí klenba Svalichského lesa a každý strom je pokrouceným přízrakem, který v mlze šeptá. Před vámi leží nehybně přes cestu podivný, znetvořený stín.</p>
 </div>
 
-A DC 15 Intelligence (Investigation) check indicates that the wolf's side was punctured by an enormous pair of antlers—far larger than those belonging to an ordinary elk or deer—and that its head and shoulders were trampled by a similarly large set of hooves.
-
-When the players continue past the wolf corpse, read:
+Znetvořený stín je mrtvola obřího vlka (**dire wolf**). Pokud se k ní hráči přiblíží, přečtěte:
 
 <div class="description">
-<p>Several minutes pass before the forest's edge pulls away, and the river's current quiets to the gentle lapping of distant waves.</p>
-<p>The path continues south here, away from the water's edge. A few feet ahead, a trail of dark blood vanishes into the eastern fog, heading toward the shore.</p>
+<p>Mlha od stínu ustoupí a odhalí zlámanou a potlučenou mrtvolu obrovského vlka, v kohoutku snadno šest stop vysokého. Na boku má vlk několik velkých bodných ran a jeho hlava i plece vypadají, jako by je rozdrtila neuvěřitelná tíha.</p>
 </div>
 
-A DC 10 Wisdom (Medicine) check reveals that the trail of blood is quite recent—no older than an hour. A DC 5 Wisdom (Survival) check uncovers a single enormous hoofprint more than a foot across heading east alongside the blood trail. (A DC 15 Intelligence (Nature) check identifies the hoofprint as belonging to an elk, albeit an elk far larger than any ordinary beast.)
+Ověření Intelligence (Investigation) se DC 15 naznačí, že vlkův bok probodl obrovský pár parohů – mnohem větší, než jaké mívá obyčejný los či jelen – a že jeho hlavu a plece rozdupala podobně velká kopyta.
 
-If the players follow the trail of blood, read:
+Když hráči pokračují kolem vlčí mrtvoly, přečtěte:
 
 <div class="description">
-<p>The blood leads to a small peninsula that juts out into the water, the lake's grey waves lapping softly against its shores. In the distance, the shadow of a forlorn isle stands amidst the fog, the silhouettes of tall trees jutting up from its surface like needles.</p>
-<p>A mossy stone slab stands near the edge of the peninsula, just under six feet in height. It rests on an old, cracked stone circle, and seems to bear some sort of carving. A raven sits perched atop the slab, its head bowed in silent vigil.</p>
-<p>Beside it, lying sprawled along the peninsula with its rear body half-submerged in the lake, is an enormous elk, easily twelve feet tall at the shoulder. Its coat is matted with mud and blood, and its right eye has been torn from the socket, leaving a dark, crimson void behind.</p>
-<p>The elk's hind right leg, the one closest to the water, is a horrifying sight. Cuts the width of a human fist have sliced the muscle from the haunches to the thigh, exposing the bone in places where the flesh has been torn away. The flesh around the wound is tinged with sickly shades of black and green, leaking a slow drip of pus and blood into the water below.</p>
-<p>The elk's chest rises and falls with shallow, labored breaths, its remaining eye staring blankly into the mists. Above it, the raven croaks softly, the somber sound echoing through the blanket of fog.</p>
+<p>Uplyne několik minut, než okraj lesa ustoupí a proud řeky utichne v jemné šplouchání vzdálených vln.</p>
+<p>Stezka tu pokračuje na jih, pryč od vody. Pár stop před vámi mizí ve východní mlze stopa tmavé krve, která míří ke břehu.</p>
 </div>
 
-The elk is a **dire elk** (use the statistics of a **giant elk**) with 1 hit point and five levels of exhaustion. A DC 12 Wisdom (Medicine) check reveals that the wound is infected and gangrenous, and that the elk is close to death.
+Ověření Wisdom (Medicine) se DC 10 odhalí, že krvavá stopa je docela čerstvá – ne starší než hodinu. Ověření Wisdom (Survival) se DC 5 odhalí jediný obrovský otisk kopyta, víc než stopu široký, který směřuje na východ podél krvavé stopy. (Ověření Intelligence (Nature) se DC 15 určí, že otisk patří losovi, i když losovi mnohem většímu než jakékoli obyčejné zvíře.)
 
-> [!info]+ **The Raven & the Elk**
-> The raven is the Roc of Mount Ghakis in disguise. While in this form, the roc uses the statistics of an ordinary **raven**, except it has an Intelligence score of 15 (+2), a Wisdom score of 20 (+5), a Charisma score of 14 (+2), and the hit points, proficiency bonus, and saving throw proficiencies of a **roc**.
+Pokud hráči půjdou po krvavé stopě, přečtěte:
+
+<div class="description">
+<p>Krev vede k malému poloostrovu, který vybíhá do vody; šedé vlny jezera tiše omývají jeho břehy. V dálce stojí uprostřed mlhy stín opuštěného ostrova a z jeho povrchu trčí jako jehly siluety vysokých stromů.</p>
+<p>U okraje poloostrova stojí mechem porostlá kamenná deska, necelých šest stop vysoká. Spočívá na starém, popraskaném kamenném kruhu a zdá se, že nese nějakou řezbu. Na desce sedí havran se skloněnou hlavou, jako by držel tichou hlídku.</p>
+<p>Vedle ní leží rozvalený na poloostrově obrovský los, zadní částí těla napůl ponořený v jezeře, v kohoutku snadno dvanáct stop vysoký. Srst má slepenou blátem a krví a pravé oko mu bylo vyrváno z důlku, takže po něm zůstala temná, karmínová prázdnota.</p>
+<p>Losova pravá zadní noha, ta nejblíže vodě, je hrůzný pohled. Řezy široké jako lidská pěst rozpáraly svalovinu od kýty po stehno a tam, kde bylo maso vyrváno, je místy vidět kost. Maso kolem rány má chorobný černozelený nádech a do vody pod ním pomalu odkapává hnis a krev.</p>
+<p>Losova hruď se zvedá a klesá v mělkém, namáhavém dechu a jeho zbylé oko prázdně zírá do mlh. Nad ním havran tiše zakráká a ten truchlivý zvuk se rozléhá pokrývkou mlhy.</p>
+</div>
+
+Los je obří los (**dire elk**; použijte statistiky **giant elk**) s 1 HP a pěti stupni vyčerpání (exhaustion). Ověření Wisdom (Medicine) se DC 12 odhalí, že rána je infikovaná a sněť se šíří a že los je blízko smrti.
+
+> [!info]+ **Havran a los**
+> Havran je převlečený rok z hory Ghakis. V této podobě používá rok statistiky obyčejného havrana (**raven**), ale má Intelligence 15 (+2), Wisdom 20 (+5), Charisma 14 (+2) a HP, zdatnostní bonus a zdatnosti v záchranných hodech roka (**roc**).
 > 
-> The **dire elk** is one of Barovia's rarest creatures, and a beast once held sacred to the Huntress of the Ladies Three. If the players speak to the raven using the spell *speak with animals* or similar magic, it introduces itself solemnly as Turul, and shares only that it has come to stand vigil over the elk and mourn its passing. If the players attempt to speak with the elk, it will simply plead for help, its wounds and exhaustion too grievous for it to speak any more.
+> Obří los (**dire elk**) je jedním z nejvzácnějších tvorů Barovie a zvíře kdysi zasvěcené Lovkyni, jedné ze Tří paní. Pokud hráči s havranem promluví pomocí kouzla *speak with animals* či podobné magie, havran se vážně představí jako Turul a prozradí jen, že přišel držet nad losem stráž a truchlit nad jeho skonem. Pokud se hráči pokusí promluvit s losem, bude jen prosit o pomoc, protože jeho rány a vyčerpání jsou příliš vážné, než aby mohl říct víc.
 > 
-> If the players heal the **dire elk**, the roc will aid them in their combat against the ghouls, retaining the form of a raven. If the players allow Wensencia to harvest the elk's organs, the roc will caw angrily and fly away.  
+> Pokud hráči obřího losa (**dire elk**) vyléčí, rok jim pomůže v boji s ghúly a ponechá si přitom podobu havrana. Pokud hráči dovolí Wensencii vyjmout losovi orgány, rok rozzlobeně zakráká a odletí.
 
 
 
-> [!abstract]+ **The Stone Slab**
-> If the players choose to investigate the slab, they find that it bears a carving of a spider over an engraved three-pointed star, the grooves lined with lichen and moss. (The slab is an ancient monument to the Weaver, and the three-pointed star the symbol of the Ladies Three.)
-#### The Witch's Harvest
-If the players linger by the elk's side, read:
-
-<div class="description">
-<p>From the river to the east, a short distance from the water's edge, approaches the hazy silhouette of a humanoid figure astride a bestial shadow as tall as a horse, both obscured beneath the thick, swirling fog. You hear the soft splashing of water, and a distant, resonant rumble.</p>
-</div>
-
-A player who succeeds on a DC 13 Wisdom (Perception) check discerns that the "steed" has the approximate size and proportions of a **dire wolf**, with the rumble resembling a dire wolf's growl.
-
-If the players allow the figure to approach, read:
+> [!abstract]+ **Kamenná deska**
+> Pokud se hráči rozhodnou desku prozkoumat, zjistí, že je na ní vytesán pavouk nad vyrytou trojcípou hvězdou a rýhy jsou vystlány lišejníkem a mechem. (Deska je prastarým památníkem Tkadleny a trojcípá hvězda je symbolem Tří paní.)
+#### Čarodějnice na sklizni
+Pokud hráči u losa otálejí, přečtěte:
 
 <div class="description">
-<p>The fog parts faintly, and a woman cloaked in mud-splattered robes emerges from its depths. She wears a tattered shawl across her shoulders, a pair of red stones upon her ears, and a carved wooden talisman around her neck. A reed-woven basket sits nestled in the crook of her left arm, covered with a coarse, earth-stained rag. Her right hand, clad in an old, crinkled leather glove, holds a rusted, wicked-looking knife.</p>
-<p>The woman rides an enormous dire wolf—but not a living one. The beast's flesh has begun to rot, its side pierced with gaping, bloody wounds, and some of the meat has been stripped away from its front left leg, revealing the white bone underneath. From its perch atop the stone slab, the raven emits a rumbling, guttural croak, its feathers bristling as the undead wolf steps forward.</p>
-<p>"I thought this one's wounds looked like a dire elk's antlers," the woman muses, peering over the wolf's ears toward the elk. "This is a lucky day indeed."</p>
+<p>Od řeky na východě, kousek od okraje vody, se blíží mlhavá silueta humanoidní postavy, která sedí na zvířecím stínu vysokém jako kůň; obojí zahaluje hustá, vířící mlha. Uslyšíte tiché šplouchání vody a vzdálené, zvučné dunění.</p>
 </div>
 
-The woman is Wensencia, a student of Baba Lysaga. (Players who previously encountered her in [[Arc I - The Walls of Krezk]] recognize her immediately.) The talisman is her arcane focus. If the rag is removed, it reveals a pile of a half-dozen mandrakes—thick, branched, upright roots with a faint, yet eerie resemblance toward a human form.
+Hráč, který uspěje v ověření Wisdom (Perception) se DC 13, rozezná, že „oř“ má přibližně velikost a proporce obřího vlka (**dire wolf**) a že dunění připomíná vrčení obřího vlka.
 
-> [!info]+ **Wensencia and Her Steed**
-> Wensencia is a **Barovian witch** with 33 hit points, a +3 proficiency bonus, and the following spells prepared:
+Pokud hráči nechají postavu přiblížit se, přečtěte:
+
+<div class="description">
+<p>Mlha se slabě rozestoupí a z jejích hlubin se vynoří žena zahalená do blátem potřísněného roucha. Přes ramena má potrhaný šál, v uších pár rudých kamínků a na krku vyřezávaný dřevěný talisman. V ohbí levé paže jí spočívá košík upletený z rákosu, přikrytý hrubým, hlínou zašpiněným hadrem. V pravé ruce, oblečené do staré, zmačkané kožené rukavice, drží rezavý, zlovolně vyhlížející nůž.</p>
+<p>Žena jede na obrovském obřím vlkovi – ale ne na živém. Maso zvířete začalo hnít, bok má probodaný zejícími, krvavými ranami a z levé přední nohy je část masa stržena, takže je vidět bílá kost. Ze svého místa na kamenné desce vydá havran dunivé, hrdelní zakrákání a naježí peří, když nemrtvý vlk vykročí vpřed.</p>
+<p>„Hned jsem si myslela, že tyhle rány vypadají jako od parohů obřího losa,“ zamyslí se žena a pohlédne přes vlkovy uši na losa. „To je ale šťastný den.“</p>
+</div>
+
+Žena je Wensencia, žačka Baby Lysagy. (Hráči, kteří se s ní dříve setkali v [[Arc I - The Walls of Krezk|Oblouk I – Hradby Krezku]], ji okamžitě poznají.) Talisman je jejím magickým ohniskem (arcane focus). Pokud hráči sejmou hadr, odhalí hromádku půl tuctu mandragor – silných, rozvětvených, vzpřímených kořenů se slabou, a přesto tajuplnou podobností s lidskou postavou.
+
+> [!info]+ **Wensencia a její oř**
+> Wensencia je barovská čarodějnice (**Barovian witch**) s 33 HP, zdatnostním bonusem +3 a s následujícími připravenými kouzly:
 > 
 > * Cantrips (at will): mage hand, prestidigitation, ray of frost
 > * 1st level (4 slots): ray of sickness, sleep, Tasha's hideous laughter
 > * 2nd level (3 slots): enlarge/reduce, invisibility, misty step
 > * 3rd level (1 slot remaining): animate dead, gaseous form
 >   
-> Wensencia's steed has the statistics of a **dire wolf**, but has a **zombie**'s ***undead fortitude*** feature instead of a dire wolf's ***pack tactics*** feature. It obey's Wensencia's spoken commands, and Wensencia can use a bonus action on her turn to mentally command it if it is within 60 feet of her.
+> Wensenciin oř má statistiky obřího vlka (**dire wolf**), ale místo schopnosti ***pack tactics*** obřího vlka má schopnost ***undead fortitude*** zombie (**zombie**). Poslouchá Wensenciiny vyslovené rozkazy a Wensencia mu může ve svém tahu bonusovou akcí velet v duchu, pokud je do 60 stop od ní.
 
-> [!profile]+ **Wensencia, Swamp Witch**
-> Wensencia, like Baba Lysaga’s four other current students, viewed Strahd’s revival as the coming of a dark messiah, and sought out the swamp witch at the advice of Strahd’s vampiric bride, Ludmilla Vilisevic. She should make the players feel irritated, uncomfortable, intrigued, and insulted, and most often feels annoyed, disinterested, curious, thoughtful, smug, or melancholy.
+> [!profile]+ **Wensencia, bažinná čarodějnice**
+> Wensencia, stejně jako čtyři další současné žačky Baby Lysagy, viděla ve Strahdově procitnutí příchod temného mesiáše a na radu Strahdovy upíří nevěsty Ludmilly Vilisevic vyhledala bažinnou čarodějnici. Měla by v hráčích budit podráždění, nepohodlí, zvědavost i uraženost a nejčastěji bývá rozmrzelá, nezúčastněná, zvědavá, zamyšlená, samolibá nebo melancholická.
 
-If the players previously encountered her in [[Arc I - The Walls of Krezk]], Wensencia greets them with muted surprise and annoyance. Wensencia can share the following information with the players, but only if specifically asked:
+Pokud se s ní hráči dříve setkali v [[Arc I - The Walls of Krezk|Oblouk I – Hradby Krezku]], Wensencia je pozdraví s tlumeným překvapením a rozladěním. Wensencia může hráčům prozradit následující, ale jen pokud se jí na to výslovně zeptají:
 
-* She is Wensencia, a student of Mother Lysaga of Berez. (If the players refer to Baba Lysaga as "the swamp witch," Wensencia sneers and instructs them to "refer to Mother Lysaga with respect").
-* She was out by the eastern shore of the Luna River picking mandrake roots (as alchemical ingredients) when she found the corpse of a **dire wolf**, evidently killed by a dire elk. Fascinated by the rare prospect of finding a whole, fresh dire wolf corpse, she reanimated it and set off to track down its killer, hopeful that the elk might still be in the vicinity.
+* Je Wensencia, žačka matky Lysagy z Berezu. (Pokud hráči o Babě Lysaze mluví jako o „bažinné čarodějnici“, Wensencia se ušklíbne a poučí je, ať „o matce Lysaze mluví s úctou“.)
+* Byla na východním břehu řeky Luny trhat kořeny mandragor (jako alchymistické přísady), když našla mrtvolu obřího vlka (**dire wolf**), zjevně zabitého obřím losem. Okouzlená vzácnou příležitostí najít celou, čerstvou mrtvolu obřího vlka, oživila ji a vydala se vystopovat jeho vraha v naději, že los bude ještě nablízku.
 
-Wensencia intends to harvest the dire elk's antlers, heart, and liver for use in Baba Lysaga's alchemical potions and spellwork. Upon arriving, she dismounts her undead dire wolf, grasps her rusted knife more firmly in her gloved hand, and approaches the elk, instructing the players to step away if they're standing in its vicinity. As she does, the raven caws desperately, fluttering its wings and clacking its beak in obvious distress.
+Wensencia hodlá obřímu losovi vyjmout parohy, srdce a játra pro alchymistické lektvary a kouzla Baby Lysagy. Po příchodu sesedne ze svého nemrtvého obřího vlka, pevněji sevře rezavý nůž v ruce v rukavici a přiblíží se k losovi; hráče, kteří stojí v jeho blízkosti, vyzve, ať ustoupí. Havran přitom zoufale krákorá, třepetá křídly a klape zobákem ve zjevném rozrušení.
 
-If her path forward is clear, she then kneels before the elk's throat and feels for its pulse, remarking that "the beast's heartbeat is impressively strong, even in its final hour." She then shakes her head and leans forward, steadying her grip on the knife and adding, "Still, hopeless defiance is hopeless all the same." Unless prevented by the players, Wensencia then slashes the dire elk's throat with her rusted knife, killing it immediately, and moves to begin harvesting its antlers.
+Pokud má volnou cestu, poklekne u losova hrdla a nahmatá mu tep s poznámkou, že „srdce té bestie bije pozoruhodně silně, i v její poslední hodině“. Pak zavrtí hlavou, nakloní se vpřed, upevní stisk na noži a dodá: „Ale beznadějný vzdor je beznadějný tak jako tak.“ Pokud jí v tom hráči nezabrání, Wensencia pak obřímu losovi podřízne hrdlo rezavým nožem, okamžitě ho zabije a pustí se do odebírání jeho parohů.
 
-If the players challenge or move to obstruct her, Wensencia is annoyed and slightly perplexed. "The beast is already as good as dead," she notes, coldly. "Why not put it to use? It's no good to anyone wheezing and bleeding on the shore."
+Pokud ji hráči vyzvou, aby přestala, nebo se jí pokusí zastoupit cestu, Wensencia je rozladěná a trochu zmatená. „Ta bestie je stejně jako mrtvá,“ poznamená chladně. „Proč ji nevyužít? Nikomu není k užitku, když tu sípe a krvácí na břehu.“
 
-Wensencia can't be persuaded to spare the elk's life on its own merits. If the players insist that she allow the elk time to die in its own time, she sniffs that "the beast could take hours to die—and the organs are best harvested while the heart is still beating, regardless."
+Wensencii nelze přesvědčit, aby losa ušetřila jen kvůli němu samému. Pokud hráči trvají na tom, aby losovi dopřála zemřít v jeho vlastním čase, ohrne nos, že „té bestii může trvat hodiny, než zemře – a orgány se stejně nejlépe odebírají, dokud srdce ještě bije“.
 
-The players can dissuade Wensencia from harvesting the elk by offering a gift of reasonable value and succeeding on a successful DC 15 Charisma (Persuasion) check. If the players threaten Wensencia in an attempt to dissuade her, she asks, in bafflement, why they would care so deeply about a "dumb, dying animal." 
+Hráči mohou Wensencii od odebrání losových orgánů odradit, pokud jí nabídnou dar přiměřené hodnoty a uspějí v ověření Charisma (Persuasion) se DC 15. Pokud Wensencii vyhrožují, aby ji odradili, zmateně se zeptá, proč jim tolik záleží na „hloupém, umírajícím zvířeti“.
 
-Ultimately, the players can also dissuade Wensencia from harvesting the elk by succeeding on a DC 10 Charisma (Intimidation) check. If the players attack her, she uses her first turn in combat to cast *gaseous form*, vanishing into the fog before returning to Berez. (The undead dire wolf, compelled to defend her, fights the players to the death.)
+Nakonec mohou hráči Wensencii od odebrání losových orgánů odradit také úspěšným ověřením Charisma (Intimidation) se DC 10. Pokud na ni hráči zaútočí, použije svůj první tah v boji k seslání *gaseous form*, zmizí v mlze a vrátí se do Berezu. (Nemrtvý obří vlk, nucený ji bránit, bojuje s hráči až do smrti.)
 
-As Wensencia departs, if the players treated her cordially, she warns them to beware the creatures that lurk amidst the gloom of the nearby crags and woods. "This meadow is a place of ancient death," she says, "and such creatures are drawn to it like moths to a flame. Do not linger long, lest you draw their attention—and their appetites." (Wensencia is referring to the **ghouls** that dwell amidst the cliffs of the nearby mountains, described in further detail below.)
+Když Wensencia odchází a pokud s ní hráči jednali zdvořile, varuje je před tvory, kteří číhají v šeru okolních útesů a lesů. „Tahle louka je místem prastaré smrti,“ řekne, „a takové tvory to sem táhne jako můry k plameni. Nezdržujte se tu dlouho, nebo přilákáte jejich pozornost – a jejich chuť k jídlu.“ (Wensencia mluví o ghúlech (**ghouls**), kteří žijí mezi útesy okolních hor a jsou podrobněji popsáni níže.)
 
-If the players successfully dissuade or drive off Wensencia, the raven clucks gratefully and solemnly bows its head in a showing of respect. If the players linger an additional five minutes, the dire elk passes away, its remaining eye slowly drifting closed as the wound overtakes it.
-#### The Mass Grave
-When the players depart the stone slab for the grave site, read:
+Pokud hráči Wensencii úspěšně odradí nebo zaženou, havran vděčně zakdáká a na znamení úcty vážně skloní hlavu. Pokud hráči otálejí dalších pět minut, obří los zemře – jeho zbylé oko se pomalu zavře, jak ho rána přemůže.
+#### Hromadný hrob
+Když se hráči od kamenné desky vydají k hrobu, přečtěte:
 
 <div class="description">
-<p>You proceed west from the peninsula, treading across soft, loamy soil and through tall, yellowed grasses that whisper against your boots. As you count your paces, it's not long before a wide, grey-brown boulder emerges from the mist, its edges worn smooth from water and wind. It stands alone atop the grassland, a silent sentinel amidst the fog.</p>
+<p>Vydáte se od poloostrova na západ, šlapete po měkké, kypré hlíně a procházíte vysokou, zežloutlou trávou, která vám šeptá kolem bot. Počítáte kroky a netrvá dlouho, než se z mlhy vynoří široký šedohnědý balvan, jehož hrany obrousila voda a vítr. Stojí osaměle uprostřed travnaté pláně jako tichý strážce v mlze.</p>
 </div>
 
-The soldiers' remains are located in a one-hundred foot radius area of earth around the boulder, buried an average of five feet beneath the surface. For each thirty minutes the players dig, roll on the table below to determine what they uncover:
+Ostatky vojáků leží v oblasti o poloměru sto stop kolem balvanu, pohřbené v průměru pět stop pod povrchem. Za každých třicet minut kopání si hoďte na následující tabulku, abyste určili, co hráči odkryli:
 
-| 1d20 | Remains |
+| 1d20 | Ostatky |
 | :--: | ---- |
-| 1-7 | Old, scattered bones |
-| 8-10 | A full or partial human skeleton |
-| 11-15 | An iron shield engraved with the sigil of the Order of the Silver Dragon |
-| 16-17 | An iron helm engraved with the sigil of the Order of the Silver Dragon |
-| 18 | A silver medallion engraved with the sigil of the Order of the Silver Dragon |
-| 19 | A breastplate engraved with the sigil of the Order of the Silver Dragon |
-| 20 | Roll twice, ignoring a result of 20. |
+| 1-7 | Staré, rozházené kosti |
+| 8-10 | Celá nebo částečná lidská kostra |
+| 11-15 | Železný štít s vyrytým znakem Řádu stříbrného draka |
+| 16-17 | Železná přilba s vyrytým znakem Řádu stříbrného draka |
+| 18 | Stříbrný medailon s vyrytým znakem Řádu stříbrného draka |
+| 19 | Kyrys s vyrytým znakem Řádu stříbrného draka |
+| 20 | Hoďte dvakrát a výsledek 20 ignorujte. |
 
-When the players have uncovered—but not yet retrieved—the final piece of gear necessary to disguise themselves from the hostile spirits of Argynvostholt, read:
-
-<div class="description">
-<p>A damp, easterly wind stirs the swirling fog—bringing with it the thick, rotting stench of death.</p>
-</div>
-
-A player with a passive Wisdom (Perception) score of 13 or greater also notices several hunched silhouettes skulking toward their location—two from the east and three from the west.
-
-The stench and silhouettes belong to a pack of five **ghouls**, which smelled the scent of overturned grave-dirt and came lumbering in search of its source. If the players linger or attempt to flee, the ghouls attack. Read:
+Když hráči odkryjí – ale ještě nevyzvednou – poslední kus výstroje, který potřebují, aby se před nepřátelskými duchy Argynvostholtu zamaskovali, přečtěte:
 
 <div class="description">
-<p>Five emaciated, humanoid creatures dressed in rags come hurtling out of the fog, their bloodstained claws outstretched and yellowed, jagged teeth bared in desperate hunger.</p>
+<p>Vlhký východní vítr rozvíří převalující se mlhu – a přinese s sebou hustý, hnilobný pach smrti.</p>
 </div>
 
-> [!combat]- **Combat - The Mass Grave**  
-> **Combat Level**: Bruising
-> **Expected Character Level**: 5
-> **Allies:** Ireena Kolyana (CR 2)
-> **Expected HP Consumption:** 14%
+Hráč s pasivní hodnotou Wisdom (Perception) 13 nebo vyšší si navíc všimne několika shrbených siluet, které se k nim plíží – dvou od východu a tří od západu.
+
+Pach i siluety patří smečce pěti ghúlů (**ghouls**), kteří ucítili pach rozkopané hrobové hlíny a přibelhali se hledat jeho zdroj. Pokud hráči otálejí nebo se pokusí uprchnout, ghúlové zaútočí. Přečtěte:
+
+<div class="description">
+<p>Z mlhy se vyřítí pět vyzáblých humanoidních tvorů v hadrech, s napřaženými krví potřísněnými drápy a se zežloutlými, zubatými tesáky vyceněnými v zoufalém hladu.</p>
+</div>
+
+> [!combat]- **Boj – Hromadný hrob**  
+> **Úroveň boje**: Bolestivý
+> **Očekávaná úroveň postav**: 5
+> **Spojenci:** Ireena Kolyana (CR 2)
+> **Očekávaná ztráta HP:** 14 %
 > 
-> ### **Enemies:**
+> ### **Nepřátelé:**
 > 
-> | |3 Players | 4 Players | 5 Players | 6 Players |
+> | |3 hráči | 4 hráči | 5 hráčů | 6 hráčů |
 > |-|-|-|-|-|
 > | Ghouls | 4 | 4 | 5 | 6 |
 
-When combat begins, if the players protected the dire elk from Wensencia, secretly roll initiative for the **roc of Mount Ghakis** as well. On its turn, the roc uses a bonus action to assume its gargantuan **roc** form before using its action to grapple one of the **ghouls** with its **talons** attack and departing. Read:
+Když začne boj a pokud hráči obřího losa před Wensencií ochránili, hoďte tajně na iniciativu i pro roka z hory Ghakis (**roc of Mount Ghakis**). Ve svém tahu rok bonusovou akcí přijme svou obrovitou podobu roka (**roc**), pak svou akcí uchopí jednoho z ghúlů (**ghouls**) útokem **talons** a odletí. Přečtěte:
 
 <div class="description">
-<p>A sudden gale of wind roars in your ears, the fog swirling violently around you. A monstrous silhouette, taller than the trees of the Svalich Wood and with a wingspan twice as wide, descends from the sky above—and so too does a gargantuan set of talons, emerging from the fog toward one of the ghouls like the fingers of a vengeful deity.</p>
-<p>Before the ghoul can even react, claws large enough to pluck an elephant from the earth have lashed around it, lifting it effortlessly into the sky. A single shriek bursts from the ghoul's throat—and then the shadowed behemoth is gone, vanishing into the foggy abyss overhead.</p>
+<p>V uších vám náhle zaburácí poryv větru a mlha kolem vás divoce zavíří. Z oblohy se snáší obludná silueta, vyšší než stromy Svalichského lesa a s rozpětím křídel dvakrát širším – a s ní i obrovitý pár pařátů, který se z mlhy natahuje k jednomu z ghúlů jako prsty mstivého božstva.</p>
+<p>Než ghúl stačí vůbec zareagovat, sevřou se kolem něj drápy dost velké, aby vyrvaly ze země slona, a bez námahy ho vynesou do nebe. Z ghúlova hrdla se vydere jediný skřek – a pak je stínový kolos pryč a mizí v mlžné propasti nad vámi.</p>
 </div>
 
-When four of the ghouls have been slain, the fifth throws itself to the ground, bowing before the players and babbling for mercy in broken Common from the "nice, kind masters" in exchange for information. The ghoul, which refers to itself as Nim, promises that "Nim knows many things—many secrets!"
+Když jsou čtyři ghúlové zabiti, pátý se vrhne na zem, klaní se hráčům a lámanou obecnou řečí (Common) blábolí prosby o milost od „hodných, laskavých pánů“ výměnou za informace. Ghúl, který o sobě mluví jako o Nimovi, slibuje, že „Nim zná mnoho věcí – mnoho tajemství!“
 
-Nim, who occasionally eyes the players' fleshy extremities with hungry interest, should make the players feel disturbed, uncomfortable, or darkly amused, and most often feels hungry, obsessed, sniveling, paranoid, or enraged. Nim is willing to share the following information if the players allow it to leave in peace:
+Nim, který občas po masitých končetinách hráčů pokukuje s hladovým zájmem, by měl v hráčích budit znepokojení, nepohodlí nebo temné pobavení a nejčastěji bývá hladový, posedlý, ufňukaný, paranoidní nebo rozzuřený. Pokud mu hráči dovolí odejít v míru, je Nim ochoten prozradit následující:
 
-* Long ago, the "hissing water" was much smaller, and the "drowned earth" near here dry and beautiful.
-* Then, as now, an old circle of stones stood on the far bank of the "hissing water" by the village, marked with the sigil of the spider. Though Nim didn't see it itself, someone once told it that "the Dark Master" had claimed the stones from their old master. If asked how, Nim shares that the "Dark Master" claimed the stones with the aid of "the wood-people, and their horns and claws." (Nim is referring to the Forest Folk who helped Strahd first desecrate the Swamp Fane. Although Nim doesn't remember it, Nim—then a villager of Berez called Nimira—learned the story from its grandmother, who spied upon the druids' first meeting with Strahd at the Fane.)
-*  On "the day the earth drowned," the circle of stones shook, and a great wave burst from the mountains across the river. "Nim ran away," Nim hisses. "Dark things in the water. Didn't dare stay." She adds, weeping, "But so *hungry*." (A player with a passive Wisdom (Insight) score of 8 or more then notices that Nim's tears are false, and that Nim is eyeing the players' flesh through its fingers with conniving, hopeful interest.)
-* Recently, the "Dark Master" has begun to visit the circle of stones once again—and each time he does, the circle trembles, though more quietly than it did long ago. The "swamp woman"—Baba Lysaga—has begun visiting it as well, and Nim has observed strange lights and sounds each time she does. (Nim doesn't know what Baba Lysaga is doing there.)
+* Kdysi dávno byla „syčící voda“ mnohem menší a „utopená země“ tady poblíž suchá a krásná.
+* Tehdy jako dnes stál na protějším břehu „syčící vody“ u vesnice starý kruh kamenů, označený znamením pavouka. Nim to sám na vlastní oči nespatřil, ale kdosi mu kdysi řekl, že „Temný pán“ kameny vzal jejich starému pánovi. Pokud se ho hráči zeptají jak, Nim prozradí, že „Temný pán“ kameny získal s pomocí „lesních lidí, a jejich rohů a drápů“. (Nim mluví o Lesním lidu, který Strahdovi pomohl Bažinnou svatyni poprvé znesvětit. Ačkoli si to Nim nepamatuje, zná ten příběh – tehdy ještě jako berezská vesničanka jménem Nimira – od své babičky, která druidy při jejich prvním setkání se Strahdem ve svatyni tajně sledovala.)
+*  V „den, kdy se země utopila“, se kruh kamenů otřásl a z hor za řekou se přivalila obrovská vlna. „Nim utíkat,“ zasyčí Nim. „Temné věci ve vodě. Nesmět zůstat.“ A s pláčem dodá: „Ale tak *hladový*.“ (Hráč s pasivní hodnotou Wisdom (Insight) 8 nebo vyšší si pak všimne, že Nimovy slzy jsou falešné a že Nim mezi prsty pokukuje po mase hráčů se zákeřným, nadějeplným zájmem.)
+* Nedávno začal „Temný pán“ kruh kamenů znovu navštěvovat – a pokaždé, když tam přijde, se kruh zachvěje, i když tišeji než kdysi dávno. Kruh začala navštěvovat i „bažinná žena“ – Baba Lysaga – a Nim pokaždé, když tam je, vídá podivná světla a slyší podivné zvuky. (Nim neví, co tam Baba Lysaga dělá.)
 
-If the **roc** appeared during the fight, Nim can identify it as "the Great Raven," which dwells atop the "cold mountain." Nim isn't sure why it might have attacked.
+Pokud se během boje objevil rok (**roc**), Nim ho dokáže označit jako „Velkého havrana“, který sídlí na vrcholu „studené hory“. Nim si není jistý, proč by mohl zaútočit.
 
-If allowed to depart, Nim hisses gleefully and scampers off on all fours, vanishing into the mist.
-# M4. The First Floor
-## M4a. Cemetery
+Pokud mu hráči dovolí odejít, Nim škodolibě zasyčí, odcupitá po čtyřech a zmizí v mlze.
+# M4. První podlaží
+## M4a. Hřbitov
 <span class="citation"><em>This scene takes place in Chapter 7, Areas Q15 and Q16.</em></span>
 
-The cemetery and mausoleum are largely as described in <span class="citation">Q15. Cemetery (p. 134)</span> and <span class="citation">Q16. Dragon’s Mausoleum (p. 134)</span>. However, add the following text to the end of the description of the interior of the mausoleum:
+Hřbitov a mauzoleum do značné míry odpovídají popisu v <span class="citation">Q15. Cemetery (p. 134)</span> a <span class="citation">Q16. Dragon’s Mausoleum (p. 134)</span>. Na konec popisu vnitřku mauzolea však doplňte následující text:
 
 <div class="description">
-<p>Twin unlit torches rest in rusted sconces along the far wall on either side of the verse.</p>
+<p>Na protější stěně po obou stranách verše spočívají v rezavých držácích dvě nezapálené pochodně.</p>
 </div>
 
-## M4b. Steward’s Wing
-### Kitchen
+## M4b. Správcovo křídlo
+### Kuchyně
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q10.</em></span>
 
-This area is largely as described in <span class="citation">Q10. Kitchen (p. 133).</span> However, the iron pot has a lid and isn’t rattling when the players first enter the room. Instead, the room is noticeably colder than the surrounding rooms, though not quite freezing.
+Tato oblast do značné míry odpovídá popisu v <span class="citation">Q10. Kitchen (p. 133).</span> Železný hrnec však má poklici, a když hráči poprvé vstoupí do místnosti, nechrastí. Místo toho je v místnosti znatelně chladněji než v okolních místnostech, i když ještě nemrzne.
 
-If a player approaches or crosses in front of the fireplace, read:
-
-<div class="description">
-<p>An alien sense of anticipation and childlike excitement suddenly grips you. It’s only after a moment that you realize that the sensation isn’t coming from you, but from something brushing against your mind.</p>
-</div>
-
-The emotions are a telepathic communication sent by the spirit of Zorya, Argynvost’s deceased **pseudodragon** familiar, which is hiding in the pot over the fireplace instead of a bat. The sensations fade if the player moves away from the fireplace, and grow stronger if the player moves closer.
-
-> [!lore]+ **Argynvost’s Familiar**
->
-> When he came to Barovia, Argynvost brought with him Zorya, a rare silver-scaled **pseudodragon** he had found in the forests of a distant land. An intelligent, if mischievous creature, Zorya served as Argynvost’s loyal companion until her death on the day of Argynvostholt’s fall. In death, she is a shy, if playful spirit, though she mourns Argynvost’s death and subsequent silence.
->
-> If found by the players, Zorya attempts to engage them in her favorite game—hide-and-seek—using her ***limited telepathy*** feature to communicate basic emotions, images, and ideas as the game unfolds. Each time the players find her, the following events occur unless the players prevent them:
->
-> * Any sensations of anticipation and excitement vanish, to be replaced by sensations of amusement and delight. 
-> * Zorya flees into the next chamber and hides herself there.
-> * The temperature in the players’ current room returns to normal, and the temperature in Zorya’s new hiding place plummets.
-> * The sensations of amusement and delight fade, to be replaced by muted sensations of anticipation and excitement.
-
-If a player moves within reach of the iron pot, read:
+Pokud se hráč přiblíží ke krbu nebo přejde před ním, přečtěte:
 
 <div class="description">
-<p>The iron pot suddenly begins to tremble, rattling on its hook and bobbing up and down as though something is inside it. The alien emotions intensify to a nervous, yet excitable giddiness.</p>
+<p>Náhle vás zachvátí cizí pocit dychtivého očekávání a dětského vzrušení. Teprve po chvíli si uvědomíte, že ten pocit nepochází z vás, ale z něčeho, co se otírá o vaši mysl.</p>
 </div>
 
-If a player removes the pot’s lid, Zorya—in the form of a wisp of silvery mist—bursts forth from the pot’s interior with a sound like chiming crystal and flees into [[#Servants’ Quarters]]. When she does, the players feel a muted sense of hopeful longing in addition to any other emotions.
-### Servants’ Quarters
+Tyto emoce jsou telepatickým sdělením ducha Zorji, Argynvostova zesnulého pseudodráčka (**pseudodragon**) a familiára, která se místo netopýra skrývá v hrnci nad krbem. Pokud se hráč od krbu vzdálí, pocity vyprchají; pokud se přiblíží, zesílí.
+
+> [!lore]+ **Argynvostův familiár**
+>
+> Když Argynvost přišel do Barovie, přivedl s sebou Zorju, vzácnou pseudodráčici (**pseudodragon**) se stříbrnými šupinami, kterou našel v lesích daleké země. Zorja, inteligentní, byť rozpustilé stvoření, byla Argynvostovou věrnou společnicí až do své smrti v den pádu Argynvostholtu. Po smrti je plachým, i když hravým duchem, truchlí však nad Argynvostovou smrtí a jeho následným mlčením.
+>
+> Pokud ji hráči najdou, Zorja se je pokusí zapojit do své oblíbené hry – na schovávanou – a pomocí své schopnosti ***limited telepathy*** jim během hry sděluje jednoduché emoce, obrazy a myšlenky. Pokaždé, když ji hráči najdou, dojde k následujícímu, pokud tomu hráči nezabrání:
+>
+> * Veškeré pocity očekávání a vzrušení zmizí a nahradí je pocity pobavení a radosti. 
+> * Zorja uprchne do vedlejší místnosti a tam se schová.
+> * Teplota v místnosti, kde se hráči nacházejí, se vrátí do normálu a teplota v Zorjině novém úkrytu prudce klesne.
+> * Pocity pobavení a radosti vyprchají a nahradí je tlumené pocity očekávání a vzrušení.
+
+Pokud se hráč dostane na dosah železného hrnce, přečtěte:
+
+<div class="description">
+<p>Železný hrnec se náhle začne třást, chrastí na svém háku a poskakuje nahoru a dolů, jako by v něm něco bylo. Cizí emoce zesílí v nervózní, a přece rozjařenou rozdováděnost.</p>
+</div>
+
+Pokud hráč z hrnce sejme poklici, Zorja – v podobě obláčku stříbřité mlhy – vyrazí z jeho nitra se zvukem jako zvonění křišťálu a uprchne do [[#Pokoje služebnictva|Pokoje služebnictva]]. Když se tak stane, pocítí hráči kromě ostatních emocí i tlumený pocit nadějné touhy.
+### Pokoje služebnictva
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q9.</em></span>
 
-This area is as described in <span class="citation">Q9. Servants’ Quarters (p. 133).</span> 
+Tato oblast odpovídá popisu v <span class="citation">Q9. Servants’ Quarters (p. 133).</span> 
 
-If the players have previously encountered Zorya in the [[#Kitchen]], the room’s temperature is noticeably lower than the nearby rooms and Zorya is hiding beneath the frame of the northeastern bed.
+Pokud se hráči se Zorjou již setkali v [[#Kuchyně|Kuchyně]], je teplota v místnosti znatelně nižší než v okolních místnostech a Zorja se schovává pod rámem severovýchodní postele.
 
-If a player moves within reach of Zorya’s bed, a player with a passive Wisdom (Perception) score of 15 or greater notices the motheaten bed skirts beneath its frame begin to leap and tremble excitedly, the sensations of anticipation and excitement intensifying in the player’s mind. (A player who checks Zorya’s bed notices the moving bed skirts automatically.)
+Pokud se hráč dostane na dosah Zorjiny postele, hráč s pasivní hodnotou Wisdom (Perception) 15 nebo vyšší si všimne, že molem prožrané třásně přehozu pod rámem postele začnou vzrušeně poskakovat a chvět se, a pocity očekávání a vzrušení v hráčově mysli zesílí. (Hráč, který Zorjinu postel prohledá, si pohybujících se třásní všimne automaticky.)
 
-If a player moves the bed skirts to reveal Zorya’s hiding place, Zorya—in the form of a cloud of silvery mist with noticeably reptilian features—bursts forth with a sound like chiming crystal and flees into [[#Parlor]]. When she does, the players feel a diminished sense of longing and a small sense of satisfaction in addition to any other emotions.
-### Parlor
+Pokud hráč třásně odhrne a odhalí Zorjin úkryt, Zorja – v podobě oblaku stříbřité mlhy se zřetelně plazími rysy – vyrazí ven se zvukem jako zvonění křišťálu a uprchne do [[#Salon|Salon]]. Když se tak stane, pocítí hráči kromě ostatních emocí i zeslabený pocit touhy a drobný pocit uspokojení.
+### Salon
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q7.</em></span>
 
-This area is as described in <span class="citation">Q7. Parlor (p. 133).</span>
+Tato oblast odpovídá popisu v <span class="citation">Q7. Parlor (p. 133).</span>
 
-If the players have previously encountered Zorya in the [[#Servants’ Quarters]], the room’s temperature is noticeably lower than the nearby rooms and Zorya is hiding behind the drapes of the western window.
+Pokud se hráči se Zorjou již setkali v [[#Pokoje služebnictva|Pokoje služebnictva]], je teplota v místnosti znatelně nižší než v okolních místnostech a Zorja se schovává za závěsy západního okna.
 
-If a player moves within reach of Zorya’s window, a player with a passive Wisdom (Perception) score of 15 or greater notices the tattered drapes shift and rustle quietly, the sensations of anticipation and excitement intensifying in the player’s mind. (A player who checks Zorya’s window notices the moving drapes automatically.)
+Pokud se hráč dostane na dosah Zorjina okna, hráč s pasivní hodnotou Wisdom (Perception) 15 nebo vyšší si všimne, že se potrhané závěsy tiše pohnou a zašustí, a pocity očekávání a vzrušení v hráčově mysli zesílí. (Hráč, který Zorjino okno prohledá, si pohybujících se závěsů všimne automaticky.)
 
-If a player moves the drapes to reveal Zorya’s hiding place, Zorya—again in the form of a cloud of silvery mist with noticeably reptilian features—bursts forth with a sound like chiming crystal and flees into [[#Dragon’s Den]]. When she does, the players feel a swelling sense of satisfaction in addition to any other emotions.
-### Dragon’s Den
+Pokud hráč závěsy odhrne a odhalí Zorjin úkryt, Zorja – opět v podobě oblaku stříbřité mlhy se zřetelně plazími rysy – vyrazí ven se zvukem jako zvonění křišťálu a uprchne do [[#Dračí doupě|Dračí doupě]]. Když se tak stane, pocítí hráči kromě ostatních emocí i sílící pocit uspokojení.
+### Dračí doupě
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q6.</em></span>
 
-This area is largely as described in <span class="citation">Q6. Dragon’s Den (p. 132).</span> However, the living fire doesn't appear as they approach the fireplace.
+Tato oblast do značné míry odpovídá popisu v <span class="citation">Q6. Dragon’s Den (p. 132).</span> Když se však hráči přiblíží ke krbu, živý oheň se neobjeví.
 
-If the players have previously encountered Zorya in the [[#Parlor]], the room’s temperature is noticeably lower than the nearby rooms and Zorya is hiding within the wine-cabinet sarcophagus, concealed within a decanter made of frosted glass.
+Pokud se hráči se Zorjou již setkali v [[#Salon|Salon]], je teplota v místnosti znatelně nižší než v okolních místnostech a Zorja se schovává v sarkofágu sloužícím jako skříň na víno, ukrytá v karafě z matného skla.
 
-If a player moves within reach of Zorya’s decanter, a player with a passive Wisdom (Perception) score of 15 or greater notices a small, winged shadow fidgeting impatiently behind the glass, the sensations of anticipation and excitement intensifying in the player’s mind. (A player who checks Zorya’s decanter notices the moving shadow automatically.)
+Pokud se hráč dostane na dosah Zorjiny karafy, hráč s pasivní hodnotou Wisdom (Perception) 15 nebo vyšší si všimne, že se za sklem netrpělivě vrtí malý okřídlený stín, a pocity očekávání a vzrušení v hráčově mysli zesílí. (Hráč, který Zorjinu karafu prohledá, si pohybujícího se stínu všimne automaticky.)
 
-If a player unstops the decanter to reveal Zorya’s hiding place, she bursts forth with a trill of delight and plunges into the fireplace. Read:
+Pokud hráč karafu odzátkuje a odhalí Zorjin úkryt, Zorja s radostným trylkováním vyrazí ven a vrhne se do krbu. Přečtěte:
 
 <div class="description">
-<p>A fire of silver flames erupts in the dead hearth and assumes a draconic form. It hisses and crackles - and then yawns, stretches, and unfurls its smoky wings as a familiar sound like chiming crystal pours forth from its tiny throat.</p>
+<p>V mrtvém krbu vyšlehne oheň stříbrných plamenů a přijme dračí podobu. Syčí a praská – a pak zívne, protáhne se a rozvine svá kouřová křídla, zatímco z jeho drobného hrdla se line známý zvuk jako zvonění křišťálu.</p>
 </div>
 
 ![[Zorya.png]]
-<span class="credit">"Zorya" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">„Zorja“ – autor: Caleb Cleveland. Podpořte ho na <a href="https://patreon.com/calebisdrawing/">Patreonu!</a></span>
 
-If the players don’t immediately respond, Zorya chirps happily and flutters up into the air before attempting to settle on the shoulder of whichever player most befriended her during the game. (Though made of fire, Zorya’s body is cold to the touch, not hot.) 
+Pokud hráči hned nezareagují, Zorja spokojeně zacvrliká, vzlétne do vzduchu a pokusí se usadit na rameni toho hráče, se kterým se během hry nejvíc spřátelila. (Ačkoli je Zorjino tělo z ohně, je na dotek studené, nikoli horké.) 
 
-Once befriended in this way, Zorya remains with the players while they remain within Argynvostholt unless driven away. The revenants and spirits of Argynvostholt won’t attack Zorya, though she aids the players in battle where possible.
+Jakmile se takto spřátelí, zůstane Zorja s hráči, dokud se zdržují v Argynvostholtu, pokud ji nezaženou. Revenanti a duchové Argynvostholtu na Zorju nezaútočí, ona však hráčům v boji pomáhá, kde jen může.
 
-> [!abstract]+ **Zorya's Assistance**
-> If the players convey to Zorya their intent to seek out the insight of other spirits in the mansion, Zorya guides the players beneath one of the den's rotted divans, where a small brass key has fallen between one of the divan's legs and the wall. (The key unlocks the doors to the [[#Knights’ Quarters]].)
+> [!abstract]+ **Zorjina pomoc**
+> Pokud hráči Zorji dají najevo, že chtějí hledat rady dalších duchů v sídle, Zorja je zavede pod jednu ze shnilých pohovek v doupěti, kde mezi nohu pohovky a stěnu zapadl malý mosazný klíč. (Klíč odemyká dveře do [[#Rytířské komnaty|Rytířské komnaty]].)
 > 
-> If asked which door the key unlocks, Zorya is happy to guide the players to the [[#Knights’ Quarters]], though she responds with obvious distress and surprise should the **phantom warriors** there attack.
+> Pokud se hráči zeptají, které dveře klíč odemyká, Zorja je ráda zavede do [[#Rytířské komnaty|Rytířské komnaty]], i když pokud tam na ně zaútočí přízrační válečníci (**phantom warriors**), reaguje zjevným zděšením a překvapením.
 
 <div class="statblock">
 <h2>Zorya, Pseudodragon Spirit</h2>
@@ -502,536 +502,534 @@ Once befriended in this way, Zorya remains with the players while they remain wi
 <h3>Reactions</h3>
 <p><strong><em>Misty Step.</em></strong> In response to Zorya or a creature within 5 feet of her being hit or missed by an attack, Zorya casts <em>misty step</em>, bringing along up to one willing creature within 5 feet of her. A creature teleported in this way takes half damage from the triggering attack.</p>
 </div>
-
-### Wine Storage
+### Sklad vína
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q11.</em></span>
 
-This area is largely as described in <span class="citation">Q11. Wine Storage (p. 133).</span> However, the dusk elf Savid is not present. Instead, add the following text to the end of this area’s description:
+Tato oblast do značné míry odpovídá popisu v <span class="citation">Q11. Wine Storage (p. 133).</span> Soumračný elf Savid tu však není. Místo toho na konec popisu této oblasti doplňte následující text:
 
 <div class="description">
-<p>An old purple stain covers much of the far half of the stone floor, faded and discolored with age. A rusted crowbar sits against the wall not far away.</p>
+<p>Velkou část vzdálenější poloviny kamenné podlahy pokrývá stará fialová skvrna, vybledlá a stářím odbarvená. Nedaleko u stěny je opřené rezavé páčidlo.</p>
 </div> 
 
-A player who inspects the stain and succeeds on a DC 12 Intelligence (Investigation) check determines that it appears to have originated from the northeastern barrel.
+Hráč, který si skvrnu prohlédne a uspěje v ověření Intelligence (Investigation) se DC 12, zjistí, že zřejmě pochází ze severovýchodního sudu.
 
-The northeastern barrel appears to be empty. However, a player who uses the crowbar or another tool to open the barrel finds a small pouch crafted of chainmail sitting inside. The pouch contains two silver rings. Each ring is a plain silver band with the words “From this until the end of days" engraved around the inside of the ring.
+Severovýchodní sud se zdá prázdný. Hráč, který sud otevře páčidlem nebo jiným nástrojem, však uvnitř najde malý váček z kroužkové zbroje. Ve váčku jsou dva stříbrné prsteny. Každý z nich je prostý stříbrný kroužek, na jehož vnitřní straně jsou vyryta slova „Od této chvíle až do konce dnů“.
 
-> [!lore]+ **The Rings**
-> The two rings are wedding rings, and belonged to Vladimir Horngaard and Sir Godfrey Gwilym. Vladimir and Godfrey hid these rings here on the night before their deaths, unwilling to allow Strahd to loot them and vowing to return to retrieve them if victorious. However, undeath has robbed both men of their memory of the rings, as well as the love they shared in life. 
+> [!lore]+ **Prsteny**
+> Oba prsteny jsou snubní a patřily Vladimíru Horngaardovi a siru Godfreyovi Gwilymovi. Vladimír a Godfrey je tu ukryli v noci před svou smrtí, protože nechtěli dopustit, aby je Strahd uloupil, a přísahali si, že se pro ně vrátí, pokud zvítězí. Nemrtvé bytí však oba muže připravilo o vzpomínku na prsteny i o lásku, kterou za života sdíleli. 
 > 
-> If shown the rings, Godfrey notes only, with mild interest, that the rings' engraving appears to be excerpted from the oath of the Order of the Silver Dragon, which is described further in [[#Knights of the Order]].
-## M4c. Spiders’ Ballroom
+> Pokud hráči Godfreyovi prsteny ukážou, poznamená jen s mírným zájmem, že rytina na prstenech je zřejmě úryvkem z přísahy Řádu stříbrného draka, která je blíže popsána v [[#Rytíři řádu|Rytíři řádu]].
+## M4c. Pavoučí taneční sál
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q4.</em></span>
 
-This area is largely as described in <span class="citation">Q4. Spider's Ballroom (p. 132).</span> However, replace two of the **giant spiders** with a pair of **phase spiders** lurking in the Ethereal Plane, which emerge into the Material Plane and attack when all **giant spiders** have been defeated.
+Tato oblast do značné míry odpovídá popisu v <span class="citation">Q4. Spider's Ballroom (p. 132).</span> Dva z obřích pavouků (**giant spiders**) však nahraďte dvojicí fázových pavouků (**phase spiders**), kteří číhají v Ethereal Plane a vynoří se do Material Plane a zaútočí, jakmile jsou všichni obří pavouci (**giant spiders**) poraženi.
 
-> [!combat]- **Combat - The Spiders' Ballroom**  
-> **Combat Level**: Bruising (first wave), Mild (second wave)
-> **Expected Character Level**: 6
-> **Allies:** Zorya (CR 1/4), Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4)
-> **Expected HP Consumption:** 30% (first wave), 7% (second wave), for a total of 37%
+> [!combat]- **Boj – Pavoučí taneční sál**  
+> **Úroveň boje**: Bolestivý (první vlna), Mírný (druhá vlna)
+> **Očekávaná úroveň postav**: 6
+> **Spojenci:** Zorja (CR 1/4), Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4)
+> **Očekávaná ztráta HP:** 30 % (první vlna), 7 % (druhá vlna), celkem 37 %
 > 
-> ### **Enemies:**
+> ### **Nepřátelé:**
 > 
-> | |3 Players | 4 Players | 5 Players | 6 Players |
+> | |3 hráči | 4 hráči | 5 hráčů | 6 hráčů |
 > |-|-|-|-|-|
 > | Giant Spider | 5 | 6 | 7 | 8 |
 > | Phase Spider | 2 | 2 | 2 | 2 |
 >
-> ### **Balancing:**
-> If you have fewer or more than 5 players, modify the encounter in the following ways:
+> ### **Vyvážení:**
+> Pokud máte méně nebo více než 5 hráčů, upravte střetnutí následovně:
 >
-> | Number of Players | Modification |
+> | Počet hráčů | Úprava |
 > |-|-|
-> | 3 | Reduce the number of giant spiders in the first wave to five. Have the phase spiders appear in waves—first one, then the other. |
-> | 4 | Reduce the number of giant spiders in the first wave to six. |
-> | 6 | Increase the number of giant spiders in the first wave to eight. |
+> | 3 | Snižte počet obřích pavouků v první vlně na pět. Fázoví pavouci ať se objevují ve vlnách – nejprve jeden, pak druhý. |
+> | 4 | Snižte počet obřích pavouků v první vlně na šest. |
+> | 6 | Zvyšte počet obřích pavouků v první vlně na osm. |
 
-> [!info]+ **Phase Spider Harvesting**
-> A single adult **phase spider** possesses two large fangs, each of which can produce up to three vials of venom. A character can harvest a single fang successfully by succeeding on a DC 12 Dexterity (Nature) check. (On a failure, the fang is cracked and unusable.)
+> [!info]+ **Získávání surovin z fázových pavouků**
+> Jediný dospělý fázový pavouk (**phase spider**) má dva velké tesáky, z nichž každý může poskytnout až tři lahvičky jedu. Postava může jeden tesák úspěšně získat, pokud uspěje v ověření Dexterity (Nature) se DC 12. (Při neúspěchu tesák praskne a je nepoužitelný.)
 > 
-> If a glass vial or similar nonreactive material is available, a character can harvest one or more vials of venom by succeeding on a Dexterity (Nature) check and meeting one of the following DCs:
+> Pokud je k dispozici skleněná lahvička nebo podobný nereaktivní materiál, může postava získat jednu či více lahviček jedu, pokud uspěje v ověření Dexterity (Nature) a dosáhne jednoho z následujících DC:
 > 
-> * **DC 14.** The character harvests one vial of venom.
-> * **DC 16.** The character harvests two vials of venom.
-> * **DC 18.** The character harvests three vials of venom.
+> * **DC 14.** Postava získá jednu lahvičku jedu.
+> * **DC 16.** Postava získá dvě lahvičky jedu.
+> * **DC 18.** Postava získá tři lahvičky jedu.
 
-> [!item]+ **Phase Spider Fang**
-> While using this fang as an additional material component for your spells, acid, cold, fire, lightning, thunder, or poison damage your spells deal to incorporeal undead ignores immunity to that damage. (The fang isn't consumed when used in this way.)
+> [!item]+ **Tesák fázového pavouka (Phase Spider Fang)**
+> Pokud tento tesák používáte jako další materiální složku svých kouzel, zranění acid, cold, fire, lightning, thunder nebo poison, které vaše kouzla způsobí nehmotným nemrtvým, ignoruje imunitu vůči tomuto zranění. (Tesák se při tomto použití nespotřebuje.)
 
-> [!item]+ **Vial of Phase Spider Venom**
-> You can use the venom in this vial to coat one weapon or up to three pieces of ammunition. Applying the venom takes an action. Damage dealt to incorporeal undead by a coated weapon or piece of ammunition to ignores immunity to that damage. Once applied, the venom retains potency for 10 minutes before drying.
+> [!item]+ **Lahvička jedu fázového pavouka (Vial of Phase Spider Venom)**
+> Jedem z této lahvičky můžete natřít jednu zbraň nebo až tři kusy střeliva. Natření jedem trvá akci. Zranění, které natřená zbraň nebo kus střeliva způsobí nehmotným nemrtvým, ignoruje imunitu vůči tomuto zranění. Po natření si jed uchová účinnost 10 minut, než zaschne.
 
-A player who succeeds on a DC 14 Wisdom (Perception) check in this room notices an old leather satchel encased in webbing in the upper northwest corner of the room, near the ceiling. (A player who takes one minute to survey the room spots the satchel automatically.)
+Hráč, který v této místnosti uspěje v ověření Wisdom (Perception) se DC 14, si všimne staré kožené brašny zabalené v pavučinách v horním severozápadním rohu místnosti, těsně pod stropem. (Hráč, který si místnost minutu prohlíží, si brašny všimne automaticky.)
 
-The satchel, which appears to have had its leather strap forcibly torn off, contains two vials of *holy water* and a book titled *The Oath Celestial*, which is as described in <span class="citation">Q40. Argynvost’s Study (p. 140)</span>. A simple leather bookmark engraved with the sigil of the Morninglord—a rising sun—marks the place of a passage within the book titled *Prayer for the Departed.* It reads as follows:
+Brašna, které byl zjevně násilím utržen kožený řemen, obsahuje dvě lahvičky *svěcené vody* (*holy water*) a knihu s názvem *The Oath Celestial*, která odpovídá popisu v <span class="citation">Q40. Argynvost’s Study (p. 140)</span>. Prostá kožená záložka s vyrytým znamením Jitřního pána – vycházejícím sluncem – označuje v knize místo s pasáží nazvanou *Modlitba za zesnulé.* Zní takto:
 
 <div class="description">
-<p>Blessed Morninglord, bringer of dawn, we honor those who have journeyed beyond into your kingdom of everlasting radiance. In your light, grant them peace, from this until the end of days.</p>
+<p>Požehnaný Jitřní pane, nositeli úsvitu, ctíme ty, kdo odešli do tvého království věčné záře. Ve svém světle jim dej pokoj, od této chvíle až do konce dnů.</p>
 </div>
 
-## M4d. Exterior
+## M4d. Exteriér
 <span class="citation"><em>This scene takes place in Chapter 7, Areas Q5 and Q8.</em></span>
 
-These areas are as described in <span class="citation">Q5. Ruined Stable (p. 132)</span> and <span class="citation">Q8. Iron Gate (p. 133).</span>
-# M5. Second Floor
-## M5a. Central Hall
+Tyto oblasti odpovídají popisu v <span class="citation">Q5. Ruined Stable (p. 132)</span> a <span class="citation">Q8. Iron Gate (p. 133).</span>
+# M5. Druhé podlaží
+## M5a. Ústřední síň
 <span class="citation"><em>This scene takes place in Chapter 7, Areas Q17, Q18, Q20, Q21, Q22, and Q23.</em></span>
 
-The west staircases, balconies, south alcove, north alcove, bathroom, and storage room are largely as described in <span class="citation">Q17. West Staircases (p. 135)</span>, <span class="citation">Q18. Balconies (p. 135)</span>, <span class="citation">Q20. South Alcove (p. 135)</span>, <span class="citation">Q21. North Alcove (p. 135)</span>, <span class="citation">Q22. Bathroom (p. 135)</span>, and <span class="citation">Q23. Storage Room (p. 135)</span>.
+Západní schodiště, balkony, jižní výklenek, severní výklenek, koupelna a skladiště do značné míry odpovídají popisu v <span class="citation">Q17. West Staircases (p. 135)</span>, <span class="citation">Q18. Balconies (p. 135)</span>, <span class="citation">Q20. South Alcove (p. 135)</span>, <span class="citation">Q21. North Alcove (p. 135)</span>, <span class="citation">Q22. Bathroom (p. 135)</span> a <span class="citation">Q23. Storage Room (p. 135)</span>.
 
-However, no illusion appears in <span class="citation">Q20. South Alcove (p. 135)</span>. Additionally, instead of an alabaster bust of a human, the cloth covers an alabaster sculpture of a dragon wyrmling holding a brazier filled with alabaster “fire."
-## M5b. Northern Chambers
-### Guest Rooms
+V <span class="citation">Q20. South Alcove (p. 135)</span> se však neobjeví žádná iluze. Kromě toho látka nezakrývá alabastrovou bystu člověka, nýbrž alabastrovou sochu dračího mláděte, které drží pánev plnou alabastrového „ohně“.
+## M5b. Severní komnaty
+### Pokoje pro hosty
 <span class="citation"><em>This scene takes place in Chapter 7, Areas Q26 and Q29.</em></span>
 
-These areas are largely as described in <span class="citation">Q26. Northeast Guest Room (p. 136)</span> and <span class="citation">Q29. Northwest Guest Room (p. 136)</span>. However, no dragon appears in the fireplace when the players approach.
-### Trapped Hallway
+Tyto oblasti do značné míry odpovídají popisu v <span class="citation">Q26. Northeast Guest Room (p. 136)</span> a <span class="citation">Q29. Northwest Guest Room (p. 136)</span>. Když se však hráči přiblíží ke krbu, žádný drak se v něm neobjeví.
+### Chodba s pastí
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q25.</em></span>
 
-This area is largely as described in <span class="citation">Q25. Trapped Hallway (p. 136)</span>. However, the hallway is noticeably colder than the surrounding areas.  In addition, no **phantom warriors** reside within <span class="citation">Q27. Knights’ Quarters (p. 136)</span> and <span class="citation">Q28. Knights’ Quarters (p. 136)</span>, whose doors remain locked. Finally, there is no *wall of stone* trap.
+Tato oblast do značné míry odpovídá popisu v <span class="citation">Q25. Trapped Hallway (p. 136)</span>. V chodbě je však znatelně chladněji než v okolních prostorách.  Navíc v <span class="citation">Q27. Knights’ Quarters (p. 136)</span> a <span class="citation">Q28. Knights’ Quarters (p. 136)</span>, jejichž dveře zůstávají zamčené, nesídlí žádní přízrační válečníci (**phantom warriors**). A konečně tu není past *wall of stone*.
 
-Instead, when the players first attempt to open one of the doors leading to <span class="citation">Q27. Knights’ Quarters (p. 136)</span> or <span class="citation">Q.28 Knights’ Quarters (p. 136)</span>, five **phantom warriors** use their ***etherealness*** feature to emerge from the Ethereal Plane, three rising from beneath the floor behind the players, and two passing through the surface of the door the players attempted to enter. Modify the phantom warriors' statistics as follows:
+Místo toho, když se hráči poprvé pokusí otevřít některé z dveří vedoucích do <span class="citation">Q27. Knights’ Quarters (p. 136)</span> nebo <span class="citation">Q.28 Knights’ Quarters (p. 136)</span>, vynoří se pomocí své schopnosti ***etherealness*** z Ethereal Plane pět přízračných válečníků (**phantom warriors**) – tři vystoupí zpod podlahy za hráči a dva projdou povrchem dveří, jimiž se hráči pokusili vstoupit. Statistiky přízračných válečníků upravte takto:
 
-* Increase each **phantom warrior**'s hit points to 75 (10d8 + 30).
-* Each **phantom warrior** gains a fly (hover) speed of 30 feet.
-* Each **phantom warrior** has immunity to acid, cold, fire, lightning, thunder, and poison damage, as well as bludgeoning, piercing, and slashing damage from nonmagical attacks. (The warrior doesn't have immunity to necrotic damage.)
-* Each **phantom warrior** gains the following feature: ***Etherbound.*** While in the Ethereal Plane, the phantom warrior loses its damage resistances and can't use its ***incorporeal movement*** feature.
+* Zvyšte HP každého přízračného válečníka (**phantom warrior**) na 75 (10d8 + 30).
+* Každý přízračný válečník (**phantom warrior**) získá rychlost letu 30 stop (hover).
+* Každý přízračný válečník (**phantom warrior**) má imunitu vůči zranění acid, cold, fire, lightning, thunder a poison a také vůči zranění bludgeoning, piercing a slashing od nemagických útoků. (Válečník nemá imunitu vůči zranění necrotic.)
+* Každý přízračný válečník (**phantom warrior**) získá následující schopnost: ***Etherbound.*** Dokud je v Ethereal Plane, ztrácí přízračný válečník své odolnosti vůči zranění a nemůže používat svou schopnost ***incorporeal movement***.
   
-> [!combat]- **Combat - The Trapped Hallway**  
-> **Combat Level**: Bloody
-> **Expected Character Level**: 6
-> **Allies:** Zorya (CR 1/4), Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4)
-> **Expected HP Consumption:** 45%
+> [!combat]- **Boj – Chodba s pastí**  
+> **Úroveň boje**: Krvavý
+> **Očekávaná úroveň postav**: 6
+> **Spojenci:** Zorja (CR 1/4), Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4)
+> **Očekávaná ztráta HP:** 45 %
 > 
-> ### **Enemies:**
+> ### **Nepřátelé:**
 > 
-> | |3 Players | 4 Players | 5 Players | 6 Players |
+> | |3 hráči | 4 hráči | 5 hráčů | 6 hráčů |
 > |-|-|-|-|-|
 > | Phantom Warrior | 4 | 4 | 5 | 6 |
 
-Note that, in combat, a **phantom warrior** can attack from above a player using its fly (hover) speed, but can't attack through walls.
+Mějte na paměti, že přízračný válečník (**phantom warrior**) může v boji díky své rychlosti letu (hover) útočit na hráče shora, ale nemůže útočit skrz stěny.
 
-If all players appear to be wearing garments or gear bearing the insignia of the Order of the Silver Dragon, either illusory or obtained from [[#The Mass Grave]], the warriors silently nod and vanish once more into the Ethereal Plane, allowing the players to pass in peace.
+Pokud se zdá, že všichni hráči mají na sobě oděv nebo výstroj nesoucí odznak Řádu stříbrného draka, ať už iluzorní, nebo získaný v [[#Hromadný hrob|Hromadný hrob]], válečníci mlčky kývnou a znovu zmizí v Ethereal Plane, takže hráči mohou v klidu projít.
 
-If some, but not all of the players appear to be wearing garments or gear bearing the insignia of the Order of the Silver Dragon, one of the phantom warriors tightens her grip upon her sword and asks the players to explain why they have allowed outsiders to enter Argynvostholt. "The Devil's forces are at our gates," the spirit growls. "Do you not understand that a single infiltrator could bring our resistance to its knees?" 
+Pokud se zdá, že oděv nebo výstroj s odznakem Řádu stříbrného draka mají na sobě jen někteří z hráčů, jedna z přízračných válečnic pevněji sevře meč a žádá, aby jí hráči vysvětlili, proč do Argynvostholtu pustili cizince. „Ďáblova vojska stojí u našich bran,“ zavrčí duch. „Copak nechápete, že jediný vetřelec by mohl náš odpor srazit na kolena?“ 
 
-The players can convince the spirit to allow any "outsiders" to pass with a successful DC 20 Charisma (Persuasion or Deception) check. Otherwise, the phantom warriors deem the players potential traitors and attack.
+Hráči mohou ducha přesvědčit, aby nechal „cizince“ projít, úspěšným ověřením Charisma (Persuasion nebo Deception) se DC 20. Jinak přízrační válečníci hráče považují za možné zrádce a zaútočí.
 
-If none of the players appear to be wearing garments or gear bearing the insignia of the Order of the Silver Dragon, the phantom warriors immediately attack. 
+Pokud se nezdá, že by kterýkoli z hráčů měl na sobě oděv nebo výstroj s odznakem Řádu stříbrného draka, přízrační válečníci okamžitě zaútočí. 
 
-On initiative count 20 of the first round of combat, if the players freed any of the trapped spirits of Strahd’s soldiers in [[#M3c. Chapel of Morning]], up to two of those spirits manifest as **specters** bearing spears and horned helmets to defend the players in gratitude. Instead of their ***life drain***, each specter gains the following attack:
+Na iniciativě 20 v prvním kole boje, pokud hráči v [[#M3c. Kaple jitra|M3c. Kaple jitra]] osvobodili některé z uvězněných duchů Strahdových vojáků, zhmotní se až dva z těchto duchů jako strašidla (**specters**) s kopími a rohatými přilbami a z vděčnosti budou hráče bránit. Místo svého útoku ***life drain*** získá každé strašidlo následující útok:
 
 * ***Spectral Spear.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6 + 2) force damage.
 
-In battle, the **phantom warriors** shout “Death to the invaders!", “For Argynvost!", and “Remember Horngaard!" The phantom warriors are spirits of soldiers who fell defending the mansion against Strahd’s armies. Cursed to relive the memory of that day while Vladimir Horngaard’s hatred binds them to Barovia, they can’t be stopped or reasoned with.
+V boji přízrační válečníci (**phantom warriors**) křičí „Smrt vetřelcům!“, „Za Argynvosta!“ a „Pamatujte na Horngaarda!“ Přízrační válečníci jsou duchové vojáků, kteří padli při obraně sídla před Strahdovými vojsky. Jsou prokletí, aby znovu prožívali vzpomínku na onen den, dokud je k Barovii poutá nenávist Vladimíra Horngaarda, a nelze je zastavit ani s nimi rozumně jednat.
 
-When the **phantom warriors** are defeated, any surviving **specters** warmly nod to the players, then vanish. The temperature in the corridor then returns to normal.
-### Knights’ Quarters
+Když jsou přízrační válečníci (**phantom warriors**) poraženi, všechna přeživší strašidla (**specters**) hráčům vřele kývnou a pak zmizí. Teplota v chodbě se pak vrátí do normálu.
+### Rytířské komnaty
 <span class="citation"><em>This scene takes place in Chapter 7, Areas Q27 and Q28.</em></span>
 
-These areas are largely as described in <span class="citation">Q27. Knights’ Quarters (p. 136)</span> and <span class="citation">Q28. Knights’ Quarters (p. 136)</span>. However, the four *potions of invulnerability* in <span class="citation">Q28. Knights’ Quarters (p. 136)</span> are instead *potions of greater healing* (<span class="citation">Dungeon Master’s Guide, p. 187</span>).
+Tyto oblasti do značné míry odpovídají popisu v <span class="citation">Q27. Knights’ Quarters (p. 136)</span> a <span class="citation">Q28. Knights’ Quarters (p. 136)</span>. Čtyři *potions of invulnerability* v <span class="citation">Q28. Knights’ Quarters (p. 136)</span> jsou však místo toho *potions of greater healing* (<span class="citation">Dungeon Master’s Guide, p. 187</span>).
 
-In addition, <span class="citation">Q27. Knights’ Quarters (p. 136)</span> is haunted by the spirit of Minodora Taltos, a **poltergeist** that once served as a clerk to the Order of the Silver Dragon in the war against Strahd. When the players first enter this room, read:
-
-<div class="description">
-<p>The temperature plummets unnaturally beyond the threshold, your breath puffing out in small clouds of fog that linger momentarily before dissipating. A thin layer of frost dims the grey light filtering through the old, cracked windows, and a deep chill seems to pervade the room.</p>
-</div>
-
-When one or more players fully enter this room for the first time, read:
+Navíc v <span class="citation">Q27. Knights’ Quarters (p. 136)</span> straší duch Minodory Taltos – **poltergeist**, která kdysi sloužila jako písařka Řádu stříbrného draka ve válce proti Strahdovi. Když hráči poprvé vstoupí do této místnosti, přečtěte:
 
 <div class="description">
-<p>Four of the room’s five windows abruptly slam open, and a cold wind howls through the room. Large letters begin to emerge in the frost on the still-closed eastern window, each one meticulously and neatly formed: “IF YOU BE SERVANTS OF THE DEVIL, BEGONE."</p>
+<p>Za prahem teplota nepřirozeně prudce klesne a váš dech vychází v obláčcích páry, které se na okamžik vznášejí ve vzduchu, než se rozplynou. Šedé světlo prosakující starými, popraskanými okny tlumí tenká vrstva jinovatky a místností jako by prostupoval hluboký chlad.</p>
 </div>
 
-The words are a warning sent by Minodora. The players can convince her that they aren’t Strahd’s soldiers with a successful DC 5 Charisma (Persuasion) check, succeeding automatically if they inform her of their relationship with Sir Godfrey or their purpose in the mansion.
+Když jeden či více hráčů poprvé zcela vstoupí do této místnosti, přečtěte:
 
-Minodora is a solemn, if black-humored spirit. If befriended by the players, she can share the following information via frost-shaped words on the eastern window:
+<div class="description">
+<p>Čtyři z pěti oken místnosti se prudce rozrazí a místností zavyje studený vítr. V jinovatce na dosud zavřeném východním okně se začnou objevovat velká písmena, každé pečlivě a úhledně vyvedené: „JSTE-LI ĎÁBLOVI SLUHOVÉ, ODEJDĚTE.“</p>
+</div>
 
-* In life, she served as a clerk to the Order of the Silver Dragon during the wars against Strahd. She died on the day Strahd’s forces broke into Argynvostholt, just a day after Commander Vladimir Horngaard and Sir Godfrey Gwilym perished in an assault on Strahd’s camp.
-* The **phantom warriors** in the mansion are the spirits of soldiers who died to Strahd’s attack, cursed to relive their memories of that day for eternity. (Minodora doesn’t know why they’re cursed.)
-* She doesn’t know anything about Argynvost’s whisperings. However, she knows that the spirit of Brother Marek, the Order’s former chaplain, keeps an ear and eye out for everything that happens in the spiritual realm of Argynvostholt.
+Slova jsou varováním, které posílá Minodora. Hráči ji mohou přesvědčit, že nejsou Strahdovi vojáci, úspěšným ověřením Charisma (Persuasion) se DC 5; uspějí automaticky, pokud jí prozradí svůj vztah k siru Godfreyovi nebo svůj záměr v sídle.
 
-> [!info]+ **Roleplaying Minodora**
-> Minodora prefers to use short, sparse messages of one to four words each wherever possible, and won't volunteer information unless specifically asked for it. For example, she might begin a conversation with the players as follows:
-> 
-> **Q. Who are you?**
-> A. Minodora.
-> 
-> **Q. Who were you in life? Were you a member of the Order of the Silver Dragon?**
-> A. Somewhat.
-> 
-> **Q. Were you a knight?**
-> A. No.
-> 
-> **Q. What did you do with the Order?**
-> A. I was a clerk.
-> 
-> **Q. How did you die?**
-> A. Invaders.
+Minodora je vážný duch, byť s černým humorem. Pokud se s ní hráči spřátelí, může jim prostřednictvím slov vytvořených jinovatkou na východním okně prozradit následující:
 
-Minodora is glad to provide the players with directions to Brother Marek’s preferred haunting place, <span class="citation">Q35. Upstairs Gallery (p. 138)</span>. She warns them, however, that Brother Marek prefers to remain within the Ethereal Plane wherever possible. To draw his attention, she advises, the players might wish to retrieve his holy book—which he kept in a leather satchel in his bedroom in the western chamber of <span class="citation">Q19. Ruined Bedchambers (p. 135)</span>—and read aloud one of the prayers contained therein.
-## M5c. Southern Chambers
+* Za života sloužila jako písařka Řádu stříbrného draka ve válkách proti Strahdovi. Zemřela v den, kdy Strahdova vojska vtrhla do Argynvostholtu, pouhý den poté, co velitel Vladimír Horngaard a sir Godfrey Gwilym zahynuli při útoku na Strahdův tábor.
+* Přízrační válečníci (**phantom warriors**) v sídle jsou duchové vojáků, kteří zemřeli při Strahdově útoku a jsou prokletí, aby navěky znovu prožívali vzpomínky na onen den. (Minodora neví, proč jsou prokletí.)
+* O Argynvostových šepotech nic neví. Ví však, že duch bratra Marka, bývalého kaplana řádu, bedlivě sleduje vše, co se v duchovní říši Argynvostholtu děje.
+
+> [!info]+ **Jak hrát Minodoru**
+> Minodora dává přednost krátkým, strohým zprávám o jednom až čtyřech slovech, kdykoli je to možné, a sama od sebe nic neprozradí, pokud se jí na to hráči výslovně nezeptají. Rozhovor s hráči by mohla začít například takto:
+> 
+> **Ot. Kdo jsi?**
+> Odp. Minodora.
+> 
+> **Ot. Kým jsi byla za života? Byla jsi členkou Řádu stříbrného draka?**
+> Odp. Tak trochu.
+> 
+> **Ot. Byla jsi rytířka?**
+> Odp. Ne.
+> 
+> **Ot. Co jsi pro řád dělala?**
+> Odp. Byla jsem písařka.
+> 
+> **Ot. Jak jsi zemřela?**
+> Odp. Vetřelci.
+
+Minodora hráčům ráda popíše cestu k místu, kde bratr Marek nejraději straší – do <span class="citation">Q35. Upstairs Gallery (p. 138)</span>. Varuje je však, že bratr Marek dává přednost tomu, aby kdykoli je to možné, zůstával v Ethereal Plane. Aby upoutali jeho pozornost, radí hráčům, ať přinesou jeho svatou knihu – kterou uchovával v kožené brašně ve své ložnici v západní komnatě <span class="citation">Q19. Ruined Bedchambers (p. 135)</span> – a nahlas přečtou jednu z modliteb, které obsahuje.
+## M5c. Jižní komnaty
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q19.</em></span>
 
-This area is largely as described in <span class="citation">Q19. Ruined Bedchambers (p. 135)</span>. However, add the following text to the end of the western room’s description:
+Tato oblast do značné míry odpovídá popisu v <span class="citation">Q19. Ruined Bedchambers (p. 135)</span>. Na konec popisu západní místnosti však doplňte následující text:
 
 <div class="description">
-<p>Long, thick webs stretch from the eastern wall, down past the collapsed floor to the space below. Something seems to be protruding from the wall behind the webbing.</p>
+<p>Od východní stěny se táhnou dlouhé, husté pavučiny, které sahají dolů kolem propadlé podlahy až do prostoru pod ní. Zdá se, že za pavučinami něco vyčnívá ze stěny.</p>
 </div>
 
-If the players haven't yet defeated the spiders in [[#M4c. Spiders’ Ballroom]], add the following text to the end of each room’s description:
+Pokud hráči ještě neporazili pavouky v [[#M4c. Pavoučí taneční sál|M4c. Pavoučí taneční sál]], doplňte na konec popisu každé místnosti následující text:
 
 <div class="description">
-<p>As you survey the room, you hear a faint, irregular clicking from the space beneath the floor, followed by the soft scratching of something unseen.</p>
+<p>Zatímco si místnost prohlížíte, uslyšíte z prostoru pod podlahou slabé, nepravidelné cvakání, po němž následuje tiché škrábání čehosi neviditelného.</p>
 </div>
 
-The object protruding from the wall in the western room is a rusted iron hook bearing a torn leather strap. (The strap once belonged to the leather satchel in [[#M4c. Spiders’ Ballroom]], but was torn off when a **giant spider** took the satchel and its contents as a trophy.) Both the hook and strap are strewn with thick webs and can’t be identified without approaching.
+Předmět vyčnívající ze stěny v západní místnosti je rezavý železný hák s utrženým koženým řemenem. (Řemen kdysi patřil k brašně v [[#M4c. Pavoučí taneční sál|M4c. Pavoučí taneční sál]], ale byl utržen, když si obří pavouk (**giant spider**) brašnu i s jejím obsahem odnesl jako trofej.) Hák i řemen jsou obaleny hustými pavučinami a bez přiblížení je nelze rozpoznat.
 
-A creature must succeed on a DC 11 Dexterity (Stealth) check, made with disadvantage due to the creaking floor, to walk across the floor without alerting the spiders below. A creature that fails this check, or which cuts, damages, or otherwise disturbs the webbing attracts a single **giant spider** from [[#M4c. Spiders’ Ballroom]], which crawls up into the room and attacks. (The other six **giant spiders** remain in the ballroom below.)
-## M5d. Upper Chapel
+Tvor musí uspět v ověření Dexterity (Stealth) se DC 11, které kvůli vrzající podlaze provádí s nevýhodou, aby přešel přes podlahu, aniž by upozornil pavouky dole. Tvor, který v tomto ověření neuspěje nebo který pavučiny přeřízne, poškodí či jinak naruší, přiláká jediného obřího pavouka (**giant spider**) z [[#M4c. Pavoučí taneční sál|M4c. Pavoučí taneční sál]], který vyleze nahoru do místnosti a zaútočí. (Zbylých šest obřích pavouků (**giant spiders**) zůstane dole v tanečním sále.)
+## M5d. Horní kaple
 <span class="citation"><em>This scene takes place in Chapter 7, Areas Q14 and Q24.</em></span>
 
-These areas are as described in <span class="citation">Q14. Chapel Staircases (p. 134)</span> and <span class="citation">Q24. Chapel Balcony (p. 136)</span>. However, the chapel below is as described in [[#M3c. Chapel of Morning]].
-# M6. Third Floor
-## M6a. Halls of the Order
-#### Knights of the Order
+Tyto oblasti odpovídají popisu v <span class="citation">Q14. Chapel Staircases (p. 134)</span> a <span class="citation">Q24. Chapel Balcony (p. 136)</span>. Kaple pod nimi však odpovídá popisu v [[#M3c. Kaple jitra|M3c. Kaple jitra]].
+# M6. Třetí podlaží
+## M6a. Síně řádu
+#### Rytíři řádu
 <span class="citation"><em>This scene takes place in Chapter 7, Areas Q37 and Q38 (p. 139).</em></span>
 
-These areas are largely as described in <span class="citation">Q37 Knights of the Order (p. 139)</span> and <span class="citation">Q38. Closet (p. 139)</span>. However, remove the final sentence of the area’s description. (No **revenants** sit in the chairs around the table.) Instead, add the following to the end of this area’s description:
+Tyto oblasti do značné míry odpovídají popisu v <span class="citation">Q37 Knights of the Order (p. 139)</span> a <span class="citation">Q38. Closet (p. 139)</span>. Vypusťte však poslední větu popisu oblasti. (Na židlích kolem stolu nesedí žádní revenanti (**revenants**).) Místo toho na konec popisu této oblasti doplňte následující:
 
 <div class="description">
-<p>An inscription appears to be carved into the wood around the circumference of the table.</p>
+<p>Zdá se, že do dřeva po celém obvodu stolu je vyřezán nápis.</p>
 </div>
 
-The inscription is written in elegant calligraphy and interwoven with aged, intricate carvings of dragons and knights. It reads as follows:
+Nápis je psán elegantním krasopisem a protkán starými, spletitými řezbami draků a rytířů. Zní takto:
 
 <div class="description">
-<p>I solemnly vow to uphold the virtues of the Order of the Silver Dragon, with honor as my shield and truth as my guide.</p>
-<p>In the shadow of evil, I shall be the light; in the face of despair, the beacon of hope. No challenge shall shake my resolve; no defeat shall quell my heart. With sword and spirit, I shall stand against darkness and forge a brighter dawn.</p>
-<p>So do I swear in the name of the Silver Dragon, from this until the end of days.</p>
+<p>Slavnostně přísahám, že budu zachovávat ctnosti Řádu stříbrného draka; čest mi budiž štítem a pravda průvodcem.</p>
+<p>Ve stínu zla budu světlem, tváří v tvář zoufalství majákem naděje. Žádná zkouška neotřese mým odhodláním, žádná porážka nezlomí mé srdce. Mečem i duchem se postavím temnotě a vykuji jasnější úsvit.</p>
+<p>Tak přísahám ve jménu Stříbrného draka, od této chvíle až do konce dnů.</p>
 </div>
 
-#### Vladimir’s Bedroom
+#### Vladimírova ložnice
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q39.</em></span>
 
-This area is largely as described in <span class="citation">Q39. Vladimir’s Bedroom (p. 140)</span>. However, remove the four sentences describing the bear, the dire wolf, and the empty chest. Instead, add the following text to the end of the area’s description:
+Tato oblast do značné míry odpovídá popisu v <span class="citation">Q39. Vladimir’s Bedroom (p. 140)</span>. Vypusťte však čtyři věty popisující medvěda, obřího vlka a prázdnou truhlu. Místo toho na konec popisu oblasti doplňte následující text:
 
 <div class="description">
-<p>An old portrait hangs on the wall above the bed.</p>
+<p>Na stěně nad postelí visí starý portrét.</p>
 </div>
 
-If a player inspects the portrait, read:
+Pokud si hráč portrét prohlédne, přečtěte:
 
 <div class="description">
-<p>The portrait, its once-vibrant canvas faded and tearing, depicts two men in fine clothes standing side-by-side. Gleaming longswords hang from their hips, and their gloved hands are tightly clasped together. One man is tall and silver-haired, the other dark-haired and stocky, but both of their faces are featureless, bearing only smooth, unblemished skin.</p>
+<p>Portrét, jehož kdysi zářivé plátno vybledlo a trhá se, zobrazuje dva muže v jemném oděvu, kteří stojí bok po boku. U boků jim visí lesklé dlouhé meče a jejich ruce v rukavicích jsou pevně sepjaté. Jeden muž je vysoký a stříbrovlasý, druhý tmavovlasý a podsaditý, ale tváře obou jsou bez rysů – jen hladká, neposkvrněná kůže.</p>
 </div>
 
-A player who studies the portrait and succeeds on a DC 15 Wisdom (Perception) check recognizes that the men’s builds are recognizably similar to those of Sir Godfrey Gwilym and (if they have met him) Commander Vladimir Horngaard.
+Hráč, který portrét zkoumá a uspěje v ověření Wisdom (Perception) se DC 15, rozpozná, že postavy mužů se nápadně podobají siru Godfreyovi Gwilymovi a (pokud se s ním setkali) veliteli Vladimíru Horngaardovi.
 
-> [!lore]+ **The Portrait**
-> The portrait once depicted Commander Vladimir Horngaard and his husband, Sir Godfrey Gwilym. However, their faces vanished from the portrait after the Order’s resurrection, Vladimir’s blinding hatred for Strahd causing both knights to forget the love they shared in life.
-#### Argynvost’s Study
+> [!lore]+ **Portrét**
+> Portrét kdysi zobrazoval velitele Vladimíra Horngaarda a jeho manžela, sira Godfreye Gwilyma. Jejich tváře však z portrétu zmizely po vzkříšení řádu, když Vladimírova zaslepující nenávist ke Strahdovi způsobila, že oba rytíři zapomněli na lásku, kterou za života sdíleli.
+#### Argynvostova pracovna
 <span class="citation"><em>This scene takes place in Chapter 7, Areas Q40 and Q41.</em></span>
 
-These areas are largely as described in <span class="citation">Q40. Argynvost’s Study (p. 140)</span> and <span class="citation">Q41. Dragon’s Vault (p. 140)</span>. However, the copy of *The Oath Celestial* is no longer present. In addition, the slashed picture is nonmagical, and repairing it has no additional effect.
+Tyto oblasti do značné míry odpovídají popisu v <span class="citation">Q40. Argynvost’s Study (p. 140)</span> a <span class="citation">Q41. Dragon’s Vault (p. 140)</span>. Výtisk *The Oath Celestial* tu však již není. Rozřezaný obraz navíc není magický a jeho oprava nemá žádný další účinek.
 
-Revise Argynvost’s journal page to read as follows:
+Stránku z Argynvostova deníku upravte tak, aby zněla takto:
 
 <div class="description">
-<p>My knights have fallen, and this land is lost. The armies of my enemy will not be stopped by sword or spell, claw or fang. Today I will die, not avenging those who have fallen, but defending that which I love—this valley, this home, and the ideals of the Order of the Silver Dragon.</p>
-<p>The evil surrounds me. The time has come to throw off this guise and show these heathens my true fearsome form. Let it spark terror in their hearts! Let them tell their stories of dark triumph against the protector of the Balinok Mountains! Let Argynvost be remembered as a dragon of honor and valor.</p>
-<p>I do not fear death. I have laid down my trappings beneath the tower's watchful gaze, so that others may carry my legacy in my stead. Though my body will die, my spirit will live on where the oath and fire of the Silver Dragon survive. Let it serve as a beacon of light against the darkness. Let it bring hope to a land fraught with despair.</p>
-<p>Now, to battle!</p>
+<p>Moji rytíři padli a tato země je ztracena. Vojska mého nepřítele nezastaví meč ani kouzlo, dráp ani tesák. Dnes zemřu – ne abych pomstil padlé, nýbrž abych bránil to, co miluji: toto údolí, tento domov a ideály Řádu stříbrného draka.</p>
+<p>Zlo mě obkličuje. Nadešel čas odvrhnout tento převlek a ukázat těm pohanům svou pravou, hrůzostrašnou podobu. Ať jim vžene děs do srdcí! Ať si vyprávějí své příběhy o temném triumfu nad ochráncem pohoří Balinok! Ať je Argynvost připomínán jako drak cti a udatnosti.</p>
+<p>Smrti se nebojím. Své insignie jsem uložil pod bdělým zrakem věže, aby můj odkaz mohli nést jiní místo mne. Ač mé tělo zemře, můj duch bude žít dál tam, kde přetrvá přísaha a oheň Stříbrného draka. Ať slouží jako maják světla proti temnotě. Ať přinese naději zemi sužované zoufalstvím.</p>
+<p>A nyní – do boje!</p>
 <p>A</p>
 </div>
 <br>
 
 ![[Argynvost_Journal_RRL.jpg]]
-<span class="credit">"Argynvost's Journal" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">„Argynvostův deník“ – autor: Caleb Cleveland. Podpořte ho na <a href="https://patreon.com/calebisdrawing/">Patreonu!</a></span>
 
-If the players inspect the slashed picture, revise the first sentence of its description to read as follows:
+Pokud si hráči prohlédnou rozřezaný obraz, upravte první větu jeho popisu tak, aby zněla takto:
 
 <div class="description">
-<p>The picture hangs askew in its place on the wall. It shows the mansion in better days, under clear winter skies with snow-capped mountains in the background.</p>
+<p>Obraz visí nakřivo na svém místě na stěně. Zobrazuje sídlo v lepších dnech, pod jasným zimním nebem, se zasněženými horami v pozadí.</p>
 </div>
 
-The space behind the image of the chapel in the picture radiates three magical auras under the scrutiny of a *detect magic* spell. Two of the auras belong to the school of abjuration. (The third aura has no school of magic.)
+Prostor za vyobrazením kaple na obraze vyzařuje při zkoumání kouzlem *detect magic* tři magické aury. Dvě z nich náležejí škole abjurace (abjuration). (Třetí aura nenáleží žádné škole magie.)
 
-Removing the picture from the wall reveals a hidden stone shelf containing a parchment scroll, a silver bracelet, a small block of white stone, a silver tablet, and a banner.  In addition, the silver hilt of a rapier is nestled against a small hole in the mortar at the back of the compartment, though the blade appears to be concealed within the wall.
+Když hráči obraz sejmou ze stěny, odhalí skrytou kamennou polici, na níž leží pergamenový svitek, stříbrný náramek, malý kvádr bílého kamene, stříbrná deska a korouhev.  Navíc se o malý otvor v maltě v zadní části schránky opírá stříbrný jílec rapíru, jehož čepel je zřejmě ukrytá ve zdi.
 
-The bracelet is carved to resemble a dragon biting its own tail, and is a *bracelet of warding*. The block of white stone, which bears the carving of a dragon’s head and is mounted on a leather cord, is an *amulet of knight’s passage*. The rapier, which has a silvered blade and a hilt carved with the images of tiny dragons, has the properties of a *moon-touched rapier* (<span class="citation">Xanathar's Guide to Everything, p. 138</span>)
+Náramek je vyřezán do podoby draka, který se kouše do vlastního ocasu, a je to *náramek ochrany* (*bracelet of warding*). Kvádr bílého kamene s vyřezanou dračí hlavou, navlečený na koženou šňůrku, je *amulet rytířského průchodu* (*amulet of knight’s passage*). Rapír se stříbřenou čepelí a jílcem zdobeným řezbami drobných dráčků má vlastnosti *moon-touched rapier* (<span class="citation">Xanathar's Guide to Everything, p. 138</span>)
 
-> [!item]+ **Bracelet of Warding**
-> *Wondrous item, rare*
+> [!item]+ **Náramek ochrany (Bracelet of Warding)**
+> *Zázračný předmět, vzácný (rare wondrous item)*
 >
-> This bracelet has 3 charges. While wearing it, you can use a bonus action to spend 1 of its charges to cast the *sanctuary* spell (DC 15), or 2 of its charges to cast the *warding bond* spell with a range of 30 feet.
+> Tento náramek má 3 náboje. Dokud ho nosíte, můžete bonusovou akcí spotřebovat 1 jeho náboj k seslání kouzla *sanctuary* (DC 15), nebo 2 jeho náboje k seslání kouzla *warding bond* s dosahem 30 stop.
 >
-> You can cast one of these spells as a reaction in response to an enemy attacking a creature within range. If you do, you must spend an additional charge, and the spell must target the attacked creature. When cast in this way, the spell's effects end at the start of your next turn.
+> Jedno z těchto kouzel můžete seslat jako reakci, když nepřítel zaútočí na tvora v dosahu. Pokud tak učiníte, musíte spotřebovat jeden náboj navíc a cílem kouzla musí být napadený tvor. Při takovém seslání účinky kouzla skončí na začátku vašeho příštího tahu.
 >
-> The bracelet regains 1 expended charge daily at dawn. If you expend the bracelet's last charge, roll a d20. On a 1, the bracelet loses its magical properties.
+> Náramek každý den za úsvitu obnoví 1 spotřebovaný náboj. Pokud spotřebujete poslední náboj náramku, hoďte d20. Při výsledku 1 náramek ztratí své magické vlastnosti.
 
-> [!item]+ **Amulet of Knight’s Passage**
-> This carved block of white stone is a key that allows passage through the gatehouse at Tsolenka Pass. If a creature presents the stone to the <span class="citation">T3. Curtain of Green Flame (p. 157)</span>, the curtain is suppressed for 1 minute. While the curtain is suppressed in this way, the petrified **vrocks** described in <span class="citation">T2. Demon Statues (p. 157)</span> don’t animate or attack.
+> [!item]+ **Amulet rytířského průchodu (Amulet of Knight’s Passage)**
+> Tento opracovaný kvádr bílého kamene je klíčem, který umožňuje průchod strážnicí v průsmyku Tsolenka. Pokud tvor kámen předloží <span class="citation">T3. Curtain of Green Flame (p. 157)</span>, závěs je na 1 minutu potlačen. Dokud je závěs takto potlačen, zkamenělí vrockové (**vrocks**) popsaní v <span class="citation">T2. Demon Statues (p. 157)</span> neožijí ani nezaútočí.
 > 
-> The scrutiny of an *identify* spell reveals only that the block is a key of some kind, though not what for.
+> Zkoumání kouzlem *identify* odhalí jen to, že kvádr je jakýsi klíč, ale ne k čemu.
 
-The tablet, which bears a copy of the oath of the Order of the Silver Dragon, reads as follows:
+Deska, na níž je opis přísahy Řádu stříbrného draka, zní takto:
 
 <div class="description">
-<p>I solemnly vow to uphold the virtues of the Order of the Silver Dragon, with honor as my shield and truth as my guide.</p>
-<p>In the shadow of evil, I shall be the light; in the face of despair, the beacon of hope. No challenge shall shake my resolve; no defeat shall quell my heart. With sword and spirit, I shall stand against darkness and forge a brighter dawn.</p>
-<p>So do I swear in the name of the Silver Dragon, from this until the end of days.</p>
+<p>Slavnostně přísahám, že budu zachovávat ctnosti Řádu stříbrného draka; čest mi budiž štítem a pravda průvodcem.</p>
+<p>Ve stínu zla budu světlem, tváří v tvář zoufalství majákem naděje. Žádná zkouška neotřese mým odhodláním, žádná porážka nezlomí mé srdce. Mečem i duchem se postavím temnotě a vykuji jasnější úsvit.</p>
+<p>Tak přísahám ve jménu Stříbrného draka, od této chvíle až do konce dnů.</p>
 </div>
 
-When a player inspects the banner, read:
+Když si hráč prohlédne korouhev, přečtěte:
 
 <div class="description">
-<p>Silver tassels fringe the edges of this dark-colored banner, the fabric a rich azure that mirrors the twilight sky. Dominating the center is a beautifully detailed silver dragon outlined in intricate silver thread, its wings unfurled in mid-flight.</p>
+<p>Okraje této tmavé korouhve lemují stříbrné střapce; látka má sytě azurovou barvu, která zrcadlí soumračné nebe. Jejímu středu vévodí krásně propracovaný stříbrný drak, vykreslený spletitou stříbrnou nití, s křídly rozepjatými v letu.</p>
 </div>
 
-The scroll is a letter and reads as follows:
+Svitek je dopis a zní takto:
 
 <div class="description">
-<p>To Lord Argynvost, Protector of the Balinok Mountains and Founder of the Order of the Silver Dragon,</p>
-<p>You have stood as a bulwark against the darkness—a shining example of righteousness and courage. Yet I write to you today with a heavy heart and a burdened soul, fearful that Markovia's counsel will lead your Order down a path that ends in darkness and devastation.</p>
-<p>I confess that Lord Von Zarovich is imperfect, as all men inevitably are. Yet his leadership has brought stability and order to a land fraught with chaos, and restored songs of prayer to halls once consigned to madness.</p>
-<p>It is therefore with great humility and respect that I implore you and your knights to lay down their arms and make peace. Further bloodshed will tear this land asunder, bringing suffering to the innocent and guilty alike. But with the aid of your wisdom and grace, I do not doubt that we may together forge a brighter dawn.</p>
-<p>Faithfully yours,</p>
+<p>Lordu Argynvostovi, ochránci pohoří Balinok a zakladateli Řádu stříbrného draka,</p>
+<p>stál jste jako hráz proti temnotě – zářný příklad spravedlnosti a odvahy. Přesto vám dnes píši s těžkým srdcem a obtíženou duší, v obavách, že Markoviiny rady zavedou váš řád na cestu, jež končí v temnotě a zkáze.</p>
+<p>Přiznávám, že lord von Zarovich není bez chyby, jako nevyhnutelně není žádný člověk. Jeho vláda však přinesla stabilitu a řád zemi zmítané chaosem a navrátila zpěv modliteb do síní kdysi propadlých šílenství.</p>
+<p>S velkou pokorou a úctou proto vás i vaše rytíře snažně prosím, abyste složili zbraně a uzavřeli mír. Další krveprolití tuto zemi roztrhá a přinese utrpení nevinným i vinným stejně. S pomocí vaší moudrosti a milosti však nepochybuji, že společně můžeme vykovat jasnější úsvit.</p>
+<p>Váš věrný</p>
 <p>Andral</p>
 </div>
 <br>
 
 ![[Andral_Scroll_RRL.jpg]]
-<span class="credit">"Saint Andral's Letter" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
-#### Argynvost’s Bedroom
+<span class="credit">„Dopis svatého Andrala“ – autor: Caleb Cleveland. Podpořte ho na <a href="https://patreon.com/calebisdrawing/">Patreonu!</a></span>
+#### Argynvostova ložnice
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q42.</em></span>
 
-This area is largely as described in <span class="citation">Q42. Argynvost’s Bedroom (p. 140)</span>. However, add the following text to the end of this area’s description:
+Tato oblast do značné míry odpovídá popisu v <span class="citation">Q42. Argynvost’s Bedroom (p. 140)</span>. Na konec popisu této oblasti však doplňte následující text:
 
 <div class="description">
-<p>Several empty stone shelves dot the walls between the windows.</p>
+<p>Na stěnách mezi okny je rozeseto několik prázdných kamenných polic.</p>
 </div>
 
-> [!lore]+ **The Empty Shelves**
-> These empty shelves once held a few dozen trinkets, oddities, and valuables that Argynvost found particularly interesting or endearing. All were looted long ago.
-## M6b. Collapsed Ceiling & Audience Hall
+> [!lore]+ **Prázdné police**
+> Na těchto prázdných policích kdysi stálo pár tuctů drobností, kuriozit a cenností, které Argynvost považoval za obzvlášť zajímavé či milé. Všechny byly už dávno uloupeny.
+## M6b. Propadlý strop a audienční síň
 <span class="citation"><em>This scene takes place in Chapter 7, Areas Q33 and Q36.</em></span>
 
-These areas are largely as described in <span class="citation">Q33. Collapsed Ceiling (p. 138)</span> and <span class="citation">Q36. Dragon’s Audience Hall (p. 138)</span>. However, Vladimir Horngaard is not in the throne in <span class="citation">Q36. Dragon’s Audience Hall</span>, and no **phantom warriors** linger there.
-## M6c. Upstairs Gallery
-### East Staircases
+Tyto oblasti do značné míry odpovídají popisu v <span class="citation">Q33. Collapsed Ceiling (p. 138)</span> a <span class="citation">Q36. Dragon’s Audience Hall (p. 138)</span>. Vladimír Horngaard však nesedí na trůnu v <span class="citation">Q36. Dragon’s Audience Hall</span> a nezdržují se tam ani žádní přízrační válečníci (**phantom warriors**).
+## M6c. Horní galerie
+### Východní schodiště
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q31.</em></span>
 
-This area is as described in <span class="citation">Q31. East Staircases.</span>
-### Ruined Antechamber
+Tato oblast odpovídá popisu v <span class="citation">Q31. East Staircases.</span>
+### Zpustlá předsíň
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q34 (p. 138).</em></span>
 
-This area replaces <span class="citation">Q34. Ruined Bathroom (p. 138)</span>. When the players enter this room, read:
+Tato oblast nahrazuje <span class="citation">Q34. Ruined Bathroom (p. 138)</span>. Když hráči vstoupí do této místnosti, přečtěte:
 
 <div class="description">
-<p>This room has a wooden floor warped and scuffed with age. Rusted blades hang between torn banners bearing the emblem of a silver dragon, the dragon's eyes seeming to gaze mournfully upon the broken furnishings below. A torn curtain hangs in an open doorway in the center of the east wall.</p>
+<p>Tato místnost má dřevěnou podlahu, zkroucenou a odřenou stářím. Mezi potrhanými korouhvemi se znakem stříbrného draka visí zrezivělé čepele a drakovy oči jako by truchlivě shlížely na rozbitý nábytek pod sebou. V otevřeném průchodu uprostřed východní stěny visí roztržený závěs.</p>
 </div>
-
-### Upstairs Gallery
+### Horní galerie
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q35.</em></span>
 
-This area is largely as described in <span class="citation">Q35. Upstairs Gallery (p. 138)</span>. However, add the following text to the end of this area’s description:
+Tato oblast do značné míry odpovídá popisu v <span class="citation">Q35. Upstairs Gallery (p. 138)</span>. Na konec popisu této oblasti však doplňte následující text:
 
 <div class="description">
-<p>The left- and right-side windows depict two humans—an older man and a younger woman—kneeling in supplication, while the central window depicts a handsome male angel descending from the heavens between them. The man watches with reverent eyes as the angel bestows a small silver statuette upon the woman, whose eyes are closed in evident prayer. The statuette appears to glow with the same sunlight that encircles the angel’s head.</p>
+<p>Levé a pravé okno zobrazují dva lidi – staršího muže a mladší ženu –, kteří klečí v prosebném postoji, kdežto prostřední okno zobrazuje sličného mužného anděla, jenž mezi ně sestupuje z nebes. Muž s úctou v očích přihlíží, jak anděl předává malou stříbrnou sošku ženě, jež má oči zavřené ve zjevné modlitbě. Soška jako by zářila týmž slunečním světlem, které obklopuje andělovu hlavu.</p>
 </div>
 
-Any player who’s previously met the Abbot of the Abbey of Saint Markovia recognizes an uncanny resemblance between the Abbot and the figure in the central window. A player with a passive Wisdom (Insight) score of 15 or greater notices that the man’s gaze appears to be envious, rather than reverent.
+Každý hráč, který se již setkal s Opatem z Opatství svaté Markovie, rozpozná mezi Opatem a postavou v prostředním okně až znepokojivou podobnost. Hráč s pasivní hodnotou Wisdom (Insight) 15 nebo vyšší si všimne, že mužův pohled je spíše závistivý než uctivý.
 
-> [!lore]+ **The Stained-Glass Windows**
-> The stained-glass windows portray the anointing of Saint Markovia as a prophet by Ithuriel, the **deva** of the Morninglord now known as the Abbot. The event was overseen by Saint Andral, the Moste High Priest of the Morninglord’s church at the time of Markovia’s selection, and Markovia’s envious competitor for the title of the Morninglord’s prophet.
+> [!lore]+ **Vitrážová okna**
+> Vitrážová okna zobrazují pomazání svaté Markovie za prorokyni, které vykonal Ithuriel, **deva** Jitřního pána, dnes známý jako Opat. Na událost dohlížel svatý Andral, v době Markoviina vyvolení Nejvyšší kněz církve Jitřního pána a Markoviin závistivý soupeř o titul proroka Jitřního pána.
 >
-> The statuette is the *Icon of Dawn's Grace*, which appears as described in <span class="citation">Icon of Ravenloft (p. 222)</span>. The statuette’s glow is a symbolic representation of the shard of the Abbot’s divinity that dwells within.
+> Soška je *Ikona Jitřní milosti*, která vypadá tak, jak popisuje <span class="citation">Icon of Ravenloft (p. 222)</span>. Záře sošky symbolicky znázorňuje střep Opatova božství, který v ní přebývá.
 
-If the players are accompanied by the **pseudodragon** spirit Zorya, Zorya breathes silver fire upon two ancient torches flanking the stained-glass windows, setting them alight with cold silver flames that bathe the room in a chill, ethereal light.
+Pokud hráče doprovází přízračná pseudodráčice (**pseudodragon**) Zorja, Zorja dýchne stříbrným ohněm na dvě prastaré pochodně po stranách vitrážových oken a zapálí je chladnými stříbrnými plameny, které místnost zalijí chladným, éterickým světlem.
 
-If the players read aloud a prayer from [[#M4c. Spiders’ Ballroom|The Oath Celestial]], the spirit of Brother Marek speaks to them through the stained-glass form of Saint Andral. Read:
+Pokud hráči nahlas přečtou modlitbu z [[#M4c. Pavoučí taneční sál|The Oath Celestial]], promluví k nim duch bratra Marka skrze vitrážovou postavu svatého Andrala. Přečtěte:
 
 <div class="description">
-<p>The figure in the left stained-glass window begins to stir, hues of orange and azure tracing the lines of its form. The man’s arms raise, the glass of his fingers seeming to flex and twitch within the confines of the window. He slowly rises to his feet, his gaze turning to meet yours with a quiet, somber solemnity.</p>
-<p>When the stained-glass man speaks, his voice is distant and echoing, and the window’s glass seems to rattle and tremble in resonance. “This husk is as cold as I recall," he murmurs. “Why do you fill its broken halls with benedictions it forsook?"</p>
+<p>Postava v levém vitrážovém okně se začne hýbat a obrysy její podoby obkreslují odstíny oranžové a azurové. Muž zvedne paže a sklo jeho prstů jako by se v hranicích okna ohýbalo a cukalo. Pomalu se zvedne na nohy a obrátí k vám pohled plný tiché, zasmušilé vážnosti.</p>
+<p>Když vitrážový muž promluví, jeho hlas zní vzdáleně a ozvěnou a sklo okna jako by se v souzvuku chvělo a drnčelo. „Tahle skořápka je stejně chladná, jak si ji pamatuji,“ zamumlá. „Proč plníte její rozbité síně požehnáními, jichž se zřekla?“</p>
 </div>
 
-> [!profile]+ **Brother Marek**
-> In death, Brother Marek is a cold, apathetic shell of a man. His once-jovial cheer has wizened to a dry, sarcastic cynicism, and he views the Order’s fates as damnation for their failures. However, he is not without compassion, and truly wishes the players nothing but the best—so long as they abandon their foolish efforts to stir up the spirits of Argynvostholt. Brother Marek’s spirit should make the players feel irritated, insulted, and sympathetic, and most often feels melancholy, annoyed, skeptical, bitter, resigned, bemused, or disapproving.
+> [!profile]+ **Bratr Marek**
+> Po smrti je bratr Marek chladnou, apatickou skořápkou člověka. Jeho kdysi bodrá veselost zvadla v suchý, sarkastický cynismus a osud řádu považuje za zatracení za jeho selhání. Soucit mu však není cizí a hráčům upřímně přeje jen to nejlepší – pokud ovšem zanechají svého pošetilého úsilí burcovat duchy Argynvostholtu. Duch bratra Marka by měl v hráčích budit podráždění, uraženost a soucit a nejčastěji bývá melancholický, rozmrzelý, skeptický, zahořklý, odevzdaný, pobavený nebo nesouhlasný.
 
-The stained-glass man can identify himself as the spirit of Brother Marek. He can share the following information if asked:
+Vitrážový muž se může představit jako duch bratra Marka. Na požádání může prozradit následující:
 
-* In life, he was the chaplain of the Order of the Silver Dragon. He perished defending the third-floor corridor when the forces of Strahd von Zarovich assaulted the mansion on the final day of the war.
-* The stained-glass figure he is possessing is a depiction of Saint Andral, once the Moste High Priest of the Church of the Morninglord. The other two stained-glass figures are the angel Ithuriel and Saint Markovia, respectively. The stained-glass windows depict Saint Markovia’s anointment as a prophet of the Morninglord, in which Ithuriel placed a shard of his divinity in the icon he bestowed upon her. 
-* If the players note Saint Andral’s apparent envy, Brother Marek agrees that many rumors once suggested that Saint Andral, who reinvigorated the Church’s power and reach after bestowing the crown of Old Zarovia upon King Barov von Zarovich II, was not pleased with the Morninglord’s decision to anoint Markovia instead of himself. (If asked, Brother Marek can share that King Barov von Zarovich II was named for King Barov I, the ancient founder of the kingdom of Old Zarovia, and that Strahd von Zarovich was the son of King Barov II.)
+* Za života byl kaplanem Řádu stříbrného draka. Zahynul při obraně chodby ve třetím podlaží, když vojska Strahda von Zaroviche v poslední den války zaútočila na sídlo.
+* Vitrážová postava, kterou posedl, zobrazuje svatého Andrala, kdysi Nejvyššího kněze církve Jitřního pána. Další dvě vitrážové postavy jsou anděl Ithuriel a svatá Markovia. Vitrážová okna zobrazují pomazání svaté Markovie za prorokyni Jitřního pána, při němž Ithuriel vložil střep svého božství do ikony, kterou jí daroval. 
+* Pokud hráči poukážou na zjevnou závist svatého Andrala, bratr Marek souhlasí, že kdysi kolovalo mnoho pověstí, podle nichž svatý Andral – který znovu upevnil moc a vliv církve poté, co vložil korunu Staré Zarovie na hlavu krále Barova von Zaroviche II. – nebyl potěšen rozhodnutím Jitřního pána pomazat místo něj Markovii. (Pokud se ho hráči zeptají, může bratr Marek prozradit, že král Barov von Zarovich II. dostal jméno po králi Barovu I., dávném zakladateli království Staré Zarovie, a že Strahd von Zarovich byl synem krále Barova II.)
 
-Brother Marek is reluctant to share information regarding Argynvost’s spirit with the players, believing that the old dragon has “earned his rest," and that further contact with the living will only torment his ghost.
+Bratr Marek se zdráhá hráčům prozradit cokoli o Argynvostově duchu, protože věří, že starý drak si „zasloužil svůj odpočinek“ a že další styk se živými jeho ducha jen trýzní.
 
-Brother Marek is glad to share his belief that the Order’s fate is damnation for their failure to defend the valley from evil—Strahd’s invasion—and that no force can ever return light and hope to the valley. If the players push back, he replies, bitterly and intensely: “I have stood knee deep in mud and bone, and filled my lungs with pyres’ ash. I have seen knights of valor fall, oaths shattered with their bodies and blades. I have dug trenches for the refugees; I have prayed for their deliverance, and waited for salvation that never came. Hope? Hope is but a lie on the wind—a worm that devours the hearts of men. There is no escape from this Hell while Strahd von Zarovich yet lives."[^1]
+Bratr Marek se rád podělí o své přesvědčení, že osud řádu je zatracením za jeho selhání při obraně údolí před zlem – Strahdovým vpádem – a že žádná síla už údolí nikdy nevrátí světlo a naději. Pokud se mu hráči postaví, odpoví zahořkle a vášnivě: „Stál jsem po kolena v blátě a kostech a plnil si plíce popelem z hranic. Viděl jsem padat udatné rytíře, jejich přísahy roztříštěné spolu s jejich těly a čepelemi. Kopal jsem zákopy pro uprchlíky; modlil jsem se za jejich vysvobození a čekal na spásu, jež nikdy nepřišla. Naděje? Naděje není nic než lež nesená větrem – červ, který požírá lidská srdce. Z tohoto pekla není úniku, dokud Strahd von Zarovich žije.“[^1]
 
-[^1]: Inspired by *Amnesia: A Machine for Pigs*
+[^1]: Inspirováno hrou *Amnesia: A Machine for Pigs*
 
-If the players insist that they intend to destroy Strahd von Zarovich, Brother Marek barks a bitter laugh. “Better warriors than you have marched on Castle Ravenloft," he remarks, “and yet their work has only swelled the ranks of the dead, while the vampire still rules from his shadowed towers. When the Order’s dead marched on Castle Ravenloft four centuries ago, the seer Madam Eva told them that this land had become an eternal prison, forever bound in the Mists. What hope have you, where so many have failed?"
+Pokud hráči trvají na tom, že hodlají Strahda von Zaroviche zničit, bratr Marek se hořce zasměje. „Na hrad Ravenloft už táhli lepší válečníci, než jste vy,“ poznamená, „a jejich dílo jen rozmnožilo řady mrtvých, zatímco upír dál vládne ze svých zastíněných věží. Když mrtví řádu před čtyřmi staletími vytáhli na hrad Ravenloft, věštkyně madam Eva jim řekla, že se tato země stala věčným vězením, navždy spoutaným v Mlhách. Jakou naději máte vy, když tolik jiných selhalo?“
 
-The players can convince Brother Marek to give them an opportunity to speak with Argynvost by making a successful DC 15 Charisma (Persuasion) check, with advantage if they mention Godfrey's request or their defeat of Volenta Popofsky in [[Arc D - St. Andral's Feast]] or Ludmilla Vilisevic in [[Arc J - The Stolen Gem]]. The check also succeeds automatically if the players reference any part of Madam Eva’s Tarokka reading, such as their possession of the *Tome of Strahd* or Madam Eva’s foretelling of the *Sunsword* and its location.
+Hráči mohou bratra Marka přesvědčit, aby jim dal příležitost promluvit s Argynvostem, úspěšným ověřením Charisma (Persuasion) se DC 15, s výhodou, pokud zmíní Godfreyovu prosbu nebo svou porážku Volenty Popofsky v [[Arc D - St. Andral's Feast|Oblouk D – Hostina svatého Andrala]] či Ludmilly Vilisevic v [[Arc J - The Stolen Gem|Oblouk J – Ukradený drahokam]]. Ověření navíc uspěje automaticky, pokud hráči zmíní kteroukoli část výkladu Tarokky madam Evy, například to, že mají *Strahdův foliant*, nebo předpověď madam Evy o *Slunečním meči* a jeho umístění.
 
-> [!abstract]+ **Legacy of the Sunsword**
-> If told of the *Sunsword*’s foretelling, Brother Marek stirs in shock. He can inform the players that he once heard of a similar sword—King Barov II’s *Brightblade*, an enchanted sword that glowed with the light of the sun. “Strahd von Zarovich never wielded it in battle against us," he says, thoughtfully. “I had heard rumors that it had been passed down to Barov’s younger son, then rumors it had been destroyed. If it still exists, it may be one of the only weapons capable of destroying the beast that Zarovich has become."
+> [!abstract]+ **Odkaz Slunečního meče**
+> Pokud se bratr Marek dozví o předpovědi *Slunečního meče*, šokovaně sebou trhne. Může hráčům prozradit, že kdysi slyšel o podobném meči – o *Zářivé čepeli* (*Brightblade*) krále Barova II., očarovaném meči, který zářil světlem slunce. „Strahd von Zarovich ho proti nám v boji nikdy netřímal,“ řekne zamyšleně. „Slyšel jsem pověsti, že přešel na Barovova mladšího syna, a pak pověsti, že byl zničen. Pokud ještě existuje, může to být jedna z mála zbraní schopných zničit bestii, kterou se Zarovich stal.“
 >
-> If told of the “amber doors" referenced in the *Sunsword*’s foretelling, Brother Marek’s eyes widen. The players can convince him to share the existence of the Amber Temple with a DC 15 Charisma (Persuasion) check, though Brother Marek—who never visited the temple himself—knows only that it once served as a prison for terrible evils, and that it can be found somewhere on Mount Ghakis. He doesn’t know how the *Sunsword* may have arrived there, nor where it may be found within.
-#### Marek is Convinced
-If convinced by the players to aid them in speaking with Argynvost, Brother Marek advises them: “Seek out the younger of the twin dragons above. Reignite the silver flame it once wielded, and remind it of the oath it once served. Do this, and the memory of the Silver Dragon may return to fill it once more." He then bids the players farewell and good luck and returns the stained-glass figure to its original kneeling position. Brother Marek’s spirit then departs, freezing the figure in place.
+> Pokud se bratr Marek dozví o „jantarových dveřích“, o nichž mluví předpověď *Slunečního meče*, rozšíří se mu oči. Hráči ho mohou přesvědčit, aby jim prozradil existenci Jantarového chrámu, ověřením Charisma (Persuasion) se DC 15, i když bratr Marek – který chrám sám nikdy nenavštívil – ví jen to, že kdysi sloužil jako vězení pro strašlivá zla a že ho lze najít kdesi na hoře Ghakis. Neví, jak se tam *Sluneční meč* mohl dostat, ani kde v chrámu by se mohl nacházet.
+#### Marek je přesvědčen
+Pokud hráči bratra Marka přesvědčí, aby jim pomohl promluvit s Argynvostem, bratr Marek jim poradí: „Vyhledejte nahoře mladší z dračích dvojčat. Znovu zažehněte stříbrný plamen, jímž kdysi vládlo, a připomeňte mu přísahu, jíž kdysi sloužilo. Učiníte-li tak, vzpomínka na Stříbrného draka je možná znovu naplní.“ Pak se s hráči rozloučí, popřeje jim hodně štěstí a vrátí vitrážovou postavu do její původní klečící polohy. Duch bratra Marka pak odejde a postava ve své poloze ztuhne.
 
-> [!abstract]+ **Zorya's Flames**
-> If the players are unaccompanied by Argynvost's familiar, the ghostly **pseudodragon** Zorya, modify Brother Marek's first sentence to read: "Seek out the silver dragon's shadow below, and the younger of the twin dragons above."
+> [!abstract]+ **Zorjiny plameny**
+> Pokud hráče nedoprovází Argynvostova familiárka, přízračná pseudodráčice (**pseudodragon**) Zorja, upravte první větu bratra Marka takto: „Vyhledejte dole stín stříbrného draka a nahoře mladší z dračích dvojčat.“
 
-> [!info]+ **The Younger Dragon**
-> Marek's mention of "twin dragons" refers to the dragon gargoyles that overlook the roof of the manor, one of which can now be found in <span class="citation">Q53. Beacon of Argynvostholt (p. 142)</span>. 
-#### Marek is Unconvinced
-If the players fail to convince Brother Marek to allow them to speak with Argynvost, he scoffs, but offers to provide them a final chance. "Lord Argynvost's tomb lies empty in the graveyard below," he informs them. "Should he hear your words, he may grant you a token of his favor. Bring me proof of that favor, and I shall give you the guidance you seek."
+> [!info]+ **Mladší drak**
+> Markova zmínka o „dračích dvojčatech“ odkazuje na dračí chrliče, které shlížejí ze střechy sídla; jeden z nich lze nyní najít v <span class="citation">Q53. Beacon of Argynvostholt (p. 142)</span>. 
+#### Marek není přesvědčen
+Pokud se hráčům nepodaří bratra Marka přesvědčit, aby jim dovolil promluvit s Argynvostem, ušklíbne se, ale nabídne jim poslední příležitost. „Hrobka lorda Argynvosta leží prázdná na hřbitově dole,“ oznámí jim. „Uslyší-li vaše slova, možná vám udělí znamení své přízně. Přineste mi důkaz té přízně a já vám dám radu, kterou hledáte.“
 
-If the players subsequently descend to <span class="citation">Q16. Dragon’s Mausoleum (p. 134)</span>, it is as described in [[#M4a. Cemetery]] above. To obtain a token of Argynvost's favor, one or more players must deliver a courageous, truthful, and honorable speech regarding their intention to defeat Strahd and free Barovia. To encourage them to do so, Argynvost's spirit kindles the torches within the mausoleum as follows:
+Pokud hráči poté sestoupí do <span class="citation">Q16. Dragon’s Mausoleum (p. 134)</span>, odpovídá popisu v [[#M4a. Hřbitov|M4a. Hřbitov]] výše. Aby hráči získali znamení Argynvostovy přízně, musí jeden či více z nich pronést odvážnou, pravdivou a čestnou řeč o svém úmyslu porazit Strahda a osvobodit Barovii. Aby je v tom Argynvostův duch povzbudil, zažehne pochodně v mauzoleu takto:
 
-* **Argynvost Somewhat Approves.** The torches briefly flicker with cold silver embers, which are swiftly extinguished.
-* **Argynvost Approves.** The torches briefly flare with cold silver fire, which then dwindles into nothingness.
-* **Argynvost Strongly Approves.** The torches ignite with cold, roaring silver fire and gain the effects of a _continual flame_ spell.
+* **Argynvost tak trochu schvaluje.** Pochodně krátce zablikají chladnými stříbrnými jiskrami, které rychle pohasnou.
+* **Argynvost schvaluje.** Pochodně krátce vzplanou chladným stříbrným ohněm, který pak zvolna vyhasne v nicotu.
+* **Argynvost rozhodně schvaluje.** Pochodně se vznítí chladným, burácejícím stříbrným ohněm a získají účinky kouzla _continual flame_.
 
-Each torch can be easily removed from its mount. If the players return to the [[#Upstairs Gallery]] and show an ignited torch to Brother Marek, he emerges once more from his stained-glass window to provide them with the guidance in [[#Marek is Convinced]] above before disappearing.
-## M6d. Southern Chambers
+Každou pochodeň lze snadno vyjmout z držáku. Pokud se hráči vrátí do [[#Horní galerie|Horní galerie]] a ukážou bratru Markovi zapálenou pochodeň, znovu vystoupí ze svého vitrážového okna, dá jim radu popsanou výše v [[#Marek je přesvědčen|Marek je přesvědčen]] a pak zmizí.
+## M6d. Jižní komnaty
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q32.</em></span>
 
-These areas are as described in <span class="citation">Q32. Ruined Bedchambers (p. 138)</span>.
-# M7. Fourth Floor
-## M7a. Rooftop
+Tyto oblasti odpovídají popisu v <span class="citation">Q32. Ruined Bedchambers (p. 138)</span>.
+# M7. Čtvrté podlaží
+## M7a. Střecha
 <span class="citation"><em>This scene takes place in Chapter 7, Areas Q43, Q44, Q45, Q46, Q47, Q48, and Q49.</em></span>
 
-When the players first exit the <span class="citation">Q31. East Staircases (p. 138)</span> to emerge on the roof, read:
+Když hráči poprvé vyjdou z <span class="citation">Q31. East Staircases (p. 138)</span> na střechu, přečtěte:
 
 <div class="description">
-<p>As the old wooden door creaks open, grey light floods the darkened landing—and a shimmering ethereal arrow pierces the stone floor before you. Your eyes trace its trajectory upward, and catch a glimpse of a spectral figure in the window of an upper tower—before it ducks down and vanishes from sight.</p>
+<p>Staré dřevěné dveře se se skřípotem otevřou, šedé světlo zaplaví potemnělou podestu – a do kamenné podlahy před vámi se zabodne třpytivý éterický šíp. Pohledem sledujete jeho dráhu vzhůru a v okně jedné z horních věžiček zahlédnete přízračnou postavu – než se skrčí a zmizí z dohledu.</p>
 </div>
 
-The tower is one of <span class="citation">Q52. Beacon Turrets (p. 141)</span>. The spectral figure is one of the two **phantom warriors** that occupy the turrets.
+Věžička je jednou z <span class="citation">Q52. Beacon Turrets (p. 141)</span>. Přízračná postava je jedním ze dvou přízračných válečníků (**phantom warriors**), kteří věžičky obsazují.
 
-The rooftop is largely as described in <span class="citation">Q43. Hole in Roof (p. 140)</span>, <span class="citation">Q44. Dragon Gargoyle (p. 141)</span>, <span class="citation">Q45. Ancient Ballista (p. 141)</span>, <span class="citation">Q46. Destroyed Ballista (p. 141)</span>, <span class="citation">Q47. Roof Turrets (p. 141)</span>, <span class="citation">Q48. Roof’s Edge (p. 141)</span>), and <span class="citation">Q49. Beacon Tower Door (p. 141)</span>. 
+Střecha do značné míry odpovídá popisu v <span class="citation">Q43. Hole in Roof (p. 140)</span>, <span class="citation">Q44. Dragon Gargoyle (p. 141)</span>, <span class="citation">Q45. Ancient Ballista (p. 141)</span>, <span class="citation">Q46. Destroyed Ballista (p. 141)</span>, <span class="citation">Q47. Roof Turrets (p. 141)</span>, <span class="citation">Q48. Roof’s Edge (p. 141)</span>) a <span class="citation">Q49. Beacon Tower Door (p. 141)</span>. 
 
-However, the dragon gargoyle isn’t magical, and doesn’t whisper aloud when the players pass in front of it. In addition, a player who approaches or inspects <span class="citation">Q46. Destroyed Ballista (p. 141)</span> notices that it appears to have been pointed at <span class="citation">Q53. Beacon of Argynvostholt (p. 142)</span> before its destruction. (A player who succeeds on a DC 15 Wisdom (Perception) check notices that the tower stonework where the destroyed ballista is pointing is broken and crushed, as if gouged by an enormous set of claws.)
+Dračí chrlič však není magický a nešeptá nahlas, když kolem něj hráči projdou. Navíc hráč, který se přiblíží k <span class="citation">Q46. Destroyed Ballista (p. 141)</span> nebo si ji prohlédne, si všimne, že před svým zničením byla zřejmě namířena na <span class="citation">Q53. Beacon of Argynvostholt (p. 142)</span>. (Hráč, který uspěje v ověření Wisdom (Perception) se DC 15, si všimne, že zdivo věže v místě, kam zničená balista míří, je rozbité a rozdrcené, jako by ho vyrvaly obrovské drápy.)
 
-If the players, while all are wearing garments or gear bearing the insignia of the Order of the Silver Dragon, identify themselves as members or soldiers of the Order and succeed on a DC 11 Charisma (Deception) check, the two **phantom warriors** in <span class="citation">Q52. Beacon Turrets (p. 141)</span> demand the players speak Commander Horngaard's password before allowing them to approach <span class="citation">Q49. Beacon Tower Door (p. 141)</span>. 
+Pokud se hráči, kteří všichni mají na sobě oděv nebo výstroj nesoucí odznak Řádu stříbrného draka, představí jako členové či vojáci řádu a uspějí v ověření Charisma (Deception) se DC 11, požadují dva přízrační válečníci (**phantom warriors**) v <span class="citation">Q52. Beacon Turrets (p. 141)</span>, aby hráči vyslovili heslo velitele Horngaarda, než jim dovolí přiblížit se k <span class="citation">Q49. Beacon Tower Door (p. 141)</span>. 
 
-If the players fail to speak the password ("From this until the end of days"), or if any of the visible players aren't wearing garments or gear bearing the Order's insignia, the phantom warriors attack the players on sight, making ***spectral longbow*** attacks against any living character within their line of sight. (The **phantom warriors** have 16 (+3) Dexterity, and their ***spectral longbow*** attacks have +5 to hit and deal 7 (1d8 + 3) force damage on a hit.) A character can escape their line of sight by taking cover behind the mansion’s central roof, the turrets containing <span class="citation">Q31. East Staircases (p. 138)</span>, <span class="citation">Q47. Roof Turrets (p. 141)</span>.
+Pokud hráči heslo („Od této chvíle až do konce dnů“) nevysloví, nebo pokud kterýkoli z viditelných hráčů nemá na sobě oděv či výstroj s odznakem řádu, přízrační válečníci na hráče zaútočí, jakmile je spatří, a útočí útoky ***spectral longbow*** na každou živou postavu, kterou mají v zorném poli. (Přízrační válečníci (**phantom warriors**) mají Dexterity 16 (+3) a jejich útoky ***spectral longbow*** mají +5 k zásahu a při zásahu způsobí 7 (1d8 + 3) zranění force.) Postava se jim může skrýt ze zorného pole tím, že se ukryje za ústřední střechou sídla, věžičkami, v nichž jsou <span class="citation">Q31. East Staircases (p. 138)</span>, či za <span class="citation">Q47. Roof Turrets (p. 141)</span>.
 
-The interior of the beacon’s tower is largely as described in <span class="citation">Q50. Beacon, Lower Landing (p. 141)</span>, <span class="citation">Q51. Beacon, Upper Landing (p. 141)</span>, and <span class="citation">Q52. Beacon Turrets (p. 141)</span>, except for the changes to the **phantom warriors** described above. 
+Vnitřek věže s majákem do značné míry odpovídá popisu v <span class="citation">Q50. Beacon, Lower Landing (p. 141)</span>, <span class="citation">Q51. Beacon, Upper Landing (p. 141)</span> a <span class="citation">Q52. Beacon Turrets (p. 141)</span>, s výjimkou výše popsaných změn přízračných válečníků (**phantom warriors**). 
 
-In addition, if any characters successfully enter the tower, the **phantom warriors** exit the beacon turrets and engage the characters on the stairs connecting  <span class="citation">Q50. Beacon, Lower Landing (p. 141)</span> and <span class="citation">Q51. Beacon, Upper Landing (p. 141)</span>. When they do, they gain the following additional reaction, which they use in an effort to lure the players onto the trapped landing on <span class="citation">Q51. Beacon, Upper Landing (p. 141)</span>:
+Navíc pokud se některým postavám podaří do věže vstoupit, přízrační válečníci (**phantom warriors**) opustí věžičky majáku a střetnou se s postavami na schodech, které spojují  <span class="citation">Q50. Beacon, Lower Landing (p. 141)</span> a <span class="citation">Q51. Beacon, Upper Landing (p. 141)</span>. Přitom získají následující dodatečnou reakci, kterou používají ve snaze vlákat hráče na podestu s pastí v <span class="citation">Q51. Beacon, Upper Landing (p. 141)</span>:
 
-* ***Pivot.*** In response to an enemy missing an attack against it, the phantom warrior moves up to 10 feet away without triggering opportunity attacks.
+* ***Pivot.*** Jako reakci na to, že ho nepřítel útokem mine, se přízračný válečník přesune až o 10 stop pryč, aniž by vyvolal příležitostné útoky.
 
-As they fight in melee, the phantom warriors shout: “Begone, soldiers of the Devil!", “We will die proudly," and “Argynvostholt will never be yours."
-## M7b. Beacon
+Když bojují zblízka, přízrační válečníci křičí: „Pryč, Ďáblovi vojáci!“, „Zemřeme hrdě“ a „Argynvostholt nikdy nebude váš.“
+## M7b. Maják
 <span class="citation"><em>This scene takes place in Chapter 7, Area Q53.</em></span>
 
-This area is largely as described in <span class="citation">Q53. Beacon of Argynvostholt (p. 142)</span>. However, remove the sentence describing the ravens from the area’s description. (No ravens roost here.) Instead, add the following text to the end of the area’s description:
+Tato oblast do značné míry odpovídá popisu v <span class="citation">Q53. Beacon of Argynvostholt (p. 142)</span>. Z popisu oblasti však vypusťte větu popisující havrany. (Žádní havrani tu nehnízdí.) Místo toho na konec popisu oblasti doplňte následující text:
 
 <div class="description">
-<p>A small, silver-plated gargoyle, shaped like a dragon wyrmling and holding a tarnished brazier in its claws, crouches on the floor just beside the staircase landing, its wings curled tightly toward itself. Not far away, a knight in old, rusted armor stands by the western window, looking out across the misted landscape far beyond. The blade of a tall, gleaming greatsword rests on the ground beside him, with one of the knight’s rusted iron gauntlets resting upon its hilt.</p>
+<p>Na podlaze těsně vedle podesty schodiště se krčí malý postříbřený chrlič v podobě dračího mláděte, který v drápech drží zašlou pánev a křídla má pevně přitisknutá k tělu. Nedaleko stojí u západního okna rytíř ve staré, zrezivělé zbroji a hledí přes zamlženou krajinu daleko do dálky. Vedle něj spočívá na zemi čepel vysokého, lesklého obouručního meče a na jeho jílci leží jedna z rytířových rezavých železných rukavic.</p>
 </div>
 
-The gargoyle is half the size of <span class="citation">Q44. Dragon Gargoyle (p. 141)</span>. The knight is Vladimir Horngaard, who is as described in <span class="citation">Q36. Dragon’s Audience Hall (p. 138)</span>.
-### Meeting Vladimir Horngaard
-The players must succeed on a DC 14 Dexterity (Stealth) check to ascend the staircase without alerting Vladimir to their presence. If the players don’t approach stealthily, fail their Dexterity (Stealth) check, approach the dragon gargoyle, or fought the **phantom warriors** in the turrets below, Vladimir is alerted. Read:
+Chrlič je poloviční velikosti než <span class="citation">Q44. Dragon Gargoyle (p. 141)</span>. Rytíř je Vladimír Horngaard, který odpovídá popisu v <span class="citation">Q36. Dragon’s Audience Hall (p. 138)</span>.
+### Setkání s Vladimírem Horngaardem
+Hráči musí uspět v ověření Dexterity (Stealth) se DC 14, aby vystoupali po schodech, aniž by Vladimíra na svou přítomnost upozornili. Pokud se hráči nepřibližují nenápadně, neuspějí v ověření Dexterity (Stealth), přiblíží se k dračímu chrliči nebo bojovali s přízračnými válečníky (**phantom warriors**) ve věžičkách pod ním, Vladimír je upozorněn. Přečtěte:
 
 <div class="description">
-<p>The gauntleted hand tightens its grip around the greatsword’s hilt, and the knight’s deep, rasping voice pierces the silence. "Who goes there?" it commands. “Be warned—if you are thieves or assassins, know that you shall soon join your quarries in death."</p>
+<p>Ruka v kovové rukavici pevněji sevře jílec obouručního meče a ticho protne hluboký, chraplavý rytířův hlas. „Kdo je tam?“ zavelí. „Mějte se na pozoru – jste-li zloději či vrazi, vězte, že se ke své kořisti brzy připojíte ve smrti.“</p>
 </div>
 
 ![[Vladimir Horngaard.png]]
-<span class="credit">"Commander Vladimir Horngaard" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">„Velitel Vladimír Horngaard“ – autor: Caleb Cleveland. Podpořte ho na <a href="https://patreon.com/calebisdrawing/">Patreonu!</a></span>
 
-> [!profile]+ **Profile: Vladimir Horngaard**
-> **Roleplaying Information**
-> ***Resonance.*** Vladimir should inspire unease and discomfort with his suspicion and paranoia, (restrained) anger with his apathy for the plight of the Barovian people, and pity for the ways in which his rage and pain have blinded him.
+> [!profile]+ **Profil: Vladimír Horngaard**
+> **Pro hraní role**
+> ***Vyznění.*** Vladimír by měl budit neklid a nepohodlí svou podezíravostí a paranoiou, (zdrženlivý) hněv svou lhostejností k utrpení barovského lidu a lítost nad tím, jak ho jeho zuřivost a bolest zaslepily.
 > 
-> ***Emotions.*** Vladimir most often feels suspicious, enraged, irritated, placid, stoic, or apathetic.
+> ***Emoce.*** Vladimír nejčastěji cítí podezíravost, zuřivost, podráždění, klid, stoicismus nebo lhostejnost.
 > 
-> ***Motivations.*** Vladimir wants to preserve Strahd's prison in the Mists to avenge his desecration of Argynvost's corpse and the destruction of the Order of the Silver Dragon.
+> ***Motivace.*** Vladimír chce zachovat Strahdovo vězení v Mlhách, aby pomstil znesvěcení Argynvostovy mrtvoly a zničení Řádu stříbrného draka.
 > 
-> ***Inspirations.*** When playing Vladimir, channel Stannis Baratheon (*Game of Thrones*), Frank Castle (*The Punisher*), and Rorschach (*Watchmen*).
+> ***Inspirace.*** Při hraní Vladimíra čerpejte z postav Stannis Baratheon (*Game of Thrones*), Frank Castle (*The Punisher*) a Rorschach (*Watchmen*).
 > 
-> **Character Information**
-> ***Persona.*** To the world, Vladimir is a cruel, apathetic, and self-righteous creature consumed by vengeance and hatred.
+> **O postavě**
+> ***Tvář.*** Před světem je Vladimír krutá, lhostejná a sebespravedlivá bytost, kterou stravuje pomsta a nenávist.
 > 
-> ***Morale.*** In a fight, Vladimir would gladly take up arms against any person that insulted, disobeyed, or threatened him.
+> ***Morálka.*** V boji by Vladimír ochotně pozvedl zbraň proti každému, kdo by ho urazil, neuposlechl nebo ohrozil.
 > 
-> ***Relationships.*** Vladimir is the commander of the Order of the Silver Dragon, the source of the other revenants' undeath (through the oath they swore him), and the husband of Sir Godfrey Gwilym (whose relationship to him Vladimir has forgotten).
+> ***Vztahy.*** Vladimír je velitelem Řádu stříbrného draka, zdrojem nemrtvého bytí ostatních revenantů (skrze přísahu, kterou mu složili) a manželem sira Godfreye Gwilyma (na jehož vztah k sobě Vladimír zapomněl).
 
-Vladimir aims to interrogate the players sufficiently to confirm their purpose and uncover any inconsistencies or holes in their story. Ultimately, the players can convince Vladimir that they are neither thieves nor assassins with a successful DC 10 Charisma (Persuasion) check or DC 14 Charisma (Deception) check, automatically succeeding on a Charisma (Persuasion) check if they truthfully inform Vladimir that they are investigating the stirrings of Argynvost’s spirit. On a failure, Vladimir warns them that they have one opportunity to flee the mansion before he slays them. If the players fail to plead their case or depart, Vladimir attacks.
+Vladimír se snaží hráče vyslýchat natolik, aby si ověřil jejich záměr a odhalil jakékoli rozpory či mezery v jejich příběhu. Nakonec mohou hráči Vladimíra přesvědčit, že nejsou zloději ani vrazi, úspěšným ověřením Charisma (Persuasion) se DC 10 nebo ověřením Charisma (Deception) se DC 14; v ověření Charisma (Persuasion) uspějí automaticky, pokud Vladimírovi popravdě řeknou, že pátrají po tom, proč se pohnul Argynvostův duch. Při neúspěchu je Vladimír varuje, že mají jedinou příležitost ze sídla uprchnout, než je zabije. Pokud hráči svou při neobhájí ani neodejdou, Vladimír zaútočí.
 
-If the players convince Vladimir that they are neither thieves nor assassins, Vladimir turns to face them. Read:
+Pokud hráči Vladimíra přesvědčí, že nejsou zloději ani vrazi, Vladimír se k nim otočí. Přečtěte:
 
 <div class="description">
-<p>The terrible sound of scraping metal fills the air, and the knight turns to face you, revealing a pale-skinned corpse with burning red eyes in a sunken, skeletal face.</p>
-<p>"Neither thieves nor assassins—and yet, you are here." He narrows his eyes, and the blade of his greatsword glints dangerously. “Tell me, then, why the living have come to disturb the dead."
+<p>Vzduch naplní strašlivý zvuk skřípajícího kovu a rytíř se k vám otočí. Odhalí bledou mrtvolu s planoucíma rudýma očima v propadlé, kostnaté tváři.</p>
+<p>„Ani zloději, ani vrazi – a přece jste tady.“ Přimhouří oči a čepel jeho obouručního meče se nebezpečně zablýskne. „Povězte mi tedy, proč živí přišli rušit mrtvé.“
 </div>
 
-If asked, Vladimir can share the following information:
+Na požádání může Vladimír prozradit následující:
 
-* His name is Vladimir Horngaard. In life, he was the commander of the Order of the Silver Dragon, the “valiant order" to which he devoted his life. He perished defending this valley from evil over four centuries ago; because of his failure, he is forever doomed.
-* There is no monster Vladimir hates more than Strahd von Zarovich, an invader and tyrant who slew Argynvost and destroyed the Order of the Silver Dragon.
-* Vladimir has forbidden his knights from killing Strahd or aiding his defeat because he believes Strahd must suffer eternally for his sins in a hell of his own creation, from which Strahd can never escape. “He sacrificed everything for his empire—faith, love, and youth," Vladimir growls. “Now, everything he ever wanted and everything he ever won is locked away beyond the mists, leaving him trapped in this land of ghosts." (Vladimir doesn’t know who or what the Dark Powers are, but believes that “dark powers" far greater than Strahd have seen fit to punish him for his crimes—a sentence that Vladimir is proud to uphold.)
-* Because Strahd, a conqueror, craves adversaries to overcome, Vladimir has also forbidden his knights from slaying Strahd’s minions and creatures, a decision he believes will drive Strahd mad with boredom and despair. (If challenged with the suffering of the Barovian people, Vladimir snarls:  “I would let a thousand nations burn if Strahd von Zarovich would choke on the ashes.")
+* Jmenuje se Vladimír Horngaard. Za života byl velitelem Řádu stříbrného draka, „udatného řádu“, jemuž zasvětil svůj život. Zahynul při obraně tohoto údolí před zlem před více než čtyřmi staletími; kvůli svému selhání je navěky zatracen.
+* Žádnou nestvůru Vladimír nenávidí víc než Strahda von Zaroviche, vetřelce a tyrana, který zabil Argynvosta a zničil Řád stříbrného draka.
+* Vladimír svým rytířům zakázal Strahda zabít či napomáhat jeho porážce, protože věří, že Strahd musí za své hříchy věčně trpět v pekle, které si sám stvořil a z něhož nikdy nemůže uniknout. „Pro svou říši obětoval všechno – víru, lásku i mládí,“ zavrčí Vladimír. „Nyní je vše, co kdy chtěl, a vše, co kdy získal, uzamčeno za mlhami a on zůstal uvězněn v této zemi duchů.“ (Vladimír neví, kdo nebo co jsou Temné mocnosti, ale věří, že „temné mocnosti“ mnohem větší než Strahd uznaly za vhodné potrestat ho za jeho zločiny – a tento rozsudek Vladimír hrdě vykonává.)
+* Protože Strahd jako dobyvatel prahne po protivnících, které by mohl přemáhat, zakázal Vladimír svým rytířům zabíjet i Strahdovy přisluhovače a tvory; věří, že toto rozhodnutí dožene Strahda k šílenství z nudy a zoufalství. (Pokud mu hráči vytknou utrpení barovského lidu, Vladimír zavrčí:  „Nechal bych shořet tisíc národů, kdyby se Strahd von Zarovich udusil jejich popelem.“)
 
-> [!abstract]+ **Vladimir & Godfrey**
-> Vladimir can’t remember the love he shared with Sir Godfrey Gwilym in life, and angrily denies any insinuations otherwise. If confronted with the rings from [[#Wine Storage]] or the portrait from [[#Vladimir’s Bedroom]], Vladimir is obviously disturbed and thrown off balance. However, he insists that such things prove nothing, and that the players mock him and the Order with their lies. “There is no room for love in the war we fight," he snarls. “We are knights, born only to die in the battle against evil. This is how it has always been, and how it will always be."
+> [!abstract]+ **Vladimír a Godfrey**
+> Vladimír si nevzpomíná na lásku, kterou za života sdílel se sirem Godfreyem Gwilymem, a jakékoli náznaky opaku rozzlobeně popírá. Pokud ho hráči konfrontují s prsteny ze [[#Sklad vína|Sklad vína]] nebo s portrétem z [[#Vladimírova ložnice|Vladimírova ložnice]], je Vladimír zjevně znepokojen a vyveden z rovnováhy. Trvá však na tom, že takové věci nic nedokazují a že se hráči svými lžemi vysmívají jemu i řádu. „Ve válce, kterou vedeme, není místo pro lásku,“ zavrčí. „Jsme rytíři, zrození jen proto, abychom zemřeli v boji proti zlu. Tak tomu vždy bylo a tak tomu vždy bude.“
 
-> [!lore] **Vladimir and Argynvost**
-> Vladimir's anger and hatred prevent him from hearing Argynvost's voice. If the players mention anyone communicating with Argynvost's spirit, he claims they are lying. (As Argynvost's commander, Vladimir is convinced that if he can't hear Argynvost's spirit, then no one can, and can't be persuaded otherwise.)
+> [!lore] **Vladimír a Argynvost**
+> Vladimírův hněv a nenávist mu brání slyšet Argynvostův hlas. Pokud hráči zmíní, že s Argynvostovým duchem někdo komunikuje, prohlásí, že lžou. (Jako Argynvostův velitel je Vladimír přesvědčen, že pokud Argynvostova ducha neslyší on, nemůže ho slyšet nikdo, a nelze ho přesvědčit o opaku.)
 
-If the players mention an interest in Argynvost’s spirit, Vladimir asks them coldly if “the fool in the chapel" set them to this mission. If the players deny Sir Godfrey’s involvement and succeed on a DC 14 Charisma (Deception) check, Vladimir regards them coolly, then states tiredly that the “old dragon" has earned his rest and old spirits should be left well-enough alone. He then instructs the players to depart once they have satisfied their curiosities and descends the staircase to return to <span class="citation">Q36. Dragon’s Audience Hall (p. 138)</span>.
+Pokud hráči zmíní zájem o Argynvostova ducha, Vladimír se jich chladně zeptá, zda je k tomuto poslání navedl „ten blázen v kapli“. Pokud hráči popřou, že by v tom měl prsty sir Godfrey, a uspějí v ověření Charisma (Deception) se DC 14, Vladimír si je chladně změří a pak unaveně prohlásí, že si „starý drak“ zasloužil svůj odpočinek a staré duchy je lépe nechat na pokoji. Pak hráčům nařídí, aby odešli, jakmile ukojí svou zvědavost, a sestoupí po schodech zpět do <span class="citation">Q36. Dragon’s Audience Hall (p. 138)</span>.
 
-If the players share a convincing story that doesn’t involve Sir Godfrey or Argynvost and succeed on a DC 14 Charisma (Deception) check, Vladimir instructs the players to depart once they have satisfied their curiosities. He then descends the staircase to return to <span class="citation">Q36. Dragon’s Audience Hall (p. 138)</span>.
-### Vladimir’s Anger
-If the players inform Vladimir that they came to Argynvostholt at Sir Godfrey’s invitation or have otherwise spoken with Sir Godfrey, he asks quietly whether they “seek to join that traitor in his accursed crusade against the lord of Castle Ravenloft." The players can convince Vladimir that they are no enemies of Strahd with a successful DC 14 Charisma (Deception) check. On a failure, or if the players confess to seeking Strahd’s destruction, read:
+Pokud hráči předloží přesvědčivý příběh, v němž nefiguruje sir Godfrey ani Argynvost, a uspějí v ověření Charisma (Deception) se DC 14, Vladimír jim nařídí, aby odešli, jakmile ukojí svou zvědavost. Pak sestoupí po schodech zpět do <span class="citation">Q36. Dragon’s Audience Hall (p. 138)</span>.
+### Vladimírův hněv
+Pokud hráči Vladimírovi prozradí, že do Argynvostholtu přišli na pozvání sira Godfreye nebo že s ním jinak mluvili, tiše se zeptá, zda se „chtějí přidat k tomu zrádci v jeho prokleté křížové výpravě proti pánovi hradu Ravenloft“. Hráči mohou Vladimíra přesvědčit, že nejsou Strahdovými nepřáteli, úspěšným ověřením Charisma (Deception) se DC 14. Při neúspěchu, nebo pokud hráči přiznají, že usilují o Strahdovu zkázu, přečtěte:
 
 <div class="description">
-<p>The knight’s face curls into a terrible snarl, and the greatsword’s sharpened edge grinds against the broken stone floor. The temperature in the room seems to plummet, even as his red eyes burn with a haunting intensity.</p>
-<p>"Perhaps you have encountered the vampire Strahd von Zarovich," he rasps. “Now, you look upon his jailer. If you seek to end his torment, then I shall strike you down—unless you swear an oath to me, upon this cursed blade, to cast aside this foolish mission."</p>
+<p>Rytířova tvář se zkřiví ve strašlivém úšklebku a nabroušené ostří obouručního meče zaskřípe o rozbitou kamennou podlahu. Teplota v místnosti jako by prudce klesla, zatímco jeho rudé oči planou děsivou intenzitou.</p>
+<p>„Snad jste se setkali s upírem Strahdem von Zarovichem,“ zachraptí. „Nyní hledíte na jeho žalářníka. Chcete-li ukončit jeho muka, srazím vás k zemi – ledaže mi na tuto prokletou čepel přísaháte, že se tohoto pošetilého poslání vzdáte.“</p>
 </div>
 
-Once he believes the players seek Strahd’s destruction, Vladimir won’t allow them to leave peacefully unless each of them swears an oath upon his sword to raise no hand against Strahd von Zarovich. A character who does so is subject to the effects of Vladimir’s ***oathbind*** feature (see below).
+Jakmile Vladimír uvěří, že hráči usilují o Strahdovu zkázu, nedovolí jim pokojně odejít, dokud každý z nich na jeho meč nepřísahá, že proti Strahdovi von Zarovichovi nepozvedne ruku. Postava, která tak učiní, podléhá účinkům Vladimírovy schopnosti ***oathbind*** (viz níže).
 
-If any of the players refuse to swear Vladimir’s oath, read:
+Pokud kterýkoli z hráčů odmítne Vladimírovu přísahu složit, přečtěte:
 
 <div class="description">
-<p>The undead knight raises his greatsword into the air and clasps it with both hands, the mighty blade glinting wickedly in the dim light. You see now that the hilt is sculpted to resemble silver dragon wings, its pommel shaped like a silver dragon’s head clutching a black opal between its teeth. Long, thin shadows emerge from the opal to entwine the blade, each shadow lined with the silhouettes of razor-sharp spikes.</p>
-<p>"If I cannot convince you to obey," he rasps, “then I shall compel you instead."</p>
+<p>Nemrtvý rytíř pozvedne svůj obouruční meč do vzduchu a sevře ho oběma rukama; mohutná čepel se v šeru zlovolně zablýskne. Teprve teď vidíte, že jílec je vytvarován do podoby křídel stříbrného draka a hlavice do podoby hlavy stříbrného draka, který v zubech svírá černý opál. Z opálu se vynoří dlouhé, tenké stíny a ovinou se kolem čepele; každý stín je lemován siluetami břitkých ostnů.</p>
+<p>„Nedokážu-li vás přesvědčit k poslušnosti,“ zachraptí, „pak vás k ní donutím.“</p>
 </div>
 
-> [!info]+ **Oathbound**
-> If Vladimir uses his ***oathbind*** feature to subject a players to the effects of a *geas*, he whispers the following binding command: “You shall raise no hand against Strahd von Zarovich for as long as you live."
+> [!info]+ **Spoutáni přísahou**
+> Pokud Vladimír použije svou schopnost ***oathbind***, aby hráče podrobil účinkům kouzla *geas*, zašeptá následující závazný příkaz: „Dokud budeš žít, nepozvedneš ruku proti Strahdovi von Zarovichovi.“
 
-> [!info]+ **Room Dimensions**
-> When preparing to run the fight with Vladimir, remember that each square on Argynvostholt’s grid is 10 feet across, and that <span class="citation">Q53. Beacon of Argynvostholt (p. 142)</span> is a full 30 feet across.
+> [!info]+ **Rozměry místnosti**
+> Až se budete připravovat na boj s Vladimírem, pamatujte, že každé pole na mapě Argynvostholtu má 10 stop a že <span class="citation">Q53. Beacon of Argynvostholt (p. 142)</span> měří napříč celých 30 stop.
 
-> [!combat]- **Combat - The Commander**  
-> **Combat Level**: Bruising (first phase), Bruising (second phase)
-> **Expected Character Level**: 6
-> **Allies:** Zorya (CR 1/4), Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4)
-> **Expected HP Consumption:** 39% (first phase), 39% (second phase), for a total of 78%
+> [!combat]- **Boj – Velitel**  
+> **Úroveň boje**: Bolestivý (první fáze), Bolestivý (druhá fáze)
+> **Očekávaná úroveň postav**: 6
+> **Spojenci:** Zorja (CR 1/4), Ireena Kolyana (CR 2), Ezmerelda d'Avenir (CR 4)
+> **Očekávaná ztráta HP:** 39 % (první fáze), 39 % (druhá fáze), celkem 78 %
 > 
-> ### **Balancing:**
-> If you have fewer or more than 5 players, modify the encounter in the following ways:
+> ### **Vyvážení:**
+> Pokud máte méně nebo více než 5 hráčů, upravte střetnutí následovně:
 >
-> | Number of Players | Modification |
+> | Počet hráčů | Úprava |
 > |-|-|
-> | 3 | Reduce Vladimir’s hit points in each phase to 169. Reduce his Greatsword to a +1 greatsword (+11 to hit, 2d6+6 slashing damage), reduce the damage of his ***Conjure Phantoms*** to 1d8, reduce his ***Reaving Sweep*** to 6d4 slashing damage, reduce his ***Umbral Snare*** to 4d4 piercing initially and 2d4 piercing when attempting to escape the grapple. In his second phase, reduce his Greatsword to a +1 (+11 to hit, 2d6+6 slashing damage) and 1d4 additional piercing damage, reduce his ***Black Flames*** to 2d4 fire damage and 1d4 necrotic damage, reduce his ***Gravepyre*** to 2d6 fire and 2d6 necrotic damage, reduce his ***Destructive Wave*** to 2d6 thunder and 2d6 necrotic damage, and reduce his ***Vengeful Rush***’s initial damage to 2d4. |
-> | 4 | Reduce Vladimir’s hit points in each phase to 198. Reduce his Greatsword to a +1 greatsword (+11 to hit, 2d6+6 slashing damage), reduce the damage of his ***Conjure Phantoms*** to 1d8+2, reduce his ***Reaving Sweep*** to 7d4 slashing damage, reduce his ***Umbral Snare*** to 2d12 piercing initially and 1d12 piercing when attempting to escape the grapple. In his second phase, reduce his Greatsword to a +1 (+11 to hit, 2d6+6 slashing damage) and 1d4 additional piercing damage, reduce his ***Black Flames*** to 1d12 fire damage and 1d6 necrotic damage, reduce his ***Gravepyre*** to 2d8 fire and 2d8 necrotic damage, reduce his ***Destructive Wave*** to 2d8 thunder and 2d8 necrotic damage, and reduce his ***Vengeful Rush***’s initial damage to 1d12. |
-> | 6 | Increase Vladimir’s hit points in each phase to 258. Increase his Greatsword to a +3 greatsword (+13 to hit, 2d6+8 slashing damage), increase the damage of his ***Conjure Phantoms*** to 1d10+3, increase his ***Reaving Sweep*** to 4d10 slashing damage, increase his ***Umbral Snare*** to 6d4 piercing initially and 3d4 piercing when attempting to escape the grapple. In his second phase, increase his Greatsword to a +3 (+13 to hit, 2d6+8 slashing damage) and 1d6 additional piercing damage, increase his ***Black Flames*** to 3d4 fire damage and 1d6 necrotic damage, increase his Gravepyre to ***2d10*** fire and 2d10 necrotic damage, increase his ***Destructive Wave*** to 2d10 thunder and 2d10 necrotic damage, and increase his ***Vengeful Rush***’s initial damage to 3d4. |
+> | 3 | Snižte Vladimírovy HP v každé fázi na 169. Snižte jeho Greatsword na +1 greatsword (+11 k zásahu, 2d6+6 zranění slashing), snižte zranění jeho ***Conjure Phantoms*** na 1d8, snižte jeho ***Reaving Sweep*** na 6d4 zranění slashing a snižte jeho ***Umbral Snare*** na 4d4 piercing zpočátku a 2d4 piercing při pokusu vymanit se ze sevření. Ve druhé fázi snižte jeho Greatsword na +1 (+11 k zásahu, 2d6+6 zranění slashing) a 1d4 dodatečného zranění piercing, snižte jeho ***Black Flames*** na 2d4 zranění fire a 1d4 zranění necrotic, snižte jeho ***Gravepyre*** na 2d6 zranění fire a 2d6 necrotic, snižte jeho ***Destructive Wave*** na 2d6 zranění thunder a 2d6 necrotic a snižte počáteční zranění jeho ***Vengeful Rush*** na 2d4. |
+> | 4 | Snižte Vladimírovy HP v každé fázi na 198. Snižte jeho Greatsword na +1 greatsword (+11 k zásahu, 2d6+6 zranění slashing), snižte zranění jeho ***Conjure Phantoms*** na 1d8+2, snižte jeho ***Reaving Sweep*** na 7d4 zranění slashing a snižte jeho ***Umbral Snare*** na 2d12 piercing zpočátku a 1d12 piercing při pokusu vymanit se ze sevření. Ve druhé fázi snižte jeho Greatsword na +1 (+11 k zásahu, 2d6+6 zranění slashing) a 1d4 dodatečného zranění piercing, snižte jeho ***Black Flames*** na 1d12 zranění fire a 1d6 zranění necrotic, snižte jeho ***Gravepyre*** na 2d8 zranění fire a 2d8 necrotic, snižte jeho ***Destructive Wave*** na 2d8 zranění thunder a 2d8 necrotic a snižte počáteční zranění jeho ***Vengeful Rush*** na 1d12. |
+> | 6 | Zvyšte Vladimírovy HP v každé fázi na 258. Zvyšte jeho Greatsword na +3 greatsword (+13 k zásahu, 2d6+8 zranění slashing), zvyšte zranění jeho ***Conjure Phantoms*** na 1d10+3, zvyšte jeho ***Reaving Sweep*** na 4d10 zranění slashing a zvyšte jeho ***Umbral Snare*** na 6d4 piercing zpočátku a 3d4 piercing při pokusu vymanit se ze sevření. Ve druhé fázi zvyšte jeho Greatsword na +3 (+13 k zásahu, 2d6+8 zranění slashing) a 1d6 dodatečného zranění piercing, zvyšte jeho ***Black Flames*** na 3d4 zranění fire a 1d6 zranění necrotic, zvyšte jeho Gravepyre na ***2d10*** zranění fire a 2d10 necrotic, zvyšte jeho ***Destructive Wave*** na 2d10 zranění thunder a 2d10 necrotic a zvyšte počáteční zranění jeho ***Vengeful Rush*** na 3d4. |
 
-> [!abstract]+ **The Players Flee**
-> If any players attempt to flee down the stairs, Vladimir leaps from the beacon’s western window and lands on the rooftop beside <span class="citation">Q49. Beacon Tower Door (p. 141)</span> to block their escape.
+> [!abstract]+ **Hráči prchají**
+> Pokud se kterýkoli z hráčů pokusí uprchnout po schodech, Vladimír skočí západním oknem majáku a přistane na střeše vedle <span class="citation">Q49. Beacon Tower Door (p. 141)</span>, aby jim zatarasil únikovou cestu.
 
 <div class="statblock">
 <h2>Vladimir Horngaard, Vengeful Revenant</h2>
@@ -1155,38 +1153,38 @@ If any of the players refuse to swear Vladimir’s oath, read:
 <p><strong><em>Sentinel’s Strike.</em></strong> In response to a creature attempting to move out of his reach without first taking the Disengage action, Vladimir makes an attack against it with his <strong><em>+2 greatsword</em></strong>. On a hit, the creature takes no damage from the attack, but it falls prone and its speed becomes 0 for the rest of the turn.</p>
 </div>
 
-While in his second form, Vladimir attempts to use his ***vengeful rush*** reaction to push players against the chamber’s walls or through the chamber’s windows or railings. If Vladimir attempts to push a player out of a window or over a railing, that player must succeed on an additional DC 18 Strength saving throw or be pushed over the edge. That player is then subject to one of the following effects:
+Ve své druhé podobě se Vladimír snaží pomocí své reakce ***vengeful rush*** tlačit hráče proti stěnám komnaty nebo skrz její okna či zábradlí. Pokud se Vladimír pokusí vytlačit hráče oknem nebo přes zábradlí, musí hráč uspět v dodatečném záchranném hodu na Strength se DC 18, jinak je přes okraj vytlačen. Na hráče pak působí jeden z následujících účinků:
 
-* If the player was pushed out of a window, they take 2 (1d4) slashing damage from jagged glass shards and must succeed on a DC 10 Dexterity saving throw. On a success, they catch themselves on a stone outcropping 10 feet below the window. On a failure, they fall to the ground or rooftop below, depending on their location.
-* If the player was pushed over a railing, they take any fall damage as normal, then must succeed on a DC 10 Dexterity saving throw. On a failure, they then fall to the bottom of the stairs, landing prone on <span class="citation">Q51. Beacon, Upper Landing (p. 141)</span> and taking 1d6 bludgeoning damage for each 10 feet of stairs fallen.
+* Pokud byl hráč vytlačen oknem, utrží 2 (1d4) zranění slashing od zubatých skleněných střepů a musí uspět v záchranném hodu na Dexterity se DC 10. Při úspěchu se zachytí kamenného výstupku 10 stop pod oknem. Při neúspěchu spadne na zem nebo na střechu pod sebou, podle toho, kde se nachází.
+* Pokud byl hráč vytlačen přes zábradlí, utrží případné zranění pádem jako obvykle a pak musí uspět v záchranném hodu na Dexterity se DC 10. Při neúspěchu se skutálí až na úpatí schodiště, kde skončí prone na <span class="citation">Q51. Beacon, Upper Landing (p. 141)</span> a utrží 1d6 zranění bludgeoning za každých 10 stop schodů, které propadl.
 
-> [!warning]+ **Failing Forward**
-> The fight with Vladimir will likely end in a TPK if the players have not yet reached 6th level or recruited Ezmerelda d’Avenir in [[Arc K - The Fallen Abbey]]. As such, make sure to use Vladimir’s ***oathbind*** ability to “double-tap" dying players whenever possible, stabilizing them and ensuring that a TPK does not cause the end of the campaign.
+> [!warning]+ **Neúspěch vpřed**
+> Boj s Vladimírem nejspíš skončí smrtí celé družiny (TPK), pokud hráči ještě nedosáhli 6. úrovně nebo nenaverbovali Ezmereldu d’Avenir v [[Arc K - The Fallen Abbey|Oblouk K – Padlé opatství]]. Proto kdykoli je to možné, nezapomeňte použít Vladimírovu schopnost ***oathbind*** k tomu, aby umírající hráče „dorazil“ – čímž je stabilizuje a zajistí, že smrt celé družiny neznamená konec kampaně.
 > 
-> If Vladimir defeats the players, he strips them of their weapons and leaves their unconscious bodies on the Old Svalich Road by the path to Argynvostholt. He then buries their weapons in one of the open graves in <span class="citation">Q15. Cemetery (p. 134)</span> and returns to the throne in <span class="citation">Q36. Dragon’s Audience Hall</span>. 
+> Pokud Vladimír hráče porazí, odebere jim zbraně a jejich bezvědomá těla zanechá na Staré svalichské cestě u stezky do Argynvostholtu. Pak jejich zbraně zakope do jednoho z otevřených hrobů v <span class="citation">Q15. Cemetery (p. 134)</span> a vrátí se na trůn v <span class="citation">Q36. Dragon’s Audience Hall</span>. 
 > 
-> The players can learn that their weapons have been buried in the cemetery by asking Sir Godfrey, and can locate the particular grave with a DC 5 Intelligence (Investigation) check, or by digging up all of the graves in the cemetery. Sir Godfrey apologizes deeply for Vladimir's violence, but shares that Vladimir has recently returned to his audience hall, clearing the way should the players wish to continue exploring the upper reaches of the manor.
+> Hráči se mohou dozvědět, že jejich zbraně byly zakopány na hřbitově, když se zeptají sira Godfreye, a konkrétní hrob mohou najít ověřením Intelligence (Investigation) se DC 5 nebo tím, že vykopou všechny hroby na hřbitově. Sir Godfrey se za Vladimírovo násilí hluboce omlouvá, ale prozradí, že se Vladimír nedávno vrátil do své audienční síně, takže cesta je volná, pokud by hráči chtěli pokračovat v průzkumu horních pater sídla.
 > 
-> Once he returns to the audience hall after successfully ***oathbinding*** the players, Vladimir doesn’t attack them again until after they retrieve Argynvost's skull in [[Arc P - Ravenloft Heist]].
+> Jakmile se Vladimír po úspěšném spoutání hráčů schopností ***oathbind*** vrátí do audienční síně, znovu na ně nezaútočí, dokud nezískají Argynvostovu lebku v [[Arc P - Ravenloft Heist|Oblouk P – Loupež v Ravenloftu]].
 
-The first time Vladimir’s second form is reduced to 50 hit points or fewer, he snarls: “If you destroy this body, my spirit will find a new corpse to inhabit, and I will hunt you down."
+Když Vladimírova druhá podoba poprvé klesne na 50 HP nebo méně, zavrčí: „Zničíte-li toto tělo, můj duch si najde novou mrtvolu, kterou obývat, a já si vás najdu.“
 
-When Vladimir dies, he rasps, “You have won this battle, but you shall never win forever. You can outrun me, even outfight me, but you cannot outlast me. Sleep—and know that we will meet again." 
+Když Vladimír umírá, zachraptí: „Tuto bitvu jste vyhráli, ale navždy nezvítězíte nikdy. Můžete mi utéct, dokonce mě i přemoci v boji, ale přečkat mě nedokážete. Spěte – a vězte, že se znovu setkáme.“ 
 
-As Vladimir dies, his features fade, leaving behind the unrecognizable corpse of an unremarkable Barovian. So too do his armor and *+2 greatsword* melt away, vanishing into mist.
-### The Gargoyle’s Prophecy
-The dragon gargoyle’s brazier is freezing cold to the touch, and extinguishes any hot flame—magical or nonmagical—placed inside of it. However, if lit by Zorya’s breath weapon or one of the torches from [[#M4a. Cemetery|Argynvost’s mausoleum]], the brazier alights with a cold silver fire.
+Jak Vladimír umírá, jeho rysy se rozplynou a zůstane po něm nerozpoznatelná mrtvola obyčejného Barovana. Také jeho zbroj a *+2 greatsword* se rozplynou a zmizí v mlze.
+### Proroctví chrliče
+Pánev dračího chrliče je na dotek ledově studená a uhasí jakýkoli horký plamen – magický i nemagický –, který se do ní vloží. Pokud ji však zapálí Zorjin dech nebo jedna z pochodní z [[#M4a. Hřbitov|Argynvostova mauzolea]], vzplane pánev chladným stříbrným ohněm.
 
-The players can summon an aspect of Argynvost’s spirit to briefly animate the gargoyle by lighting the brazier and reading aloud the oath of the Order of the Silver Dragon. If they do, read:
+Hráči mohou přivolat odlesk Argynvostova ducha, který chrlič nakrátko oživí, pokud pánev zapálí a nahlas přečtou přísahu Řádu stříbrného draka. Pokud tak učiní, přečtěte:
 
 <div class="description">
-<p>A silver ember flickers within the metal wyrmling’s eyes. One of its claws twitches, then another. A low rumbling sound, like distant thunder, emanates from deep within it, as its silver wings flex and spread wide, the light in its eyes intensifying to a radiant, silver glow.</p>
-<p>Its mouth moves, its whispering hiss seeming to echo in the enclosed space.</p>
+<p>V očích kovového mláděte zablikne stříbrná jiskra. Jeden z jeho drápů sebou cukne, pak další. Z jeho nitra se ozve hluboké dunění jako vzdálené hřmění a jeho stříbrná křídla se napnou a široce rozevřou, zatímco světlo v jeho očích zesílí v zářivý stříbrný jas.</p>
+<p>Jeho tlama se pohne a šeptavé syčení jako by se v uzavřeném prostoru rozléhalo ozvěnou.</p>
 </div>
 
-The gargoyle then whispers the short verse described in <span class="citation">Q44. Dragon Gargoyle (p. 141)</span>.
+Chrlič pak zašeptá krátký verš popsaný v <span class="citation">Q44. Dragon Gargoyle (p. 141)</span>.
 
-***Milestone.*** Receiving Argynvost’s quest completes a story milestone. When the players obtain the gargoyle’s prophecy, award each player 2,500 XP.
+***Milník.*** Získáním Argynvostova úkolu je splněn příběhový milník. Když hráči získají proroctví chrliče, udělte každému hráči 2 500 XP.
 
-> [!info]+ **Returning the Skull**
-> The players can return Argynvost's skull to his crypt in [[Arc Q - A Shining Beacon]], which takes place in the immediate aftermath of [[Arc P - Ravenloft Heist]].
+> [!info]+ **Navrácení lebky**
+> Hráči mohou Argynvostovu lebku vrátit do jeho krypty v [[Arc Q - A Shining Beacon|Oblouk Q – Zářící maják]], který se odehrává bezprostředně po [[Arc P - Ravenloft Heist|Oblouk P – Loupež v Ravenloftu]].
