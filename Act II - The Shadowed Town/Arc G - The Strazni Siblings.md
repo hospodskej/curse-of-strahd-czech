@@ -1,3 +1,18 @@
+<!-- obsah -->
+> [!abstract]+ **Obsah**
+> - [[#G1. The Blue Water Inn|G1. The Blue Water Inn]]
+>   - [[#G1a. Izek’s Visit|G1a. Izek’s Visit]]
+>   - [[#G1b. The Players Return|G1b. The Players Return]]
+>   - [[#G1c. Ireena’s Aftermath|G1c. Ireena’s Aftermath]]
+> - [[#G2. The Streets of Vallaki|G2. The Streets of Vallaki]]
+> - [[#G3. The Kidnapping|G3. The Kidnapping]]
+> - [[#G4. The Rescue|G4. The Rescue]]
+>   - [[#G4a. Infiltrating the Manor|G4a. Infiltrating the Manor]]
+>   - [[#G4b. Storming the Manor|G4b. Storming the Manor]]
+>   - [[#G4c. Ireena's Gratitude|G4c. Ireena's Gratitude]]
+> - [[#Design Notes: The Strazni Siblings|Design Notes: The Strazni Siblings]]
+<!-- /obsah -->
+
 _An adventure for five 4th-level characters._
 
 In this arc, shortly after seeing Ireena Kolyana, Izek Strazni realizes that she is—quite literally—the woman of his dreams. 

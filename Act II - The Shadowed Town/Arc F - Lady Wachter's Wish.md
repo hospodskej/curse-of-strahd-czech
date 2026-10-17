@@ -1,3 +1,24 @@
+<!-- obsah -->
+> [!abstract]+ **Obsah**
+> - [[#F1. The Blue Water Inn|F1. The Blue Water Inn]]
+> - [[#F2. Wachterhaus|F2. Wachterhaus]]
+>   - [[#F2a. Welcome to Wachterhaus|F2a. Welcome to Wachterhaus]]
+>   - [[#F2b. Meet the Wachters|F2b. Meet the Wachters]]
+>   - [[#F2c. Drinks in the Parlor|F2c. Drinks in the Parlor]]
+>   - [[#F2d. The Vallakovich Problem|F2d. The Vallakovich Problem]]
+>   - [[#F2e. The Wachter Conspiracy|F2e. The Wachter Conspiracy]]
+>   - [[#F2f. The Traitor|F2f. The Traitor]]
+> - [[#F3. Return to the Blue Water Inn|F3. Return to the Blue Water Inn]]
+> - [[#F4. Izek’s Assassination|F4. Izek’s Assassination]]
+>   - [[#F4a. Planting the Poisoned Wine|F4a. Planting the Poisoned Wine]]
+>   - [[#F4b. Trailing Izek|F4b. Trailing Izek]]
+>   - [[#F4c. Ambushing Izek|F4c. Ambushing Izek]]
+> - [[#F5. Aftermath of the Mission|F5. Aftermath of the Mission]]
+>   - [[#F5a. The Abdication|F5a. The Abdication]]
+>   - [[#F5b. The Reward|F5b. The Reward]]
+> - [[#Design Notes: Lady Wachter's Wish|Design Notes: Lady Wachter's Wish]]
+<!-- /obsah -->
+
 _An adventure for five 4th-level characters._
 
 In this arc, if the players defied the Baron’s will on their first morning after entering Vallaki, if they or Ireena were observed visiting with the Barovian refugees outside of the eastern gate, or if they shared their dislike of Baron Vallakovich with Nikolai or Karl Wachter at the Blue Water Inn, the players receive a letter delivered by Ernst Larnak, Lady Fiona Wachter’s courier and spy, which invites them to dine at Wachterhaus that evening.

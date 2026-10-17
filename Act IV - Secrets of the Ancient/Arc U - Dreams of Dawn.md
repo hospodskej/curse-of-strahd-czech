@@ -1,3 +1,37 @@
+<!-- obsah -->
+> [!abstract]+ **Obsah**
+> - [[#U1. The War Council|U1. The War Council]]
+>   - [[#U1a. The Invitation|U1a. The Invitation]]
+>   - [[#U1b. Wachterhaus|U1b. Wachterhaus]]
+> - [[#U2. The Dream|U2. The Dream]]
+>   - [[#U2a. The Dream Begins|U2a. The Dream Begins]]
+>   - [[#U2b. Vallaki Town Square|U2b. Vallaki Town Square]]
+>   - [[#U2c. Lake Zarovich|U2c. Lake Zarovich]]
+> - [[#U3. The Whispering Wall|U3. The Whispering Wall]]
+>   - [[#U3a. The Long Night|U3a. The Long Night]]
+>   - [[#U3b. Vallaki Streets|U3b. Vallaki Streets]]
+>   - [[#U3c. The Wall|U3c. The Wall]]
+>   - [[#U3d. The Nightmares|U3d. The Nightmares]]
+>   - [[#U3e. Descent of the Mists|U3e. Descent of the Mists]]
+>   - [[#U3f. Fall of the Devourer|U3f. Fall of the Devourer]]
+>   - [[#U3g. Attack on the Swamp Fane|U3g. Attack on the Swamp Fane]]
+>   - [[#U3h. The Lonely Maid|U3h. The Lonely Maid]]
+>   - [[#U3i. Lake Zarovich|U3i. Lake Zarovich]]
+>   - [[#U3j. The Morning Gate|U3j. The Morning Gate]]
+>   - [[#U3k. Aftermath|U3k. Aftermath]]
+> - [[#U4. The Old Svalich Road|U4. The Old Svalich Road]]
+>   - [[#U4a. Old Bonegrinder|U4a. Old Bonegrinder]]
+>   - [[#U4b. The Svalich Wood|U4b. The Svalich Wood]]
+>   - [[#U4c. The Black Carriage|U4c. The Black Carriage]]
+> - [[#U5. Castle Ravenloft|U5. Castle Ravenloft]]
+>   - [[#U5a. The Castle Gates|U5a. The Castle Gates]]
+>   - [[#U5b. Ascending the Keep|U5b. Ascending the Keep]]
+>   - [[#U5c. The Heart of Sorrow|U5c. The Heart of Sorrow]]
+>   - [[#U5d. The Final Battle|U5d. The Final Battle]]
+>   - [[#U5e. The Collapsing Castle|U5e. The Collapsing Castle]]
+> - [[#U6. The Sun Rises|U6. The Sun Rises]]
+<!-- /obsah -->
+
 *An adventure for five 10th-level characters.*
 
 In this arc, after reconsecrating the Fanes, the players are invited to a Vallakian war council with a simple goal: overthrow Strahd, and return freedom to Barovia. That night, however, as the players sleep, the Dark Powers spirit them away into a dream of Barovia’s future and offer them a terrible choice: sacrifice Ireena’s soul, and secure peace for the valley once more.

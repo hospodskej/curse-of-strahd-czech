@@ -1,3 +1,22 @@
+<!-- obsah -->
+> [!abstract]+ **Obsah**
+> - [[#Flaws|Flaws]]
+> - [[#Bonds|Bonds]]
+> - [[#Motivations|Motivations]]
+>   - [[#Knowledge—The Amber Shard|Knowledge—The Amber Shard]]
+>   - [[#Redemption—The Angel's Feather|Redemption—The Angel's Feather]]
+>   - [[#Family—The Wanderer's Scarf|Family—The Wanderer's Scarf]]
+>   - [[#Inheritance—The Dragon's Scale|Inheritance—The Dragon's Scale]]
+>   - [[#Wealth—The Electrum Coin|Wealth—The Electrum Coin]]
+>   - [[#Healing—The Wolf's Tooth|Healing—The Wolf's Tooth]]
+>   - [[#Duty—The Raven's Feather|Duty—The Raven's Feather]]
+>   - [[#Power—The Crumpled Page|Power—The Crumpled Page]]
+>   - [[#Ambition—The Tattered Banner|Ambition—The Tattered Banner]]
+>   - [[#Faith—The Sunrise Medallion|Faith—The Sunrise Medallion]]
+>   - [[#Harmony—The Stone Crest|Harmony—The Stone Crest]]
+>   - [[#Justice—The Broken Blade|Justice—The Broken Blade]]
+<!-- /obsah -->
+
 
 # Flaws
 Your players can choose one or more flaws from the table below to add a dash of darkness to their characters' stories. Encourage them to embrace their inner struggles and let these complex traits drive their arcs forward.

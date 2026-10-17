@@ -32,6 +32,12 @@ Vzhled → CSS snippety → *publish*). V tmavém motivu pak platí:
 Přímá řeč mimo rámečky je jen v uvozovkách „…“ – je to vodítko pro PJ, co postava
 řekne, ne text k doslovnému předčítání.
 
+## Navigace
+
+Každá poznámka začíná rozbalovacím rámečkem **Obsah** s odkazy na kapitoly (`#`) a podkapitoly
+(`##`). Úplnou osnovu včetně nižších nadpisů ukazuje panel *Osnova* (Outline) v pravém postranním
+panelu Obsidianu.
+
 ## Konvence
 
 - Názvy souborů zůstávají anglicky, takže odkazy mezi poznámkami fungují beze změn.
@@ -58,6 +64,9 @@ ruby tools/join.rb <vault> <pracovní_složka>
 
 # 5. přepsat kotvy odkazů na české nadpisy a doplnit české popisky odkazů
 ruby tools/fix_links.rb <vault> <pracovní_složka>
+
+# 6. vložit na začátek poznámek rámeček „Obsah“ s odkazy na kapitoly a podkapitoly
+ruby tools/toc.rb <poznámka.md>…
 ```
 
 `tools/titles.tsv` obsahuje české názvy poznámek, které se zobrazují jako popisky odkazů.

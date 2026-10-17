@@ -1,3 +1,40 @@
+<!-- obsah -->
+> [!abstract]+ **Obsah**
+> - [[#S1. Temple Exterior|S1. Temple Exterior]]
+>   - [[#S1a. Facade|S1a. Facade]]
+>   - [[#S1b. Fissure|S1b. Fissure]]
+> - [[#S2. Temple Defenses|S2. Temple Defenses]]
+>   - [[#S2a. Entry Hall|S2a. Entry Hall]]
+>   - [[#S2b. Atrium|S2b. Atrium]]
+>   - [[#S2c. West Garrison|S2c. West Garrison]]
+>   - [[#S2d. West Annex|S2d. West Annex]]
+>   - [[#S2e. West Gallery|S2e. West Gallery]]
+>   - [[#S2f. East Annex|S2f. East Annex]]
+>   - [[#S2g. East Gallery|S2g. East Gallery]]
+>   - [[#S2h. East Garrison|S2h. East Garrison]]
+> - [[#S3. Catacombs|S3. Catacombs]]
+>   - [[#S3a. Central Catacombs|S3a. Central Catacombs]]
+>   - [[#S3b. West Catacombs|S3b. West Catacombs]]
+>   - [[#S3c. East Catacombs|S3c. East Catacombs]]
+> - [[#S4. Western Temple|S4. Western Temple]]
+>   - [[#S4a. Western Temple, Main Floor|S4a. Western Temple, Main Floor]]
+>   - [[#S4b. Western Temple, Lower Floor|S4b. Western Temple, Lower Floor]]
+> - [[#S5. Eastern Temple|S5. Eastern Temple]]
+>   - [[#S5a. Eastern Temple, Main Floor|S5a. Eastern Temple, Main Floor]]
+>   - [[#S5b. Eastern Temple, Lower Floor|S5b. Eastern Temple, Lower Floor]]
+> - [[#S6. Temple Vaults|S6. Temple Vaults]]
+>   - [[#S6a. West Treasury|S6a. West Treasury]]
+>   - [[#S6b. East Treasury|S6b. East Treasury]]
+>   - [[#S6c. Amber Vault|S6c. Amber Vault]]
+> - [[#S7. Archmage’s Quarters|S7. Archmage’s Quarters]]
+>   - [[#S7a. Stair of Wisdom|S7a. Stair of Wisdom]]
+>   - [[#S7b. Archmage’s Library|S7b. Archmage’s Library]]
+>   - [[#S7c. Archmage’s Quarters|S7c. Archmage’s Quarters]]
+>   - [[#S7d. Exethanter's Warning|S7d. Exethanter's Warning]]
+>   - [[#S7e. Ritual Chamber|S7e. Ritual Chamber]]
+> - [[#S8. Departing the Temple|S8. Departing the Temple]]
+<!-- /obsah -->
+
 _An adventure for five 8th-level characters._
 
 In this arc, the players delve into the depths of the frozen Amber Temple in search of the long-lost hilt of the *Sunsword*: the one weapon that can help them defeat Strahd. But the Amber Temple is protected—by a scheming arcanaloth in disguise, a trio of maddened flameskulls, and a pair of deadly amber golems—and occupied by a host of other threats, from a recently arrived death slaad to the Dark Powers' first prisoner: the traitorous wizard Vilnius.

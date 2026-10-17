@@ -1,3 +1,27 @@
+<!-- obsah -->
+> [!abstract]+ **Obsah**
+> - [[#H1. Erasmus' Plea|H1. Erasmus' Plea]]
+> - [[#H2. Burgomaster’s Mansion|H2. Burgomaster’s Mansion]]
+> - [[#H3. The Refugee Camp|H3. The Refugee Camp]]
+>   - [[#H3a. Inside the Camp|H3a. Inside the Camp]]
+>   - [[#H3b. Franz’s Tent|H3b. Franz’s Tent]]
+> - [[#H4. Victor’s Plan|H4. Victor’s Plan]]
+> - [[#H5. Wachterhaus|H5. Wachterhaus]]
+> - [[#H6. The Old Svalich Road|H6. The Old Svalich Road]]
+>   - [[#H6a. The Morning Gate|H6a. The Morning Gate]]
+>   - [[#H6b. The Druid|H6b. The Druid]]
+> - [[#H7. Old Bonegrinder|H7. Old Bonegrinder]]
+>   - [[#H7a. Raiding the Windmill|H7a. Raiding the Windmill]]
+>   - [[#H7b. Claiming the Heartstone|H7b. Claiming the Heartstone]]
+>   - [[#H7c. Escape From Old Bonegrinder|H7c. Escape From Old Bonegrinder]]
+> - [[#H8. The Ritual|H8. The Ritual]]
+>   - [[#H8a. The Etherealness Ritual|H8a. The Etherealness Ritual]]
+>   - [[#H8b. The Restoration Ritual|H8b. The Restoration Ritual]]
+> - [[#H9. The Tome of Strahd|H9. The Tome of Strahd]]
+>   - [[#H9a. Reading the Tome|H9a. Reading the Tome]]
+> - [[#Design Notes: The Lost Soul|Design Notes: The Lost Soul]]
+<!-- /obsah -->
+
 _An adventure for five 5th-level characters._
 
 In this arc, following either a ghostly visitation at the Blue Water Inn or a wary bargain at the Baron’s mansion, Victor Vallakovich asks the players to help him restore the soul of Stella Wachter to her body by finding a means of accessing the Ethereal Plane, where her spirit is trapped. To do so, the players must help Victor obtain the heartstone of a **night hag** by the night of the full moon, which will take place on the sixth day after the players first arrive in Vallaki.

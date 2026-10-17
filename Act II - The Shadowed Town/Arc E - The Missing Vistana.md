@@ -1,3 +1,29 @@
+<!-- obsah -->
+> [!abstract]+ **Obsah**
+> - [[#E1. Blinsky Toys|E1. Blinsky Toys]]
+> - [[#E2. Vistani Camp|E2. Vistani Camp]]
+>   - [[#E2a. The Vistani Encampment|E2a. The Vistani Encampment]]
+>   - [[#E2b. Dusk Elf Hovels|E2b. Dusk Elf Hovels]]
+>   - [[#E2c. Kasimir’s Hovel|E2c. Kasimir’s Hovel]]
+> - [[#E3. Burgomaster’s Mansion|E3. Burgomaster’s Mansion]]
+>   - [[#E3a. Entering the Mansion|E3a. Entering the Mansion]]
+>   - [[#E3b. Searching the Library|E3b. Searching the Library]]
+>   - [[#E3c. Speaking with Victor|E3c. Speaking with Victor]]
+> - [[#E4. Lake Zarovich|E4. Lake Zarovich]]
+> - [[#E5. The Svalich Road|E5. The Svalich Road]]
+>   - [[#E5a. Luna River Bridge|E5a. Luna River Bridge]]
+>   - [[#E5b. Luna River Crossroads|E5b. Luna River Crossroads]]
+> - [[#E6. Lake Baratok|E6. Lake Baratok]]
+>   - [[#E6a. Ezmerelda’s Wagon|E6a. Ezmerelda’s Wagon]]
+>   - [[#E6b. The Tower|E6b. The Tower]]
+> - [[#E7. The Road Back|E7. The Road Back]]
+> - [[#E8. Return to Vallaki|E8. Return to Vallaki]]
+>   - [[#E8a. Confronting Rictavio|E8a. Confronting Rictavio]]
+>   - [[#E8b. Following Rictavio|E8b. Following Rictavio]]
+>   - [[#E8c. Rictavio’s Wagon|E8c. Rictavio’s Wagon]]
+> - [[#Design Notes: The Missing Vistana|Design Notes: The Missing Vistana]]
+<!-- /obsah -->
+
 _An adventure for five 4th-level characters._
 
 In this arc, at Madam Eva’s request, the players visit Blinsky Toys, the home of Vallaki's resident toymaker, to purchase a nameday gift for Eva’s great grand-niece, Arabelle. There, the players learn new information about the traveling ringmaster Rictavio, and the Baron's brutish enforcer, Izek Strazni.

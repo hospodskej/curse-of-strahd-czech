@@ -1,3 +1,20 @@
+<!-- obsah -->
+> [!abstract]+ **Obsah**
+> - [[#Roleplaying Strahd|Roleplaying Strahd]]
+>   - [[#The Gentleman|The Gentleman]]
+>   - [[#The Tyrant|The Tyrant]]
+>   - [[#The Monster|The Monster]]
+> - [[#Strahd’s Relationships|Strahd’s Relationships]]
+> - [[#Strahd’s Goals|Strahd’s Goals]]
+>   - [[#Reclaiming the Valley|Reclaiming the Valley]]
+>   - [[#Renewing His Servants|Renewing His Servants]]
+>   - [[#Escaping the Mists|Escaping the Mists]]
+> - [[#Strahd’s Allies|Strahd’s Allies]]
+> - [[#Strahd’s Tactics|Strahd’s Tactics]]
+>   - [[#Strahd's Statistics|Strahd's Statistics]]
+> - [[#Design Notes: Strahd von Zarovich|Design Notes: Strahd von Zarovich]]
+<!-- /obsah -->
+
 # Roleplaying Strahd
 Strahd is cold and calculating, skilled in social manipulation and deception. As the adventure unfolds, his attitude toward the players shifts significantly. Though Strahd never conceals his nature or identity, this dynamic relationship manifests as three "roles" that he plays: the Gentleman, the Tyrant, and the Monster.
 ## The Gentleman

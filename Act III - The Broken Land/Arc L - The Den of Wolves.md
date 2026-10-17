@@ -1,3 +1,17 @@
+<!-- obsah -->
+> [!abstract]+ **Obsah**
+> - [[#L1. Hledání doupěte|L1. Hledání doupěte]]
+> - [[#L2. Jezero Baratok|L2. Jezero Baratok]]
+> - [[#L3. Svalichský les|L3. Svalichský les]]
+> - [[#L4. Vlčí doupě|L4. Vlčí doupě]]
+>   - [[#L4a. Ústí jeskyně a strážní stanoviště|L4a. Ústí jeskyně a strážní stanoviště]]
+>   - [[#L4b. Podzemní pramen|L4b. Podzemní pramen]]
+>   - [[#L4c. Vlčí brloh|L4c. Vlčí brloh]]
+>   - [[#L4d. Hluboké jeskyně|L4d. Hluboké jeskyně]]
+>   - [[#L4e. Svatyně Matky Noci|L4e. Svatyně Matky Noci]]
+>   - [[#L4f. Kirilův návrat|L4f. Kirilův návrat]]
+<!-- /obsah -->
+
 _Dobrodružství pro pět postav 6. úrovně._
 
 V tomto oblouku musí hráči najít doupě barovské vlkodlačí smečky, v němž se podle předpovědi madam Evy nachází *Svatý symbol Havraního rodu*. Pokud hráči v ***Oblouku I: Hradby Krezku*** již dříve odhalili, kde je syn barona Dmitriho Krezkova Ilja, baron Krezkov je také požádá, aby ho vyrvali ze spárů vlkodlaků, a slíbí jim za to útočiště a pomoc.
