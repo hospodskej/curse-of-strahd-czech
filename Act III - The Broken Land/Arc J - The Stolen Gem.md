@@ -263,7 +263,7 @@ Poslední úsek cesty do Čaroděje vín do značné míry odpovídá popisu v <
 > 
 > Strhla se hádka a rozzuřený Davian Elrica za jeho vzdor z vinařství vyhnal. Elric brzy nato zahynul na hradě Ravenloft.
 > 
-> Ludmilla Vilisevic a čarodějnický sabat hradu Ravenloft brzy nato našli Elricovo zlomené tělo. Odnesli jeho mrtvolu Babě Lysaze, čarodějnici z Berezu, jejíž věštecká kouzla (*scrying*) a rituální magie brzy odhalily zdroj havranodlačí pohromy: vinařství Čaroděj vín na západě.
+> Ludmilla Vilisevic a čarodějnický sabat hradu Ravenloft brzy nato našli Elricovo zlomené tělo. Odnesli jeho mrtvolu Babě Lysaze, čarodějnici z Berezu, jejíž věštecká kouzla (*scrying*) a rituální magie brzy odhalily zdroj havranodlačí (**wereraven**) pohromy: vinařství Čaroděj vín na západě.
 > 
 > Zatímco Baba Lysaga začala vytvářet velké a menší strigy (**greater** a **lesser strix**), aby hlídkovaly na nebi a pátraly po Strážcích a jejich havraních služebnících, Ludmilla vyjednala s druidy z Yesterského vrchu dohodu o pomoci v jejím spiknutí proti Strážcům. Ludmilla druidy naučila odebírat řízky ze stromu Gulthias na vrcholu Yesterského vrchu, s jejichž pomocí pak ovládali zhoubce, které strom plodil.
 > 
@@ -1424,7 +1424,7 @@ Tato oblast nahrazuje <span class="citation">Y5. Whispering Wall (p. 200)</span>
 <p>Nad zemí se tu tyčí zastíněná stěna neproniknutelné mlhy a sahá vysoko až k nebesům. Jejími hlubinami jako by se vznášely podivné tvary a siluety a vzdálené hlasy jako by šeptaly těsně za hranicí slyšitelnosti.</p>
 </div>
 
-Pokud hráči nedávno porazili druidy a zastavili jejich rituál, najdou tu Strahda, jak klečí před zdí třicet stop od Beucephala. (Hráč, který si Beucephala prohlédne, si všimne, že sedlové brašny přízračného oře jsou zřejmě prázdné.)
+Pokud hráči nedávno porazili druidy a zastavili jejich rituál, najdou tu Strahda, jak klečí před zdí třicet stop od Beucephala. (Hráč, který si Beucephala prohlédne, si všimne, že sedlové brašny přízračného oře (**nightmare**) jsou zřejmě prázdné.)
 
 Když se hráči přiblíží, Strahd vstane a zdá se, že si něco schová do pláště. (Strahd neprozradí, co to je, a pobaveně hráče pokárá, že se ptají po darech, které nebyly dány.) Vřele hráče přivítá a blahopřeje jim k porážce Lesního lidu.
 

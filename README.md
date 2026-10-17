@@ -17,6 +17,21 @@ z materiálů Wizards of the Coast; nešiřte ho dál.
 | Epilog, přílohy (Jantarové střepy, Bestiář, Slovníček, Cizí postavy) | zatím v angličtině |
 | Úvod, kapitoly 1–3, Dějství I a II | zatím v angličtině (mimo rozsah) |
 
+## Jak číst barvy (Obsidian)
+
+Vault používá CSS snippet `publish` (zapnutý v `.obsidian/appearance.json`; ručně: Nastavení →
+Vzhled → CSS snippety → *publish*). V tmavém motivu pak platí:
+
+- **Rámeček se žlutooranžovým okrajem** (`<div class="description">`) = text, který PJ
+  **čte nahlas** hráčům – popisy míst a scén i přímá řeč postav v nich.
+- **Žlutý tučný text** = odkaz na statistiky nestvůry či NPC (např. vlkodlak (**werewolf**))
+  nebo zvýrazněný pojem.
+- Barevné rámečky (callouty) = pomůcky pro PJ: *lore* (pozadí), *combat* (boj), *info*,
+  *profile* (profil postavy), *item* (předmět), *warning*.
+
+Přímá řeč mimo rámečky je jen v uvozovkách „…“ – je to vodítko pro PJ, co postava
+řekne, ne text k doslovnému předčítání.
+
 ## Konvence
 
 - Názvy souborů zůstávají anglicky, takže odkazy mezi poznámkami fungují beze změn.
