@@ -1,13 +1,3 @@
-<!-- obsah -->
-> [!abstract]+ **Obsah**
->   - [[#1. Return From the Castle|1. Return From the Castle]]
->   - [[#2. The Festival of the Dawn|2. The Festival of the Dawn]]
->   - [[#3. Return to Krezk|3. Return to Krezk]]
->   - [[#4. Return to Barovia|4. Return to Barovia]]
->   - [[#5. Escher’s Fate|5. Escher’s Fate]]
->   - [[#6. Endings & Beginnings|6. Endings & Beginnings]]
-<!-- /obsah -->
-
 Strahd von Zarovich is dead, and the Sun has risen over the Balinok Mountains for the first time in centuries. But for the people of Barovia, this ending is only a new beginning.
 
 In Vallaki, a grateful town prepares a celebration for the party of returning heroes. In Krezk, the cursed Belviews face a choice between humanity and peace. At Argynvostholt, a silver egg waits amidst the ashes of its forebear.

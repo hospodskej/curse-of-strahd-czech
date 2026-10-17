@@ -1,23 +1,3 @@
-<!-- obsah -->
-> [!abstract]+ **Obsah**
-> - [[#B1. Old Svalich Road|B1. Old Svalich Road]]
-> - [[#B2. Gates of Barovia|B2. Gates of Barovia]]
-> - [[#B3. Svalich Woods|B3. Svalich Woods]]
-> - [[#B4. Barovian Overlook|B4. Barovian Overlook]]
-> - [[#B5. The Village of Barovia|B5. The Village of Barovia]]
->   - [[#B5a. The Barricade|B5a. The Barricade]]
->   - [[#B5b. The Town Square|B5b. The Town Square]]
->   - [[#B5c. The Blood of the Vine Tavern|B5c. The Blood of the Vine Tavern]]
->   - [[#B5d. The Burgomaster’s Mansion|B5d. The Burgomaster’s Mansion]]
->   - [[#B5e. Bildrath’s Mercantile|B5e. Bildrath’s Mercantile]]
->   - [[#B5f. The Eastern Barricade|B5f. The Eastern Barricade]]
->   - [[#B5g. The Western Barricade|B5g. The Western Barricade]]
->   - [[#B5h. Return to the Mansion|B5h. Return to the Mansion]]
->   - [[#B5i. The Barovian Church|B5i. The Barovian Church]]
->   - [[#B5j. Lugdana's Knoll|B5j. Lugdana's Knoll]]
->   - [[#B5k. Mad Mary’s Townhouse|B5k. Mad Mary’s Townhouse]]
-<!-- /obsah -->
-
 *An adventure for five 3rd-level characters.*
 
 In this arc, the players travel to the gloomy village of Barovia, which has been ravaged by death and despair in the wake of Strahd’s revival. When the players arrive at the barricades, they meet Ismark, the eldest child of the village’s recently wounded burgomaster.

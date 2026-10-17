@@ -1,8 +1,3 @@
-<!-- obsah -->
-> [!abstract]+ **Obsah**
-> - [[#Conditions|Conditions]]
-<!-- /obsah -->
-
 # Conditions
 ***Bloodied.*** The creature has half of its maximum hit points remaining (rounded up) or fewer.
 

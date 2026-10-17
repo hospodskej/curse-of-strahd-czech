@@ -1,13 +1,3 @@
-<!-- obsah -->
-> [!abstract]+ **Obsah**
-> - [[#Act I: Into the Mists|Act I: Into the Mists]]
->   - [[#Act I Milestones|Act I Milestones]]
-> - [[#Act II: The Shadowed Town|Act II: The Shadowed Town]]
-> - [[#Act III: The Broken Land|Act III: The Broken Land]]
-> - [[#Act IV: Secrets of the Ancient|Act IV: Secrets of the Ancient]]
-> - [[#Act V: The Curse of Strahd|Act V: The Curse of Strahd]]
-<!-- /obsah -->
-
 <ol class="flowchart">
         <li><strong>Act I: Into the Mists (<em>2nd to 3rd level</em>).</strong> The players are lured into Death House and transported into the land of Barovia. After visiting the village of Barovia and encountering the vampire Strahd von Zarovich, the players receive a fortunetelling at the nearby Tser Pool and find lodging in the fortified town of Vallaki.</li>
         <li><strong>Act II: The Shadowed Town (<em>4th to 5th level</em>).</strong> As they work to obtain their bearings in Vallaki, the players must recover stolen relics for St. Andral's Church, rescue a kidnapped Vistana girl, assassinate the dangerous Izek Strazni, defeat the hags of Old Bonegrinder, and restore the soul of Lady Fiona Wachter's sickly daughter.</li>

@@ -1,37 +1,3 @@
-<!-- obsah -->
-> [!abstract]+ **Obsah**
-> - [[#Metaphysics & Magic|Metaphysics & Magic]]
-> - [[#Geography|Geography]]
-> - [[#Weather|Weather]]
-> - [[#Calendar|Calendar]]
-> - [[#Cultures|Cultures]]
->   - [[#Barovians|Barovians]]
->   - [[#Vallakians|Vallakians]]
->   - [[#Krezkians|Krezkians]]
->   - [[#Vistani|Vistani]]
->   - [[#Dusk Elves|Dusk Elves]]
->   - [[#First Folk|First Folk]]
-> - [[#Factions|Factions]]
->   - [[#Dark Powers|Dark Powers]]
->   - [[#Keepers of the Feather|Keepers of the Feather]]
->   - [[#Barovian Refugees|Barovian Refugees]]
->   - [[#Forest Folk|Forest Folk]]
->   - [[#Mountain Folk|Mountain Folk]]
->   - [[#Beasts of Barovia|Beasts of Barovia]]
->   - [[#Brides of Strahd|Brides of Strahd]]
->   - [[#Witches of Mother Night|Witches of Mother Night]]
->   - [[#Wachtercult|Wachtercult]]
->   - [[#Werewolf Pack|Werewolf Pack]]
->   - [[#Amber Vestiges|Amber Vestiges]]
->   - [[#The Ladies of the Fanes|The Ladies of the Fanes]]
-> - [[#Religions|Religions]]
->   - [[#The Church of the Morninglord|The Church of the Morninglord]]
->   - [[#The Coven of Mother Night|The Coven of Mother Night]]
->   - [[#The Cult of Ezra|The Cult of Ezra]]
->   - [[#The Faith of the Ladies Three|The Faith of the Ladies Three]]
-> - [[#Design Notes: Lore of Barovia|Design Notes: Lore of Barovia]]
-<!-- /obsah -->
-
 # Metaphysics & Magic
 The land of Barovia is a "demiplane"—a small, self-contained plane of existence. It is one of many Domains of Dread, which together occupy a small corner of the Shadowfell. 
 

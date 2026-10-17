@@ -1,9 +1,3 @@
-<!-- obsah -->
-> [!abstract]+ **Obsah**
-> - [[#Milníky|Milníky]]
-> - [[#Časová osa|Časová osa]]
-<!-- /obsah -->
-
 V tomto dějství, které začíná ráno po prvním úplňku, jejž hráči strávili ve Vallaki, obdrží hráči dvě pozvání.
 
 První, prosba Urwina Martikova, žádá hráče, aby se vydali na západ do vinařství Čaroděj vín a vypátrali příčinu záhadného nedostatku vína v [[Arc J - The Stolen Gem|Oblouk J – Ukradený drahokam]].

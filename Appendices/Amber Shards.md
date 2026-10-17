@@ -1,28 +1,3 @@
-<!-- obsah -->
-> [!abstract]+ **Obsah**
-> - [[#Stage One|Stage One]]
-> - [[#Stage Two|Stage Two]]
-> - [[#Stage Three|Stage Three]]
-> - [[#Amber Corruption|Amber Corruption]]
->   - [[#Fekre, Queen of Poxes|Fekre, Queen of Poxes]]
->   - [[#Zrin-Hala, the Howling Storm|Zrin-Hala, the Howling Storm]]
->   - [[#Sykane, the Soul Hungerer|Sykane, the Soul Hungerer]]
->   - [[#Savnok, the Inscrutable|Savnok, the Inscrutable]]
->   - [[#Tarakamedes, the Grave Wyrm|Tarakamedes, the Grave Wyrm]]
->   - [[#Shami-Amourae, the Lady of Delights|Shami-Amourae, the Lady of Delights]]
->   - [[#Drizlash, the Nine-Eyed Spider|Drizlash, the Nine-Eyed Spider]]
->   - [[#Dahlver-Nar, He of the Many Teeth|Dahlver-Nar, He of the Many Teeth]]
->   - [[#Zantras, the Kingmaker|Zantras, the Kingmaker]]
->   - [[#Delban, the Star of Ice and Hate|Delban, the Star of Ice and Hate]]
->   - [[#Khirad, the Star of Secrets|Khirad, the Star of Secrets]]
->   - [[#Yrrga, the Eye of Shadows|Yrrga, the Eye of Shadows]]
->   - [[#Great Taar Haak, the Five-Headed Destroyer|Great Taar Haak, the Five-Headed Destroyer]]
->   - [[#Yog the Invincible|Yog the Invincible]]
->   - [[#Norganas, the Finger of Oblivion|Norganas, the Finger of Oblivion]]
->   - [[#Vaund the Evasive|Vaund the Evasive]]
->   - [[#Seriach, the Hell Hound Whisperer|Seriach, the Hell Hound Whisperer]]
-<!-- /obsah -->
-
 Throughout the adventure, the players will have the opportunity to obtain one or more *amber shards*—fragments of the amber sarcophagi that imprison the vestiges of the Amber Temple.
 
 Though they don't carry the full essence of the vestiges, each amber shard bears a psychic link to the sarcophagus from which it came. Through that link, a vestige can whisper to the shard's holder, offering promises of power in exchange for descent into corruption.

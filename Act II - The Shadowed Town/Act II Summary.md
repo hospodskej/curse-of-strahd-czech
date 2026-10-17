@@ -1,21 +1,3 @@
-<!-- obsah -->
-> [!abstract]+ **Obsah**
-> - [[#Milestones|Milestones]]
-> - [[#Timeline|Timeline]]
->   - [[#Neyavr 2|Neyavr 2]]
->   - [[#Neyavr 3|Neyavr 3]]
->   - [[#Neyavr 4|Neyavr 4]]
->   - [[#Neyavr 5|Neyavr 5]]
->   - [[#Neyavr 6|Neyavr 6]]
->   - [[#Neyavr 7|Neyavr 7]]
->   - [[#Neyavr 8|Neyavr 8]]
->   - [[#Neyavr 9|Neyavr 9]]
->   - [[#Quest Timeline|Quest Timeline]]
->   - [[#Diverging Paths|Diverging Paths]]
->   - [[#The Zealous Crusaders|The Zealous Crusaders]]
->   - [[#The Cautious Explorers|The Cautious Explorers]]
-<!-- /obsah -->
-
 In this act, the players are left to explore the shadowed town of Vallaki—a Barovian settlement that has found itself embroiled in tension, tragedy, and intrigue in the wake of Strahd's awakening.
 
 As the players seek to complete lingering obligations—escorting Ireena to St. Andral's Church in [[Arc D - St. Andral's Feast]] and delivering a toy to the Vistani child Arabelle in [[Arc E - The Missing Vistana]]—they'll meet new allies and enemies, including Victor Vallakovich, the son of Baron Vargas Vallakovich; Lady Fiona Wachter, the Baron's rival for power; Father Lucian Petrovich, the priest of St. Andral's Church; Luvash and Arrigal, the leaders of the Vallakian Vistani camp; and Dr. Rudolph van Richten, the veteran vampire hunter and lone survivor of Doru's rebellion.

@@ -1,30 +1,3 @@
-<!-- obsah -->
-> [!abstract]+ **Obsah**
-> - [[#Q1. Útěk z Ravenloftu|Q1. Útěk z Ravenloftu]]
->   - [[#Q1a. Teleportační pánev|Q1a. Teleportační pánev]]
->   - [[#Q1b. Skalní pilíř|Q1b. Skalní pilíř]]
->   - [[#Q1c. Padací most|Q1c. Padací most]]
-> - [[#Q2. Dmitriho prosba|Q2. Dmitriho prosba]]
->   - [[#Q2a. Temné znamení|Q2a. Temné znamení]]
->   - [[#Q2b. Stará svalichská cesta|Q2b. Stará svalichská cesta]]
->   - [[#Cesta do Krezku|Cesta do Krezku]]
-> - [[#Q3. Návrat do Krezku|Q3. Návrat do Krezku]]
->   - [[#Q3a. Návrat do opatství|Q3a. Návrat do opatství]]
->   - [[#Q3b. Střet s Opatem|Q3b. Střet s Opatem]]
->   - [[#Q3c. Opatův hněv|Q3c. Opatův hněv]]
->   - [[#Q3d. Vděčnost svaté Markovie|Q3d. Vděčnost svaté Markovie]]
-> - [[#Q4. Varování revenanta|Q4. Varování revenanta]]
-> - [[#Q5. Útok smečky|Q5. Útok smečky]]
->   - [[#Q5a. Příchod smečky|Q5a. Příchod smečky]]
->   - [[#Q5b. Kirilova výzva|Q5b. Kirilova výzva]]
->   - [[#Q5c. Kiril poražen|Q5c. Kiril poražen]]
-> - [[#Q6. Návrat do Argynvostholtu|Q6. Návrat do Argynvostholtu]]
->   - [[#Q6a. Návrat do vstupní haly|Q6a. Návrat do vstupní haly]]
->   - [[#Q6b. Návrat na hřbitov|Q6b. Návrat na hřbitov]]
->   - [[#Q6c. Argynvostův návrat|Q6c. Argynvostův návrat]]
-> - [[#Q7. Návrat do vlčího doupěte|Q7. Návrat do vlčího doupěte]]
-<!-- /obsah -->
-
 _Dobrodružství pro pět postav 7. úrovně._
 
 V tomto oblouku se hráči po návratu z hradu Ravenloft v [[Arc P - Ravenloft Heist|Oblouk P – Loupež v Ravenloftu]] dozvědí, že Opat z Opatství svaté Markovie se chystá zmocnit se srdce baronky Anny Krezkové ještě před setměním. Mezitím hráče pronásleduje zmutovaný vlkodlak Kiril Stoyanovich a velitel Vladimír Horngaard shromažďuje své rytíře-revenanty, aby vykonal rozsudek smrti nad nimi. Dokážou hráči Opata vykoupit, svrhnout Kirila a zažehnout maják Argynvostholtu – nebo jejich snaha navrátit barovskému údolí světlo skončí hrůzným a krvavým koncem?

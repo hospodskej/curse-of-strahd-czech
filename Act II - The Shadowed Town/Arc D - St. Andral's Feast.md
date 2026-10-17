@@ -1,25 +1,3 @@
-<!-- obsah -->
-> [!abstract]+ **Obsah**
-> - [[#D1. St. Andral's Church|D1. St. Andral's Church]]
->   - [[#D1a. Entering the Church|D1a. Entering the Church]]
->   - [[#D1b. The Chapel|D1b. The Chapel]]
->   - [[#D1c. The Scene of the Crime|D1c. The Scene of the Crime]]
->   - [[#D1d. Interviewing Yeska|D1d. Interviewing Yeska]]
-> - [[#D2. Milivoj’s House|D2. Milivoj’s House]]
->   - [[#D2a. Confronting Milivoj|D2a. Confronting Milivoj]]
->   - [[#D2b. Departing the House|D2b. Departing the House]]
-> - [[#D3. Arasek Stockyard|D3. Arasek Stockyard]]
-> - [[#D4. Coffin Maker's Shop|D4. Coffin Maker's Shop]]
->   - [[#D4a. Entering the Shop|D4a. Entering the Shop]]
->   - [[#D4b. Recovering the Bones|D4b. Recovering the Bones]]
->   - [[#D4c. Volenta's Trap|D4c. Volenta's Trap]]
-> - [[#D5. Retrieving the Bones|D5. Retrieving the Bones]]
-> - [[#D6. Rahadin's Visit|D6. Rahadin's Visit]]
->   - [[#D6a. The Invitation|D6a. The Invitation]]
->   - [[#D6b. The Sentencing|D6b. The Sentencing]]
-> - [[#Design Notes: St. Andral's Feast|Design Notes: St. Andral's Feast]]
-<!-- /obsah -->
-
 _An adventure for five 4th-level characters._
 
 In this arc, the players escort Ireena Kolyana to St. Andral's Church in Vallaki, fulfilling their vow to her brother, Ismark. However, Father Lucian, the church's priest, informs them that the bones of Saint Andral—the source of the church's protective magic—have recently been stolen, placing its wards and parishioners at risk.

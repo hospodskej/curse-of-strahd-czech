@@ -1,13 +1,3 @@
-<!-- obsah -->
-> [!abstract]+ **Obsah**
-> - [[#K1. Vesnice Krezk|K1. Vesnice Krezk]]
->   - [[#K1a. Chalupa Krezkovových|K1a. Chalupa Krezkovových]]
-> - [[#K2. Opatství svaté Markovie|K2. Opatství svaté Markovie]]
->   - [[#K2a. Vstup do opatství|K2a. Vstup do opatství]]
->   - [[#K2b. Hlavní síň|K2b. Hlavní síň]]
->   - [[#K2c. Východní křídlo|K2c. Východní křídlo]]
-<!-- /obsah -->
-
 _Dobrodružství pro pět postav 5. nebo 6. úrovně._
 
 V tomto oblouku, jakmile hráči získají přístup do Krezku, musí vystoupat k Opatství svaté Markovie, kde je jim souzeno setkat se se svým předpověděným spojencem proti Strahdovi.

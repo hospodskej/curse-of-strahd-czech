@@ -34,9 +34,10 @@ Přímá řeč mimo rámečky je jen v uvozovkách „…“ – je to vodítko 
 
 ## Navigace
 
-Každá poznámka začíná rozbalovacím rámečkem **Obsah** s odkazy na kapitoly (`#`) a podkapitoly
-(`##`). Úplnou osnovu včetně nižších nadpisů ukazuje panel *Osnova* (Outline) v pravém postranním
-panelu Obsidianu.
+Vault se otevírá s panelem **Osnova** (Outline) vpravo – stejně jako „On this page“ na webu
+originálu ukazuje kapitoly a podkapitoly právě otevřené poznámky; kliknutím na položku skočíte
+na dané místo. Pokud panel zmizí: paleta příkazů (Ctrl/Cmd+P) → *Outline: Show outline*
+(*Osnova: Zobrazit osnovu*) a panel přetáhněte do pravého postranního panelu.
 
 ## Konvence
 
@@ -64,9 +65,6 @@ ruby tools/join.rb <vault> <pracovní_složka>
 
 # 5. přepsat kotvy odkazů na české nadpisy a doplnit české popisky odkazů
 ruby tools/fix_links.rb <vault> <pracovní_složka>
-
-# 6. vložit na začátek poznámek rámeček „Obsah“ s odkazy na kapitoly a podkapitoly
-ruby tools/toc.rb <poznámka.md>…
 ```
 
 `tools/titles.tsv` obsahuje české názvy poznámek, které se zobrazují jako popisky odkazů.

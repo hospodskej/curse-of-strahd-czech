@@ -1,35 +1,3 @@
-<!-- obsah -->
-> [!abstract]+ **Obsah**
-> - [[#The Ancient Era (3,000 BU–0 BC)|The Ancient Era (3,000 BU–0 BC)]]
->   - [[#Origins of the Valley|Origins of the Valley]]
->   - [[#The Amber Temple|The Amber Temple]]
->   - [[#Fall of the First Folk|Fall of the First Folk]]
-> - [[#The Founding Era (1 BC–345 BC)|The Founding Era (1 BC–345 BC)]]
->   - [[#The Von Zarovich Line|The Von Zarovich Line]]
->   - [[#Arrival of the Outsiders|Arrival of the Outsiders]]
-> - [[#The Era of Blood (346 BC–351 BC)|The Era of Blood (346 BC–351 BC)]]
->   - [[#Birth of Barovia|Birth of Barovia]]
->   - [[#Rise of Castle Ravenloft|Rise of Castle Ravenloft]]
->   - [[#Strahd Becomes the Land|Strahd Becomes the Land]]
->   - [[#Sergei and Tatyana|Sergei and Tatyana]]
->   - [[#Arrival of the Mists|Arrival of the Mists]]
-> - [[#The Dark Era (352 BC–599 BC)|The Dark Era (352 BC–599 BC)]]
->   - [[#Aftermath of the Wedding|Aftermath of the Wedding]]
->   - [[#Ghosts of the Past|Ghosts of the Past]]
->   - [[#Strahd’s First Followers|Strahd’s First Followers]]
->   - [[#Passage Into History|Passage Into History]]
->   - [[#The Decades Pass|The Decades Pass]]
-> - [[#The Dormant Era (600 BC–735 BC)|The Dormant Era (600 BC–735 BC)]]
->   - [[#Echoes of Evil|Echoes of Evil]]
->   - [[#A New Generation|A New Generation]]
->   - [[#Strahd’s Return|Strahd’s Return]]
-> - [[#Strahd's Awakening (735 BC–Present)|Strahd's Awakening (735 BC–Present)]]
->   - [[#Master of Castle Ravenloft|Master of Castle Ravenloft]]
->   - [[#The Darkened Valley|The Darkened Valley]]
->   - [[#The Wrath of Strahd|The Wrath of Strahd]]
-> - [[#Design Notes: History of Barovia|Design Notes: History of Barovia]]
-<!-- /obsah -->
-
 *All dates are given in the Barovian calendar, in which "B.U." stands for "Before Unification", and "B.C." stands for "Barovian Calendar." The year 1 B.C. is marked by the founding of the first Kingdom of Zarovia by King Barov von Zarovich I.*
 # The Ancient Era (3,000 BU–0 BC)
 ## Origins of the Valley

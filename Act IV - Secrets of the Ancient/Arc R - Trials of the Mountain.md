@@ -1,37 +1,3 @@
-<!-- obsah -->
-> [!abstract]+ **Obsah**
-> - [[#R1. Recruiting Kasimir|R1. Recruiting Kasimir]]
-> - [[#R2. The Tyrant’s Descent|R2. The Tyrant’s Descent]]
->   - [[#R2a. The Baron’s Revenge|R2a. The Baron’s Revenge]]
->   - [[#R2b. The Lord of Barovia|R2b. The Lord of Barovia]]
-> - [[#R3. Town of Vallaki|R3. Town of Vallaki]]
->   - [[#R3a. Purchasing Cold-Weather Clothing|R3a. Purchasing Cold-Weather Clothing]]
->   - [[#R3b. The Tyrant’s First Trial|R3b. The Tyrant’s First Trial]]
-> - [[#R4. Tsolenka Pass|R4. Tsolenka Pass]]
->   - [[#R4a. Setting Off|R4a. Setting Off]]
->   - [[#R4b. The Druids’ Vengeance|R4b. The Druids’ Vengeance]]
->   - [[#R4c. The Monument|R4c. The Monument]]
->   - [[#R4d. The Blizzard|R4d. The Blizzard]]
->   - [[#R4e. The Gatehouse|R4e. The Gatehouse]]
->   - [[#R4f. The Tyrant’s Second Trial|R4f. The Tyrant’s Second Trial]]
->   - [[#R4g. The Rider on the Bridge|R4g. The Rider on the Bridge]]
->   - [[#R4h. The Mountain Crossroad|R4h. The Mountain Crossroad]]
->   - [[#R4i. The Avalanche|R4i. The Avalanche]]
->   - [[#R4j. The Bodaks’ Lair|R4j. The Bodaks’ Lair]]
->   - [[#R4k. The Ice Caves|R4k. The Ice Caves]]
-> - [[#R5. Soldav|R5. Soldav]]
->   - [[#R5a. The Twin Falls|R5a. The Twin Falls]]
->   - [[#R5b. The Tunnel|R5b. The Tunnel]]
->   - [[#R5c. Into Soldav|R5c. Into Soldav]]
->   - [[#R5d. Chief's Longhouse|R5d. Chief's Longhouse]]
->   - [[#R5e. The Night of Clear Skies|R5e. The Night of Clear Skies]]
->   - [[#R5f. The Shrine of the Rozana|R5f. The Shrine of the Rozana]]
->   - [[#R5g. Morning in Soldav|R5g. Morning in Soldav]]
-> - [[#R6. Mt. Ghakis|R6. Mt. Ghakis]]
->   - [[#R6a. Sangzor's Test|R6a. Sangzor's Test]]
->   - [[#R6b. The Amber Temple|R6b. The Amber Temple]]
-<!-- /obsah -->
-
 _An adventure for five 8th-level characters._
 
 In this arc, after learning that the dusk elf Kasimir Velikov knows the location of the Amber Temple after lighting Argynvost's beacon in [[Arc Q - A Shining Beacon]], the players must recruit Kasimir to their cause and traverse the treacherous Tsolenka Pass as they ascend toward the snowy peak of Mt. Ghakis. As their journey unfolds, however, a wrathful Strahd—now determined to turn the players into vampire spawn—calls down blizzards, avalanches, and monsters to test their resolve and exhaust their strength.

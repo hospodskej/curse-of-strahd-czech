@@ -1,9 +1,3 @@
-<!-- obsah -->
-> [!abstract]+ **Obsah**
-> - [[#Official Material|Official Material]]
-> - [[#Sidebars|Sidebars]]
-<!-- /obsah -->
-
 # Official Material
 Consider *Curse of Strahd: Reloaded* your all-in-one guide to running this campaign. You'll only need to reference the original *Curse of Strahd* module when this guide tells you to do so, though you should feel free to read the original module to familiarize yourself with the bones of the campaign first.
 
