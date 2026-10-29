@@ -69,7 +69,7 @@ If the players then leave Dalvan's corpse and return, they find that both his an
 > [!design]+ **Design Note: Dalvan’s Fate**
 > Dalvan’s task in the original module—placing a warning note at the eastern Barovian gates—makes little sense, given that Burgomaster Indirovich would know that those who arrive in Barovia from beyond the Mists can’t turn back, even before they enter the Barovian gates. Instead, Dalvan’s role has been revised to foreshadow Madam Eva’s prophetic insight and communicate the perils (and mechanics) of entering the Mists. 
 >
-> Dalvan and his horse will later reappear as the skeletal rider described in <span class="citation">Skeletal Rider (p. 31)</span> in [[Act I - Into the Mists/Arc C - Into the Valley#C5. The Skeletal Rider|Arc C - Into the Valley]]. The rider will again appear in [[Arc O - Dinner with the Devil#O3b. The Rider’s Guidance|Arc O - Dinner with the Devil]], guiding the players at Madam Eva’s direction to Katarina’s tree and long-lost locket, which the players can use to let Varushka’s spirit find peace in [[Arc O - Dinner with the Devil#Varushka’s Grief|Arc O - Dinner with the Devil]].
+> Dalvan and his horse will later reappear as the skeletal rider described in <span class="citation">Skeletal Rider (p. 31)</span> in [[Act I - Into the Mists/Arc C - Into the Valley#C5. The Skeletal Rider|Arc C - Into the Valley]]. The rider will again appear in [[Arc O - Dinner with the Devil#O3b. Jezdcovo vedení|Arc O - Dinner with the Devil]], guiding the players at Madam Eva’s direction to Katarina’s tree and long-lost locket, which the players can use to let Varushka’s spirit find peace in [[Arc O - Dinner with the Devil#Varushčin žal|Arc O - Dinner with the Devil]].
 # B4. Barovian Overlook
 <span class="citation"><em>This scene takes place in Chapter 2: Area D.</em></span>
 
@@ -295,7 +295,7 @@ The brown-haired woman is Alenka Konstantinova, a middle-aged Barovian **commone
 > [!lore]+ **Alenka’s Grief**
 > Alenka is the sister of Anton Konstantinovich, a Barovian man married to Dezdrelda Konstaninova. Two nights ago, Anton and Dezdrelda mysteriously vanished in the middle of the night during the siege; their bodies were never found. Their loss has driven Alenka to grief and paranoia, and given her a desperate need to seek an end to the siege by any means possible.
 >
-> Unbeknownst to Alenka, Anton and Dezdrelda are prisoners of Volenta Popofsky, one of Strahd’s vampiric brides, in Castle Ravenloft. The players will later encounter Anton as a masked servant in [[Arc O - Dinner with the Devil#Volenta’s Toy|Arc O - Dinner with the Devil]].
+> Unbeknownst to Alenka, Anton and Dezdrelda are prisoners of Volenta Popofsky, one of Strahd’s vampiric brides, in Castle Ravenloft. The players will later encounter Anton as a masked servant in [[Arc O - Dinner with the Devil#Volentina hračka|Arc O - Dinner with the Devil]].
 
 Driven to desperation by Strahd’s attacks on the village, Alenka and the mob believe that a sacrifice or offering is needed to appease the vampire and soothe his rage. The following conversation unfolds if the players don’t intervene:
 

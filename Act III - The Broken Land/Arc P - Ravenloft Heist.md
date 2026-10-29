@@ -1360,7 +1360,7 @@ Po následující 1 minutu vyleze z každé nezničené hromady kostí na inicia
 > Před více než stoletím proměnila Volenta jídelnu stráží v propracovanou kostnici – umělecké dílo vyjadřující její oddanost Strahdovi.
 
 > [!abstract]+ **Uložení lebky**
-> Pokud k tomu hráči chtějí použít _chest of holding_ získanou v [[Arc O - Dinner with the Devil#O3c. The Black Carriage|Oblouk O – Večeře s ďáblem]], je mimoprostorový prostor v ní dost velký, aby se do něj Argynvostova lebka vešla.
+> Pokud k tomu hráči chtějí použít _chest of holding_ získanou v [[Arc O - Dinner with the Devil#O3c. Černý kočár|Oblouk O – Večeře s ďáblem]], je mimoprostorový prostor v ní dost velký, aby se do něj Argynvostova lebka vešla.
 ### Strážní chodba
 <span class="citation"><em>This scene takes place in Chapter 4, Area K68.</em></span>
 
@@ -1729,7 +1729,7 @@ Tato oblast do značné míry odpovídá popisu v <span class="citation">K76. To
 > [!info]+ **Šplhání na balkon**
 > Vyšplhat přes okraj pozorovacího balkonu vyžaduje úspěšné ověření Strength (Athletics) se DC 10.
 
-Pokud hráči nedokázali Volentu usmířit během [[Arc O - Dinner with the Devil#Volenta’s Toy|Oblouk O – Večeře s ďáblem]], byla z mrtvoly Antona Konstantinoviče stvořena další zombie (**zombie**), která sedí na pravém trůnu na <span class="citation">K77. Observation Balcony (p. 82)</span>. Pokud vypukne boj nebo se k jejímu trůnu přiblíží na 5 stop jakýkoli tvor, který není nemrtvý, tato zombie (**zombie**) zaútočí a pronásleduje nejbližší živé tvory v oblasti.
+Pokud hráči nedokázali Volentu usmířit během [[Arc O - Dinner with the Devil#Volentina hračka|Oblouk O – Večeře s ďáblem]], byla z mrtvoly Antona Konstantinoviče stvořena další zombie (**zombie**), která sedí na pravém trůnu na <span class="citation">K77. Observation Balcony (p. 82)</span>. Pokud vypukne boj nebo se k jejímu trůnu přiblíží na 5 stop jakýkoli tvor, který není nemrtvý, tato zombie (**zombie**) zaútočí a pronásleduje nejbližší živé tvory v oblasti.
 
 Pokud naopak hráči Volentu při večeři usmířili, je Anton Konstantinovič uvězněn v zrezivělé kovové kleci, která visí nad jihozápadním rohem komnaty. Přestože kvůli chybějícímu jazyku nemůže mluvit, snaží se gesty a mručením hráče varovat před zombiemi, které se skrývají ve vodě, a hráčům, kteří ho zachrání, je vděčný.
 
@@ -1954,7 +1954,7 @@ Hráči, kteří prozkoumají východy z této místnosti, mohou zaznamenat nás
 * Hráč, který prozkoumá <span class="citation">K79. Western Stair (p. 84)</span> (vedoucí do <span class="citation">K72. Chamberlain’s Office (p. 79)</span>), uvidí na druhé straně podesty lidskou siluetu, která ho jakoby pozoruje. Jakmile si jí všimne, silueta rychle zmizí z dohledu. (Silueta je stín (**shadow**). Pokud se s ním hráči pokusí střetnout nebo komunikovat, viz [[#P11f. Západní schodiště|P11f. Západní schodiště]].)
 * Hráč, který prozkoumá <span class="citation">K80. Center Stair (p. 84)</span> (vedoucí do <span class="citation">K81. Tunnel (p. 84)</span> a <span class="citation">K84. Catacombs (p. 85)</span>), uvidí jen hustou neprůhlednou mlhu, která omezuje viditelnost, jak je popsáno v <span class="citation">K81. Tunnel (p. 84)</span>.
 * Hráč, který prozkoumá <span class="citation">K83. Spiral Stair (p. 85)</span> (vedoucí do <span class="citation">K37. Study (p. 66)</span>), uvidí na jednom z horních schodů, těsně předtím, než točité schodiště zmizí z dohledu, pohozený ženský střevíček. Ověření Intelligence (Investigation) se DC 12 naznačí, že majitelka střevíčku stoupala po schodech nahoru, nikoli dolů. (Střevíček patří Gertrudě a nechal ho tu Strahd, aby hráče nalákal k její ložnici.)
-* Hráč, který prozkoumá dveře vedoucí k <span class="citation">K77. Observation Balcony (p. 82)</span>, najde na klice zavěšenou bledou bílou masku. Hráči, kteří se předtím setkali s Antonem Konstantinovičem v [[Arc O - Dinner with the Devil#Volenta’s Toy|Oblouk O – Večeře s ďáblem]], v ní poznají jeho masku.
+* Hráč, který prozkoumá dveře vedoucí k <span class="citation">K77. Observation Balcony (p. 82)</span>, najde na klice zavěšenou bledou bílou masku. Hráči, kteří se předtím setkali s Antonem Konstantinovičem v [[Arc O - Dinner with the Devil#Volentina hračka|Oblouk O – Večeře s ďáblem]], v ní poznají jeho masku.
 
 > [!abstract]+ **Rahadinova výzva**
 > Tento oblouk předpokládá, že hráči navštíví katakomby až po splnění všech ostatních hlavních cílů (tj. po záchraně Gertrudy, osvobození Emila a získání Argynvostovy lebky). V takovém případě jim Rahadin zatarasí cestu z katakomb poté, co navštíví hrobku svaté Markovie, jak je popsáno v [[#Jižní hrobky, třetí řada|Jižní hrobky, třetí řada]].
@@ -2072,14 +2072,14 @@ Hráč může hůl kdykoli pustit. Pokud ji pustí, zatímco arkánní příval 
 > 4 lb. | 1d6 bludgeoning - versatile (1d8)
 > 
 > Tuto elegantní platinovou hůl lze ovládat jako magickou okovanou hůl (quarterstaff), která poskytuje bonus +2 k hodům na útok a zranění zbraní, jež se s ní provádějí. Dokud ji navíc třímáte, získáváte výhody nošení _robe of the archmagi_ <span class="citation">(<em>Dungeon Master's Guide</em> (p. 194)</span>.
-### Sergejova hrobka
+### Sergeiova hrobka
 <span class="citation"><em>This scene takes place in Chapter 4, Area K85.</em></span>
 
-Tato oblast do značné míry odpovídá popisu v <span class="citation">K85. Sergei’s Tomb (p. 93)</span>. Sergejova zbroj je však nemagická a obřadní, nikoli praktická, a nelze ji použít jako plátovou zbroj.
+Tato oblast do značné míry odpovídá popisu v <span class="citation">K85. Sergei’s Tomb (p. 93)</span>. Sergeiova zbroj je však nemagická a obřadní, nikoli praktická, a nelze ji použít jako plátovou zbroj.
 ## P12b. Střední katakomby
 ### Střední hrobky
 #### Střední hrobky, severní řada
-Tato řada hrobek do značné míry odpovídá popisu v <span class="citation">Crypt 18 (p. 89)</span>, <span class="citation">Crypt 19 (p. 89)</span> a <span class="citation">Crypt 20 (p. 89)</span>. Saša však na hráče nezaútočí, pokud ji zastihnou v její hrobce. (Strahd jí přikázal, aby tu zůstala, a ze své hrobky odejít nemůže, ani když ji o to požádají.)
+Tato řada hrobek do značné míry odpovídá popisu v <span class="citation">Crypt 18 (p. 89)</span>, <span class="citation">Crypt 19 (p. 89)</span> a <span class="citation">Crypt 20 (p. 89)</span>. Sasha však na hráče nezaútočí, pokud ji zastihnou v její hrobce. (Strahd jí přikázal, aby tu zůstala, a ze své hrobky odejít nemůže, ani když ji o to požádají.)
 #### Střední hrobky, jižní řada
 Tato řada hrobek do značné míry odpovídá popisu v <span class="citation">Crypt 21 (p. 89)</span>, <span class="citation">Crypt 22 (p. 90)</span> a <span class="citation">Crypt 23 (p. 90)</span>. V hrobce 21 však není Patrinina banshee (**banshee**). (Patrinin duch místo toho přebývá v Jantarovém chrámu.) Nápis na hrobce 23 navíc nese jméno postavy, jejíž zručnost, arogance a moc na Strahda zapůsobily nejvíc.
 ### Hrobka krále a královny

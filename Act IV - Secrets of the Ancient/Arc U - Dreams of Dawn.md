@@ -394,7 +394,7 @@ When the players emerge from [[#U3d. The Nightmares]], read:
 <p>A lone arch of swirling mist stands ten feet before you, leading west—toward the writhing wall.</p>
 </div>
 
-A player who saw the blood-red skies in [[Arc O - Dinner with the Devil#O8f. The Bloody Keep|O8. Varushka’s Nightmare]] recognizes them as the same color of sky that appeared on the day that Strahd died and became a vampire.
+A player who saw the blood-red skies in [[Arc O - Dinner with the Devil#O8f. Krvavý hrad|O8. Varushka’s Nightmare]] recognizes them as the same color of sky that appeared on the day that Strahd died and became a vampire.
 
 If the players proceed through the arch, they emerge into [[#U3f. Fall of the Devourer]].
 ## U3f. Fall of the Devourer
@@ -744,7 +744,7 @@ The ravens don’t stop to interact with the players, and won’t be diverted fr
 ## U5a. The Castle Gates
 The journey from the crossroads to the castle gates is two and one-half miles long and takes fifty minutes.
 
-The gates of Ravenloft are as described in <span class="citation">J. Gates of Ravenloft (p. 38)</span>, with the castle’s drawbridge down. The players’ approach is largely as described in [[Arc O - Dinner with the Devil#O4. Arrival at Castle Ravenloft|O4. Arrival at Castle Ravenloft]], except Rahadin and Anastrasya are not waiting in the courtyard to greet them. In addition, thirteen **swarms of bats** fill the skies around Castle Ravenloft, with a trio of **bats** reporting to Strahd each time a swarm observes the players’ location.
+The gates of Ravenloft are as described in <span class="citation">J. Gates of Ravenloft (p. 38)</span>, with the castle’s drawbridge down. The players’ approach is largely as described in [[Arc O - Dinner with the Devil#O4. Příjezd na hrad Ravenloft|O4. Arrival at Castle Ravenloft]], except Rahadin and Anastrasya are not waiting in the courtyard to greet them. In addition, thirteen **swarms of bats** fill the skies around Castle Ravenloft, with a trio of **bats** reporting to Strahd each time a swarm observes the players’ location.
 
 Whether the players arrive via Strahd’s black carriage or on foot, the main doors to the castle are guarded by four **wights**, while two **vampire spawn** cling to the inner walls of the keep. If Volenta Popofsky, Anastraya Karelova, or Ludmilla Vilisevic still live, they are also present, leading and commanding the wights and other spawn.
 

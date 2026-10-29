@@ -10,8 +10,7 @@ z materiálů Wizards of the Coast; nešiřte ho dál.
 
 | Část | Stav |
 | --- | --- |
-| Shrnutí dějství III, oblouky J, K, L, M, P, Q | přeloženo |
-| Oblouk O (Dějství III) | rozpracováno (části v `.preklad/`) |
+| Dějství III (shrnutí, oblouky J, K, L, M, O, P, Q) | přeloženo |
 | Shrnutí dějství IV | přeloženo |
 | Oblouky R, S, T, U (Dějství IV) | rozpracováno (části v `.preklad/`) |
 | Epilog, přílohy (Jantarové střepy, Bestiář, Slovníček, Cizí postavy) | zatím v angličtině |

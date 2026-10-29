@@ -1,638 +1,638 @@
-_An adventure for five 6th-level characters._
+_Dobrodružství pro pět postav 6. úrovně._
 
-In this arc, after receiving an invitation to dine with Strahd on Neyavr 14—the last night before the new moon—the players journey east to Castle Ravenloft. Along the way, they might re-encounter Arrigal, who directs them to locate a traitor in Strahd's court; Father Donavich and the **vampire spawn** Doru, who have journeyed to Vallaki to seek Doru's betrothed, Gertruda; and the skeletal rider, which can lead the players to a mysterious locket hidden away in the Svalich Woods.
+V tomto oblouku hráči obdrží pozvání k večeři se Strahdem na 14. Neyavr – poslední noc před novoluním – a vydají se na východ k hradu Ravenloft. Cestou se mohou znovu setkat s Arrigalem, který je navede, aby ve Strahdově dvoře vypátrali zrádce; s otcem Donavichem a upířím zplozencem (**vampire spawn**) Doru, kteří přišli do Vallaki hledat Doruovu snoubenku Gertrudu; a s kostlivým jezdcem, který může hráče dovést k tajemnému medailonu ukrytému ve Svalichském lese.
 
-Upon reaching the castle crossroads, the players are met by Strahd's black carriage, which carries gifts and can escort them to the keep. At the castle, the players are met by Rahadin and Strahd's third favored bride, Anastrasya Karelova, as well as Strahd's additional vampiric consorts: Escher (Strahd's most recent consort) and Sasha Ivliskova (Strahd's eldest bride, and the traitor Arrigal referred to).
+Když hráči dorazí na rozcestí u Ravenloftu, vyjde jim vstříc Strahdův černý kočár, který veze dary a může je dopravit do pevnosti. Na hradě hráče přivítá Rahadin a Strahdova třetí oblíbená nevěsta Anastrasja Karelova a také Strahdovy další upíří družky: Escher (Strahdův nejnovější druh) a Sasha Ivliskova (Strahdova nejstarší nevěsta a zrádkyně, o níž mluvil Arrigal).
 
-As they partake in the festivities, the players must investigate Sasha's true loyalties while avoiding conflicts with Strahd's other brides. After dining with Strahd himself, the players have an opportunity to interrogate Sasha regarding the castle's secrets—and learn that Strahd will be away from Castle Ravenloft the very next night.
+Zatímco se hráči účastní slavnosti, musí zjistit, komu Sasha doopravdy zachovává věrnost, a přitom se vyhnout sporům s ostatními Strahdovými nevěstami. Po večeři se samotným Strahdem dostanou hráči příležitost vyslechnout Sashu o tajemstvích hradu – a dozvědět se, že Strahd bude hned příští noc z hradu Ravenloft pryč.
 
-Following a tour of the castle and a test of the players' capacity for violence, a freak lightning strike disables the castle drawbridge, forcing the players to stay in Castle Ravenloft overnight in the middle of a powerful storm. After ascending to their room, however, the ghost of Varushka, a former servant of Castle Ravenloft, spirits the players away to a multi-layered nightmare, forcing them to confront Castle Ravenloft's bloody past—or never wake again . . . 
-# O1. The Invitation
-At dusk on the night immediately after the full moon, Strahd—using information gleaned from his spies and a location assessed from his *scrying* spell—sends Rahadin, his chamberlain, to deliver them a letter.
+Po prohlídce hradu a zkoušce toho, nakolik jsou hráči schopni násilí, vyřadí podivný úder blesku hradní padací most z provozu a donutí hráče strávit noc na hradě Ravenloft uprostřed mocné bouře. Jakmile však vystoupají do svého pokoje, duch Varushky, bývalé služebné hradu Ravenloft, je odnese do mnohovrstevné noční můry a donutí je postavit se krvavé minulosti hradu Ravenloft – jinak se už nikdy neprobudí…
+# O1. Pozvání
+Za soumraku v noci bezprostředně po úplňku pošle Strahd – na základě informací od svých zvědů a místa zjištěného kouzlem *scrying* – svého komořího Rahadina, aby hráčům doručil dopis.
 
-> [!info]+ **When Does the Invitation Arrive?**
-> Strahd sends the invitation on the night immediately after the full moon or as described in [[Arc D - St. Andral's Feast#D6a. The Invitation|Arc D - St. Andral's Feast]], whichever happens first.
+> [!info]+ **Kdy pozvání dorazí?**
+> Strahd pošle pozvání v noci bezprostředně po úplňku, nebo tak, jak je popsáno v [[Arc D - St. Andral's Feast#D6a. The Invitation|Oblouk D – Hostina svatého Andrala]], podle toho, co nastane dřív.
 
-Rahadin, riding his _phantom steed_—an ash-gray horse with dull, shadowed eyes—makes the journey to Vallaki in a little over an hour. Whether Lady Wachter or the Baron rules in Vallaki, the guards at the gates are too terrified to bar entry to Strahd’s chamberlain and herald. 
+Rahadin, který jede na svém *phantom steed* – popelavě šedém koni s mdlýma, zastřenýma očima –, urazí cestu do Vallaki za něco málo přes hodinu. Ať ve Vallaki vládne lady Wachter, nebo baron, stráže u bran jsou příliš vyděšené, než aby Strahdovu komořímu a heroldovi bránily ve vstupu.
 
-Rahadin then makes his way to the players’ current location before dismounting from his horse and entering. If the players are in the Blue Water Inn, the entire taproom falls silent upon his entrance.
+Rahadin pak zamíří tam, kde se hráči právě nacházejí, sesedne z koně a vstoupí. Pokud jsou hráči v hostinci U Modré vody, celý výčep při jeho vstupu ztichne.
 
-When the players first see Rahadin, read:
+Když hráči poprvé spatří Rahadina, přečtěte:
 
 <div class="description">
-<p>You see a tall, lithe man of dusky complexion, with long, black hair that falls past his neck. A light cloak is draped across his shoulders, its edge rimmed with thick, white fur, and gloves of supple black leather cover his hands. A deep blue tunic trimmed with bronze is visible beneath a layer of tough, yet flexible leather armor, and a curved saber hangs from a sheath at his belt, with a pair of scimitars strapped to his back above it.</p>
-<p>His ears taper sharply upward to elven points, and his dark, brown eyes bear a quiet awareness and a casual, almost predatory gaze as they shift slowly across his surroundings. A long, wicked scar cuts across his forehead, just above where lines have begun to mark his face with age, and his lips are pulled back into a thin, perpetual frown.</p>
+<p>Spatříte vysokého, štíhlého muže snědé pleti s dlouhými černými vlasy, které mu splývají přes šíji. Přes ramena má přehozený lehký plášť lemovaný hustou bílou kožešinou a ruce mu kryjí rukavice z poddajné černé kůže. Pod vrstvou pevné, a přece pružné kožené zbroje prosvítá temně modrá tunika zdobená bronzem, u opasku mu v pochvě visí zahnutá šavle a nad ní má na zádech připnutý pár scimitarů.</p>
+<p>Uši se mu ostře zužují do elfích hrotů a jeho tmavé, hnědé oči, které se pomalu přesouvají po okolí, prozrazují tichou bdělost a ledabylý, téměř dravčí pohled. Přes čelo, těsně nad místy, kde mu tvář začínají brázdit vrásky stáří, se mu táhne dlouhá, zlověstná jizva a rty má sevřené v tenké, věčné zamračení.</p>
 </div>
 
-As Rahadin approaches the players (or vice—versa), the players can hear the sounds of his ***screams of the dead.*** Read:
+Jakmile se Rahadin k hráčům přiblíží (nebo naopak), uslyší hráči zvuky jeho ***screams of the dead.*** Přečtěte:
 
 <div class="description">
-<p>It begins with a dull roar—a prickle at the edge of your awareness, like the washing of the ocean against the shore. As the man grows closer, however, the muffled sound grows ever—more insistent, amplifying and building upon itself—until it resolves from a more innocuous sound, almost like waves, into a torrent of screams.</p>
-<p>Your ears fill with a cacophony of a thousand voices, pleading, suffering, dying: a psychic onslaught that crashes against your mind from every direction, leaving little room for thought. The man, however, remains unflinching—seemingly undisturbed by the symphony of screams that surrounds him.</p>
+<p>Začne to tlumeným hukotem – mravenčením na samém okraji vašeho vědomí, jako když oceán omývá břeh. Jak se však muž přibližuje, tlumený zvuk je čím dál naléhavější, sílí a vrší se sám na sebe – až se z nevinného zvuku, téměř jako šumění vln, vyloupne příval křiku.</p>
+<p>Uši vám zaplní kakofonie tisíce hlasů, které prosí, trpí a umírají: psychický útok, jenž na vaši mysl doráží ze všech stran a nenechává téměř žádný prostor pro myšlenky. Muž však ani nehne brvou – zdánlivě nedotčen symfonií křiku, která ho obklopuje.</p>
 </div>
 
-The players can notice that any other Barovians within ten feet of Rahadin appear to be similarly disturbed. (Any Barovians beyond the ten—foot radius can’t hear the screams.) When Rahadin speaks, the screams somewhat recede—enough to allow him and others to be heard—but gain a notable accent of fear.
+Hráči si mohou všimnout, že všichni ostatní Barované do deseti stop od Rahadina vypadají podobně rozrušení. (Barované dál než deset stop křik neslyší.) Když Rahadin promluví, křik poněkud ustoupí – natolik, aby bylo slyšet jeho i ostatní –, ale zazní v něm znatelný podtón strachu.
 
-Rahadin greets the players and informs them that he has come to deliver them an invitation from his “master." He then retrieves an envelope sealed with crimson wax and bearing the Von Zarovich crest: a raven with its wings spread across a tall shield wrapped with a banner and bearing the image of a castle at its peak.
+Rahadin hráče pozdraví a oznámí jim, že jim přišel doručit pozvání od svého „pána“. Pak vytáhne obálku zapečetěnou karmínovým voskem a nesoucí erb rodu von Zarovich: havrana s rozepjatými křídly nad vysokým štítem ovinutým stuhou, na jehož vrcholu je vyobrazen hrad.
 
-If opened, the envelope reads as follows, beginning with a list of the players' names and filling in the blank with the number of days until the night before the next new moon. (Due to Barovia's shortened lunar calendar, the next new moon takes place seven days after the players' first full moon in Barovia.)
+Po otevření obálky si hráči mohou přečíst následující text, který začíná výčtem jmen hráčů; do prázdného místa doplňte počet dní zbývajících do noci před příštím novoluním. (Kvůli zkrácenému barovskému lunárnímu kalendáři nastává příští novoluní sedm dní po prvním úplňku, který hráči v Barovii zažijí.)
 
 <div class="description">
-<p>To [Player Names],</p> 
-<p>I have heard tell of your recent exploits in my domain, and wish to better know those who have arrived in my beloved land of Barovia. As such, I bid you dine at my castle so that we may meet in civilized surroundings.</p>
-<p>I expect your attendance at dusk on the night of the moon's last light, in ___ days' time. Your passage to and from my home will be a safe one, and you shall be honored guests for as long as you remain at Castle Ravenloft.</p>
-<p>My carriage shall meet you at the crossroads of Ravenloft, beyond the western gate. I await your arrival.</p>
-<p>Your host,<br>
+<p>Pro [jména hráčů],</p> 
+<p>doslechl jsem se o vašich nedávných činech v mém panství a přeji si lépe poznat ty, kdo dorazili do mé milované země Barovie. Proto vás žádám, abyste povečeřeli na mém hradě, abychom se mohli setkat v civilizovaném prostředí.</p>
+<p>Očekávám vaši účast za soumraku v noci posledního svitu měsíce, tedy za ___ dní. Vaše cesta do mého domu i zpět bude bezpečná a budete mými ctěnými hosty, dokud setrváte na hradě Ravenloft.</p>
+<p>Můj kočár vás bude očekávat na rozcestí u Ravenloftu, za západní branou. Očekávám váš příchod.</p>
+<p>Váš hostitel<br>
 Strahd von Zarovich</p>
 </div>
 
-Rahadin declines to depart until the players have read Strahd’s invitation and confirmed their attendance. If the players accept Strahd’s invitation, Rahadin inclines his head and notes that he will expect them at Castle Ravenloft promptly at dusk on the noted date.
+Rahadin odmítne odejít, dokud si hráči Strahdovo pozvání nepřečtou a nepotvrdí svou účast. Pokud hráči Strahdovo pozvání přijmou, Rahadin skloní hlavu a poznamená, že je bude očekávat na hradě Ravenloft přesně za soumraku uvedeného dne.
 
-If the players ask or appear to be concerned as to whether Strahd truly means not to harm them, Rahadin coldly notes that Strahd is lord of the land, and his word of safe passage to and from the dinner is binding on both others and himself. “He has promised you guestright," Rahadin notes, glaring. “Do not presume to spit upon his honor or authority."
+Pokud se hráči zeptají nebo se zdají znepokojeni tím, zda jim Strahd skutečně nehodlá ublížit, Rahadin chladně poznamená, že Strahd je pánem této země a jeho slovo o bezpečné cestě na večeři a zpět zavazuje ostatní i jeho samotného. „Slíbil vám právo hosta,“ poznamená Rahadin a probodne je pohledem. „Neopovažujte se plivat na jeho čest či autoritu.“
 
-If the players ask or appear to be concerned whether Ireena would be safe at the castle, Rahadin coldly notes that both the players and Ireena would be welcome guests and protected under guestright, so long as they have not committed any offense against Strahd personally—which, to Rahadin’s knowledge, neither Ireena nor the players have done. If the players appear doubtful, Rahadin notes coolly, “Had my master sought to take Lady Kolyana from you, he could have done so as it pleased him, without your permission. She is, of course, not obliged to attend—but I advise you not to question the strength of his word."
+Pokud se hráči zeptají nebo se zdají znepokojeni tím, zda by byla Ireena na hradě v bezpečí, Rahadin chladně poznamená, že hráči i Ireena by byli vítanými hosty chráněnými právem hosta, pokud se nedopustili žádného přečinu přímo proti Strahdovi – čehož se podle Rahadinových znalostí nedopustila Ireena ani hráči. Pokud hráči vypadají pochybovačně, Rahadin chladně poznamená: „Kdyby si můj pán přál vzít vám lady Kolyana, mohl by tak učinit, kdykoli by se mu zachtělo, a bez vašeho svolení. Ona se ovšem účastnit nemusí – ale radím vám, abyste nezpochybňovali sílu jeho slova.“
 
-If the players ask to delay their response, Rahadin coolly notes that his “master" expects an answer upon his return. 
+Pokud hráči požádají o odklad své odpovědi, Rahadin chladně poznamená, že jeho „pán“ očekává odpověď, až se vrátí.
 
-If the players refuse Strahd’s invitation or continue to insist upon delaying their response, Rahadin quietly, without touching his scimitars or raising his voice above a whisper, asks them if they think it wise to insult the lord of Castle Ravenloft. “It is no threat, I assure you," he promises if challenged. “Consider it . . . cordial advice."
+Pokud hráči Strahdovo pozvání odmítnou nebo budou dál trvat na odkladu své odpovědi, Rahadin se jich potichu – aniž by se dotkl svých scimitarů nebo zvýšil hlas nad šepot – zeptá, zda považují za moudré urazit pána hradu Ravenloft. „Není to výhrůžka, ujišťuji vás,“ ujistí je, pokud mu hráči oponují. „Berte to jako… přátelskou radu.“
 
-If the players again refuse the invitation or continue to stall, Rahadin shakes his head in disappointment. He notes that he had warned “his master" of his suspicion that the players would be “difficult, impolite, and undesirable guests," and shares that he will take no pleasure in informing his master that he was correct. 
+Pokud hráči pozvání znovu odmítnou nebo budou dál otálet, Rahadin zklamaně zavrtí hlavou. Poznamená, že „svého pána“ varoval před podezřením, že hráči budou „obtížní, nezdvořilí a nežádoucí hosté“, a prozradí, že mu nebude činit žádné potěšení oznámit svému pánovi, že měl pravdu.
 
-If the players make no move to stop him, Rahadin then moves toward the door, pauses, and quietly notes that, despite his own misgivings, he would not be surprised if his master holds open the invitation regardless, should the players change their minds. He then departs.
+Pokud se ho hráči nijak nepokusí zastavit, Rahadin pak zamíří ke dveřím, zastaví se a tiše poznamená, že navzdory vlastním pochybnostem by ho nepřekvapilo, kdyby jeho pán ponechal pozvání v platnosti tak jako tak, kdyby si to hráči rozmysleli. Pak odejde.
 
-> [!abstract]+ **Ezmerelda’s Advice**
-> If told of Strahd’s invitation once recruited to their cause in [[Arc K - The Fallen Abbey]], Ezmerelda d’Avenir eagerly advises the players to accept it—if they haven’t already—as a once-in-a-lifetime opportunity to scope out the castle before retrieving the *Icon of Dawn's Grace* in [[Arc K - The Fallen Abbey]], rescuing the **werewolf** Emil Toranescu in [[Arc L - The Den of Wolves]], and/or recovering Argynvost’s skull in [[Arc M - The Dragon's Manor]].
+> [!abstract]+ **Ezmereldina rada**
+> Pokud se Ezmerelda d’Avenir o Strahdově pozvání dozví poté, co ji hráči získali pro svou věc v [[Arc K - The Fallen Abbey|Oblouk K – Padlé opatství]], dychtivě jim poradí, aby ho přijali – pokud tak už neučinili –, neboť je to jedinečná příležitost prozkoumat hrad dřív, než v [[Arc K - The Fallen Abbey|Oblouk K – Padlé opatství]] získají *Ikonu Jitřní milosti*, v [[Arc L - The Den of Wolves|Oblouk L – Vlčí doupě]] zachrání vlkodlaka (**werewolf**) Emila Toranesca a/nebo v [[Arc M - The Dragon's Manor|Oblouk M – Dračí sídlo]] získají zpět Argynvostovu lebku.
 >
-> Ezmerelda notes, however, that she has *not* been invited to the dinner, and therefore can’t attend openly. She’s willing, though, to pursue her own independent course of action while the players dine with Strahd. At the players’ suggestion, she might spend the evening guarding Ireena, secretly surveying the castle grounds for alternate entrances and possible guards (though she won’t enter the castle itself alone), or taking some other action to further the party’s interests.
+> Ezmerelda však poznamená, že ona sama na večeři pozvána *nebyla*, a proto se jí nemůže zúčastnit otevřeně. Je však ochotná, zatímco hráči večeří se Strahdem, jednat na vlastní pěst. Na návrh hráčů může strávit večer hlídáním Ireeny, tajným průzkumem hradních pozemků, kde bude hledat jiné vstupy a možné stráže (do samotného hradu však sama nevstoupí), nebo podniknout něco jiného, co prospěje zájmům družiny.
 
-# O2. Arrigal’s Insight
-One day before the dinner is scheduled to take place, if the players rescued Arabelle in [[Arc E - The Missing Vistana]], Arrigal of <span class="citation">N9. Vistani Camp (p. 119)</span> finds the players at or shortly after nightfall. (If the players spend the night away from Vallaki, Arrigal instead finds them as they pass through or around Vallaki when traveling to Castle Ravenloft the following day.)
+# O2. Arrigalův vhled
+Den předtím, než se má večeře konat, vyhledá hráče za soumraku nebo krátce po něm Arrigal z <span class="citation">N9. Vistani Camp (p. 119)</span> – pokud hráči zachránili Arabelle v [[Arc E - The Missing Vistana|Oblouk E – Pohřešovaná Vistanka]]. (Pokud hráči stráví noc mimo Vallaki, Arrigal je místo toho najde, když následujícího dne při cestě k hradu Ravenloft procházejí Vallaki nebo jeho okolím.)
 
-Upon encountering the party, Arrigal—recognizable, though wearing a heavy cloak and hood to disguise his features from onlookers—"accidentally" bumps into one of the players, preferring a target with a higher passive Wisdom (Perception) score. A player with a passive Wisdom (Perception) score of 14 or greater notices the sensation of something slipping into their pocket during the brief moment of contact.
+Když na družinu narazí, Arrigal – poznatelný, přestože na sobě má těžký plášť a kápi, aby skryl svou tvář před přihlížejícími – do jednoho z hráčů „náhodou“ vrazí; přednost dává tomu, kdo má vyšší pasivní Wisdom (Perception). Hráč s pasivní Wisdom (Perception) 14 nebo vyšší si během krátkého okamžiku dotyku všimne, že mu něco vklouzlo do kapsy.
 
-Without acknowledging their familiarity, Arrigal then snarls at the player to “watch where they’re going" before swiftly departing. Determined to avoid Strahd’s wrath for his betrayal, Arrigal makes every effort to dismiss the players if they attempt to follow him or otherwise interact with him further.
+Arrigal pak, aniž by dal najevo, že se znají, na hráče zavrčí, ať „kouká, kam šlape“, a rychle odejde. Odhodlaný vyhnout se Strahdovu hněvu za svou zradu udělá Arrigal vše pro to, aby se hráčů zbavil, pokud se ho pokusí sledovat nebo s ním jinak dál jednat.
 
-A player who checks their pocket finds a small, scribbled note. (A player who fails to notice Arrigal’s sleight of hand automatically finds the note the next time they take a short or long rest.) The note reads as follows:
+Hráč, který si prohlédne kapsu, najde malý, načmáraný lístek. (Hráč, který si Arrigalova zručného triku nevšiml, lístek automaticky najde, až si příště dopřeje krátký nebo dlouhý odpočinek.) Na lístku stojí:
 <div class="description">
-<p>Spy in castle. Seeks a meeting to discuss an opportunity. Find the victim amidst the court.</p>
-<p>Burn this.</p>
+<p>Zvěd na hradě. Žádá o schůzku, aby probral jistou příležitost. Najděte oběť uprostřed dvora.</p>
+<p>Spalte to.</p>
 <p>—A</p>
 </div>
 
 ![[Spy Note.png]]
-<span class="credit">"Arrigal's Note" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">„Arrigalův lístek“ – autor: Caleb Cleveland. Podpořte ho na <a href="https://patreon.com/calebisdrawing/">Patreonu!</a></span>
 
 
-If Ezmerelda learns of the note, she excitedly advises the players to use the dinner at Castle Ravenloft as an opportunity to subtly squirrel out the traitor’s identity—and coordinate a meeting if possible.
+Pokud se Ezmerelda o lístku dozví, vzrušeně hráčům poradí, aby večeři na hradě Ravenloft využili jako příležitost nenápadně vyčenichat totožnost zrádce – a pokud to půjde, domluvit si s ním schůzku.
 
-> [!lore]+ **What Arrigal Knows**
-> While making a regular report to Anastrasya at Castle Ravenloft, Arrigal attempted to eavesdrop on a conversation she was having with Strahd in private. As he did, he encountered a female vampire spawn whose face was concealed behind a veil. 
+> [!lore]+ **Co ví Arrigal**
+> Když Arrigal podával Anastrasje na hradě Ravenloft své pravidelné hlášení, pokusil se vyslechnout rozhovor, který vedla se Strahdem v soukromí. Přitom narazil na upíří zplozenkyni, jejíž tvář skrýval závoj.
 >
-> Before the two parted ways, Arrigal asked whether the vampire intended to turn him in. In response, the spawn laughed quietly, and assured him that not all spawn of Strahd serve him faithfully. “Your indiscretion," she promised, “is safe with me."
+> Než se rozešli, zeptal se jí Arrigal, zda ho hodlá udat. Zplozenkyně se v odpověď tiše zasmála a ujistila ho, že ne všichni Strahdovi zplozenci mu slouží věrně. „Vaše neopatrnost,“ slíbila, „je u mě v bezpečí.“
 >
-> Arrigal doesn’t know the names or descriptions of any vampiric brides other than Anastrasya. Unbeknownst to him, the traitor is Sasha Ivliskova, his first vampiric bride. See below for more information about Sasha.
+> Arrigal nezná jména ani podobu žádných upířích nevěst kromě Anastrasji. Aniž by to tušil, zrádkyní je Sasha Ivliskova, Strahdova první upíří nevěsta. Více informací o Sashe najdete níže.
 
-# O3. The Old Svalich Road
-## O3a. Doru & Donavich
-As the players move to depart Vallaki for Castle Ravenloft on the day of the dinner, if they previously spared the **vampire spawn** Doru and aided him in overcoming his thirst for blood in [[Act I - Into the Mists/Arc B - Welcome to Barovia]], they encounter Doru and his father, the priest Donavich (using the statistics of an **acolyte**) at Vallaki’s eastern Morning Gate as they approach the Old Svalich Road. Read:
+# O3. Stará svalichská cesta
+## O3a. Doru a Donavich
+Když se hráči v den večeře chystají opustit Vallaki a vydat se k hradu Ravenloft, narazí – pokud dříve ušetřili upířího zplozence (**vampire spawn**) Doru a pomohli mu v [[Act I - Into the Mists/Arc B - Welcome to Barovia|Oblouk B – Vítejte v Barovii]] přemoci jeho žízeň po krvi – u východní Jitřní brány Vallaki, když se blíží ke Staré svalichské cestě, na Doru a jeho otce, kněze Donavicha (se statistikami **acolyte**). Přečtěte:
 
 <div class="description">
-<p>As the closed eastern gate comes into view, you spot two guards speaking heatedly with a pair of cloaked figures through the bars of the gate. As one of the guards shifts her weight to brandish the spear at her side, you recognize the two figures on the opposite side of the gate: the Barovian priest, Father Donavich, and his son, Doru.</p>
+<p>Když se před vámi objeví zavřená východní brána, spatříte dva strážné, kteří skrze mříže brány vzrušeně hovoří s dvojicí postav v pláštích. Když jedna ze strážných přenese váhu, aby zamávala kopím, které má u boku, poznáte obě postavy na druhé straně brány: barovského kněze, otce Donavicha, a jeho syna Doru.</p>
 </div>
 
-If the players parted ways with him on good terms, Doru swiftly notices the players and waves excitedly, even as an unaware Father Donavich continues quietly negotiating with the guards before him.
+Pokud se s ním hráči rozešli v dobrém, Doru si jich rychle všimne a nadšeně jim zamává, zatímco otec Donavich, který o nich neví, dál tiše vyjednává se strážemi před sebou.
 
-If the players make themselves known and previously assisted Lady Wachter in [[Arc F - Lady Wachter's Wish]] or [[Arc H - The Lost Soul]], the guards at the gate recognize them by their appearance and greet them with respect. The guards, who are named Gorek and Drilvia, are mistrustful of and annoyed with Doru and Donavich, and can share the following information:
+Pokud se hráči dají poznat a dříve pomohli lady Wachter v [[Arc F - Lady Wachter's Wish|Oblouk F – Přání lady Wachter]] nebo [[Arc H - The Lost Soul|Oblouk H – Ztracená duše]], stráže u brány je podle vzhledu poznají a s úctou je pozdraví. Strážní, kteří se jmenují Gorek a Drilvia, k Doru a Donavichovi chovají nedůvěru i rozmrzelost a mohou prozradit následující:
 
-* The two men, who introduced themselves as Doru and Father Donavich, arrived outside the gates last night and “demanded" entry. (If able to hear this characterization, Doru rolls his eyes in obvious irritation.) 
-* Because of his red-tinted eyes and pointed ears, both Gorek and Drilvia and the previous shift’s guards believe Doru to be a vampire (which he and Donavich deny) and have therefore refused him entry. (If asked, they can explain uncomfortably that, while Vallaki officially recognizes the Devil as lord of Barovia, Lady Wachter has maintained Baron Vallakovich’s policy of barring entry to any undead—so long as those undead aren’t approved by the Devil himself.)
-* The guards of both shifts have repeatedly offered Father Donavich an opportunity to enter the gates himself, so long as Doru remains outside. However, Donavich has refused to enter without Doru, and both spent the night sleeping on the road as a result.
+* Oba muži, kteří se představili jako Doru a otec Donavich, dorazili k branám včera v noci a „dožadovali se“ vstupu. (Pokud Doru tuto charakteristiku zaslechne, s viditelnou nelibostí obrátí oči v sloup.)
+* Kvůli Doruovým do ruda zbarveným očím a špičatým uším považují Gorek a Drilvia i strážní z předchozí směny Doru za upíra (což on i Donavich popírají), a proto mu vstup odepřeli. (Pokud se jich hráči zeptají, mohou rozpačitě vysvětlit, že ačkoli Vallaki oficiálně uznává Ďábla za pána Barovie, lady Wachter zachovala politiku barona Vallakovicha zakazující vstup jakýmkoli nemrtvým – pokud je neschválil sám Ďábel.)
+* Stráže obou směn otci Donavichovi opakovaně nabídly, že může branami projít sám, pokud Doru zůstane venku. Donavich však bez Doru odmítl vstoupit, a tak oba strávili noc spánkem na cestě.
 
-A player with a passive Wisdom (Insight) of 14 or greater notices that Gorek appears somewhat uncertain about barring Doru entry. A player who points this out to him and succeeds on a DC 14 Charisma (Persuasion) check can convince him to share his uncertain belief that, because Doru doesn’t seem to have any fangs, he might not be undead at all.
+Hráč s pasivní Wisdom (Insight) 14 nebo vyšší si všimne, že Gorek si odepřením vstupu Doru není tak docela jistý. Hráč, který ho na to upozorní a uspěje v ověření Charisma (Persuasion) se DC 14, ho může přimět, aby se svěřil se svým nejistým přesvědčením, že Doru možná vůbec není nemrtvý, protože podle všeho nemá žádné tesáky.
 
-If they parted ways with the players on good terms, Doru (whose fangs are concealed due to his control of his bloodlust) and Donavich greet the players with warmth and relief. Doru and Donavich then ask the players for their assistance in gaining entry to the town. They can share the following information if asked:
+Pokud se s hráči rozešli v dobrém, Doru (jehož tesáky jsou skryté, protože svou krvežíznivost ovládá) a Donavich hráče pozdraví vřele a s úlevou. Pak hráče požádají o pomoc se vstupem do města. Na požádání mohou prozradit následující:
 
-* After the players departed the village of Barovia, Doru and Donavich reconciled and worked to repair the worst of the damage inflicted upon the Barovian church. The two have worked hard together in sessions of “meditation and prayer," and Donavich is proud of Doru’s “progress."
-* After completing the church’s repairs and learning of Gertruda’s disappearance, Doru was anxious to try to find her. Determined to help his son and future daughter-in-law, Donavich ensured that the village had no further need of his healing services before setting off with Doru on the road to Vallaki, hoping to find Gertruda—or at least clues to her whereabouts or ultimate fate.
-* The two spent the night at Tser Pool encampment two nights ago, then set off for Vallaki yesterday morning, arriving at Vallaki just before dusk. (If the players imply that Doru or Donavich had reason to fear the monsters of the Svalich Wood in making the trek, Doru smiles coldly and says, “I’d like to see them try.") Although Doru has repeatedly insisted that his father go ahead and find shelter, Donavich has stubbornly refused to leave Doru behind.
+* Když hráči opustili vesnici Barovii, Doru a Donavich se usmířili a pustili se do opravy nejhorších škod, které utrpěl barovský kostel. Oba společně tvrdě pracovali při „rozjímání a modlitbách“ a Donavich je na Doruův „pokrok“ hrdý.
+* Když dokončili opravy kostela a dozvěděli se o Gertrudině zmizení, Doru ji toužil najít. Donavich, odhodlaný pomoci svému synovi a budoucí snaše, se ujistil, že vesnice už jeho léčitelské služby nepotřebuje, a pak se s Doru vydal na cestu do Vallaki v naději, že Gertrudu najdou – nebo alespoň stopy o tom, kde je nebo jaký ji potkal osud.
+* Předminulou noc strávili oba v táboře u Tserského jezírka, pak se včera ráno vydali do Vallaki a dorazili sem těsně před soumrakem. (Pokud hráči naznačí, že Doru nebo Donavich měli na své cestě důvod bát se nestvůr ze Svalichského lesa, Doru se chladně usměje a řekne: „Ať to zkusí.“) Přestože Doru na otce opakovaně naléhal, aby šel napřed a našel si přístřeší, Donavich ho tvrdohlavě odmítl nechat za sebou.
 
-> [!warning]+ **Changing Canon**
-> A previous version of this guide informed the players that Gertruda traveled to Castle Ravenloft, rather than Vallaki. To adapt this scene accordingly, have Doru instead inform the players that he is visiting Vallaki in the hopes of obtaining spiritual guidance from Father Lucian Petrovich, who Donavich has assured him is a wise and learned priest.
+> [!warning]+ **Změna kánonu**
+> Předchozí verze tohoto průvodce hráčům sdělovala, že Gertruda odešla na hrad Ravenloft, nikoli do Vallaki. Chcete-li tuto scénu přizpůsobit, nechte Doru hráčům místo toho oznámit, že přišel do Vallaki v naději, že získá duchovní vedení od otce Luciana Petroviche, o němž ho Donavich ujistil, že je to moudrý a učený kněz.
 
-The players can convince Gorek and Drilvia to allow Donavich and Doru entry by vouching for Doru’s self-control and succeeding on a DC 14 Charisma (Persuasion or Intimidation) check. Alternatively, the players can convince Gorek and Drilvia that Doru isn’t a vampire by making a convincing argument—for example, that he’s an elf with an ocular condition—and succeeding on a DC 11 Charisma (Deception) check, made with advantage if the players have encouraged Gorek to trust his doubts.
+Hráči mohou Goreka a Drilvii přesvědčit, aby Donavicha a Doru vpustili, pokud se za Doruovo sebeovládání zaručí a uspějí v ověření Charisma (Persuasion nebo Intimidation) se DC 14. Případně mohou Goreka a Drilvii přesvědčit, že Doru není upír, pokud předloží přesvědčivý argument – například že je to elf s očním onemocněním – a uspějí v ověření Charisma (Deception) se DC 11, které mají s výhodou, pokud Goreka povzbudili, aby důvěřoval svým pochybnostem.
 
-If the players aid them in securing entry to Vallaki, Doru and Donavich are deeply grateful for their assistance, as well as any directions the players can provide to the nearest inn.
-## O3b. The Rider’s Guidance
-The journey from Vallaki to <span class="citation">I. Black Carriage (p. 37)</span> is eight and one-quarter miles long and takes two hours and forty-five minutes.
+Pokud jim hráči pomohou zajistit vstup do Vallaki, Doru a Donavich jsou jim za jejich pomoc hluboce vděční, stejně jako za jakékoli pokyny, jak se dostat k nejbližšímu hostinci.
+## O3b. Jezdcovo vedení
+Cesta z Vallaki k <span class="citation">I. Black Carriage (p. 37)</span> je dlouhá osm a čtvrt míle a trvá dvě hodiny a čtyřicet pět minut.
 
-As the players reach the stretch of road nearing Old Bonegrinder, a wolf pack emerges from the woods. True to Strahd's word, they show no aggression. Read:
-
-<div class="description">
-<p>The sound of howling ahead draws your attention. Further up the road, a pack of wolves emerges from the mist, their eyes gleaming. They pause, sniffing the air, noticing your presence on the path. Disinterested, they turn their heads away, before slinking nonchalantly into the forest.</p>
-
-Approximately one-quarter mile and five minutes before the players reach the western <span class="citation">B. Gates of Barovia (p. 33)</span>, if they didn’t kill the <span class="citation">Skeletal Rider (p. 31)</span> in [[Act I - Into the Mists/Arc C - Into the Valley]], they encounter it once again. Read:
+Když hráči dorazí k úseku cesty poblíž Starého Kostimlýna, vynoří se z lesa vlčí smečka. Věrna Strahdovu slovu, nejeví žádnou agresivitu. Přečtěte:
 
 <div class="description">
-<p>The Old Svalich Road takes you eastward, briefly touching the southern shore of Lake Zarovich before bending around a craggy mountain spur. Not long after departing the promontory where the old windmill stands, the road plunges back into a dark, gloomy wood cloistered between two mountain peaks.</p>
-<p>The air here is cold and quiet, and the damp gravel of the road occasionally crunches underfoot. Your ears catch the snap of a twig in the underbrush—and through the mist steps a familiar skeletal warhorse and rider. The skeletal rider sits silently, its lightless lantern held aloft in one bony hand.</p>
+<p>Vaši pozornost upoutá vytí před vámi. Dál na cestě se z mlhy vynoří smečka vlků s planoucíma očima. Zastaví se, větří a všimnou si vaší přítomnosti na stezce. Bez zájmu odvrátí hlavy a pak se lhostejně odplíží do lesa.</p>
+
+Přibližně čtvrt míle a pět minut předtím, než hráči dorazí k západní <span class="citation">B. Gates of Barovia (p. 33)</span>, se znovu setkají s <span class="citation">Skeletal Rider (p. 31)</span> – pokud ho v [[Act I - Into the Mists/Arc C - Into the Valley|Oblouk C – Do údolí]] nezabili. Přečtěte:
+
+<div class="description">
+<p>Stará svalichská cesta vás vede na východ, krátce se dotkne jižního břehu jezera Zarovich a pak se stáčí kolem skalnatého horského ostrohu. Nedlouho poté, co opustíte výběžek, na němž stojí starý větrný mlýn, se cesta znovu noří do temného, ponurého lesa sevřeného mezi dvěma horskými štíty.</p>
+<p>Vzduch je tu studený a tichý a vlhký štěrk cesty vám občas zakřupe pod nohama. Vaše uši zachytí v podrostu prasknutí větvičky – a z mlhy vystoupí známý kostlivý válečný kůň s jezdcem. Kostlivý jezdec mlčky sedí v sedle a v kostnaté ruce drží vysoko nad sebou svou neosvětlenou lucernu.</p>
 </div>
 
-If the players move to pass it or otherwise disregard its appearance, the rider raises its free hand and beckons for them to follow it. If the players approach or follow it, it turns and beckons them into the mist, away from the road.
+Pokud se hráči pokusí jezdce minout nebo jeho příchod jinak přehlížejí, jezdec zvedne volnou ruku a pokyne jim, aby ho následovali. Pokud hráči přistoupí blíž nebo ho následují, otočí se a pokyne jim do mlhy, pryč od cesty.
 
-The rider will answer up to three questions through simple nods or shakes of its head before again beckoning the players forward, though its demeanor indicates an obvious impatience to continue the task at hand. If it doesn’t know or isn’t willing to answer a question, it simply remains silent. It can provide the following information if asked the right questions:
+Jezdec odpoví na nejvýše tři otázky prostým přikývnutím nebo zavrtěním hlavy, než hráčům znovu pokyne vpřed, ačkoli z jeho chování je zřejmá netrpělivost pokračovat v úkolu, který ho čeká. Pokud odpověď nezná nebo nechce na otázku odpovědět, prostě mlčí. Na správně položené otázky může prozradit následující:
 
-* It means no harm to the players, and is not leading them into danger.
-* It was not sent by Strahd, nor is it loyal to him.
-* It was sent by someone who is no friend to Strahd. (The rider won’t disclose this person’s identity.)
+* Nechce hráčům ublížit a nevede je do nebezpečí.
+* Neposlal ho Strahd a není mu ani věrný.
+* Poslal ho někdo, kdo Strahdovi není přítelem. (Jezdec totožnost této osoby neprozradí.)
 
-If the players follow it, read:
+Pokud ho hráči následují, přečtěte:
 
 <div class="description">
-<p>The rider leads you silently a short distance northwest through the woods, its steed’s hooves rustling softly through the rotted leaves. The rider never looks back to meet your gaze, instead keeping its dark sockets directed firmly at the forest ahead.</p>
-<p>The wooded terrain slopes upward here, the loamy sod giving way to scattered boulders as the basin slowly becomes a mountain crag. The rider guides you to a small rocky outcropping overlooking the nearby woods, upon which stands a tall, ancient oak tree. Its dark leaves rustle restlessly in the chill wind, and black vines spread across its wizened bark like old veins.</p>
+<p>Jezdec vás mlčky vede kousek na severozápad lesem a kopyta jeho oře tiše šustí ve shnilém listí. Ani jednou se neohlédne, aby se setkal s vaším pohledem; temné oční důlky upírá neochvějně na les před sebou.</p>
+<p>Zalesněný terén tu stoupá vzhůru, kyprý drn ustupuje roztroušeným balvanům a kotlina se pozvolna mění v horské skalisko. Jezdec vás dovede k malému skalnímu výběžku nad okolními lesy, na němž stojí vysoký, prastarý dub. Jeho tmavé listy neklidně šelestí ve studeném větru a po jeho vrásčité kůře se jako staré žíly rozbíhají černé šlahouny.</p>
 </div>
 
-Once it has led the players to the tree, the rider gives them a silent nod and departs, gesturing for the players to remain behind if they move to follow it.
+Jakmile jezdec hráče ke stromu dovede, mlčky jim kývne a odjede; pokud se ho hráči pokusí následovat, naznačí jim, aby zůstali.
 
-Players who explore or otherwise linger near the tree notice a small wooden carving set into the trunk of the tree near chest height. If the players inspect the carving, read:
+Hráči, kteří strom prozkoumají nebo se u něj jinak zdrží, si všimnou malé dřevořezby v kmeni zhruba ve výšce hrudi. Pokud hráči řezbu prozkoumají, přečtěte:
 
 <div class="description">
-<p>Two letters connected by an ampersand appear to have been carved into the tree trunk, reading: “K & V." A small, dark hollow filled with crumbled leaves lies in the trunk just above it. There seems to be something lying amidst the leaves.</p>
+<p>Do kmene stromu jsou zřejmě vyřezána dvě písmena spojená znakem „&“: „K & V“. Těsně nad nimi je v kmeni malá, tmavá dutina plná rozdrobeného listí. Zdá se, že mezi listím něco leží.</p>
 </div>
 
-The object in the hollow is a small, ancient scroll of parchment, tied delicately with mud-stained string. If opened, the parchment reads as follows in hastily-scrawled ink:
+Předmět v dutině je malý, prastarý svitek pergamenu, jemně převázaný blátem potřísněným provázkem. Pokud ho hráči rozvinou, stojí na pergamenu ve spěchu načmáraným inkoustem následující:
 
 <div class="description">
-<p>Dearest Varushka,</p>
-<p>I hope this letter finds you well, though I fear it may not. My heart aches as I pen these words, knowing they may be the last I ever write you.</p>
-<p>I pray that you too survived the slaughter. Please forgive my cowardice—though I fled for my life, some part of me also knew I had fled from the life we may once have shared together. If you are reading this letter, then my spirit is gladdened to know that you have also escaped safely. My heart breaks, however, to share that we shall never again meet in this life.</p>
-<p>I have been given—and accepted—an offer of a new future, and a new opportunity. I do this not to abandon you, but because I am convinced that there is no other way to set things right. You always said that nothing is ever too broken to repair. As I stand at this crossroads, I cling to my hope that you were right.</p>
-<p>Some time ago, you gave me a gift—one that I cannot take with me on this new journey. I have left it atop our tree, watched by a pair of guardians provided by my new benefactor. Please take it with my deepest regrets and my warmest wishes. No soul deserves love and peace more than you.</p>
-<p>May you live a long and happy life, and may joy follow evermore in your footsteps, even in the nights of darkest sorrow.</p>
-<p>Sincerely and forever yours,</p>
+<p>Nejdražší Varushko,</p>
+<p>doufám, že tě tento dopis zastihne v dobrém zdraví, ačkoli se obávám, že tomu tak nebude. Srdce mě bolí, když píšu tato slova, neboť vím, že mohou být poslední, jaká ti kdy napíšu.</p>
+<p>Modlím se, abys i ty tu řež přežila. Odpusť prosím mou zbabělost – ačkoli jsem prchala, abych si zachránila život, jakási část mě věděla, že jsem utekla i před životem, který jsme spolu kdysi mohly sdílet. Pokud čteš tento dopis, pak se má duše raduje, neboť ví, že ses také dostala do bezpečí. Srdce mi však puká, když ti musím sdělit, že se už v tomto životě nikdy nesetkáme.</p>
+<p>Dostala jsem – a přijala – nabídku nové budoucnosti a nové příležitosti. Nečiním tak proto, abych tě opustila, ale protože jsem přesvědčena, že není jiné cesty, jak věci napravit. Vždycky jsi říkala, že nic není tak rozbité, aby to nešlo spravit. Teď, když stojím na této křižovatce, se upínám k naději, že jsi měla pravdu.</p>
+<p>Před časem jsi mi dala dar – takový, který si s sebou na tuto novou cestu vzít nemohu. Nechala jsem ho v koruně našeho stromu, kde ho střeží dvojice strážců, jež mi poskytl můj nový dobrodinec. Přijmi ho prosím s mou nejhlubší lítostí a nejvřelejšími přáními. Žádná duše si lásku a mír nezaslouží víc než ty.</p>
+<p>Kéž žiješ dlouhý a šťastný život a kéž tvé kroky navěky provází radost, i v nocích nejčernějšího žalu.</p>
+<p>Upřímně a navždy tvá</p>
 <p>Katarina</p>
 </div>
 
-The oak tree is one hundred feet tall and six feet in diameter, with sparse, thick branches toward its base and denser, thinner branches toward its top. No check is required to climb the tree.
+Dub je sto stop vysoký a jeho kmen má průměr šest stop; u paty má řídké, silné větve, ke koruně hustší a tenčí. Lezení na strom nevyžaduje žádné ověření.
 
-If a player climbs to the top of the tree, read:
-
-<div class="description">
-<p>Your head pops through the leaves of the tree’s upper canopy, briefly escaping the thick, dreary mist that swallows the landscape below. A few yards away, an old bird’s nest sits perched amongst the branches. You catch the glint of something metallic from inside the nest.</p>
-</div>
-
-A player who approaches or otherwise moves to interact with the nest is obstructed by two old **ravens**, who squawk angrily at the player in warning. If the player ignores or attempts to push past the ravens, the birds peck fiercely at the player’s fingers, forcing them to succeed on a DC 10 Strength saving throw or fall from their current perch. Upon falling, the player must succeed on an additional DC 10 Dexterity saving throw to catch themselves upon a lower branch or plummet one hundred feet to the ground on a failure.
-
-The ravens are faithful servants of the Seeker and the descendants of the ravens once set to guard this tree. The players can convince them to stand aside by stating their intent to deliver the item to Varushka or otherwise honor Katarina’s memory and succeeding on a DC 5 Charisma (Persuasion) check. The ravens can’t be deceived or intimidated, and fight to the death if attacked.
-
-> [!abstract]+ **Speaking with the Ravens**
-> A player who uses *speak with animals* or similar magic to communicate with the ravens can convince them to share their mission with a successful DC 12 Charisma (Persuasion) check. On a success, the ravens share that they are the descendants of ravens set to guard this place long ago, a duty they consider "the highest honor." If asked who ordered them to guard this tree, the ravens proudly declare that they serve the memory of "She Who Seeks in Storm-Clouds." (This is the name by which the ravens know the Seeker.)
-
-The object in the nest is a small, old wooden box with a tarnished silver latch bearing centuries of scratches and scrapes from ravens’ claws. If opened, the box contains half of a two-piece locket necklace made of tarnished silver, containing a small lock of hair.
-
-> [!lore]+ **Katarina’s Legacy**
-> Katarina—Madam Eva’s alter ego—and her fellow servant Varushka often came to this outcropping together on free days when they served together in Castle Ravenloft. When she fled Strahd’s rampage on the day of his transformation into a vampire, Katarina came to this location first, hoping in vain that Varushka would meet her. It was here that Katarina first made her pact with the Seeker to become Madam Eva in exchange for an opportunity to one day put Strahd to rest and restore the sun to Barovia once more.
-## O3c. The Black Carriage
-
-After passing through the western <span class="citation">B. Gates of Barovia (p. 33)</span>, the players arrive at the crossroads leading to Castle Ravenloft. Strahd’s black carriage is now present, and is as described in <span class="citation">I. Black Carriage (p. 37)</span>.
-
-As the players approach or move to pass the carriage, they notice a small parchment scroll tied to the inside handle of the carriage door. The scroll, which is tied with a blood-red ribbon and sealed with the familiar wax sigil of Castle Ravenloft, is written in Strahd’s handwriting and reads as follows:
+Pokud hráč vyleze až na vrchol stromu, přečtěte:
 
 <div class="description">
-<p>It is customary for a lord to provide safe escort and a gift to guests in his home. Please accept both with my sincerest compliments.</p>
+<p>Vaše hlava pronikne listovím horní koruny stromu a na chvíli unikne husté, bezútěšné mlze, která pod vámi pohlcuje krajinu. Pár yardů od vás je mezi větvemi usazené staré ptačí hnízdo. Zahlédnete, jak se v něm cosi kovově zatřpytí.</p>
 </div>
 
-A finely carved wooden chest has been wrapped in a bright red ribbon and left upon one of the cushioned seats inside the carriage. The chest, which is locked and approximately one foot across and six inches deep, radiates an aura of conjuration magic under the scrutiny of a *detect magic* spell. The chest has the properties of a *bag of holding*, but only if opened in the correct way. (Despite its rigid appearance, if opened correctly, the box's mouth expands to fit any item placed inside of it, so long as that item fits within the box's internal volume. The box shrinks back to its original size once the item is fully within the box.)
+Hráči, který se k hnízdu přiblíží nebo s ním chce jinak manipulovat, zastoupí cestu dva staří havrani (**ravens**), kteří na něj varovně a zlostně krákají. Pokud je hráč ignoruje nebo se pokusí kolem nich protlačit, ptáci mu zuřivě klovou do prstů a hráč musí uspět v záchranném hodu na Strength se DC 10, jinak spadne ze svého současného místa. Při pádu musí hráč uspět v dalším záchranném hodu na Dexterity se DC 10, aby se zachytil o nižší větev; při neúspěchu se zřítí sto stop k zemi.
 
-> [!abstract]+ **Storing the Skull**
-> Should the players use it to do so, the extradimensional space within the chest is large enough to store the skull of the silver dragon Argynvost in [[Arc P - Ravenloft Heist#Síň kostí|Arc P - Ravenloft Heist]].
+Havrani jsou věrnými služebníky Hledačky a potomky havranů, kteří byli kdysi pověřeni tento strom střežit. Hráči je mohou přesvědčit, aby ustoupili stranou, pokud prohlásí, že předmět hodlají doručit Varushce nebo jinak uctít Katarininu památku, a uspějí v ověření Charisma (Persuasion) se DC 5. Havrany nelze oklamat ani zastrašit, a pokud jsou napadeni, bojují až do smrti.
 
-The front of the chest bears a carved sliding puzzle composed of eight slidable wooden panels and a ninth empty space in the center of the puzzle. Each panel is carved with a different animal. When the players first inspect it, the rows of the puzzle read as follows from top to bottom: bat, rat, elk; wolf, empty space, bear; spider, raven, butterfly.
+> [!abstract]+ **Rozhovor s havrany**
+> Hráč, který s havrany promluví pomocí *speak with animals* nebo podobné magie, je může úspěšným ověřením Charisma (Persuasion) se DC 12 přesvědčit, aby mu prozradili své poslání. Při úspěchu havrani prozradí, že jsou potomky havranů, kteří byli před dávnými časy pověřeni střežit toto místo – povinnost, kterou považují za „nejvyšší čest“. Pokud se jich hráči zeptají, kdo jim nařídil tento strom střežit, havrani hrdě prohlásí, že slouží památce „Té, jež hledá v bouřných mračnech“. (Pod tímto jménem havrani znají Hledačku.)
 
-The following poem is carved upon the top of the chest in beautiful calligraphy:
+Předmět v hnízdě je malá, stará dřevěná skříňka se zašlou stříbrnou západkou, na níž zanechala staletí škrábance a rýhy od havraních drápů. Uvnitř skříňky je polovina dvoudílného medailonu ze zašlého stříbra, v níž je uložen malý pramínek vlasů.
+
+> [!lore]+ **Katarinin odkaz**
+> Katarina – druhé já madam Evy – a její družka ze služby Varushka spolu v dobách, kdy obě sloužily na hradě Ravenloft, často chodívaly ve volných dnech na tento výběžek. Když Katarina v den Strahdovy proměny v upíra prchala před jeho běsněním, zamířila nejprve sem v marné naději, že se tu s ní Varushka setká. Právě zde Katarina poprvé uzavřela s Hledačkou smlouvu, že se stane madam Evou, výměnou za příležitost jednoho dne uložit Strahda k věčnému spánku a navrátit Barovii slunce.
+## O3c. Černý kočár
+
+Když hráči projdou západní <span class="citation">B. Gates of Barovia (p. 33)</span>, dorazí na rozcestí vedoucí k hradu Ravenloft. Stojí tu nyní Strahdův černý kočár, který odpovídá popisu v <span class="citation">I. Black Carriage (p. 37)</span>.
+
+Když se hráči ke kočáru přiblíží nebo se ho chystají minout, všimnou si malého pergamenového svitku přivázaného k vnitřní klice dvířek kočáru. Svitek, převázaný krvavě rudou stuhou a zapečetěný známou voskovou pečetí hradu Ravenloft, je psán Strahdovou rukou a stojí v něm:
+
+<div class="description">
+<p>Je zvykem, aby pán poskytl hostům svého domu bezpečný doprovod a dar. Přijměte prosím obojí s mými nejupřímnějšími poklonami.</p>
+</div>
+
+Na jednom z čalouněných sedadel uvnitř kočáru leží jemně vyřezávaná dřevěná truhlička převázaná jasně rudou stuhou. Truhlička, která je zamčená, asi stopu široká a šest palců hluboká, při zkoumání kouzlem *detect magic* vyzařuje auru magie školy conjuration. Truhlička má vlastnosti *bag of holding*, ale jen tehdy, je-li otevřena správným způsobem. (Navzdory svému pevnému vzhledu se ústí skříňky, je-li správně otevřena, rozšíří, aby pojalo jakýkoli předmět, který se do ní vkládá, pokud se předmět vejde do jejího vnitřního objemu. Jakmile je předmět celý uvnitř, skříňka se opět smrští na svou původní velikost.)
+
+> [!abstract]+ **Uložení lebky**
+> Pokud se k tomu hráči rozhodnou truhličku využít, je mimoprostorový prostor v jejím nitru dost velký, aby do něj uložili lebku stříbrného draka Argynvosta v [[Arc P - Ravenloft Heist#Síň kostí|Oblouk P – Loupež v Ravenloftu]].
+
+Přední stranu truhličky zdobí vyřezávaný posuvný hlavolam složený z osmi posuvných dřevěných destiček a devátého prázdného místa uprostřed hlavolamu. Na každé destičce je vyřezáno jiné zvíře. Když si ho hráči poprvé prohlédnou, řady hlavolamu jsou shora dolů tyto: netopýr, krysa, los; vlk, prázdné místo, medvěd; pavouk, havran, motýl.
+
+Na víku truhličky je krásným krasopisem vyřezána tato báseň:
 
 <div class="description" style="text-align: center;">
-<p>My lips I nightly lift toward the silver moon,<br>
-With trembling strings I weave upon my tiny loom,<br>
-On wings of ink I glide above the sulking gloom.</p>
-<p>Scuttling through the shadows, in darkness I confide,<br>
-With daylight's fragile beauty upon my lying eyes,<br>
-Silent in the cavern's womb, with naught but stars to guide.</p>
-<p>I seek majesty in solitude,<br>
-I have no truths to hide,<br>
-My crown yet sits upon my head for all to see with pride.</p>
+<p>Své rty každou noc k stříbrné luně pozvedám,<br>
+chvějící se struny na drobném stavu svém tkám,<br>
+na křídlech z inkoustu nad zasmušilým šerem plachtím k výšinám.</p>
+<p>Stíny cupitám a svěřuji se tmě,<br>
+na lživých očích nosím křehkou krásu dne,<br>
+v lůně jeskyně mlčím a jen hvězdy vedou mě.</p>
+<p>Vznešenost v samotě hledám,<br>
+žádné pravdy neskrývám,<br>
+korunu dosud na hlavě nosím a hrdě ji všem na odiv dávám.</p>
 </div>
 
-The poem is a hint as to the proper order of the panels: wolf, spider, raven; rat, butterfly, bat; bear, empty space, elk. If the panels are arranged in the proper order, the chest opens, allowing access to the extradimensional storage space within. When first opened in this way, the chest contains a number of neatly wrapped parcels equal to the number of players. Each parcel contains a set of fine black velvet gloves with silver trim and a fine black velvet cloak lined with wolf fur.
+Báseň napovídá správné pořadí destiček: vlk, pavouk, havran; krysa, motýl, netopýr; medvěd, prázdné místo, los. Pokud jsou destičky seřazeny ve správném pořadí, truhlička se otevře a zpřístupní mimoprostorový úložný prostor uvnitř. Při prvním otevření tímto způsobem obsahuje truhlička tolik úhledně zabalených balíčků, kolik je hráčů. V každém balíčku jsou jemné černé sametové rukavice se stříbrným lemem a jemný černý sametový plášť podšitý vlčí kožešinou.
 
-The players can also open the chest by picking the lock and succeeding on a DC 20 Dexterity (Thieves’ Tools) check, or by forcing the chest open and succeeding on a DC 15 Strength check. If the players open the chest in this way, it has an ordinary interior and contains only a bottle of Red Dragon Crush wine, stamped with the name of the Wizard of Wines. If the players force open the chest, the bottle shatters and breaks, staining any nearby fingers and boots a faint, but noticeable shade of red.
-# O4. Arrival at Castle Ravenloft
-The journey from <span class="citation">I. Black Carriage (p. 37)</span> to Castle Ravenloft is two-and-a-half miles long and takes fifty minutes to walk or forty minutes by carriage. 
+Hráči mohou truhličku otevřít také tím, že vypáčí zámek a uspějí v ověření Dexterity (Thieves’ Tools) se DC 20, nebo tím, že ji násilím rozlomí a uspějí v ověření Strength se DC 15. Pokud hráči truhličku otevřou tímto způsobem, má obyčejné nitro a obsahuje jen láhev vína Drcený rudý drak s razítkem se jménem vinařství Čaroděj vín. Pokud hráči truhličku otevřou násilím, láhev se roztříští a všechny prsty a boty poblíž zabarví slabým, ale znatelným rudým odstínem.
+# O4. Příjezd na hrad Ravenloft
+Cesta od <span class="citation">I. Black Carriage (p. 37)</span> na hrad Ravenloft je dlouhá dvě a půl míle a pěšky trvá padesát minut, kočárem čtyřicet minut.
 
-The gates of Ravenloft are largely as described in <span class="citation">J. Gates of Ravenloft (p. 38)</span>. However, revise the area’s description to read as follows:
+Brány Ravenloftu do značné míry odpovídají popisu v <span class="citation">J. Gates of Ravenloft (p. 38)</span>. Popis oblasti však upravte takto:
 
 <div class="description">
-<p>After winding through the forest and craggy mountain peaks, the road takes a sudden turn to the east, and the startling, awesome presence of Castle Ravenloft towers before you. The carriage comes to a dead stop before twin turrets of stone, broken from years of exposure. Beyond these guard towers is the precipice of a fifty-foot-wide, fog-filled chasm that disappears into unknown depths.</p>
-<p>An imposing drawbridge of old, shored-up wooden beams looms high above the chasm, suspended by chains of thick, rust-eaten iron that creak and strain under the weight. From atop the high walls, stone gargoyles stare at you out of their hollow eye sockets and grin hideously.</p>
-<p>A deep, resonant grinding echoes through the air as unseen mechanisms suddenly groan to life. The chains above shudder and shriek as the drawbridge descends with a deliberate, inexorable pace. With a heavy, final thud, it comes to rest across the chasm.</p>
+<p>Cesta se vine lesem a skalnatými horskými štíty, až se náhle stočí na východ a před vámi se tyčí ohromující, úchvatná přítomnost hradu Ravenloft. Kočár se zarazí před dvojicí kamenných věžiček, rozpadlých po letech vystavení živlům. Za těmito strážními věžemi zeje sráz padesát stop široké propasti plné mlhy, která mizí v neznámých hlubinách.</p>
+<p>Vysoko nad propastí se tyčí impozantní padací most ze starých, vzpěrami zpevněných dřevěných trámů, zavěšený na řetězech ze silného, rzí rozežraného železa, které pod tou tíhou vrzají a napínají se. Z vrcholků vysokých hradeb na vás prázdnými očními důlky zírají kamenní chrliči a ohavně se šklebí.</p>
+<p>Vzduchem se rozlehne hluboké, zvučné skřípění, když neviditelné mechanismy náhle se zasténáním procitnou. Řetězy nad vámi se zachvějí a zaskřípou, jak se padací most rozvážným, neúprosným tempem spouští. S těžkým, konečným dunivým úderem dosedne napříč propastí.</p>
 </div>
 
-Once the drawbridge has descended, the carriage resumes its passage toward the castle. Read:
+Jakmile se padací most spustí, kočár pokračuje v cestě k hradu. Přečtěte:
 
 <div class="description">
-<p>The carriage lurches forward, its wheels creaking as it rolls onto the drawbridge. The wooden planks groan beneath its weight, each hoofbeat striking a somber drumbeat against the ancient structure. You catch a final glimpse of the gargoyles atop the walls, their stony grins resembling leers amidst the shadows of the keep.</p>
-<p>A rotting wooden portcullis, green with growth, hangs above the entry tunnel. As the horses pass beneath it, the carriage’s lanterns cast flickering shadows against the dark stone walls, forming strange, twisted shapes that cling to the mortared brickwork.</p>
-<p>The carriage emerges from the tunnel into a courtyard, where it shudders to a halt. The carriage door clicks—and slowly opens.</p>
+<p>Kočár sebou trhne vpřed a kola zavrzají, když vjíždí na padací most. Dřevěná prkna pod jeho tíhou sténají a každý úder kopyt duní o prastarou stavbu jako ponurý bubeník. Naposledy zahlédnete chrliče na hradbách; jejich kamenné úsměvy ve stínech pevnosti připomínají úlisné úšklebky.</p>
+<p>Nad vstupním tunelem visí hnijící dřevěná padací mříž, zelená porostem. Když pod ní koně projíždějí, vrhají lucerny kočáru na tmavé kamenné zdi mihotavé stíny, které tvoří podivné, zkroucené tvary lpící na maltou spojeném zdivu.</p>
+<p>Kočár vyjede z tunelu na nádvoří, kde se se zachvěním zastaví. Dvířka kočáru cvaknou – a pomalu se otevřou.</p>
 </div>
 
-The players have arrived at Castle Ravenloft.
-## O4a. The Courtyard
+Hráči dorazili na hrad Ravenloft.
+## O4a. Nádvoří
 <span class="citation"><em>This scene takes place in Chapter 4, Area K1.</em></span>
 
-This area is largely as described in <span class="citation">K1. Front Courtyard (p. 52)</span>. However, as the players exit the carriage, revise this area’s description as follows:
+Tato oblast do značné míry odpovídá popisu v <span class="citation">K1. Front Courtyard (p. 52)</span>. Když však hráči vystoupí z kočáru, upravte popis oblasti takto:
 
 <div class="description">
-<p>Thick, cold fog swirls in this courtyard, and sporadic flashes of lightning lance the weeping clouds overhead as thunder shakes the ground. Through the drizzle, you see torch flames fluttering on each side of the keep's tall main doors. High above the entrance is a round window with shards of broken glass lodged in its iron frame.</p>
-<p>The castle doors stand open, warm light spilling out of the entrance and flooding the courtyard. Two figures stand between the doors. One, a tall, lithe man with pointed ears and a dusky complexion, wears a rich, blue tunic set with intricate spiral patterns and trimmed with golden thread. His lip is curled in a thin, perpetual frown, and he holds both hands primly clasped behind his back.</p>
-<p>His companion, a woman, wears a striking red dress with a layered, ruffled frill. A black and crimson silk head scarf wraps around her head, its lush fabric sewn with precious jewels, and a black opal pendant glints from a silver necklace dangling loosely from her neck. Her red eyes glint in the flickering light, and you catch a glimpse of a gleaming-white fang behind her curved upper lip.</p>
+<p>Nádvořím víří hustá, studená mlha a plačícími mraky nad vámi občas prošlehnou blesky, zatímco hrom otřásá zemí. Mrholením spatříte plameny pochodní, které se třepotají po obou stranách vysokých hlavních dveří pevnosti. Vysoko nad vchodem je kulaté okno, v jehož železném rámu vězí střepy rozbitého skla.</p>
+<p>Dveře hradu stojí otevřené a z vchodu se line teplé světlo, které zaplavuje nádvoří. Mezi dveřmi stojí dvě postavy. Jedna, vysoký, štíhlý muž se špičatýma ušima a snědou pletí, má na sobě bohatou modrou tuniku zdobenou spletitými spirálovými vzory a lemovanou zlatou nití. Ret má zkroucený v tenkém, věčném zamračení a obě ruce má upjatě sepjaté za zády.</p>
+<p>Jeho společnice, žena, má na sobě oslnivé rudé šaty s vrstveným, nařaseným volánem. Hlavu jí ovíjí černočervený hedvábný šátek, jehož bohatá látka je posázená drahokamy, a z volně visícího stříbrného náhrdelníku na jejím krku se třpytí přívěsek s černým opálem. Rudé oči se jí lesknou v mihotavém světle a za jejím klenutým horním rtem zahlédnete zářivě bílý tesák.</p>
 </div>
 
-The players recognize the man as Rahadin, Strahd’s chamberlain. The woman is Anastrasya Karelova, one of Strahd’s vampiric brides.
+Hráči v muži poznají Rahadina, Strahdova komořího. Žena je Anastrasja Karelova, jedna ze Strahdových upířích nevěst.
 
-> [!profile]+ **Profile: Anastrasya Karelova**
-> **Roleplaying Information**
-> ***Resonance.*** Anastrasya should inspire flattery for her compliments and charm, suspicion for her disguised efforts to probe for the players’ secrets, and disgust for her apathy toward the plight of the Barovian people.
+> [!profile]+ **Profil: Anastrasja Karelova**
+> **Pro hraní role**
+> ***Vyznění.*** Anastrasja by měla v hráčích budit pocit polichocení svými komplimenty a šarmem, podezíravost svými skrytými snahami vyzvědět jejich tajemství a odpor svou lhostejností k údělu barovského lidu.
 >
-> ***Emotions.*** Anastrasya most often feels calm, amused, satisfied, or intrigued.
+> ***Emoce.*** Anastrasja nejčastěji cítí klid, pobavení, spokojenost nebo zaujetí.
 >
-> ***Motivations.*** Anastrasya wants to remove Volenta, Ludmilla, and the players as competitors to Strahd’s affections—by setting them against each other, if at all possible.
+> ***Motivace.*** Anastrasja chce odstranit Volentu, Ludmillu a hráče jako soky v boji o Strahdovu náklonnost – pokud možno tím, že je poštve proti sobě.
 >
-> ***Inspirations.*** When playing Anastrasya, channel Lara Raith (*The Dresden Files*), Margaery Tyrell (*Game of Thrones*), and Irene Adler (*Sherlock Holmes*)
+> ***Inspirace.*** Při hraní Anastrasji čerpejte z postav Lara Raith (*The Dresden Files*), Margaery Tyrell (*Game of Thrones*) a Irene Adler (*Sherlock Holmes*)
 >
-> **Character Information**
-> ***Persona.*** To the world, Anastrasya is an empathetic, thoughtful, and charming socialite. To those who know her better, Anastrasya is a cunning, merciless chessmaster with a penchant for worming her way out of even the stickiest situations.
+> **O postavě**
+> ***Tvář.*** Před světem je Anastrasja empatická, pozorná a okouzlující dáma z vyšší společnosti. Pro ty, kdo ji znají lépe, je Anastrasja prohnaná, nemilosrdná stratégka, která tahá za nitky a má talent vyklouznout i z té nejšlamastyčtější situace.
 >
-> ***Morale.*** In a fight, Anastrasya would parlay for peace—and stab her enemy in the back as soon as an opportune moment presented itself.
+> ***Morálka.*** V boji by Anastrasja vyjednávala o mír – a vrazila by nepříteli dýku do zad, jakmile by se naskytla vhodná chvíle.
 >
-> ***Relationships.*** Anastrasya is Strahd’s third-youngest bride and a former Vallakian noble from a now-extinct house.
+> ***Vztahy.*** Anastrasja je Strahdova třetí nejmladší nevěsta a bývalá vallacká šlechtična z dnes již vymřelého rodu.
 
-> [!profile]+ **Profile: Rahadin**
-> **Roleplaying Information**
-> ***Resonance.*** Rahadin should inspire anger for his condescension and unease for his deadly calm and undying devotion to carrying out Strahd’s will.
+> [!profile]+ **Profil: Rahadin**
+> **Pro hraní role**
+> ***Vyznění.*** Rahadin by měl v hráčích budit hněv svou povýšeností a neklid svým smrtícím klidem a nehynoucí oddaností plnění Strahdovy vůle.
 >
-> ***Emotions.*** Rahadin most often feels calm, disdainful, satisfied, bored, or irritated. 
+> ***Emoce.*** Rahadin nejčastěji cítí klid, pohrdání, spokojenost, nudu nebo podráždění.
 >
-> ***Motivations.*** Rahadin wants to serve Strahd’s will as his faithful, ever-loyal servant—no matter the cost to himself or others.
+> ***Motivace.*** Rahadin chce sloužit Strahdově vůli jako jeho věrný, vždy oddaný služebník – bez ohledu na to, co to bude stát jeho samotného či ostatní.
 >
-> ***Inspirations.*** When playing Rahadin, channel Tywin Lannister (*Game of Thrones*), Severus Snape (*Harry Potter*), and Agent Smith (*The Matrix*).
+> ***Inspirace.*** Při hraní Rahadina čerpejte z postav Tywin Lannister (*Game of Thrones*), Severus Snape (*Harry Potter*) a Agent Smith (*The Matrix*).
 >
-> **Character Information**
-> ***Persona.*** To the world, Rahadin is Strahd’s loyal right-hand man and merciless enforcer. Only Rahadin knows the depths of his dedication to the Von Zarovich family, who he believes saved him from shame and despair.
+> **O postavě**
+> ***Tvář.*** Před světem je Rahadin Strahdovou věrnou pravou rukou a nemilosrdným vykonavatelem jeho vůle. Jen Rahadin sám ví, jak hluboká je jeho oddanost rodu von Zarovich, o němž věří, že ho zachránil před hanbou a zoufalstvím.
 >
-> ***Morale.*** In a fight, Rahadin would immediately draw his weapons and softly offer his opponent an opportunity to stand down—then attack mercilessly and with every strategic advantage if denied.
+> ***Morálka.*** V boji by Rahadin okamžitě tasil zbraně a tiše by protivníkovi nabídl možnost ustoupit – a pokud by ji odmítl, zaútočil by nemilosrdně a s využitím každé taktické výhody.
 >
-> ***Relationships.*** Rahadin is the chamberlain of Castle Ravenloft, the adopted brother of Strahd von Zarovich, the cousin of the dusk elf Kasimir Velikov, the son of the late dusk elf prince Erevan Löwenhart (the original owner of the blade that would later become the *Sunsword*), and the killer of the dusk elf women (excepting the **banshee** Patrina Velikovna, who was killed by her brother Kasimir).
+> ***Vztahy.*** Rahadin je komoří hradu Ravenloft, adoptivní bratr Strahda von Zarovich, bratranec soumračného elfa Kasimira Velikova, syn zesnulého soumračného elfího prince Erevana Löwenharta (původního majitele čepele, z níž se později stal *Sluneční meč*) a vrah soumračných elfek (s výjimkou banshee (**banshee**) Patriny Velikovna, kterou zabil její bratr Kasimir).
 
 ![[Anastrasyatransparent.png]]
-<span class="credit">"Anastrasya" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">„Anastrasja“ – autor: Caleb Cleveland. Podpořte ho na <a href="https://patreon.com/calebisdrawing/">Patreonu!</a></span>
 
-Anastrasya greets the players warmly by name (“You must be . . . “), then welcomes them to Castle Ravenloft. As she does, she expresses her cheerful delight at finally having an opportunity to meet them in person and shares that she’s “heard *so* much about them."
+Anastrasja hráče vřele pozdraví jménem („Vy musíte být…“) a pak je přivítá na hradě Ravenloft. Přitom dá najevo své radostné potěšení z toho, že má konečně příležitost poznat je osobně, a prozradí, že o nich „slyšela *tolik*“.
 
-If the players inquire as to Strahd’s absence, Rahadin notes flatly that “the master is occupied with other business," and will see to the players soon. 
+Pokud se hráči zeptají, proč tu Strahd není, Rahadin věcně poznamená, že „pán se věnuje jiným záležitostem“ a brzy se hráčům bude věnovat.
 
-If any players appear slovenly, dirty (e.g., due to spilling the wine from Strahd’s *box of holding*), or poorly dressed, Rahadin curls his lip and asks, in evident disbelief, whether they truly consider themselves presentable. “You are about to dine with the lord of Castle Ravenloft," he intones, glaring at them. “A certain . . . decorum is expected for those who wish to show *respect.*" If any players are wearing the cloaks from Strahd’s *box of holding* or otherwise took additional effort to make a good impression, Rahadin briefly inspects their clothing before declaring their appearance “adequate."
+Pokud některý z hráčů vypadá zanedbaně, je špinavý (například proto, že se polil vínem ze Strahdovy truhličky (*box of holding*)) nebo je špatně oblečený, Rahadin ohrne ret a s nepokrytou nedůvěrou se zeptá, zda se skutečně považují za reprezentativní. „Chystáte se večeřet s pánem hradu Ravenloft,“ pronese odměřeně a probodne je pohledem. „Od těch, kdo si přejí prokázat *úctu*, se očekává jistá… důstojnost.“ Pokud mají někteří hráči na sobě pláště ze Strahdovy truhličky (*box of holding*) nebo jinak vynaložili zvláštní úsilí, aby udělali dobrý dojem, Rahadin si jejich oděv krátce prohlédne a pak prohlásí, že jejich vzhled je „přijatelný“.
 
-> [!abstract]+ **Holy Symbol of Ravenkind**
-> If Anastrasya notices any player wearing the _Holy Symbol of Ravenkind_, she singles them out and, while fussing over their clothing, pointedly adjusts its weight around the player's neck. As she does, she compliments the player on their "lovely jewelry," but wonders aloud whether it "might be overdecorated." She adds, "Some might call it tacky, but darling, I love a guest who can wear such a piece with such _confidence_."
+> [!abstract]+ **Svatý symbol Havraního rodu**
+> Pokud si Anastrasja všimne, že některý z hráčů nosí _Svatý symbol Havraního rodu_, vybere si ho a zatímco mu upravuje oděv, okázale mu upraví, jak mu symbol visí na krku. Přitom hráčovi polichotí za jeho „rozkošný šperk“, ale nahlas uvažuje, zda „není trochu přezdobený“. Dodá: „Někdo by to nazval nevkusem, ale drahoušku, já zbožňuji hosty, kteří dokážou takový kousek nosit s takovou _sebejistotou_.“
 > 
-> A player with a passive Wisdom (Insight) score of 16 or greater notices that, when observing the _Holy Symbol_, Anastrasya's voice is tight, her lips slightly curled, and her eyes bear a faint glint of furious recognition. If confronted regarding her apparent recognition, Anastrasya laughs delightedly and claims the symbol "somewhat resembles an item an _old friend_ of hers once wore, quite a long time ago." (Anastrasya is referring to the paladin Lugdana, who hunted Anastrasya down and drove her into hiding nearly a century ago.)
+> Hráč s pasivní Wisdom (Insight) 16 nebo vyšší si všimne, že když Anastrasja hledí na _Svatý symbol_, má napjatý hlas, mírně zkroucené rty a v očích jí probleskne slabá jiskra zuřivého poznání. Pokud ji hráči se zjevným poznáním konfrontují, Anastrasja se rozjařeně zasměje a tvrdí, že symbol „trochu připomíná předmět, který kdysi, už je to hodně dávno, nosila jedna její _stará přítelkyně_“. (Anastrasja má na mysli paladinku Lugdanu, která ji před téměř sto lety pronásledovala a donutila ji skrývat se.)
 
-After Anastrasya fusses over the players’ clothes and ushers them into <span class="citation">K7. Entry (p. 54)</span> and out of the rain, Rahadin turns, nods, and clicks his tongue toward the carriage. The horses then trot away, leading the carriage through the northern <span class="citation">K2. Center Court Gate (p. 54)</span> and into <span class="citation">K3. Servants’ Courtyard (p. 54)</span>, where they are greeted and led into <span class="citation">K4. Carriage House (p. 54)</span> by the **mongrelfolk** Cyrus Belview. (See <span class="citation">K62. Servants’ Hall (p. 76)</span> for more information about Cyrus.)
+Když Anastrasja dokončí úpravy oděvu hráčů a uvede je z deště do <span class="citation">K7. Entry (p. 54)</span>, Rahadin se otočí, kývne a mlaskne směrem ke kočáru. Koně pak odklušou a odvezou kočár severní <span class="citation">K2. Center Court Gate (p. 54)</span> do <span class="citation">K3. Servants’ Courtyard (p. 54)</span>, kde je přivítá a do <span class="citation">K4. Carriage House (p. 54)</span> odvede kříženec (**mongrelfolk**) Cyrus Belview. (Více informací o Cyrusovi najdete v <span class="citation">K62. Servants’ Hall (p. 76)</span>.)
 
-As the players enter the keep, the castle drawbridge rises once more. Read:
+Když hráči vstoupí do pevnosti, padací most hradu se znovu zvedne. Přečtěte:
 
 <div class="description">
-<p>A low rumbling cuts through the rain. In the distance, you see the massive chains of the drawbridge tense, their links clanking against one another as the mechanism awakens once more. Slowly, like a stirring giant, the drawbridge rises into the night, leaving the fog-choked chasm behind. With a shuddering thud, it settles into place, the torchlight flickering across its wooden beams and rusted iron bolts once more.</p>
+<p>Deštěm pronikne hluboké dunění. V dálce spatříte, jak se mohutné řetězy padacího mostu napínají a jejich články o sebe řinčí, jak se mechanismus znovu probouzí. Pomalu, jako procitající obr, se padací most zvedá do noci a zanechává za sebou mlhou zalitou propast. S rozechvělým dunivým úderem zapadne na své místo a světlo pochodní se opět mihotá po jeho dřevěných trámech a rezavých železných svornících.</p>
 </div>
 
-## O4b. The Foyer
+## O4b. Vstupní síň
 <span class="citation"><em>This scene takes place in Chapter 4, Area K7.</em></span>
 
-The castle foyer is largely as described in <span class="citation">K7. Entry (p. 54)</span>. However, decrease the number of **dragon wyrmling** statues to two. (The other two are harmless statuary.) The dragon statues do not attack the players for as long as the players are here by invitation.
+Vstupní síň hradu do značné míry odpovídá popisu v <span class="citation">K7. Entry (p. 54)</span>. Snižte však počet soch dračích mláďat (**dragon wyrmling**) na dvě. (Zbylé dvě jsou neškodné sochy.) Dračí sochy na hráče nezaútočí, dokud jsou tu hráči na pozvání.
 
-In addition, revise this area’s description as follows as Rahadin leads the players through for the first time:
+Kromě toho upravte popis této oblasti, když jí Rahadin hráče poprvé provádí, takto:
 
 <div class="description">
-<p>You pass through the ornate outer doors into the castle's vaulted entry foyer, your footsteps echoing on the dark stone floor. Overhead, four statues of dragons glare down, their lifelike eyes flickering in the torchlight.</p>
-<p>Twenty feet inside the castle is a second set of doors, manned by two figures. To the left stands a handsome young man with long, blond hair, his soft features sharpened by a frozen smile. To the right, a pale-skinned woman in an old wedding gown stands stiffly. Her hair, as black as a raven’s feathers, cascades over her shoulders, and her lips are pulled daintily back to reveal two, fine-pointed fangs. As you approach, both bow deeply to Rahadin—the man with a cat’s mocking grace, the woman with a jerking, guarded motion—and step aside to pull open the doors for your passage.</p>
+<p>Projdete zdobenými vnějšími dveřmi do klenuté vstupní síně hradu a vaše kroky se rozléhají po tmavé kamenné podlaze. Shora na vás zlověstně hledí čtyři sochy draků a jejich jako živé oči se mihotají ve světle pochodní.</p>
+<p>Dvacet stop za vstupem do hradu jsou druhé dveře, u nichž stojí dvě postavy. Vlevo stojí pohledný mladý muž s dlouhými plavými vlasy, jehož jemné rysy zostřuje ztuhlý úsměv. Vpravo strnule stojí bledá žena ve starých svatebních šatech. Vlasy černé jako havraní peří se jí rozlévají přes ramena a rty má půvabně staženy, takže odhalují dva jemně zašpičatělé tesáky. Když se přiblížíte, oba se před Rahadinem hluboce ukloní – muž s posměšnou kočičí ladností, žena trhaným, ostražitým pohybem – a ustoupí stranou, aby vám otevřeli dveře.</p>
 </div>
 
-The players recognize the man as Escher, Strahd’s **vampire spawn** consort, who they previously met in [[Act I - Into the Mists/Arc C - Into the Valley]]. The woman is Sasha Ivliskova, a **vampire spawn** and Strahd’s eldest vampiric bride.
+Hráči v muži poznají Eschera, Strahdova druha a upířího zplozence (**vampire spawn**), s nímž se dříve setkali v [[Act I - Into the Mists/Arc C - Into the Valley|Oblouk C – Do údolí]]. Žena je Sasha Ivliskova, upíří zplozenkyně (**vampire spawn**) a Strahdova nejstarší upíří nevěsta.
 
 ![[Escher.png]]
-<span class="credit">"Escher" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">„Escher“ – autor: Caleb Cleveland. Podpořte ho na <a href="https://patreon.com/calebisdrawing/">Patreonu!</a></span>
 
 ![[Sasha Ivliskova.png]]
-<span class="credit">"Sasha Ivliskova" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">„Sasha Ivliskova“ – autor: Caleb Cleveland. Podpořte ho na <a href="https://patreon.com/calebisdrawing/">Patreonu!</a></span>
 
-> [!profile]+ **Profile: Escher**
-> **Roleplaying Information**
-> ***Resonance.*** Escher should make the players feel amused and flattered with his flamboyantly flirtatious behavior, irritated with his snide or condescending commentary, and, eventually, sympathetic to his unspoken guilt for his role in bringing harm to his friends and neighbors by awakening Strahd.
+> [!profile]+ **Profil: Escher**
+> **Pro hraní role**
+> ***Vyznění.*** Escher by měl v hráčích budit pobavení a pocit polichocení svým okázale koketním chováním, podráždění svými jízlivými či povýšenými poznámkami a nakonec soucit s jeho nevyslovenou vinou za to, že probuzením Strahda přivedl neštěstí na své přátele a sousedy.
 > 
-> ***Emotions.*** Escher most often feels annoyed, curious, angry, smug, anxious, fearful, playful, mischievous, amused, guilty, bitter, regretful, or ashamed.
+> ***Emoce.*** Escher nejčastěji cítí rozmrzelost, zvědavost, hněv, samolibost, úzkost, strach, hravost, rozpustilost, pobavení, vinu, zahořklost, lítost nebo stud.
 > 
-> ***Motivations.*** Escher wants to please Strahd and avoid falling from his favor.
+> ***Motivace.*** Escher chce Strahdovi vyhovět a nepřijít o jeho přízeň.
 > 
-> ***Inspirations.*** When roleplaying Escher, channel Astarion (*Baldur's Gate 3*), Crowley (*Good Omens*), and Renly Baratheon (*Game of Thrones*).
+> ***Inspirace.*** Při hraní Eschera čerpejte z postav Astarion (*Baldur's Gate 3*), Crowley (*Good Omens*) a Renly Baratheon (*Game of Thrones*).
 > 
-> **Character Information**
-> ***Persona.*** To the world, Escher is a flamboyant and self-assured member of Strahd's court, with a love for preening, luxuries, and attention. Only Escher knows that he is a guilt-ridden, self-loathing, broken man who longs desperately for Strahd's approval and has long since resigned himself to the cage his choices have trapped him in.
+> **O postavě**
+> ***Tvář.*** Před světem je Escher okázalý a sebejistý člen Strahdova dvora, který si libuje v parádění, přepychu a pozornosti. Jen Escher sám ví, že je vinou sužovaný, sebou pohrdající, zlomený muž, který zoufale touží po Strahdově uznání a už dávno se smířil s klecí, do níž ho uvěznila jeho vlastní rozhodnutí.
 > 
-> ***Morale.*** In a fight, Escher would seek to entreat or flee his adversary, fighting only if cornered or if grievously offended.
+> ***Morálka.*** V boji by se Escher snažil protivníka uprosit nebo by uprchl; bojoval by jen tehdy, kdyby byl zahnán do kouta nebo těžce uražen.
 > 
-> ***Relationships.*** Before becoming one of Strahd's consorts, Escher had a crush on Doru, his former best friend. He is now one of Strahd's consorts—though not formally wed to him—and an inferior member of Strahd's court.
+> ***Vztahy.*** Než se Escher stal Strahdovým druhem, byl zamilovaný do Doru, svého bývalého nejlepšího přítele. Nyní je Strahdovým druhem – ačkoli s ním není formálně oddán – a podřadným členem Strahdova dvora.
 
-> [!profile]+ **Profile: Sasha Ivliskova**
-> **Roleplaying Information**
-> ***Resonance.*** Sasha should make the players feel sympathetic toward her clear discomfort as one of Strahd's brides, endeared to her for her efforts to maintain her dignity in the face of dismissal and cruelty from Strahd's other brides, and mildly put off by her standoffish reluctance to allow others to get close to her.
+> [!profile]+ **Profil: Sasha Ivliskova**
+> **Pro hraní role**
+> ***Vyznění.*** Sasha by měla v hráčích budit soucit se zjevnou nevolí, s níž snáší úděl jedné ze Strahdových nevěst, náklonnost pro své úsilí zachovat si důstojnost tváří v tvář pohrdání a krutosti ostatních Strahdových nevěst a mírnou odtažitost kvůli své rezervované zdráhavosti pustit si kohokoli blíž k tělu.
 > 
-> ***Emotions.*** Sasha most often feels melancholy, anxious, despondent, uncomfortable, anguished, reluctant, or fearful. If treated with kindness, she might feel grateful or hopeful.
+> ***Emoce.*** Sasha nejčastěji cítí melancholii, úzkost, sklíčenost, nepohodlí, trýzeň, zdráhavost nebo strach. Pokud se k ní hráči chovají laskavě, může cítit vděčnost nebo naději.
 > 
-> ***Motivations.*** Sasha is motivated by her desire to avoid Strahd's wrath, protect other vulnerable Barovians from falling under Strahd's thrall, and free herself from the vampiric curse of undeath.
+> ***Motivace.*** Sashu pohání touha vyhnout se Strahdovu hněvu, ochránit další zranitelné Barovany před tím, aby propadli Strahdově moci, a osvobodit se od upíří kletby nemrtvého bytí.
 > 
-> ***Inspirations.*** When roleplaying Sasha, channel Sansa Stark (*Game of Thrones)*), Katniss Everdeen (*The Hunger Games*), and Elsa (*Frozen*).
+> ***Inspirace.*** Při hraní Sashy čerpejte z postav Sansa Stark (*Game of Thrones*), Katniss Everdeen (*The Hunger Games*) a Elsa (*Frozen*).
 > 
-> **Character Information**
-> ***Persona.*** To the world, Sasha is a quiet, brooding vampire with little interest in others. To those she trusts, Sasha is a sorrowful, guilt-ridden soul desperate to escape her monstrous existence.
+> **O postavě**
+> ***Tvář.*** Před světem je Sasha tichá, zadumaná upírka s malým zájmem o ostatní. Pro ty, jimž důvěřuje, je Sasha žalem a vinou sužovaná duše, která zoufale touží uniknout ze své zrůdné existence.
 > 
-> ***Morale.*** In a fight, Sasha would seek to flee or entreat her adversary, fighting only if cornered by an evil or malevolent opponent.
+> ***Morálka.*** V boji by se Sasha snažila uprchnout nebo protivníka uprosit; bojovala by jen tehdy, kdyby ji do kouta zahnal zlý či zlovolný protivník.
 > 
-> ***Relationships.*** Sasha is Strahd's first bride and a secret friend to Gertruda, Doru's betrothed and Strahd's prisoner.
+> ***Vztahy.*** Sasha je Strahdova první nevěsta a tajná přítelkyně Gertrudy, Doruovy snoubenky a Strahdovy zajatkyně.
 
-> [!lore]+ **The Eldest Bride**
-> Nearly four hundred years ago, in his grief after losing Tatyana, Strahd lured several more women to Castle Ravenloft as described in <span class="citation">Rahadin (p. 236)</span>. All perished to his newfound thirst for blood—but only Sasha Ivliskova, whom Strahd found remarkably similar in temperament to Tatyana, retained his interest for long.
+> [!lore]+ **Nejstarší nevěsta**
+> Před téměř čtyřmi sty lety, v žalu po ztrátě Taťány, vylákal Strahd na hrad Ravenloft několik dalších žen, jak je popsáno v <span class="citation">Rahadin (p. 236)</span>. Všechny podlehly jeho nově nabyté žízni po krvi – ale jen Sasha Ivliskova, v níž Strahd shledal povahu pozoruhodně podobnou Taťáně, si jeho zájem udržela na dlouho.
 >
-> In a wedding ceremony attended by the terrified burgomasters and other nobles of Barovia, Strahd made Sasha a **vampire spawn**—and his first vampiric bride. Their union, however, was not a happy one. Embittered and disappointed by his loss of Tatyana, Strahd often raged at Sasha’s “inadequacy," cursing her and treating her cruelly for her many perceived shortcomings. Terrified, but unwilling to accept his abuse any longer, Sasha demanded her freedom—and Strahd punished her by imprisoning her in a tiny crypt in Ravenloft’s catacombs.
+> Na svatebním obřadu, jehož se účastnili vyděšení purkmistři a další barovští šlechtici, učinil Strahd ze Sashy upíří zplozenkyni (**vampire spawn**) – a svou první upíří nevěstu. Jejich svazek však nebyl šťastný. Strahd, zahořklý a zklamaný ztrátou Taťány, často běsnil nad Sashinou „nedostatečností“, proklínal ji a krutě se k ní choval pro její mnohé domnělé nedostatky. Vyděšená, ale neochotná dál snášet jeho týrání, Sasha požadovala svobodu – a Strahd ji potrestal tím, že ji uvěznil v malé kryptě v katakombách Ravenloftu.
 >
-> Sasha remained in her crypt for centuries, descending into madness as the long years starved her of both blood and companionship. Compelled by Strahd’s orders to remain, she was powerless to even touch the heavy slab that sealed her silent tomb, its smooth stone surface mere inches from her shriveled, trembling hands.
+> Sasha zůstala ve své kryptě po staletí a propadala šílenství, zatímco ji dlouhá léta mořila hladem po krvi i po společnosti. Strahdovým rozkazem přinucená zůstat neměla moc ani se dotknout těžké desky, jež pečetila její tichou hrobku, ačkoli její hladký kamenný povrch byl jen pár palců od jejích scvrklých, chvějících se rukou.
 >
-> It was only when Strahd awoke from his recent hibernation that he finally retrieved Sasha from her prison, allowing her eyes to see light for the first time in nearly four centuries. Driven into a frenzy by the three Barovian prisoners he left for her, she descended upon them like an animal, her mind returning only once she’d drunk their final drop of blood.
+> Teprve když se Strahd probudil ze svého nedávného spánku, vyzvedl konečně Sashu z jejího vězení a dovolil jejím očím poprvé po téměř čtyřech staletích spatřit světlo. Tři barovští zajatci, které jí přenechal, ji dohnali k šílenství; vrhla se na ně jako zvíře a mysl se jí vrátila teprve tehdy, když vypila poslední kapku jejich krve.
 >
-> Sasha hates what she has become—and the only thing she hates more than that is Strahd. Though she isn’t sure why he awoke her, she desires nothing less than his complete and utter end—and her own opportunity to finally find rest at last.
+> Sasha nenávidí to, čím se stala – a jediné, co nenávidí víc, je Strahd. Ačkoli si není jistá, proč ji probudil, netouží po ničem menším než po jeho naprostém a úplném konci – a po vlastní příležitosti konečně najít odpočinek.
 
-If Ireena is with the party, Sasha briefly startles upon glimpsing her—almost as though “she’s seen a ghost"—but swiftly regains her composure.
+Pokud je s družinou Ireena, Sasha sebou při pohledu na ni krátce trhne – skoro jako by „spatřila ducha“ –, ale rychle se ovládne.
 
-> [!lore]+ **Sasha & Tatyana**
-> Although Sasha and Tatyana never met in life, Sasha is deeply familiar with Tatyana’s face, having spent many years studying the other woman’s features in the commissioned portrait Strahd placed in <span class="citation">K37. Study (p. 66)</span>. Although Sasha once hated Tatyana for escaping Strahd’s clutches, age has matured her loathing to pity, and Sasha now mourns Tatyana as a woman not unlike herself: a victim of Strahd’s appetites and cruelty.
+> [!lore]+ **Sasha a Taťána**
+> Ačkoli se Sasha s Taťánou za života nikdy nesetkala, zná Taťáninu tvář důvěrně, neboť strávila mnoho let studiem rysů té druhé ženy na portrétu, který si Strahd nechal zhotovit a umístil ho v <span class="citation">K37. Study (p. 66)</span>. Ačkoli Sasha kdysi Taťánu nenáviděla za to, že unikla ze Strahdových spárů, věk její odpor vyzrál v soucit a Sasha nyní Taťánu oplakává jako ženu ne nepodobnou sobě samé: oběť Strahdových chtíčů a krutosti.
 >
-> Though she isn’t sure whether she believes it herself, Sasha knows that Strahd believes Ireena is Tatyana reincarnated—a fact he used to idly mock her shortly after her emergence from her tomb. Though she is powerless to disobey Strahd’s will, Sasha—shocked by Ireena’s resemblance to Tatyana—prays that Ireena might avoid her counterpart’s fate, and that her soul might one day find freedom from Strahd’s dark clutches.
-## O4c. The Great Entry
+> Ačkoli si není jistá, zda tomu sama věří, Sasha ví, že Strahd věří, že Ireena je převtělená Taťána – což jí krátce poté, co vystoupila ze své hrobky, lhostejně připomínal, aby se jí posmíval. Ačkoli nemá moc Strahdově vůli vzdorovat, Sasha – otřesená Ireeninou podobností s Taťánou – se modlí, aby Ireena unikla osudu své předchůdkyně a aby její duše jednoho dne našla svobodu z temných Strahdových spárů.
+## O4c. Velký vstup
 <span class="citation"><em>This scene takes place in Chapter 4, Area K8.</em></span>
 
-This area is largely as described in <span class="citation">K8. Great Entry (p. 55)</span>. However, decrease the number of **gargoyles** to four. The gargoyles don’t attack so long as the players are here by invitation.
+Tato oblast do značné míry odpovídá popisu v <span class="citation">K8. Great Entry (p. 55)</span>. Snižte však počet chrličů (**gargoyles**) na čtyři. Chrliči nezaútočí, dokud jsou tu hráči na pozvání.
 
-In addition, remove the description of “sad and majestic organ tones" from the final sentence of this area’s description, omit the description of Rahadin, and add the following text to the end of this area’s description, modifying it as necessary if Volenta Popofsky or Ludmilla Vilisevic have previously been killed:
-
-<div class="description">
-<p>A dainty woman, wearing a faded gold wedding gown and a platinum mask shaped like a skull, sloshes a wine glass filled with a deep, crimson liquid as she gestures wildly. Her companion, a tall, dark-skinned woman wearing a gold tiara and a simple white gown, instead disregards her, her cold gaze flickering toward you as her expression darkens. Her grip on her own wine glass tightens, and the corners of her mouth pull ever-slightly downwards.</p>
-</div>
-
-### Introductions
-If they have previously encountered them in [[Arc D - St. Andral's Feast]] and [[Arc J - The Stolen Gem]], the players recognize the dainty woman as Volenta Popofsky and the tall woman as Ludmilla Vilisevic. Volenta and Ludmilla recognize the players—Ludmilla regarding them with an icy disdain, and Volenta draining her glass as she scowls at them below her mask.
-
-Escher and Sasha then close the entry doors behind them, joining the players and other consorts in the great entry. If uninterrupted, Anastrasya attempts to introduce the players to Volenta and Ludmilla—though she adds, with an amused smile, that she “believes they may have already met." 
-
-Anastrasya then attempts to introduce the players to Escher and Sasha, introducing them as “our Lord’s newest delight" and “our Lord’s eldest bride," respectively. “Dearest Sasha doesn’t look her years, of course," she adds, almost as an afterthought. “Why, our Lord recently told me she still looks as radiant as the first day he laid eyes on her." (A player with a passive Wisdom (Insight) of 13 or greater notices Sasha visibly tremble at Anastrasya’s backhanded “compliment," Sasha’s fingers tightening into fists as her vampiric claws draw blood from her own palms.)
-
-> [!abstract]+ **Escher and Ireena**
-> If Ireena is not present, Escher is flamboyant, cheerful, and flirtatious with the players, determined to show Strahd’s other consorts that he won’t be cowed by their efforts to pull rank. If Ireena is present, Escher, though still flamboyant, is more withdrawn and even occasionally abrasive and quick-tempered. Too ashamed of the consequences of his decision to awaken Strahd—such as the death of Ireena’s father and the deaths of many of his friends and neighbors—he is unwilling to meet her eyes for the duration of the evening.
-
-### Volenta’s Toy
-As introductions draw to a close, Rahadin moves towards the <span class="citation">K9. Guests' Hall (p. 56)</span> to guard the entrance to <span class="citation">K21. South Tower Stair (p. 59)</span>. As he does, a man emerges from the south tower stair and joins the players and brides in the great entry. Read:
+Kromě toho z poslední věty popisu této oblasti vypusťte zmínku o „smutných a majestátních tónech varhan“, vynechte popis Rahadina a na konec popisu oblasti přidejte následující text, který podle potřeby upravte, pokud byla Volenta Popofsky nebo Ludmilla Vilisevic už dříve zabita:
 
 <div class="description">
-<p>A thin man dressed in fine servant’s clothes exits the torchlit staircase, his face completely obscured by a pale white mask. He holds a tray with several wine glasses and two pitchers of liquid upon it—one deep purple, one bright crimson—and steps carefully across the stone floor toward you.</p>
+<p>Drobná žena ve vybledlých zlatých svatebních šatech a s platinovou maskou ve tvaru lebky divoce gestikuluje a přitom šplíchá sklenkou plnou sytě karmínové tekutiny. Její společnice, vysoká žena tmavé pleti se zlatou čelenkou a v prostých bílých šatech, ji naopak přehlíží; její chladný pohled sklouzne k vám a její výraz potemní. Sevře svou vlastní sklenku pevněji a koutky úst jí nepatrně poklesnou.</p>
 </div>
 
-The man is a middle-aged Barovian villager named Anton Konstantinovich. He has no tongue and cannot speak. 
+### Představování
+Pokud se s nimi hráči už dříve setkali v [[Arc D - St. Andral's Feast|Oblouk D – Hostina svatého Andrala]] a [[Arc J - The Stolen Gem|Oblouk J – Ukradený drahokam]], poznají v drobné ženě Volentu Popofsky a ve vysoké ženě Ludmillu Vilisevic. Volenta i Ludmilla hráče poznají – Ludmilla si je měří s ledovým pohrdáním a Volenta pod maskou vyprázdní sklenku a mračí se na ně.
+
+Escher a Sasha pak za nimi zavřou vstupní dveře a připojí se k hráčům a ostatním upířím družkám ve Velkém vstupu. Pokud ji nikdo nepřeruší, pokusí se Anastrasja hráčům představit Volentu a Ludmillu – ačkoli s pobaveným úsměvem dodá, že „se už možná setkali“.
+
+Pak se Anastrasja pokusí hráčům představit Eschera a Sashu, a to jako „nejnovější potěšení našeho pána“ a „nejstarší nevěstu našeho pána“. „Drahá Sasha samozřejmě na svá léta nevypadá,“ dodá skoro mimochodem. „Vždyť náš pán mi nedávno řekl, že stále vypadá stejně zářivě jako v den, kdy na ni poprvé pohlédl.“ (Hráč s pasivní Wisdom (Insight) 13 nebo vyšší si všimne, že se Sasha při Anastrasjině jedovatém „komplimentu“ viditelně zachvěje, prsty se jí sevřou v pěst a upíří drápy jí rozdrásají dlaně do krve.)
+
+> [!abstract]+ **Escher a Ireena**
+> Pokud Ireena přítomna není, je Escher k hráčům okázalý, veselý a koketní, odhodlaný dokázat ostatním Strahdovým družkám, že se nenechá zastrašit jejich snahami vytahovat se svým postavením. Pokud je Ireena přítomna, je Escher sice stále okázalý, ale uzavřenější, a dokonce občas příkrý a prchlivý. Příliš se stydí za následky svého rozhodnutí probudit Strahda – jako byla smrt Ireenina otce a smrt mnoha jeho přátel a sousedů –, a proto se jí po celý večer nedokáže podívat do očí.
+
+### Volentina hračka
+Když se představování chýlí ke konci, zamíří Rahadin k <span class="citation">K9. Guests' Hall (p. 56)</span>, aby střežil vstup do <span class="citation">K21. South Tower Stair (p. 59)</span>. Přitom z jižního věžního schodiště vyjde muž a připojí se k hráčům a nevěstám ve Velkém vstupu. Přečtěte:
+
+<div class="description">
+<p>Ze schodiště ozářeného pochodněmi vyjde hubený muž oděný v jemném sloužícím šatu, jehož tvář zcela zakrývá bledá bílá maska. Drží podnos s několika sklenkami na víno a dvěma džbány tekutiny – jedné sytě fialové, druhé jasně karmínové – a opatrně k vám kráčí po kamenné podlaze.</p>
+</div>
+
+Muž je barovský vesničan středního věku jménem Anton Konstantinovich. Nemá jazyk a nemůže mluvit.
 
 ![[Anton.png]]
-<span class="credit">"Anton" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">„Anton“ – autor: Caleb Cleveland. Podpořte ho na <a href="https://patreon.com/calebisdrawing/">Patreonu!</a></span>
 
-Unless interrupted, Anton moves first to offer the players wine from the purple pitcher. (If the players ask to have their drinks poured from the red pitcher, the man silently shakes his head and again proffers the purple pitcher. The liquid in the red pitcher is blood, which the vampires drink exclusively.)
+Pokud ho nikdo nepřeruší, nabídne Anton nejprve hráčům víno z fialového džbánu. (Pokud hráči požádají, aby jim nalil z rudého džbánu, muž mlčky zavrtí hlavou a znovu jim nabídne fialový džbán. Tekutina v rudém džbánu je krev, kterou pijí výhradně upíři.)
 
-Any player for whom the man pours a drink notices that each of his fingertips have been severed to the first knuckle, and a player with a passive Wisdom (Insight) score of 13 or greater notices that his hands are trembling. A player who peers past the mask into the man’s eyes and succeeds on a DC 13 Wisdom (Insight) check notices that they are wide with fear.
+Každý hráč, jemuž muž nalije, si všimne, že má všechny konečky prstů useknuté až po první článek, a hráč s pasivní Wisdom (Insight) 13 nebo vyšší si všimne, že se mu třesou ruce. Hráč, který se zahledí za masku do mužových očí a uspěje v ověření Wisdom (Insight) se DC 13, si všimne, že jsou vytřeštěné strachem.
 
-> [!lore]+ **The Tongueless Man**
-> Volenta kidnapped Anton and his wife, Dezdrelda Konstaninova, several weeks ago and subjected them to numerous tortures to satisfy her profane delights, including cutting Anton’s tongue out and severing the tips of his fingers.
+> [!lore]+ **Muž bez jazyka**
+> Volenta před několika týdny unesla Antona a jeho ženu Dezdreldu Konstaninova a podrobila je četným mučením, aby ukojila své bezbožné choutky; mimo jiné Antonovi vyřízla jazyk a usekla mu konečky prstů.
 >
-> While Anton has been “permitted" to serve as an attendant to the evening’s festivities, Dezdrelda’s corpse has been strung up in <span class="citation">K63. Wine Cellar (p. 77)</span> and exsanguinated, her blood drained to feed the vampires’ appetites during the night’s festivities.
+> Zatímco Antonovi bylo „dovoleno“ dělat při večerních slavnostech obsluhu, Dezdreldina mrtvola visí pověšená v <span class="citation">K63. Wine Cellar (p. 77)</span> a je zbavená krve, kterou z ní vycedili, aby nasytila choutky upírů během dnešních slavností.
 
-As drinks are served, Anastrasya attempts to continue the conversation, noting her keen interest in “getting to know such exotic outsiders better," and asking about their interests, hobbies, and experiences. Anastrasya does all she can to show a keen and sincere interest in the players, asking follow-up questions, laughing at their jokes, and probing deeply into their stories and anecdotes.
+Zatímco se nalévá, pokusí se Anastrasja pokračovat v rozhovoru; poznamená, že velice touží „lépe poznat tak exotické cizince“, a vyptává se na jejich zájmy, záliby a zážitky. Anastrasja dělá vše pro to, aby dala najevo živý a upřímný zájem o hráče: klade doplňující otázky, směje se jejich vtipům a důkladně se vyptává na jejich příběhy a historky.
 
-After serving Anastrasya and Escher glasses of “wine" from the red pitcher—Sasha refuses one of her own, shaking her head with a curt, thin frown—Anton approaches Volenta and Ludmilla and attempts to refill their glasses. As he does, read:
+Když Anton nalije Anastrasje a Escherovi sklenky „vína“ z rudého džbánu – Sasha svou odmítne, zavrtí hlavou a krátce, úzce se zamračí –, přistoupí k Volentě a Ludmille a pokusí se jim dolít sklenky. Přitom přečtěte:
 
 <div class="description">
-<p>The masked man stumbles, losing his grip on the red pitcher—and a wave of crimson liquid soars through the air before splashing across Volenta’s golden gown. The other vampires abruptly fall silent as Volenta whirls toward him, her sodden dress hanging limply across her chest. Her eyes burn with frenzied rage behind her mask, and her hand tightens around her wine glass so hard it shatters.</p>
+<p>Maskovaný muž klopýtne a rudý džbán mu vyklouzne – vzduchem se přežene vlna karmínové tekutiny a vyšplíchne na Volentiny zlaté šaty. Ostatní upíři náhle zmlknou, když se Volenta k muži prudce otočí a nasáklé šaty jí zplihle visí přes hruď. Oči jí za maskou planou šíleným vztekem a ruka jí sevře sklenku tak silně, že se roztříští.</p>
 </div>
 
-Unless prevented by the players, Volenta then whirls the jagged stem of her glass toward Anton’s throat and sweetly whispers that “poor Anton has been a bad, clumsy boy." “I can be clumsy too," she adds quietly, brushing the jagged glass gently against the edge of his throat. “Just a little slip of the hand, and—oops!"
+Pokud tomu hráči nezabrání, Volenta pak přiloží zubatou stopku své sklenky k Antonovu hrdlu a sladce zašeptá, že „chudáček Anton byl zlobivý, nešikovný kluk“. „Já taky umím být nešikovná,“ dodá tiše a jemně mu zubatým sklem přejede po okraji hrdla. „Stačí, aby mi maličko ujela ruka, a – jejda!“
 
-The players can convince Volenta to spare Anton with a DC 15 Charisma (Persuasion) check or a DC 20 Charisma (Intimidation) check, made with advantage if they invoke the possibility that Volenta might draw Strahd’s wrath by spilling blood on the castle floor. The players can also distract Volenta by finding something else to draw her attention and succeeding on a DC 15 Charisma (Performance) check or by using magic to clean her dress and succeeding on a DC 5 Charisma (Persuasion) check.
+Hráči mohou Volentu přesvědčit, aby Antona ušetřila, ověřením Charisma (Persuasion) se DC 15 nebo ověřením Charisma (Intimidation) se DC 20, které mají s výhodou, pokud zmíní, že by si Volenta prolitím krve na podlahu hradu mohla přivodit Strahdův hněv. Hráči mohou Volentu také rozptýlit, pokud najdou něco jiného, co upoutá její pozornost, a uspějí v ověření Charisma (Performance) se DC 15, nebo pokud jí magií vyčistí šaty a uspějí v ověření Charisma (Persuasion) se DC 5.
 
-If the players indicate an interest in attacking Volenta, Rahadin swiftly moves from the Guests' Hall to interpose, placing one hand on the jet-black hilt of his saber while placing the other on the aggressing player’s chest. “You are guests within these walls," he says softly, “but do not forget where you are." His eyes glint dangerously. “To violate the sanctity of guestright here is to invite . . . severe consequences."
+Pokud hráči dají najevo, že mají v úmyslu na Volentu zaútočit, Rahadin rychle přejde ze Síně hostů a postaví se mezi ně; jednu ruku položí na uhlově černý jílec své šavle a druhou na hruď útočícího hráče. „V těchto zdech jste hosty,“ řekne tiše, „ale nezapomínejte, kde jste.“ Oči se mu nebezpečně zalesknou. „Porušit zde posvátnost práva hosta znamená přivolat si… vážné následky.“
 
-> [!abstract]+ **Dead Volenta**
-> If the players previously killed Volenta in [[Arc D - St. Andral's Feast]], Anton instead spills his wine on Ludmilla. Rather than shattering her wine glass, she instead summons a nimbus of crackling lightning around her free hand. “Perhaps Volenta broke you beyond repair," she murmurs coldly, lifting her hand toward his chest as he whimpers in fear. “I have long since grown used to cleaning up her messes." 
-### The Lord of the Castle
-Whether the players successfully convince or distract Volenta or not, Strahd then immediately descends from <span class="citation">K19. Grand Landing (p. 58)</span> into <span class="citation">K8. Great Entry (p. 55)</span>.
+> [!abstract]+ **Mrtvá Volenta**
+> Pokud hráči Volentu dříve zabili v [[Arc D - St. Andral's Feast|Oblouk D – Hostina svatého Andrala]], Anton místo toho polije vínem Ludmillu. Místo aby roztříštila sklenku, vyvolá Ludmilla kolem své volné ruky svatozář praskajících blesků. „Snad tě Volenta rozbila tak, že tě už nelze spravit,“ zamumlá chladně a zvedne ruku k jeho hrudi, zatímco on strachy kňučí. „Uklízet po ní nepořádek jsem si už dávno zvykla.“
+### Pán hradu
+Ať už hráči Volentu úspěšně přesvědčili či rozptýlili, nebo ne, Strahd pak okamžitě sestoupí z <span class="citation">K19. Grand Landing (p. 58)</span> do <span class="citation">K8. Great Entry (p. 55)</span>.
 
-If the players successfully convinced or distracted Volenta, read:
+Pokud hráči Volentu úspěšně přesvědčili či rozptýlili, přečtěte:
 
 <div class="description">
-<p>The sound of light applause fills your ears.</p>
+<p>Vaše uši naplní zvuk tichého potlesku.</p>
 </div>
 
-Otherwise, if the players failed to convince or distract Volenta
+V opačném případě, pokud hráči Volentu nepřesvědčili ani nerozptýlili, přečtěte:
 
 <div class="description">
-<p>Volenta’s nostrils flare, her eyes glittering with rage. Her hand shifts, the broken glass blurring toward the man’s exposed neck—</p>
-<p>A man’s stern voice, rich and resonant, cuts through the air. “You forget yourself," he intones. “There are guests in our home."</p>
-<p>Volenta’s hand freezes, a hair’s breadth from slicing through flesh.</p>
+<p>Volentě se rozšíří chřípí a oči se jí zatřpytí vztekem. Ruka se jí pohne a rozbité sklo se mihne k mužovu odhalenému krku –</p>
+<p>Vzduch protne přísný mužský hlas, sytý a zvučný. „Zapomínáš se,“ pronese. „V našem domě jsou hosté.“</p>
+<p>Volentina ruka ztuhne na vlásek od toho, aby prořízla maso.</p>
 </div>
 
-In either case, continue:
+V obou případech pokračujte:
 
 <div class="description">
-<p>Even, measured footsteps echo from the grand stone staircase, and a tall, elegant figure descends into view. He wears a fitted vest of rich scarlet above a crisp white shirt, each ornate fastening meticulously buttoned.</p>
-<p>He moves with a cat’s grace, his long, velvet-black cloak whispering through the air behind him. As he approaches, the flickering light of the torches dances across his pale skin, his crimson eyes glinting like rubies.</p>
-<p>"Good evening," Strahd von Zarovich says, his lips curling into a cordial smile.</p>
+<p>Z velkého kamenného schodiště se rozléhají pravidelné, odměřené kroky a do vašeho zorného pole sestoupí vysoká, elegantní postava. Má na sobě přiléhavou vestu sytě šarlatové barvy přes naškrobenou bílou košili, jejíž zdobené zapínání je pečlivě zapnuté až po poslední knoflík.</p>
+<p>Pohybuje se s kočičí ladností a jeho dlouhý, sametově černý plášť za ním šeptem čeří vzduch. Když se přibližuje, tančí mu po bledé pleti mihotavé světlo pochodní a jeho karmínové oči se třpytí jako rubíny.</p>
+<p>„Dobrý večer,“ praví Strahd von Zarovich a rty se mu zvlní ve zdvořilém úsměvu.</p>
 </div>
 
 ![[Strahd at Dinner.png]]
-<span class="credit">"Strahd at Dinner" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">„Strahd u večeře“ – autor: Caleb Cleveland. Podpořte ho na <a href="https://patreon.com/calebisdrawing/">Patreonu!</a></span>
 
-Each vampire spawn immediately falls silent and turns to offer Strahd a deep curtsy or bow. As she curtsies, Anastrasya bows her head and closes her eyes, murmuring, “Good evening, my lord." She adds, her eyes flickering toward Volenta, “I hope the night’s revelry did not disturb your work."
+Všichni upíří zplozenci okamžitě zmlknou a obrátí se ke Strahdovi s hlubokou pukrlátkou či úklonou. Anastrasja při pukrlátku skloní hlavu, zavře oči a zašeptá: „Dobrý večer, můj pane.“ A s pohledem sklouzávajícím k Volentě dodá: „Doufám, že vás dnešní veselí nevyrušilo od práce.“
 
-After cordially dismissing Anastrasya’s concerns, Strahd greets the players, welcoming them to Castle Ravenloft and apologizing for Volenta’s behavior if necessary. (“She can be quite excitable at times," he notes crisply. “One of her most attractive qualities—and perhaps her greatest flaw.")
+Strahd Anastrasjiny obavy zdvořile odbude, pozdraví hráče, přivítá je na hradě Ravenloft a v případě potřeby se omluví za Volentino chování. („Umí být občas značně vznětlivá,“ poznamená úsečně. „Jedna z jejích nejpřitažlivějších vlastností – a snad i její největší vada.“)
 
-Strahd then briefly mourns the spilled “wine" before turning to Sasha. “My dear Sasha—would you mind retrieving a mop from Cyrus and attending to this mess?" he asks. His eyes linger on Volenta, "Two mops, perhaps, if anyone would care to assist."
+Pak Strahd krátce zalituje nad rozlitým „vínem“ a obrátí se k Sashe. „Má drahá Sasho – byla bys tak laskavá a přinesla od Cyruse mop a postarala se o tento nepořádek?“ zeptá se. Jeho pohled spočine na Volentě. „Snad dva mopy, kdyby měl někdo chuť přiložit ruku k dílu.“
 
-If one of the players volunteers to help Sasha clean, Strahd appears momentarily surprised, but thanks them for their "magnanimity." "Sasha will show you the way," he adds, then turns to the other players. Sasha then bows to Strahd, takes the volunteer by the hand, and guides them toward <span class="citation">K21. South Tower Stair (p. 59)</span>. (As the player descends the stairs with Sasha, continue to [[#Sasha Alone]] below.)
+Pokud se některý z hráčů nabídne, že Sashe s úklidem pomůže, Strahd se na okamžik zatváří překvapeně, ale poděkuje mu za jeho „šlechetnost“. „Sasha vám ukáže cestu,“ dodá a obrátí se k ostatním hráčům. Sasha se pak Strahdovi ukloní, vezme dobrovolníka za ruku a vede ho k <span class="citation">K21. South Tower Stair (p. 59)</span>. (Když hráč se Sashou sestupuje po schodech, pokračujte částí [[#Sasha o samotě|Sasha o samotě]] níže.)
 
-As Sasha descends the stairs, Strahd asks the players about their trip to Ravenloft. “You found the journey comfortable, I hope?" he says. He is pleased if the players agree, noting that Castle Ravenloft “once entertained many guests," and it is a pleasure to host them once again.
+Zatímco Sasha sestupuje po schodech, Strahd se hráčů vyptává na jejich cestu do Ravenloftu. „Doufám, že vám cesta byla pohodlná?“ praví. Pokud hráči přisvědčí, je potěšen a poznamená, že hrad Ravenloft „kdysi hostil mnoho hostů“ a že je mu potěšením opět je hostit.
 
-While Sasha is gone, Strahd continues to engage the players in smalltalk, posing any or all of the following questions in no particular order:
+Zatímco je Sasha pryč, Strahd hráče dál zaměstnává zdvořilou konverzací a klade jim kteroukoli z následujících otázek či všechny, v libovolném pořadí:
 
-* “You are newcomers to my land—without home or hall, I expect. I trust nonetheless that the hospitality of my people has been to your liking?" (If the players respond with a simple “yes" or “no," Strahd smiles and asks them to elaborate, noting, “It is good that the simple honor of hospitality is still remembered. Perhaps I may reward them for their kindness.")
-* “I regret that the mists have concealed much of the valley’s once-radiant beauty. Still, I’m told you’re quite well-traveled across it. How have you found its inhabitants and vistas?"
-* “The Old Svalich Road can be lonely when travelled alone. Have you found pleasant company amidst my domain?"
+* „Jste v mé zemi nově příchozí – bez domova a krbu, předpokládám. Věřím však, že pohostinnost mého lidu byla vám po chuti?“ (Pokud hráči odpovědí prostým „ano“ či „ne“, Strahd se usměje a požádá je, aby to rozvedli, a poznamená: „Je dobře, že se na prostou čest pohostinnosti dosud nezapomnělo. Snad je mohu za jejich laskavost odměnit.“)
+* „Lituji, že mlhy zahalily tolik z kdysi zářivé krásy tohoto údolí. Přesto jsem slyšel, že jste je zcestovali křížem krážem. Jak se vám zamlouvají jeho obyvatelé a vyhlídky?“
+* „Stará svalichská cesta umí být osamělá, putuje-li po ní člověk sám. Nalezli jste v mém panství příjemnou společnost?“
 
-> [!abstract]+ **Strahd’s Opinions**
-> If asked about the following residents or factions of Barovia, Strahd can share the following opinions:
+> [!abstract]+ **Strahdovy názory**
+> Pokud se ho hráči zeptají na následující obyvatele či frakce Barovie, může Strahd sdílet tyto názory:
 >
-> * ***Werewolf Pack.*** “A pack of feral animals, and twice as unruly. Still, with their excesses properly tamed, they have their uses."
+> * ***Vlkodlačí smečka.*** „Smečka zdivočelých zvířat, a dvakrát tak nezkrotná. Přesto, jsou-li jejich výstřelky náležitě zkroceny, mají své využití.“
 >
-> * ***Forest Folk.*** “They have none of their ancestors’ grace, and little of their wisdom. Their fanaticism, though flattering, occasionally leaves an unpleasant taste in one’s mouth. A lord who revels in worship is a fool, not a god."
+> * ***Lesní lid.*** „Nemají nic z půvabu svých předků a jen málo z jejich moudrosti. Jejich fanatismus, ač lichotivý, zanechává občas v ústech nepříjemnou pachuť. Pán, který si libuje v uctívání, je hlupák, nikoli bůh.“
 >
-> * ***Mountain Folk.*** “A peculiar and quiet people. They were broken long ago, however. They do not intrude into my affairs, nor I into theirs."
+> * ***Horský lid.*** „Zvláštní a tichý lid. Byli však zlomeni již dávno. Nepletou se do mých záležitostí, ani já do jejich.“
 >
-> * ***Baba Lysaga.*** “An eccentric woman, though quite capable in matters of magic. She keeps to herself, and I do not begrudge her that solitude."
+> * ***Baba Lysaga.*** „Výstřední žena, byť ve věcech magie nanejvýš schopná. Drží se stranou a já jí tu samotu nezazlívám.“
 >
-> * ***Bonegrinder Coven.*** (If the coven is dead) “It is my understanding that they were fell, putrid creatures, finding joy in the practice of petty corruption. My realm is no lesser for their absence."
+> * ***Sabat z Kostimlýna.*** (Pokud je sabat mrtvý) „Pokud vím, byly to zhoubné, zahnívající stvůry, jež nacházely radost v provozování malicherné zkaženosti. Mé říši bez nich nic neschází.“
 >
-> * ***Order of the Silver Dragon.*** “A forgotten and tarnished militia, long-since forsaken by their own will. Pay them little mind."
+> * ***Řád stříbrného draka.*** „Zapomenutá a zašlá domobrana, kterou její vlastní vůle dávno opustila. Nevěnujte jim mnoho pozornosti.“
 >
-> * ***The Abbot.*** “An odd creature, quite taken with his own whims and fancies. While I find his obsessive faith offputting, one must bear a certain respect for the sheer depth of his dedication."
-### Sasha Alone
+> * ***Opat.*** „Podivný tvor, značně zaujatý vlastními rozmary a vrtochy. Ačkoli jeho posedlá víra je mi protivná, nelze než chovat jistou úctu k samotné hloubce jeho oddanosti.“
+### Sasha o samotě
 <span class="citation"><em>This scene takes place in Chapter 4, Areas K8, K9, K21, K61, K62, and K63.</em></span>
 
-If joined, Sasha remains silent as she descends the staircase, passes through <span class="citation">K61. Elevator Trap (p. 74)</span>, and enters <span class="citation">K62. Servants' Hall (p. 76)</span>. (The elevator trap is currently deactivated and doesn’t trigger when Sasha walks through it.) If any player attempts to speak to her, Sasha merely holds up a finger and shakes her head before glancing at the floor overhead, a grim frown upon her face.
+Pokud ji hráč doprovází, Sasha mlčí, zatímco sestupuje po schodišti, prochází <span class="citation">K61. Elevator Trap (p. 74)</span> a vstupuje do <span class="citation">K62. Servants' Hall (p. 76)</span>. (Past s výtahem je momentálně vypnutá a když jí Sasha prochází, nespustí se.) Pokud se s ní hráč pokusí promluvit, Sasha jen zvedne prst a zavrtí hlavou, pak pohlédne ke stropu nad sebou a ve tváři má zachmuřený výraz.
 
-The servants’ hall is largely as described in <span class="citation">K62. Servants’ Hall (p. 76)</span>. However, revise this area's description as follows: 
+Síň služebnictva do značné míry odpovídá popisu v <span class="citation">K62. Servants’ Hall (p. 76)</span>. Popis oblasti však upravte takto:
 
 <div class="description">
-<p>Heavy beams support the sagging, ten-foot-high ceiling of this long hall, its mortared walls illuminated by flickering torchlight. At the left end of the hall stands a pair of wooden doors, their heavy planks banded with steel. At the right end stands a raised metal portcullis, beyond which lies a dark wine cellar.</p>
-<p>Three doors stand along the opposite wall beside a dark, ascending staircase. The middle door is open, warm light spilling forth onto the cold stone floor beside it. Two covered silver platters emanating delicious, mouthwatering scents drift from the door across the hall, as though held aloft by an invisible force.</p>
+<p>Prověšený, deset stop vysoký strop této dlouhé síně podpírají těžké trámy a maltou spojené zdi ozařuje mihotavé světlo pochodní. Na levém konci síně stojí dvoje dřevěné dveře, jejichž těžká prkna jsou pobita ocelovými pásy. Na pravém konci je vytažená kovová padací mříž, za níž leží temný vinný sklep.</p>
+<p>Na protější stěně jsou vedle temného, stoupajícího schodiště troje dveře. Prostřední dveře jsou otevřené a teplé světlo z nich se rozlévá na studenou kamennou podlahu vedle nich. Ze dveří se síní vznášejí dva přikryté stříbrné podnosy, z nichž se line lahodná vůně, až se sbíhají sliny – jako by je ve vzduchu nesla neviditelná síla.</p>
 </div>
 
-The open door leads to <span class="citation">K65. Kitchen (p. 78)</span>. The covered platters are carried by *unseen servants*, which are largely as described in <span class="citation">Unseen Servant (p. 51)</span>. 
+Otevřené dveře vedou do <span class="citation">K65. Kitchen (p. 78)</span>. Přikryté podnosy nesou *unseen servants*, kteří do značné míry odpovídají popisu v <span class="citation">Unseen Servant (p. 51)</span>.
 
-The platters contain food intended for the dinner with Strahd. One platter contains a basket of fresh, hot rolls beside a tub of butter, while the second contains a bowl of sliced apples and pears spiced with cinnamon. If undisturbed, the platters approach the wooden doors to the left, which slowly creak open and permit the *unseen servants* to pass through before closing and locking, requiring a DC 20 Dexterity (Thieves’ Tools) check to open again. (The servants then pass through <span class="citation">K67. Hall of Bones (p. 78)</span> into <span class="citation">K68. Guards' Run (p. 79)</span>, ascend <span class="citation">K64. Guards' Stair (p. 78)</span> to the (cobweb-free) <span class="citation">K13. Turret Post Access Hall (p. 57)</span>, and pass through <span class="citation">K11. South Archers' Post (p. 57)</span> before exiting the (currently open) secret door in the archers’ post to deposit their goods in <span class="citation">K10. Dining Hall (p. 56)</span>.
+Na podnosech je jídlo určené k večeři se Strahdem. Na jednom podnosu je košík čerstvých, horkých rohlíků vedle misky másla, na druhém mísa nakrájených jablek a hrušek okořeněných skořicí. Pokud je nikdo nevyruší, podnosy zamíří k dřevěným dveřím vlevo, které se se zaskřípěním pomalu otevřou, propustí *unseen servants* a pak se zavřou a zamknou; k jejich opětovnému otevření je třeba ověření Dexterity (Thieves’ Tools) se DC 20. (Služebníci pak projdou <span class="citation">K67. Hall of Bones (p. 78)</span> do <span class="citation">K68. Guards' Run (p. 79)</span>, vystoupají po <span class="citation">K64. Guards' Stair (p. 78)</span> do (pavučin zbavené) <span class="citation">K13. Turret Post Access Hall (p. 57)</span>, projdou <span class="citation">K11. South Archers' Post (p. 57)</span> a (momentálně otevřenými) tajnými dveřmi v lukostřeleckém stanovišti vyjdou ven, aby své zboží odložili v <span class="citation">K10. Dining Hall (p. 56)</span>.
 
-> [!info]+ **Exploring the Larders**
-> If a player moves to follow the *unseen servants*, Sasha first grabs their wrist, warning them in a harsh whisper that straying deeper into the castle risks their death—and worse, breaking guestright through trespassing. “If he learns that you have trespassed, you may wish you had died to another’s hand," she hisses. (It’s obvious that she is referring to Strahd.)
+> [!info]+ **Průzkum spíží**
+> Pokud se hráč pokusí *unseen servants* následovat, Sasha ho nejprve chytí za zápěstí a drsným šepotem ho varuje, že kdo zabloudí hlouběji do hradu, riskuje smrt – a co hůř, porušení práva hosta vniknutím tam, kam nesmí. „Pokud se dozví, že jste vnikli, kam nemáte, budete si možná přát, abyste raději zemřeli rukou někoho jiného,“ zasyčí. (Je zřejmé, že má na mysli Strahda.)
 >
-> Players who ignore Sasha and nonetheless attempt to slip after the *unseen servants* into <span class="citation">K67. Hall of Bones (p. 78)</span> must succeed on a DC 12 Dexterity saving throw to block the doors from closing. If the players enter the Hall of Bones, the door to <span class="citation">K70. Kingsmen Hall (p. 79)</span> is locked with an _arcane lock_ spell, requiring a successful DC 30 Dexterity (Thieves’ Tools) check or DC 35 Strength check to open.
+> Hráči, kteří Sashu přehlížejí a přesto se pokusí proklouznout za *unseen servants* do <span class="citation">K67. Hall of Bones (p. 78)</span>, musí uspět v záchranném hodu na Dexterity se DC 12, aby zabránili zavření dveří. Pokud hráči vstoupí do Síně kostí, jsou dveře do <span class="citation">K70. Kingsmen Hall (p. 79)</span> zamčené kouzlem _arcane lock_ a k jejich otevření je třeba úspěšné ověření Dexterity (Thieves’ Tools) se DC 30 nebo ověření Strength se DC 35.
 
-Sasha then enters the open door leading to the <span class="citation">K65. Kitchen (p. 78)</span>. If the player follows, read:
+Sasha pak vstoupí otevřenými dveřmi do <span class="citation">K65. Kitchen (p. 78)</span>. Pokud ji hráč následuje, přečtěte:
 
 <div class="description">
-<p>A thick cloud of smoke fills this steaming hot room, tinged with sweet and savory scents. A whole roast pig slowly turns over a blazing fire pit in the center of the room, its pink flesh browning and curling as its juices pop and hiss amongst the flames below.</p>
-<p>The far wall is lined with pegs, hanging from which are numerous large cooking implements—some of which could easily double as implements of torture. A squat, bearded man busies himself about a pair of stoves not far away, one foot balanced precariously atop a grubby wooden stool as he leans forward to take a sip from a chipped wooden spoon.</p>
-<p>Sasha clears her throat. “We require a pair of mops, Master Belview," she says politely. “There’s been a bit of a spill."</p>
+<p>Tuto parnou, rozpálenou místnost plní hustý oblak kouře prosycený sladkými i pikantními vůněmi. Nad plápolajícím ohništěm uprostřed místnosti se pomalu otáčí celé pečené prase; jeho růžové maso hnědne a kroutí se, zatímco šťáva praská a syčí v plamenech pod ním.</p>
+<p>Vzdálenou stěnu lemují kolíky, na nichž visí četné velké kuchyňské náčiní – z nichž by leccos mohlo klidně posloužit i jako mučicí nástroje. Nedaleko se kolem dvou kamen zaměstnává podsaditý vousatý muž; jednou nohou nejistě balancuje na umouněné dřevěné stoličce a naklání se vpřed, aby usrkl z oprýskané dřevěné vařečky.</p>
+<p>Sasha si odkašle. „Potřebujeme dva mopy, mistře Belviewe,“ řekne zdvořile. „Trochu se tu rozlévalo.“</p>
 </div>
 
 ![[Cyrus.png]]
-<span class="credit">"Cyrus" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">„Cyrus“ – autor: Caleb Cleveland. Podpořte ho na <a href="https://patreon.com/calebisdrawing/">Patreonu!</a></span>
 
-The man is the **mongrelfolk** Cyrus Belview, and is largely as described in <span class="citation">K62. Servants’ Hall (p. 76)</span>. However, Cyrus has only served Strahd for a few months. He is irritated to have been interrupted, but absentmindedly tells Sasha that he "left the brooms in the wine cellar."
+Muž je kříženec (**mongrelfolk**) Cyrus Belview a do značné míry odpovídá popisu v <span class="citation">K62. Servants’ Hall (p. 76)</span>. Cyrus však Strahdovi slouží teprve několik měsíců. Je podrážděný, že ho někdo vyrušil, ale roztržitě Sashe sdělí, že „nechal košťata ve vinném sklepě“.
 
-> [!profile]+ **Profile: Cyrus Belview**
-> **Roleplaying Information**
-> ***Resonance.*** Cyrus should inspire endearment for his sincere efforts to make himself useful despite his physical handicaps and poor memory, amusement for his grumpiness and bizarrely opinionated (and occasionally conspiratorial) rants, and discomfort with his inability to appreciate the boundaries of personal space.
+> [!profile]+ **Profil: Cyrus Belview**
+> **Pro hraní role**
+> ***Vyznění.*** Cyrus by měl v hráčích budit náklonnost svou upřímnou snahou být užitečný navzdory tělesným vadám a špatné paměti, pobavení svou nevrlostí a podivně umíněnými (a občas konspiračními) tirádami a nepohodlí tím, že nedokáže respektovat hranice osobního prostoru.
 >
-> ***Emotions.*** Cyrus most often feels curious, intrigued, determined, agitated, impatient, or skeptical.
+> ***Emoce.*** Cyrus nejčastěji cítí zvědavost, zaujetí, odhodlání, rozrušení, netrpělivost nebo skepsi.
 > 
-> ***Motivations.*** Cyrus wants to help Strahd restore Castle Ravenloft, believing that Strahd will furnish him with the knowledge required to restore his family to their original forms.
+> ***Motivace.*** Cyrus chce Strahdovi pomoci obnovit hrad Ravenloft, neboť věří, že mu Strahd poskytne vědění potřebné k tomu, aby své rodině vrátil její původní podobu.
 > 
-> ***Inspirations.*** When playing Cyrus, channel Ebenezar Scrooge (*A Christmas Carol*), Grandpa Simpson (*The Simpsons*), and Grand Maester Pycelle (*Game of Thrones*).
+> ***Inspirace.*** Při hraní Cyruse čerpejte z postav Ebenezar Scrooge (*A Christmas Carol*), Grandpa Simpson (*The Simpsons*) a Grand Maester Pycelle (*Game of Thrones*).
 >
-> **Character Information**
-> ***Persona.*** To the world, Cyrus is a doddering old butler with an affinity for conspiratorial rants. To those he trusts—and in his moments of lucidity—Cyrus is a sad old man who has long since resigned himself to the belief that his family is forever damned for their ancestors’ sins.
+> **O postavě**
+> ***Tvář.*** Před světem je Cyrus senilní starý komorník se sklonem ke konspiračním tirádám. Pro ty, jimž důvěřuje – a ve chvílích jasné mysli –, je Cyrus smutný stařec, který se už dávno smířil s přesvědčením, že jeho rodina je za hříchy předků navěky zatracena.
 >
-> ***Morale.*** In a fight, Cyrus would cower in a corner, brandishing any nearby object as an impromptu weapon but immediately surrendering if actually wounded.
+> ***Morálka.*** V boji by se Cyrus krčil v koutě a oháněl by se jakýmkoli předmětem po ruce jako improvizovanou zbraní, ale jakmile by byl skutečně zraněn, okamžitě by se vzdal.
 >
-> ***Relationships.*** Cyrus is the former patriarch of the Belview family and the butler of Castle Ravenloft.
+> ***Vztahy.*** Cyrus je bývalý patriarcha rodu Belviewových a komorník hradu Ravenloft.
 
-> [!abstract]+ **Talking to Cyrus**
-> If the players ask Cyrus about his life at Castle Ravenloft or the Abbot’s “perfection" and mention Clovin, Otto, and Zygfrek Belview’s curiosity, Cyrus is initially reluctant to interrupt his cooking efforts to reply to them. If the players continue to press him for a response, however, and succeed on a DC 5 Charisma (Persuasion) check, Cyrus pauses, sighs, and shakes his head before replying, “They’re good kids. Tell them I’m well and thriving."
+> [!abstract]+ **Rozhovor s Cyrusem**
+> Pokud se hráči Cyruse zeptají na jeho život na hradě Ravenloft nebo na Opatovu „dokonalost“ a zmíní zvědavost Clovina, Otta a Zygfrek Belviewových, Cyrus se zprvu zdráhá přerušit vaření, aby jim odpověděl. Pokud však hráči na odpověď dál naléhají a uspějí v ověření Charisma (Persuasion) se DC 5, Cyrus se zarazí, povzdechne si, zavrtí hlavou a odpoví: „Jsou to hodné děti. Vyřiďte jim, že se mám dobře a daří se mi.“
 >
-> If asked, Cyrus can share the following information:
+> Na požádání může Cyrus prozradit následující:
 >
-> * More than a century ago, the Belview family came to the Abbey of Saint Markovia seeking transformation. The Abbot granted their wish, bestowing upon them the attributes of animals—a blessing which soon revealed itself to be a curse.
-> * The Abbot, however, did not act alone. He gave the Belviews their bestial traits with the benefit of knowledge furnished by Strahd von Zarovich. While the Belviews have long sought the “perfection" of their forms, Cyrus believes that true salvation will only come once his family has returned to their true, human nature.
-> * To this end, Cyrus agreed to work for Strahd as a butler at Castle Ravenloft at the Abbot’s recommendation. Strahd has promised him that, should Cyrus restore the castle to its former glory and maintain that restoration for a period of ten years, he will furnish Cyrus with the knowledge necessary to restore his family to their original forms—curing them of their infirmities and madness forever.
+> * Před více než stoletím přišel rod Belviewových do Opatství svaté Markovie hledat proměnu. Opat jim jejich přání splnil a obdařil je vlastnostmi zvířat – požehnáním, které se brzy ukázalo jako kletba.
+> * Opat však nejednal sám. Belviewovým dal jejich zvířecí rysy s pomocí vědění, které mu poskytl Strahd von Zarovich. Zatímco Belviewovi odedávna usilují o „zdokonalení“ svých podob, Cyrus věří, že skutečná spása přijde teprve tehdy, až se jeho rodina navrátí ke své pravé, lidské přirozenosti.
+> * Za tím účelem Cyrus na Opatovo doporučení souhlasil, že bude Strahdovi sloužit jako komorník na hradě Ravenloft. Strahd mu slíbil, že pokud Cyrus navrátí hradu jeho dřívější slávu a udrží ji po dobu deseti let, poskytne mu vědění potřebné k tomu, aby své rodině vrátil její původní podobu – a navždy ji zbavil neduhů i šílenství.
 
-If the player follows Sasha to the wine cellar, this area is largely as described in <span class="citation">K63. Wine Cellar (p. 77)</span>, but the right-side southern cask is full of Purple Grapemash No. 3, rather than being rotted and empty. In addition, add the following text to the end of this area’s description:
+Pokud hráč následuje Sashu do vinného sklepa, oblast do značné míry odpovídá popisu v <span class="citation">K63. Wine Cellar (p. 77)</span>, ale pravý jižní sud je plný Fialového hroznového moštu č. 3, místo aby byl shnilý a prázdný. Na konec popisu oblasti navíc přidejte následující text:
 
 <div class="description">
-<p>A dead woman is strung up from a rope tied around her heels, her face frozen in a ghoulish, terrified expression. Her throat has been slit, and drops of blood slowly drain from her slashed neck into a ceramic basin below.</p>
-<p>Sasha gives you a quiet, sideways glance as she moves to retrieve a pair of mops leaning against the wall nearby. “You did not forget that you were dining with monsters, did you?" she asks humorlessly, her mouth twisted in distaste.</p>
+<p>Z provazu uvázaného kolem kotníků visí mrtvá žena s tváří ztuhlou v příšerném, vyděšeném výrazu. Hrdlo má podřezané a z rozříznutého krku jí pomalu odkapává krev do keramické mísy pod ní.</p>
+<p>Sasha na vás tiše úkosem pohlédne a zamíří pro dva mopy opřené o nedalekou stěnu. „Snad jste nezapomněli, že večeříte se zrůdami?“ zeptá se bez špetky humoru a ústa se jí zkřiví odporem.</p>
 </div>
 
-Sasha then asks suspiciously why the player chose to follow her into the larders. “If you have some deeper motive, then speak it," she growls.
+Pak se Sasha podezíravě zeptá, proč se ji hráč rozhodl do spíží následovat. „Máte-li nějaký hlubší záměr, vyslovte ho,“ zavrčí.
 
-If confronted regarding her lack of loyalty to Strahd, Sasha stiffens, glances fearfully down the hall, and insists woodenly that she is wholly faithful to him. A player can convince her to speak freely by succeeding on a DC 10 Charisma (Persuasion) check, succeeding automatically if they mention their victories over Strahd’s other brides or otherwise provide comfort and reassurance. 
+Pokud ji hráč konfrontuje s její nevěrností vůči Strahdovi, Sasha ztuhne, ustrašeně pohlédne chodbou a strnule trvá na tom, že je mu naprosto věrná. Hráč ji může přimět, aby mluvila otevřeně, pokud uspěje v ověření Charisma (Persuasion) se DC 10; uspěje automaticky, pokud zmíní svá vítězství nad ostatními Strahdovými nevěstami nebo jí jinak poskytne útěchu a ujištění.
 
-If convinced to speak freely, Sasha closes her eyes, takes a deep breath, and leans toward the player’s ear before whispering: “After dinner, find an excuse to linger in the dining hall. Once you are alone, press the sixth pedal from the left on the organ. I shall meet you in the chamber beyond. Do not allow *him* to know what you are doing."
+Pokud ji hráč přesvědčí, aby mluvila otevřeně, Sasha zavře oči, zhluboka se nadechne, nakloní se k hráčovu uchu a zašeptá: „Po večeři si najděte záminku, abyste se zdrželi v jídelní síni. Až budete sami, sešlápněte na varhanách šestý pedál zleva. Setkáme se v komnatě za nimi. Nedovolte, aby *on* věděl, co děláte.“
 
-Sasha won’t elaborate further. Instead, once her message has been received, she immediately moves to return upstairs.
-# O5. Dinner is Served
-As smalltalk concludes in the <span class="citation">K8. Great Entry (p. 55)</span>, Rahadin approaches the group, bows, and announces that dinner is served. Strahd thanks him, turns to the players, and asks, “Shall we?" If the players concur, Rahadin then leads them into <span class="citation">K10. Dining Hall (p. 56)</span>. 
+Víc už to Sasha nerozvede. Jakmile je její zpráva doručena, okamžitě se vydá zpět nahoru.
+# O5. Je prostřeno
+Když zdvořilá konverzace v <span class="citation">K8. Great Entry (p. 55)</span> dospěje ke konci, přistoupí ke skupině Rahadin, ukloní se a oznámí, že je prostřeno. Strahd mu poděkuje, obrátí se k hráčům a zeptá se: „Půjdeme?“ Pokud hráči souhlasí, Rahadin je pak odvede do <span class="citation">K10. Dining Hall (p. 56)</span>.
 
-The brides and Escher then turn to depart via <span class="citation">K21. South Tower Stair (p. 59)</span>.
-## O5a. Into the Dining Hall
+Nevěsty a Escher se pak otočí a odejdou po <span class="citation">K21. South Tower Stair (p. 59)</span>.
+## O5a. Do jídelní síně
 <span class="citation"><em>This scene takes place in Chapter 4, Area K10.</em></span>
 
-The dining hall is largely as described in <span class="citation">K10. Dining Hall (p. 56)</span>. However, remove the last three sentences of this area’s description referring to the figure seated at the organ. In addition, move the first sentence of the second paragraph, referring to the floor-to-ceiling mirrors and the organ, immediately after the first sentence of the first paragraph.
+Jídelní síň do značné míry odpovídá popisu v <span class="citation">K10. Dining Hall (p. 56)</span>. Odstraňte však poslední tři věty popisu oblasti, které se týkají postavy sedící u varhan. Kromě toho přesuňte první větu druhého odstavce, která se týká zrcadel od podlahy ke stropu a varhan, hned za první větu prvního odstavce.
 
-As the players enter, Strahd takes his place at the head of the table by the organ then invites them to be seated.
+Když hráči vstoupí, Strahd zaujme své místo v čele stolu u varhan a pak je vyzve, aby se posadili.
 
-> [!info]+ **Strahd’s Dinner**
-> During the meal, Strahd takes a glass of blood-red wine alongside a plate of roast pig and root vegetables. However, a player with a passive Wisdom (Insight) of 13 or more notices that Strahd never touches his food, appearing content to sip the liquid from his glass. 
+> [!info]+ **Strahdova večeře**
+> Během jídla si Strahd vezme sklenku krvavě rudého vína a talíř pečeného vepřového s kořenovou zeleninou. Hráč s pasivní Wisdom (Insight) 13 nebo vyšší si však všimne, že se Strahd jídla ani nedotkne a zjevně se spokojí s upíjením tekutiny ze své sklenky.
 >
-> If asked whether the liquid in his glass is blood, Strahd merely smiles faintly, as if laughing at some private joke, and asks the player what *they* believe his drink to be. (He does not, however, deny that it is blood.)
+> Pokud se ho hráč zeptá, zda je tekutina v jeho sklence krev, Strahd se jen slabě usměje, jako by se smál nějakému soukromému vtipu, a zeptá se hráče, co si myslí *on*, že pije. (Nepopře však, že jde o krev.)
 >
-> If Strahd is confronted regarding the dead Barovian in the wine cellar, or if the players otherwise confront him regarding his predatory nature, he retorts calmly, “All men must act according to their natures—it is the nature of the strong to bend the world to their will, just as it is the nature of the wise to accept the world as it is. There are tyrants in this world who place children’s heads upon pikes for the sins of their fathers; emperors who starve their subjects of bread and gold alike." He then takes a long draught from his glass before meeting his confronter’s gaze directly and adding, “I do not deny that I take what I require. But all lords demand their due—and I take no more than necessary."
-## O5b. Making Conversation
-Throughout the course of the meal, Strahd continues the conversation that began in the foyer, inviting the players to share:
+> Pokud je Strahd konfrontován s mrtvou Barovankou ve vinném sklepě nebo pokud ho hráči jinak konfrontují s jeho dravčí přirozeností, klidně odvětí: „Všichni lidé musí jednat podle své přirozenosti – je v přirozenosti silných ohýbat svět své vůli, stejně jako je v přirozenosti moudrých přijímat svět takový, jaký je. Jsou na tomto světě tyrani, kteří za hříchy otců napichují hlavy dětí na kůly; císaři, kteří své poddané připravují o chléb stejně jako o zlato.“ Pak si dlouze lokne ze sklenky, pohlédne tomu, kdo ho konfrontoval, přímo do očí a dodá: „Nepopírám, že si beru, co potřebuji. Avšak všichni páni žádají, co jim náleží – a já si neberu víc, než je nezbytné.“
+## O5b. Konverzace u stolu
+Během jídla Strahd pokračuje v rozhovoru, který začal ve vstupní síni, a vyzve hráče, aby se podělili o:
 
-* Their lands of origin,
-* Their experiences with magic and/or faith,
-* The histories of their families and people, and
-* The origins and extent of their expertise.
+* své rodné země,
+* své zkušenosti s magií a/nebo vírou,
+* dějiny svých rodin a národů a
+* původ a rozsah svých dovedností.
 
-Strahd enjoys theological debates with clerics, paladins and druids; appreciates learning of the martial training and strategy of barbarians, fighters, rangers, rogues, and monks; and is intrigued by the craft and research of artificers, wizards, bards, sorcerers, and warlocks.
+Strahd si užívá teologické debaty s kleriky, paladiny a druidy; rád se dozvídá o válečném výcviku a strategii barbarů, válečníků, hraničářů, tuláků a mnichů; a zajímá ho řemeslo a bádání artificerů, kouzelníků, bardů, čarodějů a černokněžníků.
 
-Strahd is also willing to share the following information about himself, though he prefers listening to speaking, and will always turn an anecdote about himself into a question regarding a player’s interests or history:
+Strahd je také ochoten prozradit o sobě následující, ačkoli dává přednost naslouchání před mluvením a každou historku o sobě vždy obrátí v otázku na zájmy či minulost některého z hráčů:
 
-* His father was King Barov von Zarovich II, a great king and general. It was at his side that Strahd learned the arts of war and conquest, bringing order to a land wrought with chaos and confusion.
-* In the wake of his father’s death, Strahd took command of his father’s armies, leading them into battle to reclaim his family’s ancestral lands. “Old Zarovia, it was called then," he shares. “A whisper of a memory that our enemies had taken from us long ago."
-* Barovia, he notes, was the final, small piece of the empire his father sought to claim: a valley guarding the mountain pass at the nation’s eastern edge. “When I first looked upon its snow-capped peaks and beheld its beauty, I knew I had come home—to the rightful seat of my family’s legacy," he says, sounding nearly wistful.
-## O5c. Strahd’s Questions
-As the conversation winds to a close, Strahd advises the players that he seeks to “explore their wit and cunning," and invites them to participate in a game of three questions. “As lord of this land, he says, “it intrigues me to learn how others might evaluate the dilemmas that power so often presents." He assures them that there are no incorrect answers; instead, a player’s answer to a question merely reveals a part of themself to the others at the table.
+* Jeho otcem byl král Barov von Zarovich II., velký král a vojevůdce. Po jeho boku se Strahd naučil umění války a dobývání a přinášel řád do země zmítané chaosem a zmatkem.
+* Po otcově smrti převzal Strahd velení nad jeho vojsky a vedl je do bitvy, aby získal zpět rodové země svého rodu. „Tehdy se jí říkalo Stará Zarovie,“ prozradí. „Šepot vzpomínky, který nám nepřátelé kdysi dávno vzali.“
+* Barovie, jak poznamená, byla posledním malým dílem říše, kterou se jeho otec snažil získat: údolí střežící horský průsmyk na východním okraji země. „Když jsem poprvé pohlédl na její zasněžené štíty a spatřil její krásu, věděl jsem, že jsem se vrátil domů – na právoplatné sídlo odkazu svého rodu,“ řekne téměř toužebně.
+## O5c. Strahdovy otázky
+Když se rozhovor chýlí ke konci, Strahd hráčům oznámí, že by rád „poznal jejich důvtip a lstivost“, a vyzve je ke hře o třech otázkách. „Jakožto pána této země,“ praví, „mne zajímá, jak by jiní posoudili dilemata, jež moc tak často přináší.“ Ujistí je, že žádná odpověď není nesprávná; odpověď hráče pouze odhalí ostatním u stolu část jeho samého.
 
-If the players accept, Strahd then poses the following three hypothetical questions to the players, proceeding to the next question only once all players have had a chance to answer and (if necessary) debate and discuss the hypothetical:
+Pokud hráči přijmou, Strahd jim položí následující tři hypotetické otázky. K další otázce přejde, teprve až všichni hráči dostanou příležitost odpovědět a (je-li třeba) o dané situaci debatovat:
 
-* “Imagine that you are the liege and master of a vassal lord. When you descend to collect this year’s taxes from your vassal’s village, your accountant reports that the year’s taxes are woefully short. When asked to explain, the lord explains that the harvests have been lean and sickness has plagued the village. You notice, however, that the lord wears a fine gold chain around his neck and a new wool cloak with buttons crafted of pure silver. What do you do?"
-* “Imagine that you are the monarch of a realm. One day, a fearsome archmage raises an army of the undead in rebellion against you. As he approaches your keep, you have an opportunity to parlay with him upon the drawbridge of your castle. What do you do?"
-* “Imagine again that you are the monarch of a realm. As you sleep in your bed, an assassin slips into your chambers, but is frightened away by your guards’ timely arrival before your throat can be slit. What do you do?
+* „Představte si, že jste lenním pánem a vládcem vazala. Když sestoupíte vybrat letošní daně z vazalovy vesnice, váš účetní hlásí, že letošní daně žalostně nedosahují předepsané výše. Když vazala požádáte o vysvětlení, odpoví, že úroda byla chudá a vesnici sužovala nemoc. Všimnete si však, že vazal má na krku jemný zlatý řetěz a na sobě nový vlněný plášť s knoflíky z ryzího stříbra. Co uděláte?“
+* „Představte si, že jste panovníkem říše. Jednoho dne proti vám obávaný arcimág pozvedne vzpouru s vojskem nemrtvých. Když se blíží k vaší tvrzi, máte příležitost vyjednávat s ním na padacím mostě svého hradu. Co uděláte?“
+* „Představte si opět, že jste panovníkem říše. Zatímco spíte ve svém loži, vplíží se do vašich komnat vrah, ale včasný příchod vašich stráží ho vyplaší dřív, než vám stihne podříznout hrdlo. Co uděláte?“
 
-When the players answer his final question, Strahd notes that he has survived the daggers of many assassins throughout his life—as a soldier, as a king, and even “since his rebirth into undeath." 
+Když hráči odpovědí na jeho poslední otázku, Strahd poznamená, že za svůj život přežil dýky mnoha vrahů – jako voják, jako král, a dokonce „i od svého znovuzrození do nemrtvého bytí“.
 
-He then sighs, looks briefly thoughtful, and adds, “Although I am loath to sully a night of fellowship and merriment with matters of business, I must confess I have suffered the attentions of one such assassin quite recently—a viper by the name of Rudolph van Richten." Strahd carefully surveys the players’ expressions, one eyebrow lifting as he asks, “To my regret, however, my servants were unable to apprehend him. I believe him to still be at large. Have you heard any whispering of his presence in your travels through my domain?"
+Pak si povzdechne, na okamžik se zatváří zamyšleně a dodá: „Ačkoli nerad kalím noc družnosti a veselí obchodními záležitostmi, musím přiznat, že se mi nedávno dostalo pozornosti jednoho takového vraha – zmije jménem Rudolph van Richten.“ Strahd si pozorně prohlíží výrazy hráčů, zvedne obočí a zeptá se: „K mé lítosti jej však mí služebníci nedokázali dopadnout. Věřím, že je stále na svobodě. Nezaslechli jste během svých cest mou říší šeptat o jeho přítomnosti?“
 
-A player with knowledge of Van Richten’s whereabouts must succeed on a DC 19 Charisma (Deception) check to successfully deceive Strahd when replying to him. However, Strahd treats all responses as though they are truthful, though a player who fails the check notices a knowing glint in Strahd’s eye as he replies to their answer.
-# O6. Touring the Castle
-As dinner concludes, Strahd thanks the players for dining with him and offers them a brief tour of the castle. “I fear it has fallen from its former glory since I first began my slumber," he notes somberly, “but I hope that those with vision can see it for the marvel it once was." If the players accept his offer, Strahd leads them from the dining hall. 
+Hráč, který ví, kde se Van Richten nachází, musí uspět v ověření Charisma (Deception) se DC 19, aby Strahda při odpovědi úspěšně oklamal. Strahd však se všemi odpověďmi zachází, jako by byly pravdivé; hráč, který v ověření neuspěje, si ale při Strahdově odpovědi všimne vědoucího záblesku v jeho oku.
+# O6. Prohlídka hradu
+Když večeře skončí, Strahd hráčům poděkuje, že s ním povečeřeli, a nabídne jim krátkou prohlídku hradu. „Obávám se, že od chvíle, kdy jsem poprvé upadl do spánku, pozbyl své někdejší slávy,“ poznamená zachmuřeně, „ale doufám, že ti, kdo mají představivost, v něm uvidí div, jímž kdysi býval.“ Pokud hráči jeho nabídku přijmou, Strahd je vyvede z jídelní síně.
 
-> [!abstract]+ **Meeting Sasha**
-> If any player asks to remain behind in the dining hall (i.e., with the intent of meeting up with Sasha in secret) and offers a reasonable excuse (such as to admire the organ or digest the rich meal), Strahd briefly offers them an inquisitive look, then gladly grants their request.
+> [!abstract]+ **Setkání se Sashou**
+> Pokud některý hráč požádá, aby směl zůstat v jídelní síni (tj. s úmyslem tajně se setkat se Sashou), a uvede rozumnou výmluvu (například že chce obdivovat varhany nebo strávit bohatou večeři), Strahd na něj krátce zvídavě pohlédne a pak jeho žádosti ochotně vyhoví.
 > 
-> He dryly warns them, however, "not to stray from the hall." "Many things lurk in the dark corners of this keep," he notes. "It would be a shame if we were to lose your company so soon. I shall send Escher to collect you when our tour has concluded." (See [[#O6e. Sasha’s Rendezvous]] for more information on this player's conversation with Sasha.)
+> Suše ho však varuje, „ať se nevzdaluje ze síně“. „V temných koutech této tvrze číhá mnohé,“ poznamená. „Byla by škoda, kdybychom o vaši společnost přišli tak brzy. Až naše prohlídka skončí, pošlu pro vás Eschera.“ (Více o rozhovoru tohoto hráče se Sashou najdete v [[#O6e. Schůzka se Sashou|O6e. Schůzka se Sashou]].)
 
-After exiting the dining hall, Strahd leads the party on the following route:
+Po odchodu z jídelní síně vede Strahd družinu touto trasou:
 
 1. <span class="citation">K9. Guests’ Hall (p. 56)</span>
 2. <span class="citation">K8. Great Entry (p. 55)</span>
@@ -645,724 +645,724 @@ After exiting the dining hall, Strahd leads the party on the following route:
 9. <span class="citation">K26. Guards' Post (p. 61)</span>
 10. <span class="citation">K25. Audience Hall (p. 61)</span>
 
-Before departing the Great Entry, Strahd encourages one or more of the players to take a torch from a sconce in the Guests’ Hall to light their way. “My eyes are well-adjusted to the shadows that lurk in these halls," he says wryly, “but a mobile source of light might be kinder to your own senses."
-## O6a. Hall of Faith
+Než opustí Velký vstup, vybídne Strahd jednoho či více hráčů, aby si ze svícnu v Síni hostů vzali pochodeň, která jim posvítí na cestu. „Mé oči jsou stínům, jež číhají v těchto síních, dobře uvyklé,“ praví suše, „ale přenosný zdroj světla by mohl být k vašim smyslům laskavější.“
+## O6a. Síň víry
 <span class="citation"><em>This scene takes place in Chapter 4, Area K14.</em></span>
 
-This area is as described in <span class="citation">K14. Hall of Faith (p. 57)</span>.
+Tato oblast odpovídá popisu v <span class="citation">K14. Hall of Faith (p. 57)</span>.
 
-As he guides the players through this area, Strahd shares that the castle was built over four centuries prior upon the ruins of a much older fortress, which lay atop the Pillarstone of Ravenloft. “I put out the call for mages, architects, and engineers from every corner of my conquests," he says fondly, “and from every corner, they came."
-## O6b. Chapel
+Zatímco Strahd hráče touto oblastí provází, prozradí, že hrad byl postaven před více než čtyřmi staletími na troskách mnohem starší pevnosti, která stála na Skalním pilíři Ravenloftu. „Povolal jsem mágy, architekty a stavitele ze všech koutů svých výbojů,“ praví s oblibou, „a ze všech koutů přišli.“
+## O6b. Kaple
 <span class="citation"><em>This scene takes place in Chapter 4, Areas K15, K16, K17, K18, K19, and K28.</em></span>
 
-This area is largely as described in <span class="citation">K15. Chapel (p. 57)</span>, <span class="citation">K16. North Chapel Access (p. 58)</span>, <span class="citation">K17. South Chapel Access (p. 58)</span>, <span class="citation">K18. High Tower Staircase (p. 58)</span>, <span class="citation">K29. Creaky Landing (p. 62)</span>, and <span class="citation">K28. King’s Balcony (p. 62)</span>. 
+Tato oblast do značné míry odpovídá popisu v <span class="citation">K15. Chapel (p. 57)</span>, <span class="citation">K16. North Chapel Access (p. 58)</span>, <span class="citation">K17. South Chapel Access (p. 58)</span>, <span class="citation">K18. High Tower Staircase (p. 58)</span>, <span class="citation">K29. Creaky Landing (p. 62)</span> a <span class="citation">K28. King’s Balcony (p. 62)</span>.
 
-However, remove the remains of Gustav Herrenghast and the *Icon of Ravenloft* (renamed in this guide as the *Icon of Dawn's Grace*) from the Chapel. In addition, remove any reference to these remains, the *Icon of Ravenloft*, and the “piercing shaft of light" from this area’s description. In addition, remove the two **Strahd zombies** from the King’s Balcony.
+Z kaple však odstraňte ostatky Gustava Herrenghasta a *Ikonu Ravenloftu* (v tomto průvodci přejmenovanou na *Ikonu Jitřní milosti*). Z popisu této oblasti navíc odstraňte veškeré zmínky o těchto ostatcích, o *Ikoně Ravenloftu* a o „pronikavém paprsku světla“. Z Královského balkonu navíc odstraňte dva Strahdovy zombie (**Strahd zombies**).
 
-Upon entering the chapel, Strahd reminisces aloud: “I recall the day Prefect Ciril Romulich first dedicated this sacred hall to the glory of the Morninglord. Each man and woman had such faith in the power of his consecration—yet behold what it has become." He shakes his head, then asks the players, curiously: “What is it that you have faith in?"
+Po vstupu do kaple Strahd nahlas vzpomíná: „Pamatuji si den, kdy prefekt Ciril Romulich poprvé zasvětil tuto posvátnou síň slávě Jitřního pána. Každý muž i žena tolik věřili v moc jeho vysvěcení – a pohleďte, co se z ní stalo.“ Zavrtí hlavou a pak se hráčů zvědavě zeptá: „V co věříte vy?“
 
-Strahd is clearly amused by any players who declare faith in a deity or religion. When all players have shared the source of their faith, if any, he turns to regard the great stained-glass sun in the highest chapel window and says, “I have never found much use for faith in other things or creatures. Far better, it seems, to place one’s faith entirely in one’s self, and to master one’s fate without reliance upon others. Do you disagree?"
+Strahda zjevně baví hráči, kteří vyznají víru v nějaké božstvo či náboženství. Když se všichni hráči podělí o to, v co věří (pokud v něco), obrátí se k velkému vitrážovému slunci v nejvyšším okně kaple a řekne: „Víra v jiné věci či tvory mi nikdy nebyla k velkému užitku. Zdá se mi mnohem lepší vložit veškerou víru v sebe sama a ovládat svůj osud, aniž by se člověk spoléhal na jiné. Nesouhlasíte?“
 
-When the topic has been exhausted, Strahd guides the players through  <span class="citation">K16. North Chapel Access (p. 58)</span>, up the stairs past <span class="citation">K29. Creaky Landing (p. 62)</span>, and past <span class="citation">K28. King’s Balcony (p. 62)</span> into <span class="citation">K27. King’s Hall (p. 61)</span>.
-## O6c. King’s Hall
+Když je téma vyčerpáno, Strahd hráče provede <span class="citation">K16. North Chapel Access (p. 58)</span>, nahoru po schodech kolem <span class="citation">K29. Creaky Landing (p. 62)</span> a kolem <span class="citation">K28. King’s Balcony (p. 62)</span> do <span class="citation">K27. King’s Hall (p. 61)</span>.
+## O6c. Královská síň
 <span class="citation"><em>This scene takes place in Chapter 4, Area K27.</em></span>
 
-This area is largely as described in <span class="citation">K27. King’s Hall (p. 61)</span>. However, this room now contains the tapestry described in <span class="citation">K83a. Spiral Stair Landing (p. 85)</span>, which is located midway along the corridor's south wall, covering the secret door that leads to <span class="citation">K31. Trapworks (p. 63)</span>. Add the description of that tapestry to the end of this area’s description.
+Tato oblast do značné míry odpovídá popisu v <span class="citation">K27. King’s Hall (p. 61)</span>. V této místnosti však nyní visí tapiserie popsaná v <span class="citation">K83a. Spiral Stair Landing (p. 85)</span>, a to v polovině jižní stěny chodby, kde zakrývá tajné dveře vedoucí do <span class="citation">K31. Trapworks (p. 63)</span>. Popis této tapiserie připojte na konec popisu oblasti.
 
-In addition, the mannequin trap is currently disarmed and doesn’t activate as the characters walk through the corridor.
+Past s figurínami je navíc momentálně zneškodněná a když postavy procházejí chodbou, nespustí se.
 
-As the players approach the tapestry, Strahd pauses beside it. “Do you know who this tapestry depicts?" he asks.
+Když se hráči přiblíží k tapiserii, Strahd se u ní zastaví. „Víte, koho tato tapiserie zobrazuje?“ zeptá se.
 
-Strahd can share that the tapestry depicts his father, King Barov, leading his fearsome knights into glorious battle. If the players ask about the sword King Barov is wielding, Strahd shares that it was the *Brightblade*—a sword fashioned from the hilt of an elven *Moonblade* and a crystal blade imbued with the radiance of the Morninglord. “It was broken long ago, however," he adds quietly, his voice oddly hollow.
+Strahd může prozradit, že tapiserie zobrazuje jeho otce, krále Barova, jak vede své obávané rytíře do slavné bitvy. Pokud se hráči zeptají na meč, který král Barov třímá, Strahd prozradí, že to byla *Zářivá čepel* (*Brightblade*) – meč zhotovený z jílce elfské *Měsíční čepele* (*Moonblade*) a z křišťálové čepele prodchnuté září Jitřního pána. „Byl však dávno zlomen,“ dodá tiše a jeho hlas zní podivně dutě.
 
-When the topic has been exhausted, Strahd guides the players through <span class="citation">K26. Guards' Post (p. 61)</span> into <span class="citation">K25. Audience Hall (p. 61)</span>.
-## O6d. Audience Hall
+Když je téma vyčerpáno, Strahd hráče provede <span class="citation">K26. Guards' Post (p. 61)</span> do <span class="citation">K25. Audience Hall (p. 61)</span>.
+## O6d. Audienční síň
 <span class="citation"><em>This scene takes place in Chapter 4, Area K25.</em></span>
 
-This area is largely as described in <span class="citation">K25. Audience Hall (p. 61)</span>. However, revise the first sentence of this area’s description as follows:
+Tato oblast do značné míry odpovídá popisu v <span class="citation">K25. Audience Hall (p. 61)</span>. První větu popisu této oblasti však upravte takto:
 
 <div class="description">
-<p>Dim light from the courtyard falls into this great hall through the broken glass and iron latticework of a large window in the west wall. A cold wind shrieks through the broken window as arcs of lightning lance from the weeping skies beyond, each bolt followed by the crack of nearby thunder.</p>
+<p>Do této velké síně dopadá rozbitým sklem a železnou mříží velkého okna v západní stěně matné světlo z nádvoří. Rozbitým oknem kvílí studený vítr, zatímco z plačící oblohy venku šlehají oblouky blesků a po každém z nich zapráská blízký hrom.</p>
 </div>
 
-> [!abstract]+ **Calling Escher**
-> If one of the players remained behind in the dining hall to rendezvous with Sasha, Strahd clicks his tongue, summoning a lone **bat** hanging from the ceiling by the window. "Ask Escher to collect our guest in the dining hall," he commands. The bat chirps a single time, then flutters out through the window into the rain.
+> [!abstract]+ **Přivolání Eschera**
+> Pokud jeden z hráčů zůstal v jídelní síni, aby se setkal se Sashou, Strahd mlaskne jazykem a přivolá osamělého netopýra (**bat**), který visí u okna ze stropu. „Vyřiď Escherovi, ať vyzvedne našeho hosta v jídelní síni,“ přikáže. Netopýr jednou pípne a pak oknem vyletí do deště.
 
-If any player asks why the throne is turned away from the rest of the room, Strahd lauds them for their perceptiveness. He then shares the following information:
+Pokud se některý hráč zeptá, proč je trůn obrácen od zbytku místnosti, Strahd ocení jeho všímavost. Pak prozradí následující:
 
-* When Strahd was a child, Saint Andral anointed his father, King Barov, as the rightful heir to the crown of old Zarovia. When King Barov died, Strahd inherited his crown, and with it the title of King.
-* However, when the Mists descended upon Barovia, the lands Strahd had conquered were consigned to history, his family’s ancestral legacy forsaken and lost. “It would be an arrogance beyond folly to name myself ‘king’ without a kingdom to rule," Strahd says, “and so I keep the King’s seat turned from my reach as a memento of the lands that I lost." He then adds softly: “And yet—few things are lost forever." (If asked to elaborate, Strahd declines and simply smiles wryly.)
-## O6e. Sasha’s Rendezvous
-A player following Sasha’s instructions can open the secret door behind the pipe organ described in <span class="citation">K10. Dining Hall (p. 56)</span> by pressing the sixth pedal from the left on the organ. 
-### South Archers' Post
+* Když byl Strahd dítětem, pomazal svatý Andral jeho otce, krále Barova, za právoplatného dědice koruny staré Zarovie. Když král Barov zemřel, zdědil Strahd jeho korunu a s ní i královský titul.
+* Když se však na Barovii snesly mlhy, země, které Strahd dobyl, upadly do propadliště dějin a dědičný odkaz jeho rodu byl opuštěn a ztracen. „Nazývat se ‚králem‘ bez království, jemuž bych vládl, by byla pýcha přesahující pošetilost,“ praví Strahd, „a tak nechávám královský stolec obrácený mimo svůj dosah jako upomínku na země, jež jsem ztratil.“ Pak tiše dodá: „A přece – jen málo věcí je ztraceno navždy.“ (Pokud ho hráči požádají, aby to rozvedl, Strahd odmítne a jen se křivě usměje.)
+## O6e. Schůzka se Sashou
+Hráč, který se řídí Sashinými pokyny, může tajné dveře za varhanami popsanými v <span class="citation">K10. Dining Hall (p. 56)</span> otevřít sešlápnutím šestého pedálu zleva.
+### Jižní lukostřelecké stanoviště
 <span class="citation"><em>This scene takes place in Chapter 4, Area K11.</em></span>
 
-This area is as described in <span class="citation">K11. South Archers' Post (p. 57)</span>. If Sasha instructed a player to meet her here, she begins clinging to the ceiling immediately above the entryway. As the player enters, she descends from the shadows behind them and whispers fiercely, “Were you followed?", revealing herself only if provided sufficient assurances.
+Tato oblast odpovídá popisu v <span class="citation">K11. South Archers' Post (p. 57)</span>. Pokud Sasha hráči řekla, ať se s ní setká zde, visí přichycená ke stropu přímo nad vchodem. Když hráč vstoupí, snese se ze stínů za ním a zuřivě zašeptá: „Sledoval vás někdo?“ Odhalí se, jen pokud dostane dostatečné ujištění.
 
-Sasha warns the player that she has little time, and that their absences will surely be noted if they tarry here. She then demands to know why they approached and confronted her. “It seems you do not intend to have me killed," she observes dryly. “But it also seems you’ve given me little choice but to comply with your demands."
+Sasha hráče varuje, že má málo času a že pokud se tu zdrží, jejich nepřítomnosti si jistě někdo všimne. Pak požaduje vědět, proč ji oslovil a postavil se jí. „Zdá se, že mě nehodláte nechat zabít,“ poznamená suše. „Ale zdá se také, že jste mi nenechal jinou volbu, než vyhovět vašim požadavkům.“
 
-Sasha can share any or all of the following information about herself if asked:
+Pokud se jí hráč zeptá, může Sasha o sobě prozradit kteroukoli či všechny z následujících informací:
 
-* She is Sasha Ivliskova, Strahd’s first and eldest bride. He wed her nearly four centuries ago, in the wake of the loss of his first love, Tatyana Federovna. He grew tired of her, however, and when she dared challenge him, he locked her away in a crypt for four hundred years, freeing her for unknown purposes shortly after his recent awakening. (If asked what the experience was like, Sasha says dully, “it was maddening—and a time that I wish to forget forever.")
-* She despises Strahd with every fiber of her being. “I am old, and I am tired," she hisses. “There are two things I wish to see before I die: the light of the rising sun, and the death of the monster Strahd von Zarovich."
+* Je Sasha Ivliskova, Strahdova první a nejstarší nevěsta. Pojal ji za ženu téměř před čtyřmi stoletími, po ztrátě své první lásky Taťány Federovny. Omrzela ho však, a když se mu odvážila postavit, zavřel ji na čtyři sta let do krypty a z neznámých důvodů ji propustil krátce po svém nedávném procitnutí. (Pokud se jí hráč zeptá, jaké to bylo, Sasha tupě odpoví: „Šílené – a byla to doba, na kterou chci navždy zapomenout.“)
+* Nenávidí Strahda každým vláknem své bytosti. „Jsem stará a unavená,“ zasyčí. „Jsou dvě věci, které chci vidět, než zemřu: světlo vycházejícího slunce a smrt netvora Strahda von Zaroviche.“
 
-If the player doesn’t reveal their interest in infiltrating Castle Ravenloft, Sasha asks them outright if they approached her because they wish to steal from the castle. In either case, she is willing to share information about the castle’s contents, layout, and inhabitants—as well as a time when Strahd will be away from the keep—if the players agree to take a certain prisoner with them when they do. “Her name is Gertruda," Sasha says, her brows furrowed in worry. “She is a villager from Barovia, spirited away as she trod the road toward Vallaki. She is alive, for now, but I fear for her life should she linger any longer in the keep. She's asked me to help free her, if I can—a request that, until now, I had no hope of fulfilling."
+Pokud hráč neprozradí, že chce proniknout do hradu Ravenloft, Sasha se ho přímo zeptá, zda ji oslovil, protože chce z hradu krást. V obou případech je ochotna prozradit informace o obsahu, rozvržení a obyvatelích hradu – i o době, kdy Strahd bude mimo tvrz –, pokud hráči souhlasí, že s sebou vezmou jistou vězeňkyni. „Jmenuje se Gertruda,“ řekne Sasha a ustaraně svraští obočí. „Je to vesničanka z Barovie, unesená, když kráčela po cestě do Vallaki. Zatím je naživu, ale bojím se o její život, pokud v tvrzi zůstane déle. Požádala mě, abych jí pomohla na svobodu, pokud to dokážu – o to jsem dosud neměla naději.“
 
-> [!lore]+ **Strahd's Scheme**
-> Unbeknownst to Sasha, Gertruda has been charmed by Strahd since the day she first arrived in the castle. Although Gertruda's friendship with Sasha is real, it was Strahd who told Gertruda to seek Sasha's aid in escaping.
+> [!lore]+ **Strahdův úskok**
+> Aniž by to Sasha tušila, je Gertruda od prvního dne na hradě Strahdem okouzlena (charmed). Přestože Gertrudino přátelství se Sashou je skutečné, byl to Strahd, kdo Gertrudě řekl, ať Sashu požádá o pomoc s útěkem.
 > 
-> Strahd hopes to use Gertruda as bait to lure the players to the castle while he's away, seeking to test their skills against his brides. Although he has no knowledge of the players' other objectives at the castle—such as obtaining Argynvost's skull or freeing the **werewolf** Emil Toranescu—he has been disappointed with his brides' performance against the players, and hopes to orchestrate an opportunity to separate the wheat from the chaff. Should the players succeed, Strahd believes, they will have proven themselves worthy of becoming his vampiric generals in the wars to come.
+> Strahd doufá, že Gertrudu využije jako návnadu, která hráče přiláká na hrad, zatímco bude pryč, aby otestoval jejich schopnosti proti svým nevěstám. Přestože neví nic o dalších cílech hráčů na hradě – například o získání Argynvostovy lebky nebo osvobození vlkodlaka (**werewolf**) Emila Toranesca –, je zklamán výkony svých nevěst proti hráčům a doufá, že připraví příležitost oddělit zrno od plev. Pokud hráči uspějí, věří Strahd, prokážou, že jsou hodni stát se jeho upířími generály ve válkách, jež přijdou.
 
-If the players agree to rescue Gertruda, Sasha can share the following information about Castle Ravenloft:
+Pokud hráči souhlasí, že Gertrudu zachrání, může jim Sasha o hradu Ravenloft prozradit následující:
 
-* Ever since his awakening, Strahd has departed the castle once each fortnight atop his **nightmare** steed Beucephalus on the night of the new moon. Sasha doesn’t know where he goes, or what he does, but she knows that he doesn’t return until the morning’s first light. Sasha can further share that the next new moon is tomorrow night—and that she has no reason to believe that Strahd won’t repeat the pattern again.
-* Gertruda is a prisoner on the third floor of the castle, in the king’s suites. The players can access the suites via the staircase in the foyer (<span class="citation">K21. South Tower Stair, p. 59</span>).
-* Sasha doesn’t know any of the traps that Strahd or his servants might have set in the castle. She does know, however, that the inside of the keep is often patrolled by undead **wights**—the animated remains of those that once guarded the castle.
-* Strahd keeps prisoners in the dungeons, on the floor beneath the castle larders. The players can access the dungeons via the staircase in the foyer (<span class="citation">K21. South Tower Stair, p. 59</span>).
-* Sasha has seen a dragon’s skull once—in a basement chamber that Volenta has more recently transformed into an ossuary. The chamber (<span class="citation">K67. Hall of Bones (p. 78)</span>) is behind the closed wooden doors to the west of <span class="citation">K65. Kitchen (p. 78)</span>.
-* Although she hasn’t descended there since Strahd freed her from her crypt, the castle catacombs are accessible via <span class="citation">K18. High Tower Staircase (p. 58)</span>.
-* Strahd has commanded his spawn to report the presence of any intruders into the castle, and Sasha therefore can’t help the players enter the keep herself. However, she can share the existence of a second, rear servants’ entrance (<span class="citation">K23. Servants’ Entrance (p. 59))</span> into the castle via <span class="citation">K3. Servants’ Courtyard (p. 54)</span>, which allows access to the servants’ quarters and kitchens.
-* Should the players require it while navigating the castle, Sasha recalls that Strahd's oldest password is "I come in Dostron's memory." She isn't sure who Dostron is, or whether Strahd still uses it as a password, but believes him arrogant enough to believe that none in the castle—other than Rahadin—is old enough to remember it. (Sasha doesn't know it, but the players can use this password to open both the *Tome of Strahd*, as described in [[Arc H - The Lost Soul]], and the *Daern's Instant Fortress* located in <span class="citation">K41. Treasury (p. 67)</span>).
+* Od svého procitnutí opouští Strahd hrad jednou za čtrnáct dní v noci novoluní na svém přízračném oři (**nightmare**) Beucephalovi. Sasha neví, kam jezdí ani co dělá, ale ví, že se vrací až s prvním ranním světlem. Sasha může dále prozradit, že příští novoluní je zítra v noci – a že nemá důvod věřit, že by Strahd tento zvyk znovu nezopakoval.
+* Gertruda je vězněna ve třetím patře hradu, v královských komnatách. Hráči se do komnat dostanou po schodišti ve vstupní síni (<span class="citation">K21. South Tower Stair, p. 59</span>).
+* Sasha nezná žádné pasti, které mohli Strahd či jeho služebníci na hradě nastražit. Ví však, že vnitřek tvrze často hlídkují nemrtvé mátohy (**wights**) – oživené ostatky těch, kdo kdysi hrad střežili.
+* Strahd drží vězně v žalářích, v podlaží pod hradními spížírnami. Hráči se do žalářů dostanou po schodišti ve vstupní síni (<span class="citation">K21. South Tower Stair, p. 59</span>).
+* Sasha jednou viděla dračí lebku – ve sklepní komnatě, kterou Volenta nedávno proměnila v kostnici. Komnata (<span class="citation">K67. Hall of Bones (p. 78)</span>) je za zavřenými dřevěnými dveřmi západně od <span class="citation">K65. Kitchen (p. 78)</span>.
+* Přestože tam od chvíle, kdy ji Strahd propustil z krypty, nesestoupila, do hradních katakomb se lze dostat přes <span class="citation">K18. High Tower Staircase (p. 58)</span>.
+* Strahd svým zplozencům přikázal, aby hlásili přítomnost jakýchkoli vetřelců na hradě, a Sasha proto hráčům nemůže pomoci dostat se do tvrze sama. Může jim však prozradit existenci druhého, zadního vchodu pro služebnictvo (<span class="citation">K23. Servants’ Entrance (p. 59))</span> do hradu přes <span class="citation">K3. Servants’ Courtyard (p. 54)</span>, který vede do pokojů služebnictva a do kuchyní.
+* Pokud by to hráči při pohybu po hradě potřebovali, Sasha si vzpomíná, že Strahdovo nejstarší heslo zní „Přicházím na památku Dostrona“. Neví, kdo byl Dostron ani zda Strahd heslo stále používá, ale věří, že je dost domýšlivý, aby si myslel, že nikdo na hradě – kromě Rahadina – není dost starý, aby si ho pamatoval. (Sasha to neví, ale hráči mohou tímto heslem otevřít jak *Strahdův foliant*, jak je popsáno v [[Arc H - The Lost Soul|Oblouk H – Ztracená duše]], tak *Daern's Instant Fortress* nacházející se v <span class="citation">K41. Treasury (p. 67)</span>.)
 
-Sasha warns the players that they likely won't be able to depart the castle without facing Rahadin, the castle chamberlain. "The master of the castle may be gone," she tells them, "but his right hand stalks the shadows of any who enter."
+Sasha hráče varuje, že nejspíš nebudou moci opustit hrad, aniž by se postavili Rahadinovi, hradnímu komořímu. „Pán hradu možná bude pryč,“ řekne jim, „ale jeho pravá ruka slídí ve stínech za každým, kdo vstoupí.“
 
-Sasha’s memory and knowledge of the castle is limited beyond this information, and she apologizes for any inability to answer the players’ additional questions. 
+Sashina paměť a znalost hradu jsou mimo tyto informace omezené a omlouvá se, že nedokáže odpovědět na další otázky hráčů.
 
-When the player has exhausted her knowledge, Sasha informs them curtly that they both must return to the castle’s halls before they are missed, and bids them luck as they depart. Before she leaves, the player notices her cast a final, mournful glance at the mirrors on the floor—none of which bear her reflection—then sigh and step away into <span class="citation">K12. Turret Post (p. 57)</span>.
+Když hráč její vědění vyčerpá, Sasha mu úsečně oznámí, že se oba musí vrátit do hradních síní, než se po nich začne pátrat, a popřeje mu při odchodu štěstí. Než odejde, hráč si všimne, jak naposledy truchlivě pohlédne na zrcadla na podlaze – v žádném z nich není její odraz –, pak si povzdechne a odejde do <span class="citation">K12. Turret Post (p. 57)</span>.
 
-Shortly after the player returns to the dining hall and closes the secret door, Escher enters the chamber to collect them and escort them upstairs through <span class="citation">K8. Great Entry (p. 55)</span>, up the stairs of <span class="citation">K19. Grand Landing (p. 58)</span>, and into <span class="citation">K25. Audience Hall (p. 61)</span> to meet the other players.
-## O6f. The Prisoner
-Shortly after all of the players have reunited in the Audience Hall, Rahadin ascends <span class="citation">K19. Grand Landing (p. 58)</span> and enters the room accompanied by another figure. Read:
-
-<div class="description">
-<p>Rahadin holds a chain in his right hand, its links connected to a steel collar clamped tightly around the neck of the stumbling figure he drags forward behind him. The figure’s features are obscured by the sack they wear over their head, their clothes torn away and replaced by a threadbare, shapeless robe.</p>
-</div>
-
-Strahd greets Rahadin warmly. “Punctual as always, I see," he says.
-
-Upon approaching Strahd and the players, Rahadin halts, then yanks the chain harshly forward, forcing the prisoner to kneel. “The prisoner awaits your judgment, my lord," he says coldly.
-
-At Strahd’s nod, Rahadin rips away the sack covering the figure’s head, revealing its features. Read:
+Krátce poté, co se hráč vrátí do jídelní síně a zavře tajné dveře, vstoupí do komnaty Escher, aby ho vyzvedl a doprovodil nahoru přes <span class="citation">K8. Great Entry (p. 55)</span>, po schodech <span class="citation">K19. Grand Landing (p. 58)</span> a do <span class="citation">K25. Audience Hall (p. 61)</span>, kde se setká s ostatními hráči.
+## O6f. Vězeň
+Krátce poté, co se všichni hráči znovu sejdou v Audienční síni, vystoupá Rahadin po <span class="citation">K19. Grand Landing (p. 58)</span> a vstoupí do místnosti v doprovodu další postavy. Přečtěte:
 
 <div class="description">
-<p>The figure is a man, his eyes wide and terrified. His body, however, has been warped beyond recognition—his muscles grotesquely swollen, his skin cracked and fissured like parched earth. Most unsettling of all are the four lumps that adorn his shoulders, each resembling a tiny, misshapen head with its eyes squeezed shut.</p>
+<p>Rahadin drží v pravé ruce řetěz, jehož články jsou připojeny k ocelovému obojku pevně sevřenému kolem krku vrávorající postavy, kterou za sebou vleče. Rysy postavy zakrývá pytel přetažený přes hlavu; její šaty byly strhány a nahrazeny ošuntělým beztvarým hábitem.</p>
 </div>
 
-Strahd then turns toward the players expectantly and shares the following information:
+Strahd Rahadina vřele pozdraví. „Dochvilný jako vždy, vidím,“ praví.
 
-* The man is a convicted murderer. He was a Vallakian who murdered his neighbor after he caught his wife and the neighbor having an affair. (“I’m told he tore a wooden beam from the victim’s own home and used it to crush him to death," Strahd says gravely, shaking his head. “A savage brute.") For his crimes, he was sentenced to death.
-* Strahd has been impressed with the players’ martial prowess—but seeks to see what they will do when faced with an enemy that bears no sword. “A lord’s justice is unlike the justice of the battlefield," he says, “and it has come time to decide how this creature will pass from this world." He regards them inquisitively. “How should it be done?"
+Když Rahadin dojde ke Strahdovi a hráčům, zastaví se a pak prudce trhne řetězem vpřed, takže vězeň musí pokleknout. „Vězeň očekává váš soud, můj pane,“ řekne chladně.
 
-> [!lore]+ **The Convict**
-> The man is Alek Tyminski, a butcher from Vallaki. Upon purchasing a catch of fresh fish from the fisherman Bluto Krogarov, Alek found an *amber shard* buried in the stomach of one of the fish. The shard, which bore a connection to the vestige Great Taar Haak, the Five-Headed Destroyer, promised Alek the power to inflict his will upon the world. 
->
-> When Alek later caught his wife, Korina, in bed with his neighbor Korga, Alek accepted Taar Haak’s boon and gained great strength—at the expense of his physical appearance. Alek then tore a wooden beam from the wall of Korga’s home, which he then used to crush Korga to death. Lady Wachter’s guards, aided by her **cult fanatics**, managed to capture him shortly thereafter.
-
-If the players ask Strahd why the man’s body is disfigured, he notes gravely that “there are some in Barovia who attempt to deal with powers far darker than I." He regards the man with obvious distaste, adding solemnly, “One way or another, they all receive their reward in the end."
-
-Strahd defers to the players to decide how the man should be executed. If the players are able to settle on a decision, Strahd then invites them to carry out the sentence themselves—"if they have the stomach for it."
-
-If the players fail to decide upon a sentence, or if they fail to carry it out themselves, Strahd shakes his head in disappointment and gestures for Rahadin to replace the sack over the man’s head. “A pity," he mourns. “I’d hoped for a better showing from you. Ludmilla shall have him instead, then. I expect she’ll enjoy inspecting his numerous deformities."
-
-If the players move to kill him, the man begins to laugh as he dies. “I smell amber," he wheezes, his voice gravelly. “You think yourselves above me, but you carry its stink as well." He gasps for breath, then rasps, “Does it whisper to you as well, I wonder?" before dying.
-
-If the players carry out the sentence, Strahd congratulates them on their strength of will. “Not all would have the constitution to mete out justice as you have," he says approvingly. If the players ask about the “stink of amber" the man mentioned, Strahd raises an eyebrow and says, “There are many accursed things long-since lost in this land. It is best not to dwell on them overmuch as this poor soul did."
-## O6g. The Broken Drawbridge
-Following the events of [[#O6f. The Prisoner]], Strahd thanks the players for an enjoyable evening and the pleasure of their company, and suggests that the night is sadly drawing to a close. As he does, a bolt of lightning strikes one of the drawbridge towers. Read:
+Na Strahdovo kývnutí strhne Rahadin postavě pytel z hlavy a odhalí její rysy. Přečtěte:
 
 <div class="description">
-<p>A flash of blinding white fills the air above the courtyard, and an explosion of sound rattles the broken glass and iron latticework of the chamber’s large window. As the acrid scent of ozone fills the room, you see a cloud of thick, black smoke rising from one of the towers beside the raised drawbridge.</p>
+<p>Postava je muž s vytřeštěnýma, vyděšenýma očima. Jeho tělo však bylo znetvořeno k nepoznání – svaly má groteskně naduřelé, kůži popraskanou a rozpukanou jako vyprahlou zemi. Nejznepokojivější ze všeho jsou čtyři boule, které mu zdobí ramena; každá připomíná drobnou, znetvořenou hlavu s pevně sevřenýma očima.</p>
 </div>
 
-If necessary, Strahd reassures the players that they are in no danger, and that it simply appears that a stray bolt of lightning has struck a part of the keep.
+Strahd se pak s očekáváním obrátí k hráčům a prozradí jim následující:
 
-Shortly after the lightning strike, Ludmilla enters the chamber from <span class="citation">K19. Grand Landing (p. 58)</span>, her expression stony. She bows deeply before Strahd, then informs him that it appears a bolt of lightning has struck the south gate tower. She shares that she has dispatched Diavola, one of her apprentices, to inspect the tower mechanism and determine whether any repairs are required.
+* Muž je odsouzený vrah. Byl to obyvatel Vallaki, který zavraždil svého souseda, když ho přistihl se svou ženou při nevěře. („Prý vytrhl trám z domu své oběti a ubil ho jím k smrti,“ praví Strahd vážně a vrtí hlavou. „Divošský surovec.“) Za své zločiny byl odsouzen k smrti.
+* Strahd byl bojovou zdatností hráčů ohromen – ale chce vidět, co udělají, když budou čelit nepříteli, který nenese meč. „Spravedlnost pána se liší od spravedlnosti bojiště,“ praví, „a nadešel čas rozhodnout, jak tento tvor odejde z tohoto světa.“ Zvídavě si je prohlíží. „Jak by se to mělo stát?“
 
-Strahd then invites the players to join him in the <span class="citation">K8. Great Entry (p. 55)</span> for refreshments as they wait for Diavola’s report. If Escher is present (i.e., because one of the players met with Sasha in [[#O6e. Sasha’s Rendezvous]]), Strahd directs him to send for wine and tea from the kitchens. Otherwise, Strahd clicks his tongue, summoning a lone **bat** hanging from the ceiling, and directs it to do the same. The bat chirps a single time, then flutters down through <span class="citation">K19. Grand Landing (p. 58)</span>.
-
-Shortly after the players descend to the Great Entry, if Strahd sent Escher to the kitchens, he ascends <span class="citation">K21. South Tower Stair (p. 59)</span> bearing a tray containing mugs of spiced wine and herbal tea. (If Strahd sent the bat, Sasha delivers the drinks instead.) As they enjoy their refreshments, Strahd apologizes to the players for the delay and inconvenience, but notes, “I have full faith in Ludmilla and her associates to remedy any problem."
-
-After a few minutes have passed, the great doors leading from <span class="citation">K7. Entry (p. 54)</span> open to reveal Diavola, an unhappy and soaking-wet **Barovian witch**.
-
-The conversation then unfolds as follows unless the players intervene:
-
-* Ludmilla turns to Diavola and instructs her to “deliver her report to the Master."
-* Diavola casts her eyes toward the ground as she bows hurriedly toward Strahd, stammering: “Forgive me, Great One. The lightning has scorched the runes inscribed into the upper tower. The bridge—it will not work until the runes are freshly cast."
-* Strahd asks Diavola coldly if she can re-cast the tower runes. She nods, wringing her hands and licking her lips, and adds, “Yes—but I would require the aid of the full coven. And even then, it could take us until morning."
-* “Then see that it is done by then," Strahd replies sternly. “You are dismissed." Diavola bows deeply, then flees up <span class="citation">K21. South Tower Stair (p. 59)</span> until she reaches <span class="citation">K54. Familiar Room (p. 71)</span>, where she rejoins the other **Barovian witches**.
-
-Strahd then turns to the players and apologizes again for the inconvenience, noting that it appears unlikely that he will be able to send them home via the carriage that evening. “Should you wish it, I would be more than glad to have rooms prepared for the night," he promises. “Our guest quarters are warm and comfortable, and in far better condition than many other chambers of the castle." 
-
-If any players appear uncomfortable with accepting Strahd’s hospitality, he assures them that “no servant of mine will lay a hand on you for as long as you remain within your rooms—and you will, of course, be free to go in the morning, once the storm subsides and the bridge is repaired." 
-
-If the players refuse Strahd’s hospitality outright, he shakes his head and notes that, to his regret, he cannot allow them to simply sleep elsewhere in the castle. “You are welcome, of course, to pitch your tents in the front courtyard—but I cannot guarantee your safety from any creatures that may lurk amidst the castle grounds."
-
-If any player suggests using flight to cross the chasm, Strahd warns them that “the storm may be far less kind than you expect—and you would not be the first individual to lose their lives in a flight of folly from the castle walls." (If asked, Strahd briefly shares the tragedy of Prince Ariel du Plumette, whose tale is as described in <span class="citation">Crypt 4 (p. 86)</span>.)
-
-> [!info]+ **No Escape**
-> During the storm, the skies around Castle Ravenloft are filled with **heavy precipitation** and a **strong wind** (<span class="citation">Dungeon Master’s Guide, p. 110</span>), rendering the fifty-foot chasm near-impassable by any flying creature. (Remember that a flying creature carrying another creature of similar size moves at half speed, and that a flying creature in a strong wind must land at the end of its turn or fall.) In addition, the direction of the wind faces toward the castle, making the air difficult terrain for any creature attempting to fly away from the keep.
+> [!lore]+ **Odsouzenec**
+> Muž je Alek Tyminski, řezník z Vallaki. Když si Alek koupil úlovek čerstvých ryb od rybáře Bluta Krogarova, našel v žaludku jedné z ryb *jantarový střep*. Střep, spjatý s pozůstatkem Velkého Taar Haaka, Pětihlavého ničitele, Alekovi slíbil moc vnutit světu svou vůli.
 >
-> For example, a rogue enchanted with the *fly* spell has a fly speed of 60 feet, reduced to 30 feet while flying through difficult terrain. If the rogue is carrying another player, the rogue’s speed is further reduced to 15 feet from the encumbrance. Even if the rogue dashes twice, the rogue can’t move more than 45 feet before being forced to land or fall—sending the rogue and their cargo plummeting into the chasm unless they choose to turn back before reaching the midpoint.
+> Když Alek později přistihl svou ženu Korinu v posteli se sousedem Korgou, přijal Taar Haakův dar a získal velkou sílu – za cenu svého vzhledu. Alek pak vytrhl ze zdi Korgova domu dřevěný trám a ubil jím Korgu k smrti. Strážím lady Wachter se s pomocí jejích fanatických kultistů (**cult fanatics**) podařilo ho krátce nato zajmout.
 
-Should the players accept Strahd’s offer of hospitality, he claps his hands together and calls for Escher or Sasha—depending on which one is present—to "show our guests to their rooms, please."
+Pokud se hráči Strahda zeptají, proč je mužovo tělo znetvořené, vážně poznamená, že „v Barovii jsou tací, kdo se pokoušejí jednat s mocnostmi mnohem temnějšími, než jsem já“. Prohlíží si muže se zjevným odporem a vážně dodá: „Tak či onak se jim nakonec všem dostane odměny.“
 
-Strahd then bids the players goodnight, remaining within the Great Entry to speak with Ludmilla as Escher (or Sasha) instructs the players to follow him (or her) to their rooms. “Do not stray from my path," Escher or Sasha warns, taking a torch from the wall of <span class="citation">K9. Guests’ Hall (p. 56)</span>, “unless you wish to die a most painful death."
+Strahd nechá na hráčích, aby rozhodli, jak má být muž popraven. Pokud se hráči dokážou shodnout, Strahd je vyzve, aby rozsudek vykonali sami – „mají-li na to žaludek“.
 
-Escher or Sasha then leads the players up <span class="citation">K21. South Tower Stair (p. 59)</span>, past the second-floor landing leading to <span class="citation">K30. King’s Accountant (p. 62)</span>, past the third-floor landing leading to <span class="citation">K35. Guardian Vermin (p. 64)</span>, and onto the fourth-floor landing comprising <span class="citation">K47. Portrait of Strahd (p. 68)</span>. 
+Pokud se hráči na rozsudku neshodnou nebo ho nevykonají sami, Strahd zklamaně zavrtí hlavou a pokyne Rahadinovi, aby muži znovu přetáhl pytel přes hlavu. „Škoda,“ posteskne si. „Doufal jsem, že předvedete víc. Dostane ho tedy Ludmilla. Předpokládám, že si zkoumání jeho četných znetvoření užije.“
 
-If Escher is the players' guide, he is curt and visibly slouching as he shows the players upstairs. (Escher, who enjoys using the Lounge as a comfortable place to relax or sulk, is sour and jealous that the players have temporarily stolen his favorite haunt in the castle. A player can identify his bitterness with a successful DC 12 Wisdom (Insight) check.)
+Pokud se hráči rozhodnou ho zabít, muž se při umírání začne smát. „Cítím jantar,“ sípe chraplavým hlasem. „Myslíte si, že stojíte nade mnou, ale taky jím páchnete.“ Lapá po dechu a pak zachraptí: „Šeptá i vám, co?“ a zemře.
 
-> [!abstract] **Wandering Players**
-> If any players disobey their guide’s instructions and split off from the remainder of the party to explore Castle Ravenloft, they encounter the following scenes as they do so.
+Pokud hráči rozsudek vykonají, Strahd jim blahopřeje k jejich síle vůle. „Ne každý by měl dost pevnou povahu, aby vykonal spravedlnost tak jako vy,“ praví uznale. Pokud se hráči zeptají na „pach jantaru“, o kterém muž mluvil, Strahd zvedne obočí a praví: „V této zemi je mnoho prokletých věcí, dávno ztracených. Je nejlépe nezaobírat se jimi příliš, jako to učinila tato ubohá duše.“
+## O6g. Rozbitý padací most
+Po událostech v [[#O6f. Vězeň|O6f. Vězeň]] Strahd hráčům poděkuje za příjemný večer a potěšení z jejich společnosti a naznačí, že noc se bohužel chýlí ke konci. V tu chvíli udeří blesk do jedné z věží u padacího mostu. Přečtěte:
+
+<div class="description">
+<p>Vzduch nad nádvořím zaplní záblesk oslnivé běloby a výbuch zvuku zarachotí rozbitým sklem a železnou mříží velkého okna komnaty. Zatímco místnost naplňuje štiplavý pach ozónu, vidíte, jak z jedné z věží vedle vytaženého padacího mostu stoupá oblak hustého černého kouře.</p>
+</div>
+
+Je-li to třeba, Strahd hráče ujistí, že jim nehrozí žádné nebezpečí a že se zřejmě jen zbloudilý blesk trefil do části tvrze.
+
+Krátce po úderu blesku vstoupí do komnaty z <span class="citation">K19. Grand Landing (p. 58)</span> Ludmilla s kamennou tváří. Hluboce se Strahdovi ukloní a oznámí mu, že blesk zřejmě zasáhl jižní strážní věž. Prozradí, že vyslala Diavolu, jednu ze svých učednic, aby prohlédla mechanismus věže a zjistila, zda je nutná oprava.
+
+Strahd pak hráče pozve, aby s ním ve <span class="citation">K8. Great Entry (p. 55)</span> poseděli u občerstvení, zatímco budou čekat na Diavolino hlášení. Pokud je přítomen Escher (tj. protože se jeden z hráčů sešel se Sashou v [[#O6e. Schůzka se Sashou|O6e. Schůzka se Sashou]]), Strahd mu nařídí, aby z kuchyně nechal přinést víno a čaj. Jinak Strahd mlaskne jazykem, přivolá osamělého netopýra (**bat**), který visí ze stropu, a nařídí mu totéž. Netopýr jednou pípne a pak odletí dolů přes <span class="citation">K19. Grand Landing (p. 58)</span>.
+
+Krátce poté, co hráči sestoupí do Velkého vstupu, vystoupá – pokud Strahd poslal Eschera do kuchyně – Escher po <span class="citation">K21. South Tower Stair (p. 59)</span> s podnosem, na němž jsou poháry svařeného vína a bylinkový čaj. (Pokud Strahd poslal netopýra, přinese nápoje místo něj Sasha.) Zatímco se hráči občerstvují, Strahd se jim omlouvá za zdržení a nepříjemnosti, ale poznamená: „Plně důvěřuji Ludmille a jejím společnicím, že každou potíž napraví.“
+
+Po několika minutách se otevřou velké dveře vedoucí z <span class="citation">K7. Entry (p. 54)</span> a odhalí Diavolu, nešťastnou a promočenou barovskou čarodějnici (**Barovian witch**).
+
+Pokud hráči nezasáhnou, rozhovor pak probíhá takto:
+
+* Ludmilla se otočí k Diavole a nařídí jí, ať „podá hlášení Pánovi“.
+* Diavola sklopí oči k zemi, spěšně se Strahdovi ukloní a koktá: „Odpusťte mi, Veliký. Blesk spálil runy vepsané do horní věže. Most – nebude fungovat, dokud runy nebudou znovu vepsány.“
+* Strahd se Diavoly chladně zeptá, zda dokáže runy věže znovu vepsat. Přikývne, kroutí rukama, olizuje si rty a dodá: „Ano – ale potřebovala bych pomoc celého sabatu. A i tak by nám to mohlo trvat až do rána.“
+* „Pak dohlédni, aby to do té doby bylo hotovo,“ odpoví Strahd přísně. „Můžeš jít.“ Diavola se hluboce ukloní a pak prchne po <span class="citation">K21. South Tower Stair (p. 59)</span> nahoru, až dorazí do <span class="citation">K54. Familiar Room (p. 71)</span>, kde se znovu připojí k ostatním barovským čarodějnicím (**Barovian witches**).
+
+Strahd se pak obrátí k hráčům, znovu se omluví za nepříjemnost a poznamená, že se zdá nepravděpodobné, že by je ještě dnes večer mohl poslat domů kočárem. „Budete-li si to přát, rád pro vás nechám na noc připravit pokoje,“ slibuje. „Naše pokoje pro hosty jsou teplé a pohodlné a v mnohem lepším stavu než mnohé jiné komnaty hradu.“
+
+Pokud se některým hráčům zdá nepříjemné přijmout Strahdovu pohostinnost, ujistí je, že „žádný z mých služebníků na vás nevztáhne ruku, dokud zůstanete ve svých pokojích – a ráno, jakmile bouře utichne a most bude opraven, budete samozřejmě moci volně odejít“.
+
+Pokud hráči Strahdovu pohostinnost rovnou odmítnou, zavrtí hlavou a poznamená, že jim k své lítosti nemůže dovolit, aby prostě spali jinde na hradě. „Samozřejmě si můžete postavit stany na předním nádvoří – ale nemohu vám zaručit bezpečí před tvory, kteří mohou číhat v hradním areálu.“
+
+Pokud některý hráč navrhne přeletět propast, Strahd ho varuje, že „bouře může být mnohem méně vlídná, než čekáte – a nebyl byste prvním, kdo přišel o život při pošetilém letu z hradních zdí“. (Pokud se ho hráči zeptají, Strahd krátce vypráví tragédii prince Ariela du Plumette, jehož příběh odpovídá popisu v <span class="citation">Crypt 4 (p. 86)</span>.)
+
+> [!info]+ **Úniku není**
+> Během bouře je obloha kolem hradu Ravenloft plná prudkých srážek (**heavy precipitation**) a silného větru (**strong wind**; <span class="citation">Dungeon Master’s Guide, p. 110</span>), takže padesátistopá propast je pro jakéhokoli létajícího tvora téměř nepřekonatelná. (Pamatujte, že létající tvor, který nese jiného tvora podobné velikosti, se pohybuje poloviční rychlostí, a že létající tvor v silném větru musí na konci svého tahu přistát, jinak spadne.) Vítr navíc vane směrem k hradu, takže vzduch je těžkým terénem (difficult terrain) pro každého tvora, který se pokouší odletět pryč od tvrze.
 >
-> > [!info]- **Second Basement Floor (B2F). Dungeon & Catacombs** 
-> > If a player instead descends two floors down <span class="citation">K21. South Tower Stair (p. 59)</span> from <span class="citation">K9. Guests’ Hall (p. 56)</span>, they emerge into <span class="citation">K73. Dungeon Hall (p. 79)</span>. This area is largely as described in <span class="citation">K73. Dungeon Hall (p. 79)</span>; however, remove the reference to the “cry for help" from this area’s description. The teleport traps function as described in [[Arc P - Ravenloft Heist#P11d. Mučírna|Arc P - Ravenloft Heist]]. If the character falls victim to one of the teleport traps, they are swiftly retrieved by Rahadin, who escorts them up to the guest suite.
+> Například zloděj pod kouzlem *fly* má rychlost letu 60 stop, která se při letu těžkým terénem snižuje na 30 stop. Pokud zloděj nese dalšího hráče, jeho rychlost se kvůli zatížení dál sníží na 15 stop. I kdyby zloděj dvakrát použil sprint (Dash), nedokáže urazit víc než 45 stop, než bude nucen přistát nebo spadnout – a on i jeho náklad by se zřítili do propasti, pokud by se nerozhodli otočit dřív, než dosáhnou poloviny.
+
+Pokud hráči Strahdovu nabídku pohostinnosti přijmou, tleskne a zavolá na Eschera nebo Sashu – podle toho, kdo je přítomen –, ať „laskavě zavede naše hosty do jejich pokojů“.
+
+Strahd pak hráčům popřeje dobrou noc a zůstane ve Velkém vstupu, aby promluvil s Ludmillou, zatímco Escher (nebo Sasha) vyzve hráče, aby ho (či ji) následovali do jejich pokojů. „Neodbočujte z mé cesty,“ varuje Escher či Sasha a vezme ze zdi <span class="citation">K9. Guests’ Hall (p. 56)</span> pochodeň, „pokud nechcete zemřít tou nejbolestivější smrtí.“
+
+Escher či Sasha pak hráče vede nahoru po <span class="citation">K21. South Tower Stair (p. 59)</span>, kolem podesty ve druhém patře vedoucí do <span class="citation">K30. King’s Accountant (p. 62)</span>, kolem podesty ve třetím patře vedoucí do <span class="citation">K35. Guardian Vermin (p. 64)</span> až na podestu ve čtvrtém patře, kterou tvoří <span class="citation">K47. Portrait of Strahd (p. 68)</span>.
+
+Pokud hráče vede Escher, je úsečný a při cestě nahoru se viditelně hrbí. (Escher, který rád využívá Salonek jako pohodlné místo k odpočinku či trucování, je kyselý a žárlí, že mu hráči dočasně zabrali jeho oblíbené útočiště na hradě. Hráč může jeho zahořklost rozpoznat úspěšným ověřením Wisdom (Insight) se DC 12.)
+
+> [!abstract] **Bloudící hráči**
+> Pokud někteří hráči neuposlechnou pokyny svého průvodce a oddělí se od zbytku družiny, aby prozkoumali hrad Ravenloft, narazí při tom na následující scény.
+>
+> > [!info]- **Druhé podzemní podlaží (B2F). Žaláře a katakomby** 
+> > Pokud hráč místo toho sestoupí z <span class="citation">K9. Guests’ Hall (p. 56)</span> o dvě podlaží níž po <span class="citation">K21. South Tower Stair (p. 59)</span>, vynoří se v <span class="citation">K73. Dungeon Hall (p. 79)</span>. Tato oblast do značné míry odpovídá popisu v <span class="citation">K73. Dungeon Hall (p. 79)</span>; z jejího popisu však odstraňte zmínku o „volání o pomoc“. Teleportační pasti fungují tak, jak je popsáno v [[Arc P - Ravenloft Heist#P11d. Mučírna|Oblouk P – Loupež v Ravenloftu]]. Pokud se postava stane obětí jedné z teleportačních pastí, rychle si pro ni přijde Rahadin a doprovodí ji nahoru do komnat pro hosty.
 >
 > <br>
 >
-> > [!info]- **First Basement Floor (B1F). Larders of Ill Omen** 
-> > If a player instead descends one floor down <span class="citation">K21. South Tower Stair (p. 59)</span> from <span class="citation">K9. Guests’ Hall (p. 56)</span>, they emerge into <span class="citation">K61. Elevator Trap (p. 74)</span>, which remains deactivated and doesn’t trigger if a player walks through it. The remainder of this floor is as follows:
+> > [!info]- **První podzemní podlaží (B1F). Spížírny zlých znamení** 
+> > Pokud hráč místo toho sestoupí z <span class="citation">K9. Guests’ Hall (p. 56)</span> o jedno podlaží níž po <span class="citation">K21. South Tower Stair (p. 59)</span>, vynoří se v <span class="citation">K61. Elevator Trap (p. 74)</span>, která zůstává vypnutá a když jí hráč projde, nespustí se. Zbytek tohoto podlaží vypadá takto:
 > >
-> > * **Servants’ Hall.** This area is largely as described in <span class="citation">K62. Servants’ Hall (p. 76)</span>, but remove the final sentence referring to the “dark figure" from this area’s description. In addition, the double doors leading to <span class="citation">K67. Hall of Bones (p. 78)</span> are locked, requiring a successful DC 20 Dexterity (Thieves’ Tools) check or DC 25 Strength check to open.
+> > * **Síň služebnictva.** Tato oblast do značné míry odpovídá popisu v <span class="citation">K62. Servants’ Hall (p. 76)</span>, ale z popisu této oblasti odstraňte poslední větu zmiňující „temnou postavu“. Dvoukřídlé dveře vedoucí do <span class="citation">K67. Hall of Bones (p. 78)</span> jsou navíc zamčené; k jejich otevření je potřeba úspěšné ověření Dexterity (Thieves’ Tools) se DC 20 nebo ověření Strength se DC 25.
 > >
-> > * **Wine Cellar.** This area is as described in [[#Sasha Alone]].
+> > * **Vinný sklep.** Tato oblast odpovídá popisu v [[#Sasha o samotě|Sasha o samotě]].
 > >
-> > * **Kitchen.** This area is as described in [[#Sasha Alone]], but Cyrus is absent and the fire pit has burned down to low embers.
+> > * **Kuchyně.** Tato oblast odpovídá popisu v [[#Sasha o samotě|Sasha o samotě]], ale Cyrus tu není a ohniště dohořelo na slabé uhlíky.
 > >
-> > * **Butler’s Quarters.** This area is largely as described in <span class="citation">K66. Butler’s Quarters (p. 78)</span>. However, Cyrus is currently curled up and asleep on his bed, cuddled up with the plush werewolf described in <span class="citation">Blinsky Toy (p. 50)</span>.
+> > * **Pokoj komorníka.** Tato oblast do značné míry odpovídá popisu v <span class="citation">K66. Butler’s Quarters (p. 78)</span>. Cyrus však momentálně spí stočený na posteli, přitulený k plyšovému vlkodlakovi popsanému v <span class="citation">Blinsky Toy (p. 50)</span>.
 > >
-> > * **Hall of Bones.** This area is largely as described in <span class="citation">K67. Hall of Bones (p. 78)</span>. However, six **crawling claws** have climbed into the jaw of Argynvost’s skull, and drop on any player from above to attack as soon as the player enters this chamber. The sound of fighting draws the attention of Rahadin, who swiftly confronts the players and escorts them to the guest suite.
+> > * **Síň kostí.** Tato oblast do značné míry odpovídá popisu v <span class="citation">K67. Hall of Bones (p. 78)</span>. Do čelisti Argynvostovy lebky však vlezlo šest lezoucích pařátů (**crawling claws**), které na hráče seskočí shora a zaútočí, jakmile vstoupí do této komnaty. Zvuk boje přiláká pozornost Rahadina, který hráče rychle zastaví a doprovodí je do komnat pro hosty.
 > >
-> > * **Guards’ Run, Guards’ Quarters & Guards’ Stair.** These areas are as described in <span class="citation">K68. Guards’ Run (p. 79)</span>, <span class="citation">K69. Guards’ Quarters (p. 79)</span>, and <span class="citation">K64. Guards’ Stair (p. 78)</span>.
+> > * **Strážní chodba, ubikace stráží a schodiště stráží.** Tyto oblasti odpovídají popisu v <span class="citation">K68. Guards’ Run (p. 79)</span>, <span class="citation">K69. Guards’ Quarters (p. 79)</span> a <span class="citation">K64. Guards’ Stair (p. 78)</span>.
 > >
-> > * **Kingsmen Hall.** This area is as described in <span class="citation">K70. Kingsmen Hall (p. 79)</span>.
+> > * **Síň královské gardy.** Tato oblast odpovídá popisu v <span class="citation">K70. Kingsmen Hall (p. 79)</span>.
 > >
-> > * **Kingsmen Quarters.** This area is largely as described in <span class="citation">K71. Kingsmen Quarters (p.79)</span>. However, two hidden **wights** stand guard in the rear alcoves, emerging to attack any trespassers on sight. (The wights don’t pursue any players who flee into <span class="citation">K67. Hall of Bones (p. 78)</span>, instead withdrawing once more into their original hiding places.)
+> > * **Ubikace královské gardy.** Tato oblast do značné míry odpovídá popisu v <span class="citation">K71. Kingsmen Quarters (p.79)</span>. V zadních výklencích však stojí na stráži dvě skryté mátohy (**wights**), které se vynoří a zaútočí na každého vetřelce, jakmile ho spatří. (Mátohy nepronásledují hráče, kteří uprchnou do <span class="citation">K67. Hall of Bones (p. 78)</span>, a místo toho se znovu stáhnou do svých původních úkrytů.)
 > >
-> > * **Chamberlain’s Office.** This area is largely as described in <span class="citation">K72. Chamberlain’s Office (p. 79)</span>. However, while the player can catch brief and occasional glimpses of a moving shadow out of the corner of their eye, the **shadow demon** emerges only to attack any player who searches for a secret door.
+> > * **Kancelář komořího.** Tato oblast do značné míry odpovídá popisu v <span class="citation">K72. Chamberlain’s Office (p. 79)</span>. Přestože hráč může koutkem oka občas krátce zahlédnout pohybující se stín, stínový démon (**shadow demon**) se vynoří a zaútočí jen na hráče, který pátrá po tajných dveřích.
 >
 > <br>
 >
-> > [!info]- **First Floor (1F). Main Floor** 
-> > If a player instead lingers in <span class="citation">K9. Guests’ Hall (p. 56)</span>, they are swiftly met by Strahd, who cordially advises them to follow Rahadin up to the guest quarters.
+> > [!info]- **První patro (1F). Hlavní podlaží** 
+> > Pokud hráč místo toho otálí v <span class="citation">K9. Guests’ Hall (p. 56)</span>, brzy se s ním setká Strahd, který mu zdvořile poradí, ať následuje Rahadina nahoru do pokojů pro hosty.
 >
 > <br>
 > 
-> > [!info]- **Second Floor (2F). Court of the Count** 
-> > If a player ascends only one floor up <span class="citation">K21. South Tower Stair (p. 59)</span> from <span class="citation">K9. Guests’ Hall (p. 56)</span>, the door leading to <span class="citation">K30. King’s Accountant (p.62)</span> is locked, requiring a successful DC 15 Dexterity (Thieves’ Tools) check to open without alerting Rahadin.
+> > [!info]- **Druhé patro (2F). Hraběcí dvůr** 
+> > Pokud hráč vystoupá z <span class="citation">K9. Guests’ Hall (p. 56)</span> po <span class="citation">K21. South Tower Stair (p. 59)</span> jen o jedno patro, jsou dveře vedoucí do <span class="citation">K30. King’s Accountant (p.62)</span> zamčené; k jejich otevření bez vyburcování Rahadina je potřeba úspěšné ověření Dexterity (Thieves’ Tools) se DC 15.
 > >
-> > * **King’s Accountant.** This area is largely as described in <span class="citation">K30. King’s Accountant (p. 62)</span>. However, Lief Lipsiege is a lawful neutral **wight** with no attacks. When the players first approach, notice, or interact with him, read:
+> > * **Královský účetní.** Tato oblast do značné míry odpovídá popisu v <span class="citation">K30. King’s Accountant (p. 62)</span>. Lief Lipsiege je však zákonně neutrální mátoha (**wight**) bez útoků. Když se k němu hráči poprvé přiblíží, všimnou si ho nebo s ním začnou jednat, přečtěte:
 > > 
 > > <hr>
 > > 
-> > The corpselike figure atop the stool is—or once was—an elderly man, clad in a high-collared, once-crisp white shirt, a deep brown vest, and a light pink ascot, all of which have grown faded and rotted with the ravages of age. His thinning, white-haired combover is neatly parted over his pallid, wrinkled forehead, and his gaunt, ash-gray face is framed by an impressively thick pair of mutton chops. His near-skeletal hands tremble slightly as he scribbles along a crumbling parchment scroll, his gray eyes never once flickering in your direction.
+> > Mrtvolná postava na stoličce je – nebo kdysi byla – starý muž, oděný do košile s vysokým límcem, kdysi naškrobené a bílé, do tmavohnědé vesty a světle růžové kravaty; to vše vybledlo a zpuchřelo zubem času. Jeho řídnoucí bílé vlasy, sčesané přes pleš, jsou úhledně rozdělené pěšinkou nad bledým, vrásčitým čelem a jeho vyzáblou, popelavě šedou tvář rámují impozantně husté licousy. Jeho téměř kostnaté ruce se lehce chvějí, zatímco škrábe na drolící se pergamenový svitek, a jeho šedé oči se ani jednou nestočí vaším směrem.
 > > 
 > > <hr>
 > > 
-> > Lief is not chained to his wooden desk. However, he won’t leave the room voluntarily under any circumstances. 
+> > Lief není připoután ke svému dřevěnému psacímu stolu. Místnost však za žádných okolností dobrovolně neopustí.
 > > 
-> > If treated with kindness and allowed to ramble regarding Strahd’s assorted riches, conquests, and tax assessments, Lief eventually (and accidentally) mentions the location of <span class="citation">K41. Treasury (p. 67)</span>, rather than that of the *Holy Symbol of Ravenkind*. Read:
+> > Pokud s ním hráči jednají laskavě a nechají ho rozkecat se o Strahdových rozličných bohatstvích, výbojích a daňových výměrech, Lief se nakonec (a omylem) zmíní o poloze <span class="citation">K41. Treasury (p. 67)</span>, nikoli o poloze *Svatého symbolu Havraního rodu*. Přečtěte:
 > > 
 > > <hr>
 > > 
-> > "If only Count Strahd would let me properly tabulate the items he’s added to the old treasury over the years," Lief grumbles. “Too many trinkets and baubles, all layered in dust. No ledger entries, no tallies, and he expects the numbers to match!" The old wight scratches his chin, grunting. “At least the old girl keeps an eye on them, bless her heart. A dreadful business when she was alive, though. A right shame."
+> > „Kdyby mi tak hrabě Strahd dovolil pořádně sepsat věci, které za ta léta přidal do staré pokladnice,“ bručí Lief. „Příliš mnoho cetek a tretek, všechno pod vrstvou prachu. Žádné záznamy v účetní knize, žádné součty, a on čeká, že čísla budou sedět!“ Stará mátoha se poškrábe na bradě a zabručí. „Aspoň na ně ta stará holka dává pozor, žehnej jí pánbůh. Ale když byla naživu, byla to strašná věc. Věčná škoda.“
 > > 
 > > <hr>
 > > 
 > > > [!lore]- **Lief Lipsiege**
-> > > When Khazan first became Strahd’s arcane advisor four centuries ago, Strahd already had the additional services of Lief Lipsiege, an elderly master accountant wholly dedicated to his work. Unwilling to lose Lief’s services when he died, Strahd—after promising Lief his salary would continue to fund his siblings and their descendants—worked with Khazan to transform Lief into a **wight**, thereby allowing Lief to continue his life’s work even into undeath. Since then, Lief has obediently served as Strahd’s accountant, though his mind has grown scattered and his memory full of holes over the many years since his death.
+> > > Když se Khazan před čtyřmi stoletími poprvé stal Strahdovým magickým rádcem, Strahd už měl k dispozici služby Liefa Lipsiege, postaršího hlavního účetního zcela oddaného své práci. Strahd nechtěl o Liefovy služby přijít, až zemře, a tak – poté, co Liefovi slíbil, že jeho mzda bude dál podporovat jeho sourozence a jejich potomky – s Khazanem proměnil Liefa v mátohu (**wight**), díky čemuž mohl Lief pokračovat ve svém celoživotním díle i v nemrtvém bytí. Od té doby Lief poslušně slouží jako Strahdův účetní, ačkoli za ta dlouhá léta od jeho smrti se jeho mysl roztříštila a paměť je samá díra.
 > > > 
-> > Lief then continues to ramble. If stopped and further questioned regarding “the old girl" he mentioned, Lief pauses to remember, then recalls aloud that she was “the red-haired woman." If Ireena is present, he jabs a withered finger in her direction and adds, “Like her." (Though he doesn’t remember her name or what happened to her, Lief is referring to the portrait of Tatyana Federovna.) 
+> > Lief pak dál mele páté přes deváté. Pokud ho hráči zastaví a dál se vyptávají na „starou holku“, o níž mluvil, Lief se zamyslí a pak si nahlas vzpomene, že to byla „ta zrzavá ženská“. Pokud je přítomna Ireena, ukáže na ni seschlým prstem a dodá: „Jako ona.“ (Přestože si nepamatuje její jméno ani to, co se s ní stalo, Lief mluví o portrétu Taťány Federovny.)
 > > 
-> > If asked how to access the “old treasury," Lief is willing to help the players only if they first promise to fully tabulate and log the items found therein, and to avoid taking any for themselves. (“Count Strahd always finds out," he wheezes, wagging a bony finger at them.) Players who intend to steal from the treasury can convince Lief of their good faith by succeeding on a DC 12 Charisma (Deception) check. If they do, Lief abashedly admits that he doesn’t recall the proper way to enter, but does remember that it involved “poking" something in the third-floor study. (Lief doesn’t remember it, but he’s referring to the poker mechanism by the fireplace in <span class="citation">K37. Study (p. 66)</span>.
+> > Pokud se hráči zeptají, jak se dostat do „staré pokladnice“, Lief jim pomůže, jen pokud nejprve slíbí, že všechny předměty, které v ní najdou, řádně sepíšou a zaevidují a žádné si nevezmou pro sebe. („Hrabě Strahd na to vždycky přijde,“ sípe a hrozí jim kostnatým prstem.) Hráči, kteří z pokladnice hodlají krást, mohou Liefa přesvědčit o svých dobrých úmyslech úspěšným ověřením Charisma (Deception) se DC 12. Pokud se jim to podaří, Lief rozpačitě přizná, že si nepamatuje správný způsob, jak se dovnitř dostat, ale vzpomíná si, že to zahrnovalo „šťouchnutí“ do něčeho v pracovně ve třetím patře. (Lief si to nepamatuje, ale mluví o mechanismu s pohrabáčem u krbu v <span class="citation">K37. Study (p. 66)</span>.
 > > > 
 > > > <hr>
 > > > 
 > >
-> > * **Audience Hall.** This area is largely as described in <span class="citation">K25. Audience Hall (p. 61)</span>. However, shortly after a player enters this room, Strahd uses his ***shapechange*** feature to secretly enter the room in mist form from <span class="citation">K19. Grand Landing (p. 58)</span>, surprising any player with a passive Wisdom (Perception) score of 26 or below. Strahd then assumes his true form and amusedly chides his “curious friend" for “wandering amidst the shadows." After asking whether the castle’s guest quarters were not to their liking, he asks if they require him to escort them to their rooms. “After all," he adds, his eyes glinting in the darkness, “we wouldn’t want you getting lost again."
+> > * **Audienční síň.** Tato oblast do značné míry odpovídá popisu v <span class="citation">K25. Audience Hall (p. 61)</span>. Krátce poté, co hráč vstoupí do této místnosti, však Strahd pomocí své schopnosti ***shapechange*** tajně vstoupí do místnosti v podobě mlhy z <span class="citation">K19. Grand Landing (p. 58)</span> a zaskočí (surprised) každého hráče s pasivní hodnotou Wisdom (Perception) 26 či nižší. Strahd pak přijme svou skutečnou podobu a pobaveně pokárá svého „zvídavého přítele“, že „bloudí mezi stíny“. Zeptá se, zda mu snad pokoje pro hosty nevyhovují, a nabídne, že ho do jeho pokoje doprovodí. „Koneckonců,“ dodá a oči se mu ve tmě zalesknou, „nechtěli bychom, abyste se znovu ztratil.“
 >
 > <br>
 > 
-> > [!info]- **Third Floor (3F). Rooms of Weeping** 
-> > If a player ascends only two floors up <span class="citation">K21. South Tower Stair (p. 59)</span> from <span class="citation">K9. Guests’ Hall (p. 56)</span>, the door leading to <span class="citation">K35. Guardian Vermin (p. 64)</span>. is locked, requiring a successful DC 15 Dexterity (Thieves’ Tools) check to open without alerting Rahadin.
+> > [!info]- **Třetí patro (3F). Komnaty pláče** 
+> > Pokud hráč vystoupá z <span class="citation">K9. Guests’ Hall (p. 56)</span> po <span class="citation">K21. South Tower Stair (p. 59)</span> jen o dvě patra, jsou dveře vedoucí do <span class="citation">K35. Guardian Vermin (p. 64)</span> zamčené; k jejich otevření bez vyburcování Rahadina je potřeba úspěšné ověření Dexterity (Thieves’ Tools) se DC 15.
 > > 
-> > **Guardian Vermin.** This area is largely as described in <span class="citation">K35. Guardian Vermin (p. 64)</span>, except that the door leading to <span class="citation">K36. Dining Hall of the Count (p. 65)</span> is locked, requiring a successful DC 15 Dexterity (Thieves’ Tools) check or DC 20 Strength check to open. The **swarms of rats** attack any player that touches them, as well as any player that tries to pick the lock or force the door open.
+> > **Strážní havěť.** Tato oblast do značné míry odpovídá popisu v <span class="citation">K35. Guardian Vermin (p. 64)</span>, jen dveře vedoucí do <span class="citation">K36. Dining Hall of the Count (p. 65)</span> jsou zamčené; k jejich otevření je potřeba úspěšné ověření Dexterity (Thieves’ Tools) se DC 15 nebo ověření Strength se DC 20. Krysí roje (**swarms of rats**) zaútočí na každého hráče, který se jich dotkne, i na každého, kdo se pokusí vypáčit zámek nebo dveře vyrazit.
 > >
-> > **Dining Hall of the Count.** This area is largely as described in <span class="citation">K36. Dining Hall of the Count (p. 65)</span>. However, this chamber is guarded by the vampire spawn **Anastrasya Karelova**, who has assumed the form of a **bat** hidden behind the curtains covering the south window. If a player approaches either of the two doors leading from this room, Anastrasya assumes her true form and amiably informs the player that they “seem to be lost," but she would be glad to escort them to their proper destination.
+> > **Hraběcí jídelna.** Tato oblast do značné míry odpovídá popisu v <span class="citation">K36. Dining Hall of the Count (p. 65)</span>. Tuto komnatu však střeží upíří zplozenkyně **Anastrasya Karelova**, která přijala podobu netopýra (**bat**) ukrytého za závěsy zakrývajícími jižní okno. Pokud se hráč přiblíží k některým ze dvou dveří vedoucích z této místnosti, Anastrasja přijme svou skutečnou podobu a vlídně hráči oznámí, že „se zdá, že se ztratil“, ale že ho ráda doprovodí tam, kam patří.
 >
 > <br>
 > 
-> > [!info]- **Fifth & Sixth Floor (5F & 6F). Spires of Ravenloft** 
-> > If a player attempts to ascend <span class="citation">K48. Offstair (p. 70)</span> past <span class="citation">K47. Portrait of Strahd (p. 68)</span>, they must succeed on a DC 24 Dexterity (Stealth) check or be caught by Rahadin. If the player successfully avoids Rahadin’s gaze, they can continue ascending the staircase as follows:
+> > [!info]- **Páté a šesté patro (5F a 6F). Věže Ravenloftu** 
+> > Pokud se hráč pokusí vystoupat po <span class="citation">K48. Offstair (p. 70)</span> výš než <span class="citation">K47. Portrait of Strahd (p. 68)</span>, musí uspět v ověření Dexterity (Stealth) se DC 24, jinak ho přistihne Rahadin. Pokud hráč Rahadinovu pohledu úspěšně unikne, může stoupat po schodišti dál takto:
 > >
-> > * **5F. Familiar Room, Element Room & Cauldron.** If a player ascends an additional floor beyond the fourth-floor landing comprising <span class="citation">K47. Portrait of Strahd (p. 68)</span>, they emerge onto the fifth-floor landing leading to <span class="citation">K54. Familiar Room (p. 71)</span>.  The Familiar Room and the rooms beyond are largely as described in <span class="citation">K54. Familiar Room (p. 71)</span>, <span class="citation">K55. Element Room (p. 72)</span>, and <span class="citation">K56. Cauldron (p. 72)</span>. However, the Element Room contains a *potion of fire breath* and two *potions of healing* hidden amongst the bottles and jars. In addition, there are no **Barovian witches** in the Cauldron room, which is instead guarded by four **brooms of animated attack** leaning against the wall. The brooms animate and attack any intruders on sight, but won’t pursue any players who flee past the Familiar Room into <span class="citation">K48. Offstair (p. 70)</span>.
+> > * **5F. Komnata familiárů, Komnata živlů a Kotel.** Pokud hráč vystoupá o další patro nad podestu ve čtvrtém patře, kterou tvoří <span class="citation">K47. Portrait of Strahd (p. 68)</span>, vynoří se na podestě v pátém patře vedoucí do <span class="citation">K54. Familiar Room (p. 71)</span>. Komnata familiárů a místnosti za ní do značné míry odpovídají popisu v <span class="citation">K54. Familiar Room (p. 71)</span>, <span class="citation">K55. Element Room (p. 72)</span> a <span class="citation">K56. Cauldron (p. 72)</span>. V Komnatě živlů jsou však mezi lahvemi a sklenicemi ukryty *potion of fire breath* a dva *potions of healing*. V komnatě s kotlem navíc nejsou žádné barovské čarodějnice (**Barovian witches**); místo nich ji střeží čtyři oživlá útočná košťata (**brooms of animated attack**) opřená o zeď. Košťata ožijí a zaútočí na každého vetřelce, jakmile ho spatří, ale nepronásledují hráče, kteří uprchnou přes Komnatu familiárů do <span class="citation">K48. Offstair (p. 70)</span>.
 > >
-> > * **6F. Tower Rooftop.** If a player ascends an additional two floors beyond the fourth-floor landing comprising <span class="citation">K47. Portrait of Strahd (p. 68)</span>, they emerge onto <span class="citation">K57. Tower Roof (p. 72)</span>. A player who approaches <span class="citation">K58. Bridge (p. 73)</span> is interrupted by the vampire spawn **Ludmilla Vilisevic,** who manifests from a fog bank atop the tower behind them and coldly declares that they have “ventured where they do not belong," and that she will “see to it that they are returned to their proper place"—unless, she adds, her eyes glinting dangerously, they would prefer “to remain a permanent member of the Master’s court."
-# O7. The Guest Suite
-## O7a. Settling In
+> > * **6F. Střecha věže.** Pokud hráč vystoupá o další dvě patra nad podestu ve čtvrtém patře, kterou tvoří <span class="citation">K47. Portrait of Strahd (p. 68)</span>, vynoří se na <span class="citation">K57. Tower Roof (p. 72)</span>. Hráče, který se přiblíží k <span class="citation">K58. Bridge (p. 73)</span>, vyruší upíří zplozenkyně **Ludmilla Vilisevic**, která se za ním zhmotní z mlžného valu na vrcholu věže a chladně prohlásí, že „vstoupil tam, kam nepatří“, a že „dohlédne, aby byl vrácen na své místo“ – ledaže by, dodá s nebezpečným zábleskem v očích, „raději zůstal trvalým členem Pánova dvora“.
+# O7. Apartmá pro hosty
+## O7a. Ubytování
 <span class="citation"><em>This scene takes place in Chapter 4, Areas K47 and K49.</em></span>
 
-The landing at the top of <span class="citation">K21. South Tower Stair (p. 59)</span> is largely as described in <span class="citation">K47. Portrait of Strahd (p. 68)</span>. However, neither the **rug of smothering** nor **guardian portrait** attacks the players for the duration of their stay at Ravenloft.
-### Escher's Jealousy
-If Escher escorted the players to their rooms, he steps into <span class="citation">K49. Lounge (p. 70)</span> and sweeps his arm dramatically across the room. "I hope everything is to your liking," he says icily, his eyes narrowing. "Is there anything else of mine you'd like to take?"
+Podesta na vrcholu <span class="citation">K21. South Tower Stair (p. 59)</span> do značné míry odpovídá popisu v <span class="citation">K47. Portrait of Strahd (p. 68)</span>. Po dobu pobytu hráčů v Ravenloftu na ně však nezaútočí ani dusivý koberec (**rug of smothering**), ani strážný portrét (**guardian portrait**).
+### Escherova žárlivost
+Pokud hráče do jejich pokojů doprovodil Escher, vkročí do <span class="citation">K49. Lounge (p. 70)</span> a teatrálně máchne paží po místnosti. „Doufám, že je vše k vaší spokojenosti,“ pronese ledově a přimhouří oči. „Nechcete mi vzít ještě něco dalšího?“
 
-Escher, who is jealous of the players, anxious about losing Strahd's favor, and desperate to justify his betrayal of Doru's rebellion, is hungry for a confrontation with Strahd's new "playthings." Unless forced to depart, he attempts to needle the players, insulting their appearances, lack of culture, or "disappointing intelligence." "I can't imagine why he's kept you around this long," Escher hisses. "Perhaps he just thinks you'll squeal particularly loudly when he inevitably tires of you."
+Escher, který na hráče žárlí, bojí se, že ztratí Strahdovu přízeň, a zoufale se snaží ospravedlnit svou zradu Doruovy vzpoury, touží po střetu se Strahdovými novými „hračkami“. Pokud není donucen odejít, snaží se hráče popichovat – uráží jejich vzhled, nedostatek kultury či „zklamávající inteligenci“. „Nedokážu si představit, proč si vás tu nechává tak dlouho,“ sykne Escher. „Možná si jen myslí, že budete obzvlášť hlasitě kvičet, až se vás nevyhnutelně nabaží.“
 
-If challenged regarding his position in Strahd's court, Escher angrily insists that he "*earned* his place at Lord Strahd's right hand," and vows that the players are "incapable of imagining the loyalty Lord Strahd has toward him." 
+Pokud hráči zpochybní jeho postavení na Strahdově dvoře, Escher rozzlobeně trvá na tom, že si „své místo po pravici pana Strahda *zasloužil*“, a prohlásí, že hráči „si ani nedokážou představit, jak je mu pan Strahd oddaný“. 
 
-If confronted regarding his betrayal of Doru's rebellion, Escher is taken aback, then angrily denies playing any role in Doru's downfall. "His end was inevitable," he insists. "Such is the fate of any who defies Lord Strahd's will." (A player who succeeds on a DC 13 Wisdom (Insight) check learns that Escher appears to be attempting to convince himself as much as the players.)
+Pokud hráči Eschera konfrontují s jeho zradou Doruovy vzpoury, zarazí se a pak rozhořčeně popře, že by měl na Doruově pádu jakýkoli podíl. „Jeho konec byl nevyhnutelný,“ trvá na svém. „Takový je osud každého, kdo se vzepře vůli pana Strahda.“ (Hráč, který uspěje v ověření Wisdom (Insight) se DC 13, pozná, že se Escher snaží přesvědčit stejně tak sebe jako hráče.)
 
-As Escher's confrontation with the players comes to a close, Rahadin appears silently at the door and clears his throat, startling Escher. Rahadin warns the players that they are not to leave their chambers until morning, noting with a stern glower that “dark things” roam the castle at night—and that undue curiosity, in the home of his master, can be a fatal flaw. “To ensure your safety, Escher shall stand guard at your door through the night,” he adds, much to Escher’s obvious surprise and resentment.
+Když se Escherův střet s hráči chýlí ke konci, objeví se tiše ve dveřích Rahadin a odkašle si, až sebou Escher trhne. Rahadin hráče varuje, že do rána nesmějí opustit své komnaty, a s přísným zamračením poznamená, že v noci se hradem toulají „temné věci“ – a že přílišná zvědavost v domě jeho pána může být osudnou vadou. „Pro vaši bezpečnost bude Escher celou noc stát na stráži u vašich dveří,“ dodá k Escherovu zjevnému překvapení a nevoli.
 
-Before departing, Rahadin also produces a key from his pocket, which he uses to lock the players in the guest suite—again, “for their safety.” He will return to unlock the door, he promises, at the first light of morning.
-### Sasha's Insight
-If Sasha escorted the players to their rooms, she hesitates before departing. If confronted regarding her lack of loyalty to Strahd she stiffens, glances fearfully about her, and insists woodenly that she is wholly faithful to him. A player can convince her to speak freely by succeeding on a DC 10 Charisma (Persuasion) check, succeeding automatically if they mention their victories over Strahd’s other brides or otherwise provide comfort and reassurance. 
+Před odchodem Rahadin také vytáhne z kapsy klíč a zamkne hráče v apartmá pro hosty – opět „pro jejich bezpečnost“. Slíbí, že se vrátí a odemkne s prvním ranním světlem.
+### Sashina rada
+Pokud hráče do jejich pokojů doprovodila Sasha, před odchodem zaváhá. Pokud ji hráči konfrontují s její nedostatečnou oddaností Strahdovi, ztuhne, ustrašeně se rozhlédne a strnule trvá na tom, že je mu naprosto věrná. Hráč ji může přimět mluvit otevřeně úspěšným ověřením Charisma (Persuasion) se DC 10; uspěje automaticky, pokud zmíní svá vítězství nad ostatními Strahdovými nevěstami nebo ji jinak utěší a uklidní. 
 
-If convinced to speak freely, Sasha closes her eyes, takes a deep breath, and asks if she can step into <span class="citation">K49. Lounge (p. 70)</span> to speak with the players in private. If the players agree, she closes the door behind her and continues speaking in hushed tones.
+Pokud ji hráči přesvědčí, aby mluvila otevřeně, Sasha zavře oči, zhluboka se nadechne a zeptá se, zda smí vstoupit do <span class="citation">K49. Lounge (p. 70)</span>, aby s hráči mohla mluvit v soukromí. Pokud hráči souhlasí, zavře za sebou dveře a pokračuje tlumeným hlasem.
 
-Once inside the lounge, Sasha can share any or all of the following information about herself if asked:
+V salonku může Sasha na požádání prozradit o sobě cokoli z následujícího:
 
-* She is Sasha Ivliskova, Strahd’s first and eldest bride. He wed her nearly four centuries ago, in the wake of the loss of his first love, Tatyana Federovna. He grew tired of her, however, and when she dared challenge him, he locked her away in a crypt for four hundred years, freeing her for unknown purposes shortly after his recent awakening. (If asked what the experience was like, Sasha says dully, “it was maddening—and a time that I wish to forget forever.”)
-* She despises Strahd with every fiber of her being. “I am old, and I am tired,” she hisses. “There are two things I wish to see before I die: the light of the rising sun, and the death of the monster Strahd von Zarovich.”
+* Je Sasha Ivliskova, Strahdova první a nejstarší nevěsta. Pojal ji za manželku téměř před čtyřmi stoletími, po ztrátě své první lásky, Taťány Federovny. Brzy ho však omrzela, a když se mu odvážila vzdorovat, zavřel ji na čtyři sta let do krypty; propustil ji z neznámých důvodů krátce po svém nedávném probuzení. (Na otázku, jaké to bylo, Sasha tupě odpoví: „Bylo to k zešílení – a je to čas, na který chci navždy zapomenout.“)
+* Strahdem pohrdá každým vláknem své bytosti. „Jsem stará a jsem unavená,“ sykne. „Jsou dvě věci, které chci spatřit, než zemřu: světlo vycházejícího slunce a smrt netvora Strahda von Zaroviče.“
 
-If the players don't reveal their interest in infiltrating Castle Ravenloft, Sasha asks them outright if they approached her because they wish to steal from the castle. In either case, she is willing to share information about the castle’s contents, layout, and inhabitants—as well as a time when Strahd will be away from the keep—if the players agree to take a certain prisoner with them when they do. “Her name is Gertruda,” Sasha says, her brows furrowed in worry. “She is a villager from Barovia, spirited away as she trod the road toward Vallaki. She is alive, for now, but I fear for her life should she linger any longer in the keep. She's asked me to help free her, if I can—a request that, until now, I had no hope of fulfilling."
+Pokud hráči neprozradí, že se chtějí do hradu Ravenloft vloupat, zeptá se jich Sasha přímo, zda ji vyhledali proto, že chtějí z hradu něco ukrást. V každém případě je ochotna prozradit jim informace o obsahu hradu, jeho uspořádání a obyvatelích – i o době, kdy bude Strahd mimo hrad –, pokud hráči slíbí, že s sebou vezmou jistou vězeňkyni. „Jmenuje se Gertruda,“ řekne Sasha a ustaraně svraští obočí. „Je to vesničanka z Barovie, unesená, když šla po cestě do Vallaki. Zatím žije, ale bojím se o její život, pokud v hradu zůstane déle. Požádala mě, abych jí pomohla k útěku, pokud to dokážu – o splnění té prosby jsem až dosud neměla naději.“
 
-If the players agree to rescue Gertruda, Sasha can share the following information about Castle Ravenloft:
+Pokud hráči souhlasí, že Gertrudu zachrání, může jim Sasha o hradu Ravenloft prozradit následující:
 
-* Ever since his awakening, Strahd has departed the castle once each fortnight atop his **nightmare** steed Beucephalus on the night of the new moon. Sasha doesn’t know where he goes, or what he does, but she knows that he doesn’t return until the morning’s first light. Sasha can further share that the next new moon is tomorrow night—and that she has no reason to believe that Strahd won’t repeat the pattern again.
-* Gertruda is a prisoner on the third floor of the castle, in the king’s suites. The players can access the suites via the staircase in the foyer (<span class="citation">K21. South Tower Stair, p. 59</span>).
-* Sasha doesn’t know any of the traps that Strahd or his servants might have set in the castle. She does know, however, that the inside of the keep is often patrolled by undead **wights**—the animated remains of those that once guarded the castle.
-* Strahd keeps prisoners in the dungeons, on the floor beneath the castle larders. The players can access the dungeons via the staircase in the foyer (<span class="citation">K21. South Tower Stair, p. 59</span>).
-* Sasha has seen a dragon’s skull once—in a basement chamber that Volenta has more recently transformed into an ossuary. The chamber is behind the closed wooden doors to the west of <span class="citation">K65. Kitchen (p. 78)</span>.
-* Although she hasn’t descended there since Strahd freed her from her crypt, the castle catacombs are accessible via <span class="citation">K18. High Tower Staircase (p. 58)</span>.
-* Strahd has commanded his spawn to report the presence of any intruders into the castle, and Sasha therefore can’t help the players enter the keep herself. However, she can share the existence of a second, rear servants’ entrance (<span class="citation">K23. Servants’ Entrance (p. 59)</span> into the castle via <span class="citation">K3. Servants’ Courtyard (p. 54)</span>, which allows access to the servants’ quarters and kitchens.
-* Should the players require it while navigating the castle, Sasha recalls that Strahd's oldest password is "I come in Dostron's memory." She isn't sure who Dostron is, or whether Strahd still uses it as a password, but believes him arrogant enough to believe that none in the castle—other than Rahadin—is old enough to remember it. (Sasha doesn't know it, but the players can use this password to open both the *Tome of Strahd*, as described in [[Arc H - The Lost Soul]], and the *Daern's Instant Fortress* located in <span class="citation">K41. Treasury (p. 67)</span>).
+* Od svého probuzení Strahd opouští hrad jednou za čtrnáct dní v noci novoluní, na hřbetě svého přízračného oře (**nightmare**) Beucephala. Sasha neví, kam jezdí ani co dělá, ale ví, že se vrací až s prvním ranním světlem. Sasha dále může prozradit, že příští novoluní je zítra v noci – a že nemá důvod se domnívat, že by Strahd svůj zvyk tentokrát nezopakoval.
+* Gertruda je uvězněna ve třetím patře hradu, v královských komnatách. Hráči se do nich dostanou po schodišti ve vstupní síni (<span class="citation">K21. South Tower Stair, p. 59</span>).
+* Sasha nezná žádné pasti, které mohl Strahd nebo jeho služebníci na hradě nastražit. Ví však, že vnitřek hradu často hlídkují nemrtví wighti (**wights**) – oživlé ostatky těch, kdo hrad kdysi střežili.
+* Strahd drží vězně v žalářích, v podlaží pod hradními spížemi. Hráči se do žalářů dostanou po schodišti ve vstupní síni (<span class="citation">K21. South Tower Stair, p. 59</span>).
+* Sasha jednou viděla dračí lebku – ve sklepní komnatě, kterou Volenta nedávno proměnila v kostnici. Komnata je za zavřenými dřevěnými dveřmi západně od <span class="citation">K65. Kitchen (p. 78)</span>.
+* Přestože tam Sasha od chvíle, kdy ji Strahd propustil z krypty, nesestoupila, do hradních katakomb se lze dostat přes <span class="citation">K18. High Tower Staircase (p. 58)</span>.
+* Strahd svým zplozencům přikázal hlásit přítomnost jakýchkoli vetřelců na hradě, a Sasha proto hráčům nemůže sama pomoci do hradu vniknout. Může jim však prozradit, že existuje druhý, zadní vchod pro služebnictvo (<span class="citation">K23. Servants’ Entrance (p. 59)</span>) do hradu přes <span class="citation">K3. Servants’ Courtyard (p. 54)</span>, kudy se lze dostat do ubikací služebnictva a kuchyní.
+* Pro případ, že by to hráči při procházení hradu potřebovali, si Sasha vzpomíná, že Strahdovo nejstarší heslo zní „Přicházím na památku Dostrona.“ Neví, kdo byl Dostron ani zda Strahd heslo stále používá, ale věří, že je dost arogantní na to, aby si myslel, že nikdo na hradě – kromě Rahadina – není dost starý, aby si ho pamatoval. (Sasha to neví, ale hráči mohou tímto heslem otevřít jak *Strahdův foliant* (*Tome of Strahd*), jak je popsáno v [[Arc H - The Lost Soul|Oblouk H – Ztracená duše]], tak *Daern's Instant Fortress* v <span class="citation">K41. Treasury (p. 67)</span>.)
 
-Sasha warns the players that they likely won't be able to depart the castle without facing Rahadin, the castle chamberlain. "The master of the castle may be gone," she tells them, "but his right-hand man stalks the shadows of any who enter."
+Sasha hráče varuje, že nejspíš nebudou moci hrad opustit, aniž by čelili Rahadinovi, hradnímu komořímu. „Pán hradu možná odjede,“ řekne jim, „ale jeho pravá ruka slídí ve stínech za každým, kdo vstoupí.“
 
-Sasha’s memory and knowledge of the castle is limited beyond this information, and she apologizes for any inability to answer the players’ additional questions.
+Sashina paměť a znalost hradu je nad rámec těchto informací omezená a omluví se, pokud nedokáže odpovědět na další otázky hráčů.
 
-As Sasha's conversation with the players comes to a close, there comes a knock at the door. Upon opening the door, the players are greeted by Rahadin, accompanied by Escher.
+Když se Sashin rozhovor s hráči chýlí ke konci, ozve se zaklepání na dveře. Když hráči otevřou, přivítá je Rahadin v doprovodu Eschera.
 
-After dismissing Sasha, Rahadin warns the players that they are not to leave their chambers until morning, noting with a stern glower that “dark things” roam the castle at night—and that undue curiosity, in the home of his master, can be a fatal flaw. “To ensure your safety, Escher shall stand guard at your door through the night,” he adds, much to Escher's obvious resentment.
+Rahadin Sashu propustí a pak hráče varuje, že do rána nesmějí opustit své komnaty, a s přísným zamračením poznamená, že v noci se hradem toulají „temné věci“ – a že přílišná zvědavost v domě jeho pána může být osudnou vadou. „Pro vaši bezpečnost bude Escher celou noc stát na stráži u vašich dveří,“ dodá k Escherově zjevné nevoli.
 
-Before departing, Rahadin also produces a key from his pocket, which he uses to lock the players in the guest suite—again, “for their safety.” He will return to unlock the door, he promises, at the first light of morning.
+Před odchodem Rahadin také vytáhne z kapsy klíč a zamkne hráče v apartmá pro hosty – opět „pro jejich bezpečnost“. Slíbí, že se vrátí a odemkne s prvním ranním světlem.
 
-> [!abstract]+ **Missing Players**
-> If one or more players went wandering off while being led up <span class="citation">K21. South Tower Stair (p. 59)</span>, Rahadin’s gaze tightens as he silently counts the number of players present as he moves to depart. Upon noticing that any of the players appears to be missing, he sharply asks where that player has gone. 
+> [!abstract]+ **Chybějící hráči**
+> Pokud se jeden či více hráčů zatoulalo, zatímco byli vedeni po <span class="citation">K21. South Tower Stair (p. 59)</span>, Rahadinův pohled při odchodu zpřísní a mlčky přepočítá přítomné hráče. Jakmile si všimne, že některý z hráčů chybí, ostře se zeptá, kam se poděl. 
 >
-> If no answer is forthcoming, or if the player does not immediately present themselves, Rahadin icily commands the players to remain within their room, and not to “step a single toe out of line." He then departs to locate any missing players—"by force, if necessary."
+> Pokud odpověď nepřijde nebo se hráč okamžitě neukáže, Rahadin hráčům ledově přikáže zůstat v pokoji a „neudělat ani krok stranou“. Pak odejde chybějící hráče najít – „silou, bude-li třeba“.
 >
-> Unless a wandering player has made special effort to conceal their tracks, Rahadin swiftly tracks them down, locating them the first time (1) the player is reduced to 15 hit points or fewer in a combat encounter or (2) the player re-enters <span class="citation">K21. South Tower Stair (p. 59)</span> after exiting it.
-## O7b. Settling Down
+> Pokud se zatoulaný hráč zvlášť nesnažil zakrýt své stopy, Rahadin ho rychle vystopuje a najde ho v první chvíli, kdy (1) hráč v boji klesne na 15 hit pointů nebo méně, nebo (2) hráč znovu vstoupí na <span class="citation">K21. South Tower Stair (p. 59)</span> poté, co z něj odešel.
+## O7b. Uložení ke spánku
 <span class="citation"><em>This scene takes place in Chapter 4, Areas K49, K50, and K51.</em></span>
 
-The guest suite is largely as described in <span class="citation">K49. Lounge (p. 70)</span>, <span class="citation">K50. Guest Room (p. 70)</span>, and <span class="citation">K51. Closet (p. 70)</span>. However:
+Apartmá pro hosty do značné míry odpovídá popisu v <span class="citation">K49. Lounge (p. 70)</span>, <span class="citation">K50. Guest Room (p. 70)</span> a <span class="citation">K51. Closet (p. 70)</span>. Avšak:
 
-* In the Lounge, remove the reference to Escher in this area’s description;
-* In the Guest Room, revise the second sentence to read as follows: “Several comfortable divans are placed about the room, and an ornate clock shaped like a castle’s keep looks down from its place on the wall above them." The metal clock, which was made by the legendary inventor Fritz von Weerg nearly four centuries ago, is shaped like the front facade of Castle Ravenloft. However, the clock is broken and doesn’t run. A player who spends 1 minute searching the clock for secrets and succeeds on a DC 20 Intelligence (Investigation) check finds a hidden storage compartment in the portion of the clock corresponding to the castle’s north tower, which ordinarily holds <span class="citation">K20. Heart of Sorrow (p. 59)</span> and <span class="citation">K60. North Tower Peak (p. 74)</span>.
-* In the Closet, remove the “dusty black cloak" and revise the second sentence of this area’s description to read simply: “Iron hooks line the walls."
+* V salonku odstraňte z popisu oblasti zmínku o Escherovi;
+* V pokoji pro hosty změňte druhou větu takto: „Po místnosti je rozestavěno několik pohodlných pohovek a ze zdi nad nimi shlížejí zdobené hodiny ve tvaru hradní věže.“ Kovové hodiny, které téměř před čtyřmi stoletími vyrobil legendární vynálezce Fritz von Weerg, mají tvar průčelí hradu Ravenloft. Hodiny jsou však rozbité a nejdou. Hráč, který stráví 1 minutu hledáním tajemství v hodinách a uspěje v ověření Intelligence (Investigation) se DC 20, najde skrytou schránku v části hodin odpovídající severní věži hradu, v níž se obvykle nachází <span class="citation">K20. Heart of Sorrow (p. 59)</span> a <span class="citation">K60. North Tower Peak (p. 74)</span>.
+* V šatně odstraňte „zaprášený černý plášť“ a druhou větu popisu oblasti změňte prostě na: „Stěny lemují železné háky.“
 
-> [!abstract]+ **Wandering Players**
-> Should the players depart the guest suite via the window in <span class="citation">K49. Lounge (p. 70)</span> or find and ascend the trapdoor in <span class="citation">K51. Closet (p. 70)</span>, Ludmilla notices and confronts them on <span class="citation">K53. Rooftop (p. 73)</span> or <span class="citation">K57. Tower Roof (p. 72)</span>, respectively, instructing them to return to their room lest she inform "the Master" that they have been trespassing the halls of the keep without his permission.
+> [!abstract]+ **Toulaví hráči**
+> Pokud hráči opustí apartmá pro hosty oknem v <span class="citation">K49. Lounge (p. 70)</span> nebo najdou padací dvířka v <span class="citation">K51. Closet (p. 70)</span> a vylezou jimi, Ludmilla si jich všimne a postaví se jim na <span class="citation">K53. Rooftop (p. 73)</span>, resp. na <span class="citation">K57. Tower Roof (p. 72)</span>, a přikáže jim vrátit se do pokoje, jinak „Pánovi“ oznámí, že bez jeho svolení slídili po chodbách hradu.
 
-A player who enters a trance or falls asleep while in the guest suite enters [[#O8. Varushka’s Nightmare]]. In addition, any non-undead, non-construct creature that remains in the guest suite for longer than an hour after dusk immediately falls unconscious and enters [[#O8. Varushka’s Nightmare]] below.
+Hráč, který v apartmá pro hosty upadne do transu nebo usne, vstoupí do [[#O8. Varushčina noční můra|O8. Varushčina noční můra]]. Každý tvor, který není nemrtvý ani konstrukt a zůstane v apartmá pro hosty déle než hodinu po soumraku, navíc okamžitě upadne do bezvědomí a vstoupí do [[#O8. Varushčina noční můra|O8. Varushčina noční můra]] níže.
 
-> [!info]+ **Exotic Player Races**
-> According to their respective sourcebooks, player races such as the dhampir or warforged only possess the “humanoid" creature type, and not the “undead" or “construct" creature types. (See <span class="citation">Van Richten’s Guide to Ravenloft, p. 16</span> and <span class="citation">Eberron: Rising From the Last War (p. 35)</span>.) Accordingly, such player races do not count as “undead" or “constructs."
-# O8. Varushka’s Nightmare
+> [!info]+ **Exotické hráčské rasy**
+> Podle příslušných příruček mají hráčské rasy jako dhampýr nebo válečný kovan (warforged) pouze typ tvora „humanoid“, nikoli „nemrtvý“ (undead) či „konstrukt“ (construct). (Viz <span class="citation">Van Richten’s Guide to Ravenloft, p. 16</span> a <span class="citation">Eberron: Rising From the Last War (p. 35)</span>.) Takové hráčské rasy se proto za „nemrtvé“ ani „konstrukty“ nepovažují.
+# O8. Varushčina noční můra
 
-A player or allied NPC who falls unconscious in the lounge, guest room, or closet is mentally transported to Varushka’s Nightmare—a nightmare realm shaped by the spirit of one of Strahd’s first victims. 
+Hráč nebo spojenecké NPC, které upadne do bezvědomí v salonku, pokoji pro hosty či šatně, je duševně přenesena do Varushčiny noční můry – říše zlého snu, kterou utvářel duch jedné z prvních Strahdových obětí. 
 
-Varushka's Nightmare exists across five near-identical copies of the Ravenloft guest suite, layered vertically atop one another. Within the Nightmare, the trapdoor in <span class="citation">K51. Closet (p. 70)</span> always leads to the trapdoor in <span class="citation">K47. Portrait of Strahd (p. 68)</span>. However, the door to the Closet on the fifth and highest level of the Nightmare instead leads to a copy of Castle Ravenloft on the day of Sergei's wedding, via a copy of <span class="citation">K23. Servants' Entrance (p. 59)</span>, as described in [[#O8f. The Bloody Keep]] below.
+Varushčina noční můra se skládá z pěti téměř totožných kopií apartmá pro hosty v Ravenloftu, navrstvených svisle nad sebou. V noční můře vedou padací dvířka v <span class="citation">K51. Closet (p. 70)</span> vždy k padacím dvířkům v <span class="citation">K47. Portrait of Strahd (p. 68)</span>. Dveře do šatny v pátém, nejvyšším podlaží noční můry však místo toho vedou přes kopii <span class="citation">K23. Servants' Entrance (p. 59)</span> do kopie hradu Ravenloft v den Sergeiovy svatby, jak je popsáno v [[#O8f. Krvavý hrad|O8f. Krvavý hrad]] níže.
 
 ![[Nightmare Map.png]]
 
-> [!info]+ **Player Resources in the Nightmare**
-> Upon entering the Nightmare, the players retain their current hit points, spell slots, and equipment from the physical world. However, any hit points, hit dice, spell slots, consumable magic items, or magical item charges they spend within the Nightmare aren't spent in the physical world, and are returned when the players awaken.
-## O8a. The First Level
+> [!info]+ **Zdroje hráčů v noční můře**
+> Po vstupu do noční můry si hráči ponechají své současné hit pointy, pozice kouzel a vybavení z fyzického světa. Hit pointy, kostky životů (hit dice), pozice kouzel, spotřební magické předměty ani náboje magických předmětů, které v noční můře utratí, se však ve fyzickém světě neutratí a po probuzení se hráčům vrátí.
+## O8a. První podlaží
 <span class="citation"><em>This scene takes place in Chapter 4, Areas K49, K50, and K51.</em></span>
 
-This area is largely as described in <span class="citation">K49. Lounge (p. 70)</span>, <span class="citation">K50. Guest Room (p. 70)</span>, and <span class="citation">K51. Closet (p. 70)</span>.
+Tato oblast do značné míry odpovídá popisu v <span class="citation">K49. Lounge (p. 70)</span>, <span class="citation">K50. Guest Room (p. 70)</span> a <span class="citation">K51. Closet (p. 70)</span>.
 
-As the players awake in the nightmare, read:
-
-<div class="description">
-<p>You awake in the guest suite. The room, however, is suffused with a gray, misty light, and the Guest Room's clock ticks with a sonorous echo.</p>
-</div>
-When the players first arrive in the Nightmare, they awaken in the same positions and locations as the ones in which they fell asleep or unconscious.
-
-Shortly after the players regain their bearings, read:
+Když se hráči v noční můře probudí, přečtěte:
 
 <div class="description">
-<p>Something heavy thumps against the closet door. Moments later, the clock on the wall strikes ten. With each sonorous chime, the miniature castle’s front gates swing open, unveiling an intricate ironwrought bat whose tiny wings repeatedly unfurl and collapse.</p>
-<p>As the final chime fades, each of you feels two cold, sharp pressures prick against the flesh of your necks, which quickly give way to a strange, tingling numbness.</p>
+<p>Probouzíte se v apartmá pro hosty. Místnost je však prostoupena šedým, mlžným světlem a hodiny v pokoji pro hosty tikají s dunivou ozvěnou.</p>
+</div>
+Když hráči poprvé dorazí do noční můry, probudí se ve stejných polohách a na stejných místech, kde usnuli nebo upadli do bezvědomí.
+
+Krátce poté, co se hráči rozkoukají, přečtěte:
+
+<div class="description">
+<p>Do dveří šatny cosi těžkého tupě narazí. O chvíli později odbijí hodiny na zdi desátou. S každým dunivým úderem se brána miniaturního hradu rozevře a odhalí spletitého netopýra z tepaného železa, jehož drobná křídla se znovu a znovu rozevírají a skládají.</p>
+<p>Jak doznívá poslední úder, ucítí každý z vás na kůži krku dvě studená, ostrá bodnutí, která brzy vystřídá zvláštní, mravenčivá necitlivost.</p>
 </div>
 
-The players then suffer the effects of **The Chiming Clock** below.
+Hráči pak utrpí účinky **Odbíjejících hodin** níže.
 
-> [!info]+ **The Chiming Clock**
-> The clock chimes on each hour. Each time the clock chimes the hour, each player must immediately make a DC 16 Constitution saving throw, taking 7 (2d6) necrotic damage on a failure or half as much on a success. A player who takes this damage has their hit point maximum reduced by an amount equal to the necrotic damage taken. The reduction lasts until the player finishes a long rest.  A character whose maximum hit points is reduced to 0 this way vanishes from the nightmare, their soul taken from their body until the players either defeat or redeem the spirit of Varushka in [[#O8g. Escaping the Nightmare]].
+> [!info]+ **Odbíjející hodiny**
+> Hodiny odbíjejí každou celou hodinu. Pokaždé, když hodiny odbijí, si musí každý hráč okamžitě hodit záchranný hod na Constitution se DC 16; při neúspěchu utrpí 7 (2d6) nekrotického (necrotic) zranění, při úspěchu poloviční. Hráči, který toto zranění utrpí, se maximum hit pointů sníží o hodnotu utrpěného nekrotického zranění. Snížení trvá, dokud hráč nedokončí dlouhý odpočinek. Postava, jejíž maximum hit pointů tímto způsobem klesne na 0, z noční můry zmizí a její duše je vyrvána z těla, dokud hráči ducha Varushky v [[#O8g. Únik z noční můry|O8g. Únik z noční můry]] nepřemohou nebo nevykoupí.
 >
-> The clock continues to chime on the hour, even if damaged or destroyed. If cast out of a window or otherwise removed from the guest suite, it reappears in its original place on the wall in perfect condition shortly thereafter.
+> Hodiny dál odbíjejí celé hodiny, i když jsou poškozené či zničené. Pokud je někdo vyhodí z okna nebo je jinak odnese z apartmá pro hosty, krátce nato se znovu objeví na svém původním místě na zdi v dokonalém stavu.
 > 
-> An hour passes each time the players take a short rest.
+> Pokaždé, když si hráči dají krátký odpočinek, uplyne hodina.
 
-If a player investigates the closet, read:
+Pokud hráč prozkoumá šatnu, přečtěte:
 
 <div class="description">
-<p>A woman’s corpse dangles from an improvised noose crafted of torn fabric, which hangs from a black iron hook at the center of the far wall. Three feet above the hook, a wooden trapdoor hangs open on rusted metal hinges.</p>
+<p>Z provizorní oprátky spletené z roztrhané látky, zavěšené na černém železném háku uprostřed protější stěny, visí mrtvola ženy. Tři stopy nad hákem visí otevřená dřevěná padací dvířka na zrezivělých kovových pantech.</p>
 </div>
 
-The dead woman’s corpse is brown-haired, short, and freckled. She wears a plain, white wool dress and apron. A player who inspects her body finds a pair of puncture marks on her neck.
+Mrtvá žena je hnědovlasá, drobná a pihovatá. Má na sobě prosté bílé vlněné šaty a zástěru. Hráč, který si její tělo prohlédne, najde na jejím krku dvojici vpichů.
 
 > [!info]+ **Speak With Dead**
-> Players who cast *speak with dead* on Varushka's corpse can learn the same information as in [[#O8e. The Fifth Level]]. Varushka's corpse can also share that she committed suicide by hanging when she realized Strahd would never let her go free.
+> Hráči, kteří na Varushčinu mrtvolu sešlou *speak with dead*, se mohou dozvědět totéž co v [[#O8e. Páté podlaží|O8e. Páté podlaží]]. Varushčina mrtvola může navíc prozradit, že se oběsila, když pochopila, že ji Strahd nikdy nenechá odejít.
 
-A player who ascends through the trapdoor emerges in <span class="citation">K47. Portrait of Strahd (p. 68)</span> on [[#O8b. The Second Level]].
+Hráč, který vyleze padacími dvířky, se vynoří v <span class="citation">K47. Portrait of Strahd (p. 68)</span> v [[#O8b. Druhé podlaží|O8b. Druhé podlaží]].
 
-> [!info]+ **A Haunting Loop**
-> Instead of leading to <span class="citation">K55. Element Room (p. 72)</span>, the trapdoor in the Nightmare always leads to the trapdoor exit in <span class="citation">K47. Portrait of Strahd (p. 68)</span>. In addition, for as long as the players remain in the Nightmare, the **rug of smothering** and **portrait of Strahd** in <span class="citation">K47. Portrait of Strahd (p. 68)</span> are inanimate objects and don’t attack the players.
+> [!info]+ **Strašidelná smyčka**
+> Padací dvířka v noční můře nevedou do <span class="citation">K55. Element Room (p. 72)</span>, ale vždy k výlezu padacích dvířek v <span class="citation">K47. Portrait of Strahd (p. 68)</span>. Dokud jsou hráči v noční můře, jsou navíc dusivý koberec (**rug of smothering**) a Strahdův portrét (**portrait of Strahd**) v <span class="citation">K47. Portrait of Strahd (p. 68)</span> neživé předměty a na hráče neútočí.
 > 
-> Each time the players emerge through the trapdoor, the area is largely as described in <span class="citation">K47. Portrait of Strahd (p. 68)</span>. However, the entryways to both <span class="citation">K21. South Tower Stair (p. 59)</span> and <span class="citation">K48. Offstair (p. 70)</span> have been bricked up, preventing the players from ascending or descending further into the castle.
+> Pokaždé, když se hráči vynoří padacími dvířky, odpovídá oblast do značné míry popisu v <span class="citation">K47. Portrait of Strahd (p. 68)</span>. Vstupy na <span class="citation">K21. South Tower Stair (p. 59)</span> i na <span class="citation">K48. Offstair (p. 70)</span> jsou však zazděné, takže hráči nemohou vystoupat ani sestoupit dál do hradu.
 
-If a player investigates the door in the lounge that exits into <span class="citation">K47. Portrait of Strahd (p. 68)</span>, they find that the door is locked, its lock replaced with an ornate golden keyhole. The door can’t be broken down, and the lock can’t be picked.
+Pokud hráč prozkoumá dveře v salonku, které vedou do <span class="citation">K47. Portrait of Strahd (p. 68)</span>, zjistí, že jsou zamčené a jejich zámek byl nahrazen zdobenou zlatou klíčovou dírkou. Dveře nelze vyrazit a zámek nelze vypáčit.
 
-> [!info]+ **Ascending and Descending Floors**
-> Players are able to descend to previous levels if they choose to do so, until they find the ornate golden key in [[#O8f. The Bloody Keep]]. Once they do, any attempts to descend to a previous level will return them to [[#O8a. The First Level]].
-## O8b. The Second Level
+> [!info]+ **Stoupání a klesání mezi podlažími**
+> Hráči mohou podle libosti sestupovat do předchozích podlaží, dokud v [[#O8f. Krvavý hrad|O8f. Krvavý hrad]] nenajdou zdobený zlatý klíč. Jakmile ho najdou, každý pokus sestoupit do předchozího podlaží je vrátí do [[#O8a. První podlaží|O8a. První podlaží]].
+## O8b. Druhé podlaží
 <span class="citation"><em>This scene takes place in Chapter 4, Areas K49, K50, and K51.</em></span>
 
-This area is largely as described in <span class="citation">K49. Lounge (p. 70)</span>, <span class="citation">K50. Guest Room (p. 70)</span>, and <span class="citation">K51. Closet (p. 70)</span>. However, this level looks slightly less run-down and grimy than the first level. In addition, the door leading to <span class="citation">K49. Lounge (p. 70)</span> lacks the ornate gold lock from [[#O8a. The First Level]].
+Tato oblast do značné míry odpovídá popisu v <span class="citation">K49. Lounge (p. 70)</span>, <span class="citation">K50. Guest Room (p. 70)</span> a <span class="citation">K51. Closet (p. 70)</span>. Toto podlaží však působí o něco méně zchátrale a zašle než první podlaží. Dveře vedoucí do <span class="citation">K49. Lounge (p. 70)</span> navíc nemají zdobený zlatý zámek z [[#O8a. První podlaží|O8a. První podlaží]].
 
-Shortly after the players emerge into <span class="citation">K47. Portrait of Strahd (p. 68)</span>, a man emerges from the wall obstructing <span class="citation">K21. South Tower Stair (p. 59)</span>. Read:
+Krátce poté, co se hráči vynoří v <span class="citation">K47. Portrait of Strahd (p. 68)</span>, vystoupí ze zdi zatarasující <span class="citation">K21. South Tower Stair (p. 59)</span> muž. Přečtěte:
 
 <div class="description">
-<p>A silhouette looms against the stone-brick wall obstructing the descending stair—and then emerges from the stonework like a ghost, revealing a cloaked, broad-shouldered man with long, blond hair, a strong, slightly crooked nose, and a thick, well-trimmed beard. He holds a fiery torch in one hand and a gleaming steel sword in the other, and a black-feathered raven sits perched atop his shoulder.</p>
+<p>Na cihlové zdi, která zatarasuje sestupující schodiště, se rýsuje silueta – a pak vystoupí z kamene jako přízrak a odhalí muže v plášti, širokého v ramenou, s dlouhými plavými vlasy, silným, mírně křivým nosem a hustým, pečlivě zastřiženým plnovousem. V jedné ruce drží hořící pochodeň, v druhé lesklý ocelový meč a na rameni mu sedí havran s černým peřím.</p>
 </div>
 
 ![[IsmarkGreat_transparent.png]]
 
-<span class="credit">"Ismark the Great" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">„Ismark Veliký“ – autor: Caleb Cleveland. Podpořte ho na <a href="https://patreon.com/calebisdrawing/">Patreonu!</a></span>
 
-The man is a memory of Ismark Antonovich (Ismark the Great), and appears strangely familiar to any player who’s previously seen the statue of Ismark the Great in the Barovian village square. The raven on his shoulder is a memory of the **wereraven** Livius Martikov, the founder of the Keepers of the Feather.
+Muž je vzpomínkou na Ismarka Antonoviče (Ismarka Velikého) a připadá podivně povědomý každému hráči, který předtím viděl sochu Ismarka Velikého na návsi barovské vesnice. Havran na jeho rameni je vzpomínkou na havranodlaka (**wereraven**) Livia Martikova, zakladatele Strážců pera.
 
-Ismark is startled, but “gladly surprised" to see other living mortals in the castle. He introduces himself as Ismark Antonovich, and the raven on his shoulder as Livius. As introductions proceed, he notes that the players “don’t look like they’re from around here," but thinks aloud that it’s not uncommon for outsiders to be swept away into Barovia by the Mists.
+Ismark je překvapený, ale „mile překvapený“, že na hradě vidí další živé smrtelníky. Představí se jako Ismark Antonovič a havrana na svém rameni jako Livia. Během představování poznamená, že hráči „nevypadají, že by byli odsud“, ale nahlas uvažuje, že není neobvyklé, aby Mlhy zanesly do Barovie cizince.
 
-Ismark, who has the statistics of a **veteran** and is a friendly, gregarious man, is willing to share the following information if asked:
+Ismark, který má statistiky veterána (**veteran**) a je přátelský a družný muž, je na požádání ochoten prozradit následující:
 
-* He is from the nearby village of Barovia, which lies in the shadow of Castle Ravenloft. Their homes have been preyed upon in recent years by a nest of vampire spawn, whose master slumbers in the depths of this keep.
-* The raven on his shoulder is named Livius, and has been Ismark’s “loyal companion" in this venture into the castle. Ismark is also joined in this expedition by a woman named Lugdana—a mighty warrior—from whom he has become temporarily separated. (If asked, Ismark can share that Lugdana was caught by some kind of trap while in the midst of a duel with a pair of **wights** in the castle cellar. “The floor swept up around her, and carried her away up into the heights of the castle," he recalls worriedly. “I’ve seen no sign of her yet, but I hope that she’s managed to find safety somewhere in these towers.")
-* Ismark and Lugdana came here in search of the *Sigil of the Sun*, a magic item said to empower those who fight the undead. If asked, Ismark describes the *Sigil* as a platinum amulet shaped like the sun, with a large ruby crystal embedded in its center. (Ismark has never heard of the *Holy Symbol of Ravenkind*. If shown the _Holy Symbol_, Ismark recognizes it as matching the description of the _Sigil_, and tells the players to keep it close as they make their escape from the castle.)
+* Pochází z nedaleké barovské vesnice, která leží ve stínu hradu Ravenloft. Jejich domovy v posledních letech pustoší hnízdo upířích zplozenců, jejichž pán dříme v hlubinách tohoto hradu.
+* Havran na jeho rameni se jmenuje Livius a je Ismarkovým „věrným druhem“ na této výpravě do hradu. Ismarka na výpravě doprovází také žena jménem Lugdana – mocná válečnice –, od níž se dočasně oddělil. (Na požádání Ismark prozradí, že Lugdanu chytila nějaká past uprostřed souboje s dvojicí wightů (**wights**) v hradním sklepě. „Podlaha se kolem ní zvedla a odnesla ji vzhůru do výšin hradu,“ vzpomíná ustaraně. „Zatím jsem po ní nenašel ani stopu, ale doufám, že se jí podařilo najít bezpečí někde v těchto věžích.“)
+* Ismark a Lugdana sem přišli hledat *Pečeť slunce* (*Sigil of the Sun*), magický předmět, o němž se říká, že posiluje ty, kdo bojují proti nemrtvým. Na požádání Ismark *Pečeť* popíše jako platinový amulet ve tvaru slunce s velkým rubínovým krystalem zasazeným uprostřed. (Ismark o *Holy Symbol of Ravenkind* nikdy neslyšel. Pokud mu ho hráči ukážou, pozná, že odpovídá popisu *Pečeti*, a řekne hráčům, ať si ho při útěku z hradu dobře hlídají.)
 
-Ismark is interested in exploring the guest suite for any signs of Lugdana, and invites the players to join him in doing so. “Strength in numbers, yes?" he asks, winking.
+Ismark chce prozkoumat apartmá pro hosty a najít nějaké stopy po Lugdaně a pozve hráče, aby se k němu přidali. „Ve více lidech se to lépe táhne, ne?“ zeptá se a mrkne.
 
-The guest suite is largely as described in <span class="citation">K49. Lounge (p. 70)</span>, <span class="citation">K50. Guest Room (p. 70)</span>, and <span class="citation">K51. Closet (p. 70)</span>. However, one of the tables in the Lounge holds two silver goblets, which are as described in <span class="citation">Unseen Servant (p. 51)</span>.
+Apartmá pro hosty do značné míry odpovídá popisu v <span class="citation">K49. Lounge (p. 70)</span>, <span class="citation">K50. Guest Room (p. 70)</span> a <span class="citation">K51. Closet (p. 70)</span>. Na jednom ze stolů v salonku však stojí dva stříbrné poháry, které odpovídají popisu v <span class="citation">Unseen Servant (p. 51)</span>.
 
-In addition, when a creature first attempts to open the Closet door, the following objects in the Guest Room animate and attack, using the statistics for animated objects given on <span class="citation">Player’s Handbook, p. 213</span> except where given otherwise: 
+Když se navíc tvor poprvé pokusí otevřít dveře do šatny, ožijí následující předměty v pokoji pro hosty a zaútočí; použijte statistiky oživlých předmětů z <span class="citation">Player’s Handbook, p. 213</span>, není-li uvedeno jinak: 
 
-* the four-poster bed (**large animated object**), 
-* the two chairs (**medium animated objects**), 
-* the ottoman (**small animated object**), and 
-* the rug (**rug of smothering**, <span class="citation">Monster Manual, p. 20</span>, with 63 hit points, a Strength score of 18 (+4), +6 to hit, an escape DC of 14, and dealing 18 (4d6 + 4) damage on a hit).
+* postel s nebesy (**large animated object**), 
+* dvě židle (**medium animated objects**), 
+* taburet (**small animated object**) a 
+* koberec (**rug of smothering**, <span class="citation">Monster Manual, p. 20</span>, s 63 hit pointy, hodnotou Strength 18 (+4), +6 k zásahu, DC úniku 14 a zraněním 18 (4d6 + 4) při zásahu).
 
-Ismark and Livius fight alongside the players if present, Livius remaining in his **raven** form. (Because he's carrying a torch, Ismark can't use his shortsword, and must wield his longsword one-handed.)
+Ismark a Livius bojují po boku hráčů, jsou-li přítomni; Livius zůstává ve své podobě havrana (**raven**). (Protože Ismark nese pochodeň, nemůže použít svůj krátký meč a dlouhý meč musí třímat jednoruč.)
 
-When the players successfully reach and open the trapdoor, Ismark bids them farewell and wishes them luck on their journey, noting that he will seek Lugdana elsewhere. 
+Když hráči úspěšně dorazí k padacím dvířkům a otevřou je, Ismark se s nimi rozloučí a popřeje jim na cestě hodně štěstí; sám prý bude hledat Lugdanu jinde. 
 
-A player who ascends through the trapdoor emerges in <span class="citation">K47. Portrait of Strahd (p. 68)</span> in the corresponding section of [[#O8c. The Third Level]].
-## O8c. The Third Level
+Hráč, který vyleze padacími dvířky, se vynoří v <span class="citation">K47. Portrait of Strahd (p. 68)</span> v odpovídající části [[#O8c. Třetí podlaží|O8c. Třetí podlaží]].
+## O8c. Třetí podlaží
 <span class="citation"><em>This scene takes place in Chapter 4, Areas K49, K50, and K51.</em></span>
 
-This area is largely as described in <span class="citation">K49. Lounge (p. 70)</span>, <span class="citation">K50. Guest Room (p. 70)</span>, and <span class="citation">K51. Closet (p. 70)</span>. This area looks somewhat run-down, but free of much of the grime and age that marked the lower levels. In addition, the door leading to <span class="citation">K49. Lounge (p. 70)</span> lacks the ornate gold lock from [[#O8a. The First Level]].
+Tato oblast do značné míry odpovídá popisu v <span class="citation">K49. Lounge (p. 70)</span>, <span class="citation">K50. Guest Room (p. 70)</span> a <span class="citation">K51. Closet (p. 70)</span>. Působí poněkud zchátrale, ale bez velké části špíny a stáří, které poznamenaly nižší podlaží. Dveře vedoucí do <span class="citation">K49. Lounge (p. 70)</span> navíc nemají zdobený zlatý zámek z [[#O8a. První podlaží|O8a. První podlaží]].
 
-Any player who enters the Guest Room immediately notices a quiet, persistent ticking noise deeper and more resonant than that of the clock. A player who listens closely to the noise can discern that it appears to be emanating from beneath the bed. A player who looks beneath the bed or otherwise disturbs its contents encounters Pidlwick II, who is as described in <span class="citation">K59. High Tower Peak (p. 73)</span>.
+Každý hráč, který vstoupí do pokoje pro hosty, si okamžitě všimne tichého, vytrvalého tikání, hlubšího a zvučnějšího, než je tikání hodin. Hráč, který pozorně naslouchá, rozezná, že zvuk zřejmě vychází zpod postele. Hráč, který se podívá pod postel nebo jinak vyruší, co pod ní je, narazí na Pidlwicka II, který odpovídá popisu v <span class="citation">K59. High Tower Peak (p. 73)</span>.
 
-A player who opens the closet door finds that the hook that opens the trapdoor has been unscrewed and removed from its socket. Although it can’t speak, Pidlwick II can use simple nods, gestures, and diagrams to communicate that it has hidden the hook somewhere in the guest suite. However, because Pidlwick II is lonely and wants to play a game, it won’t initially share where the hook is hidden. However, if asked, it tilts its head to the side and looks thoughtful, as if it’s listening for something.
+Hráč, který otevře dveře šatny, zjistí, že hák, jímž se otevírají padací dvířka, byl vyšroubován a vyjmut z objímky. Přestože Pidlwick II nemluví, dokáže prostým kýváním, gesty a nákresy sdělit, že hák schoval někde v apartmá pro hosty. Protože je však Pidlwick II osamělý a chce si hrát, zpočátku neprozradí, kde hák je. Pokud se ho na to někdo zeptá, nakloní hlavu na stranu a zatváří se zamyšleně, jako by něčemu naslouchal.
 
-Pidlwick II has hidden the hook in the guest room clock. A player who spends 1 minute searching the clock for secrets and succeeds on a DC 20 Intelligence (Investigation) check finds a hidden storage compartment in the portion of the clock corresponding to the castle’s north tower, which ordinarily holds <span class="citation">K20. Heart of Sorrow (p. 59)</span> and <span class="citation">K60. North Tower Peak (p. 74)</span>.
+Pidlwick II schoval hák do hodin v pokoji pro hosty. Hráč, který stráví 1 minutu hledáním tajemství v hodinách a uspěje v ověření Intelligence (Investigation) se DC 20, najde skrytou schránku v části hodin odpovídající severní věži hradu, v níž se obvykle nachází <span class="citation">K20. Heart of Sorrow (p. 59)</span> a <span class="citation">K60. North Tower Peak (p. 74)</span>.
 
-A player who treats Pidlwick II kindly and succeeds on a DC 12 Charisma (Persuasion) check can convince it to shyly point to the clock on the wall if asked for the hook’s location.
+Hráč, který se k Pidlwickovi II chová laskavě a uspěje v ověření Charisma (Persuasion) se DC 12, ho může přesvědčit, aby na otázku, kde je hák, nesměle ukázal na hodiny na zdi.
 
-> [!abstract]+ **Threatening Pidlwick II**
-> If a player threatens Pidlwick II and succeeds on a DC 10 Charisma (Intimidation) check, Pidlwick II shyly takes their hand and leads them toward <span class="citation">K47. Portrait of Strahd (p. 68)</span>. Through crude hand gestures, it beckons for them to stand directly before the bricked-up stone wall blocking access to <span class="citation">K21. South Tower Stair (p. 59)</span>. 
+> [!abstract]+ **Vyhrožování Pidlwickovi II**
+> Pokud hráč Pidlwickovi II vyhrožuje a uspěje v ověření Charisma (Intimidation) se DC 10, Pidlwick II ho nesměle vezme za ruku a vede ho k <span class="citation">K47. Portrait of Strahd (p. 68)</span>. Neohrabanými gesty ho vybídne, aby se postavil přímo před zazděnou kamennou zeď, která zatarasuje přístup na <span class="citation">K21. South Tower Stair (p. 59)</span>. 
 >
-> If the player does so, it then attempts to push them down the stairs as described in <span class="citation">Pidlwick II (p. 73)</span>. A player who fails the Dexterity saving throw falls down one hundred feet of stairs before falling through the bricked-up stone wall blocking access to <span class="citation">K48. Offstair (p. 70)</span>, taking damage as described in <span class="citation">K59. High Tower Peak (p. 73)</span>. Whether the player succeeds or fails, Pidlwick II then immediately vanishes from sight, leaving behind a faint sound of tinny, clanking metal that sounds almost like laughter. The sound soon fades into silence.
+> Pokud tak hráč učiní, pokusí se ho Pidlwick II shodit ze schodů, jak je popsáno v <span class="citation">Pidlwick II (p. 73)</span>. Hráč, který neuspěje v záchranném hodu na Dexterity, se skutálí sto stop po schodech a pak propadne zazděnou kamennou zdí, která zatarasuje přístup na <span class="citation">K48. Offstair (p. 70)</span>, a utrpí zranění, jak je popsáno v <span class="citation">K59. High Tower Peak (p. 73)</span>. Ať hráč uspěje, nebo ne, Pidlwick II okamžitě zmizí z dohledu a zanechá za sebou jen slabé plechové řinčení, které zní skoro jako smích. Zvuk brzy utichne.
 > 
-> Once Pidlwick has vanished and the sound of his own clockwork mechanism has disappeared, a player who returns to <span class="citation">K50. Guest Room (p. 70)</span> can hear that the sound of the guest room clock is tinnier and less resonant than on other levels. (This is caused by the presence of the hook, which dampens the sound of the clock's internal clockwork.) A player who then inspects the clock finds the hidden storage compartment automatically.
-## O8d. The Fourth Level
+> Jakmile Pidlwick zmizí a zvuk jeho hodinového strojku utichne, hráč, který se vrátí do <span class="citation">K50. Guest Room (p. 70)</span>, uslyší, že hodiny v pokoji pro hosty znějí plechověji a méně zvučně než v ostatních podlažích. (Způsobuje to hák, který tlumí zvuk vnitřního hodinového strojku.) Hráč, který pak hodiny prozkoumá, najde skrytou schránku automaticky.
+## O8d. Čtvrté podlaží
 <span class="citation"><em>This scene takes place in Chapter 4, Areas K49, K50, K51, and K53.</em></span>
 
-The trapdoor leads to a copy of the guest suite largely as described in <span class="citation">K49. Lounge (p. 70)</span>, <span class="citation">K50. Guest Room (p. 70)</span>, and <span class="citation">K51. Closet (p. 70)</span>. This area looks somewhat run-down, but free of much of the grime and age that marked the upper levels. In addition, the door leading to <span class="citation">K49. Lounge (p. 70)</span> lacks the ornate gold lock from [[Arc O - Dinner with the Devil#O8a. The First Level|The First Level]].
+Padací dvířka vedou do kopie apartmá pro hosty, která do značné míry odpovídá popisu v <span class="citation">K49. Lounge (p. 70)</span>, <span class="citation">K50. Guest Room (p. 70)</span> a <span class="citation">K51. Closet (p. 70)</span>. Působí poněkud zchátrale, ale bez velké části špíny a stáří, které poznamenaly vyšší podlaží. Dveře vedoucí do <span class="citation">K49. Lounge (p. 70)</span> navíc nemají zdobený zlatý zámek z [[Arc O - Dinner with the Devil#O8a. První podlaží|Prvního podlaží]].
 
-Instead of opening into the closet, the closet door in the guest suite opens into a blank stone wall. When the closet door is opened for the first time, the southwestern windows in the Lounge slam open, allowing the storm to howl inside and revealing a copy of the castle rooftop, which is largely as described in <span class="citation">K53. Rooftop (p. 71)</span>. However, the remainder of the castle is absent, leaving the rooftops surrounded only by an endless, misty void. When a character first looks out the window, read:
+Dveře šatny v apartmá nevedou do šatny, ale na holou kamennou zeď. Když se dveře šatny poprvé otevřou, rozletí se jihozápadní okna v salonku, dovnitř zavyje bouře a odhalí se kopie hradní střechy, která do značné míry odpovídá popisu v <span class="citation">K53. Rooftop (p. 71)</span>. Zbytek hradu však chybí, takže střechy obklopuje jen nekonečná mlžná prázdnota. Když se postava poprvé podívá z okna, přečtěte:
 
 <div class="description">
-<p>The window opens onto a long, dark rooftop cloaked in swirling mists. Rain splashes against the sagging, sloping roof as flashes of lightning illuminate gargoyles perched on the roof’s end peaks, their hideous stares forever fixed on the dark, endless chasm below. On the far side of the rooftop, a small, dark, open closet stands quietly on a parapet amidst the storm.</p>
+<p>Okno hledí na dlouhou temnou střechu zahalenou vířící mlhou. Déšť bičuje prohnutou, svažitou střechu a záblesky blesků ozařují chrliče usazené na koncových štítech, jejichž ohyzdné pohledy navždy hledí do temné, nekonečné propasti pod nimi. Na druhém konci střechy stojí uprostřed bouře tiše na cimbuří malá temná otevřená komůrka.</p>
 </div>
 
-The rooftop spans 120ft. A character attempting to cross it must make a DC 10 Dexterity (Acrobatics) check. If the check succeeds, the character moves at half speed across the rooftop. On a check result of 6-9, the character neither gains nor loses ground; on a result of 5 or less, the character falls and takes 1d6 bludgeoning damage, falling 15 feet to a ledge that runs beneath the edge of the roof. To climb back to the roof from the ledge, a character must succeed on a DC 15 Strength (Athletics) check.
+Střecha je dlouhá 120 stop. Postava, která se ji pokusí přejít, musí provést ověření Dexterity (Acrobatics) se DC 10. Při úspěchu se postava po střeše pohybuje poloviční rychlostí. Při výsledku 6–9 postava nezíská ani neztratí půdu pod nohama; při výsledku 5 nebo méně spadne, utrpí 1d6 drtivého (bludgeoning) zranění a dopadne o 15 stop níž na římsu, která vede pod okrajem střechy. Aby se postava z římsy vyšplhala zpět na střechu, musí uspět v ověření Strength (Athletics) se DC 15.
 
-When all players have exited the window, six **swarms of bats** descend to attack any characters that haven't yet reached the far side. Characters have disadvantage on checks made to cross the roof while sharing a space with a swarm of bats. If any character is concentrating on a spell that allows flight, three **swarms of bats** attack that character simultaneously, hoping to break their concentration.
+Když všichni hráči vylezou z okna, snese se šest hejn netopýrů (**swarms of bats**) a zaútočí na všechny postavy, které ještě nedosáhly druhé strany. Postavy mají na ověření k přejití střechy nevýhodu, dokud sdílejí prostor s hejnem netopýrů. Pokud se kterákoli postava soustředí na kouzlo umožňující let, zaútočí na ni současně tři hejna netopýrů (**swarms of bats**) v naději, že její soustředění naruší.
 
-On initiative count 20 of the first round after the **swarms of bats** descend, an **adult black dragon** begins stalking the players from <span class="citation">K47. Portrait of Strahd (p. 68)</span>. Read:
+Na iniciativě 20 prvního kola poté, co se snesou hejna netopýrů (**swarms of bats**), začne hráče z <span class="citation">K47. Portrait of Strahd (p. 68)</span> pronásledovat dospělý černý drak (**adult black dragon**). Přečtěte:
 
 <div class="description">
-<p>A deep rumble reverberates through stonework of the castle, the rooftop shaking as tiles tremble and slide down into the endless abyss below. A chorus of a thousand screams echoes in the distance, but slowly growing closer.</p> 
-<p>Something enormous thuds against the stone of the landing outside of the guest suite. As you watch, a massive, clawed, reptilian hand curls slowly around the doorframe, the wood splintering as the stone crumbles beneath it.</p>
+<p>Kamenným zdivem hradu se rozlehne hluboké dunění, střecha se otřese a tašky se rozechvějí a sjíždějí do nekonečné propasti pod vámi. V dálce se ozývá chorál tisíce výkřiků, který se pomalu přibližuje.</p> 
+<p>O kámen podesty před apartmá pro hosty tupě udeří cosi obrovského. Před vašima očima se kolem zárubně pomalu ovine obrovská ještěří pracka se drápy; dřevo praská a kámen se pod ní drolí.</p>
 </div>
 
-The dragon is a symbolic representation of Rahadin, who served as the warden to the women Strahd lured to and trapped in the castle. Any creature that has previously heard Rahadin's ***deathly chorus*** recognizes that the screams resemble the same manifestation.
+Drak je symbolickým zpodobněním Rahadina, který dělal žalářníka ženám, jež Strahd vylákal na hrad a uvěznil je tam. Každý tvor, který už dříve slyšel Rahadinův ***deathly chorus***, pozná, že výkřiky se podobají témuž projevu.
 
-Make the following changes to the dragon's statistics:
+Statistiky draka upravte takto:
 
-* A creature that fails its saving throw against the dragon's ***frightful presence*** feature by 5 or more is paralyzed until the end of its next turn.
-* A creature that fails its saving throw against the dragon's ***acid breath*** takes no damage. Instead, the acid transforms into an writhing tangle of jewel-encrusted gold chains, which restrain the target until the end of its next turn. A creature that succeeds on its saving throw has its legs partially wrapped by the chains, and is slowed until the end of its next turn. (A slowed creature must spend 1 extra foot of movement for every foot it moves using its speed, grants advantage on attack rolls against it, and has disadvantage on Dexterity saving throws.)
-* The dragon can't use legendary actions.
+* Tvor, který neuspěje v záchranném hodu proti drakově schopnosti ***frightful presence*** o 5 nebo více, je do konce svého příštího tahu ochromený (paralyzed).
+* Tvor, který neuspěje v záchranném hodu proti drakově ***acid breath***, neutrpí žádné zranění. Kyselina se místo toho promění ve svíjející se změť zlatých řetězů posetých drahokamy, které cíl do konce jeho příštího tahu zadrží (restrained). Tvoru, který v záchranném hodu uspěje, řetězy částečně omotají nohy a do konce jeho příštího tahu je zpomalený. (Zpomalený tvor musí za každou stopu pohybu svou rychlostí utratit 1 stopu pohybu navíc, hody na útok proti němu mají výhodu a on sám má nevýhodu na záchranné hody na Dexterity.)
+* Drak nemůže používat legendární akce.
 
-A creature ensnared by the dragon's chains notices that they're not chains at all, but thousands of interlocking golden rings, bracelets, and necklaces. Each set of chains has AC 15, 20 hit points, immunity to piercing, psychic, and poison damage, and vulnerability to fire damage, and can be broken with a successful DC 15 Strength check.
+Tvor spoutaný drakovými řetězy si všimne, že to vůbec nejsou řetězy, ale tisíce do sebe zaklesnutých zlatých prstenů, náramků a náhrdelníků. Každá sada řetězů má AC 15, 20 hit pointů, imunitu vůči zranění typu piercing, psychic a poison a zranitelnost vůči ohnivému (fire) zranění; lze ji přetrhnout úspěšným ověřením Strength se DC 15.
 
-The dragon, which acts on initiative count 0 of each round, acts as follows:
+Drak, který jedná na iniciativě 0 v každém kole, postupuje takto:
 
-**On its first turn**, it uses its ***frightful presence*** feature, but doesn't move through the door.
+**Ve svém prvním tahu** použije svou schopnost ***frightful presence***, ale dveřmi neprojde.
 
-**On its second turn**, it begins squeezing through the guest suite door, then uses its ***acid breath***, hitting any players less than halfway across the rooftop. Read:
+**Ve svém druhém tahu** se začne protahovat dveřmi apartmá pro hosty a pak použije svůj ***acid breath***, který zasáhne všechny hráče, kteří nepřešli ani polovinu střechy. Přečtěte:
 
 <div class="description">
-<p>A piercing chorus of screams builds as a monstrous, black-scaled, reptilian head pushes into the suite, its skull alone just as wide and half as tall as the doorframe itself. A long, wicked scar cuts across its forehead. Horns resembling pointed, elfin ears thrust up from the sides of its head, and its eyes glimmer with cruel, malevolent purpose.</p>
-<p>Slowly, it begins to thrust its broad, muscled shoulders through the guest suite doorway, the ancient stonework cracking beneath its ponderous bulk. As it does, its serpentine neck coils, its chest swelling grotesquely as its scales stretch and bulge.</p>
+<p>Pronikavý chorál výkřiků sílí, jak se do apartmá protlačí obludná ještěří hlava s černými šupinami – samotná lebka je stejně široká a z poloviny tak vysoká jako zárubeň. Přes čelo se jí táhne dlouhá zlověstná jizva. Z boků hlavy trčí rohy připomínající špičaté elfí uši a oči se jí lesknou krutým, zlovolným úmyslem.</p>
+<p>Pomalu začíná protlačovat dveřmi apartmá svá široká svalnatá ramena a prastaré zdivo pod její těžkopádnou tíhou praská. Přitom se její hadí krk stočí a hruď se groteskně nadme, až se šupiny napínají a vydouvají.</p>
 <p>
-<p>A guttural growl builds deep in its throat, rising to an ear-splitting roar as the beast's maw gapes wide, revealing row upon row of needle-sharp teeth. A torrent of purple-black acid erupts from the dragon's jaws, filling the air with an acrid, caustic stench.</p>
+<p>Hluboko v hrdle se jí rodí hrdelní vrčení, které přeroste v ohlušující řev, jak bestie dokořán rozevře tlamu a odhalí řadu za řadou jehlovitě ostrých zubů. Z dračích čelistí vytryskne proud fialovočerné kyseliny a vzduch naplní štiplavý, leptavý puch.</p>
 </div>
 
-**On its third turn**, the dragon enters the lounge and roars, shattering the glass in all west-facing windows. If its ***acid breath*** has recharged, it uses it again; otherwise, it attempts to squeeze through the windows, then stalk across the rooftops until it reaches a target for its ***multiattack***, preferring to approach any characters that have fallen to the ledge below the roof.
+**Ve svém třetím tahu** drak vstoupí do salonku a zařve, až se roztříští sklo ve všech oknech obrácených na západ. Pokud se jeho ***acid breath*** obnovil, použije ho znovu; jinak se pokusí protáhnout okny a pak se plíží po střechách, dokud nedosáhne cíle pro svůj ***multiattack***; přednostně se blíží k postavám, které spadly na římsu pod střechou.
 
-The closet on the far side of the rooftop is a copy of the closet in <span class="citation">K51. Closet (p. 70)</span>, though without the cloak hanging from the hook. A player who ascends through the trapdoor emerges in <span class="citation">K47. Portrait of Strahd (p. 68)</span> in the corresponding section of [[#O8e. The Fifth Level]]. The dragon can't follow the players through the trapdoor.
-## O8e. The Fifth Level
+Komůrka na druhém konci střechy je kopií šatny v <span class="citation">K51. Closet (p. 70)</span>, ovšem bez pláště visícího na háku. Hráč, který vyleze padacími dvířky, se vynoří v <span class="citation">K47. Portrait of Strahd (p. 68)</span> v odpovídající části [[#O8e. Páté podlaží|O8e. Páté podlaží]]. Drak nemůže hráče padacími dvířky následovat.
+## O8e. Páté podlaží
 <span class="citation"><em>This scene takes place in Chapter 4, Areas K49 and K50.</em></span>
 
-This area is largely as described in <span class="citation">K49. Lounge (p. 70)</span> and <span class="citation">K50. Guest Room (p. 70)</span>. However, the castle’s stone is bright, clean, and freshly carved, with its furniture pristine and newly crafted. In addition, the door leading to <span class="citation">K49. Lounge (p. 70)</span> lacks the ornate gold lock from [[#O8a. The First Level]].
+Tato oblast do značné míry odpovídá popisu v <span class="citation">K49. Lounge (p. 70)</span> a <span class="citation">K50. Guest Room (p. 70)</span>. Kámen hradu je však světlý, čistý a čerstvě otesaný a nábytek je netknutý a nově vyrobený. Dveře vedoucí do <span class="citation">K49. Lounge (p. 70)</span> navíc nemají zdobený zlatý zámek z [[#O8a. První podlaží|O8a. První podlaží]].
 
-A character who approaches the guest room hears the sound of a woman’s quiet sobs emanating from within. When a player first enters the guest room, read:
-
-<div class="description">
-<p>A young woman sits atop the bed. She wears a simple white, woolen shift with a clean apron tied around her waist, and her messy brown bangs fall across her face. Her legs are held tight to her chest, her head buried in her knees as great sobs wrack her body. She appears to be clutching something in one of her hands.</p>
-</div>
-
-If a player speaks or otherwise interacts with the woman, read:
+Postava, která se přiblíží k pokoji pro hosty, zaslechne zevnitř tiché ženské vzlykání. Když hráč poprvé vstoupí do pokoje pro hosty, přečtěte:
 
 <div class="description">
-<p>The woman’s sobs quiet, and she peers up at you over the top of her knees. Her eyes are red and blotchy, her freckled cheeks stained with tears. You can see now that the right neckline of her white dress is stained a dark, wet red, and two crimson puncture wounds mark the side of her neck. She releases her grip around the object in her palm, revealing a small, half-heart necklace made of tarnished silver that sags against her chest.</p>
+<p>Na posteli sedí mladá žena. Má na sobě prostou bílou vlněnou košilku s čistou zástěrou uvázanou kolem pasu a rozcuchaná hnědá ofina jí padá do tváře. Nohy si tiskne k hrudi, hlavu má zabořenou do kolen a tělem jí otřásají hlasité vzlyky. Zdá se, že v jedné ruce cosi svírá.</p>
 </div>
 
-The woman is a memory of the servant Varushka, as she was in the first days following the arrival of the Mists. Any player who saw the hanged corpse in [[#O8a. The First Level]] immediately recognizes her as the same woman.
+Pokud hráč na ženu promluví nebo s ní jinak naváže kontakt, přečtěte:
 
-If asked, Varushka can share the following information:
+<div class="description">
+<p>Vzlyky utichnou a žena na vás pohlédne přes kolena. Oči má zarudlé a opuchlé, pihovaté tváře zmáčené slzami. Teď vidíte, že pravý výstřih jejích bílých šatů je nasáklý tmavou, vlhkou červení a na boku krku má dvě karmínové bodné rány. Povolí sevření kolem předmětu v dlani a odhalí malý náhrdelník ve tvaru poloviny srdce ze zašlého stříbra, který jí klesne na hruď.</p>
+</div>
 
-* She is Varushka, a servant of Castle Ravenloft. Until recently, she enjoyed her work. However, that changed ten days ago, "the day the sky turned red, and the mists rose around the valley." That morning, she saw "a great darkness" appear in King von Zarovich's chambers and speak to him. "He didn't see me, but I saw him as I cleaned," Varushka whispers. "Before I fled, I heard the whispering of a thousand voices—and saw a glimmer of amber in the air before him." 
-* Since then, the lord of the castle has begun visiting her in private. “He has become a monster," Varushka chokes, clutching her knees tighter to her chest. While he hasn’t taken any physical liberties with her—a small grace she is thankful for—he has fed upon her multiple times like a bat, draining the blood from her neck. (If asked, Varushka can confirm that the lord of the castle is Strahd, though she’s too fearful to speak his name aloud.)
-* When the lord first fed upon her, Varushka attempted to flee the keep, terrified for her life. Instead, however, she was apprehended and locked in the guest suite. “Rahadin, the chamberlain, keeps the key locked in his office desk, in the cellars far below us," she mourns. “There’s no chance I’ll ever escape." If asked, Varushka can inform the players that Rahadin’s office is close to the kitchens and servants’ hall, just past the guards’ meeting room and the kingsmen hall. (Varushka is referring to the chambers described in <span class="citation">K67. Hall of Bones (p. 78)</span> and <span class="citation">K70. Kingsmen Hall (p. 79)</span>.)
-* Since Varushka’s imprisonment, the lord has visited her nightly to drink his fill. She now believes that there is no escape from her ultimate fate—but is determined to deny him the opportunity to turn her into a monster like him.
-* The half-locket was a gift from a "dear friend" of hers, named Katarina. ("I don't think I'll ever see her again, though," Varushka hiccups.) If asked about Katarina, Varushka looks sad, and shares only that she was someone with whom Varushka once thought she might share a future, though she knows that now to be impossible.
+Žena je vzpomínkou na služebnou Varushku, jak vypadala v prvních dnech po příchodu Mlh. Každý hráč, který viděl oběšenou mrtvolu v [[#O8a. První podlaží|O8a. První podlaží]], v ní okamžitě pozná tutéž ženu.
 
-Varushka can’t leave the guest suite. If shown the exit, she regards it as a locked and closed door; if pushed through it, an invisible force painfully stops her from leaving.
+Na požádání může Varushka prozradit následující:
 
-Varushka isn’t sure why the players have appeared in her chambers, though she’s grateful for any comfort or reassurances they might provide to her. If the players treat her kindly and tell her that they wish to enter her closet, she warns them that “he" lurks there, “bloody and hungry, and filled with grief and rage and hate." (There is no doubt from the tone of her voice that she is referring to Strahd.) If the players move to enter the closet, she warns them that he is “young, and weaker than he may become," but that he is still a foe to be feared.
+* Je Varushka, služebná na hradě Ravenloft. Až donedávna ji práce těšila. To se však změnilo před deseti dny, „v den, kdy obloha zrudla a kolem údolí se zvedly mlhy“. Toho rána viděla, jak se v komnatách krále von Zaroviče objevila „veliká temnota“ a promluvila k němu. „On mě neviděl, ale já ho viděla, když jsem uklízela,“ šeptá Varushka. „Než jsem utekla, slyšela jsem šepot tisíce hlasů – a viděla jsem, jak se před ním ve vzduchu zatřpytil jantar.“ 
+* Od té doby ji pán hradu začal navštěvovat v soukromí. „Stal se z něj netvor,“ vzlykne Varushka a pevněji si přitiskne kolena k hrudi. Přestože si k ní nedovolil nic tělesného – za tu malou milost je vděčná –, několikrát se na ní jako netopýr nasytil a vysál jí krev z krku. (Na požádání Varushka potvrdí, že pánem hradu je Strahd, ale bojí se vyslovit jeho jméno nahlas.)
+* Když se na ní pán poprvé nasytil, pokusila se Varushka ve smrtelném strachu z hradu uprchnout. Místo toho ji však chytili a zamkli v apartmá pro hosty. „Rahadin, komoří, má klíč zamčený v psacím stole ve své kanceláři, ve sklepeních hluboko pod námi,“ naříká. „Nemám šanci nikdy uniknout.“ Na požádání může Varushka hráčům sdělit, že Rahadinova kancelář je blízko kuchyní a síně služebnictva, hned za místností pro porady stráží a síní královské gardy. (Varushka má na mysli komnaty popsané v <span class="citation">K67. Hall of Bones (p. 78)</span> a <span class="citation">K70. Kingsmen Hall (p. 79)</span>.)
+* Od Varushčina uvěznění ji pán navštěvuje každou noc, aby se napil do sytosti. Teď věří, že jejímu konečnému osudu není úniku – je však odhodlána mu odepřít příležitost proměnit ji v netvora, jako je on.
+* Polovinu medailonku dostala darem od své „drahé přítelkyně“ jménem Katarina. („Ale myslím, že ji už nikdy neuvidím,“ škytne Varushka.) Na otázku o Katarině se Varushka zatváří smutně a prozradí jen, že to byla osoba, s níž si kdysi myslela, že by mohla sdílet budoucnost, ačkoli teď ví, že je to nemožné.
 
-The closet door doesn’t open into the guest suite closet. Instead, a player who opens the closet door emerges into <span class="citation">K23. Servants’ Entrance (p. 59)</span>, as described in [[#O8f. The Bloody Keep]] below.
+Varushka nemůže apartmá pro hosty opustit. Pokud jí hráči ukážou východ, vidí v něm zamčené a zavřené dveře; pokud ji jimi protlačí, zabrání jí v odchodu bolestivě neviditelná síla.
 
-> [!abstract]+ **Katarina’s Necklace**
-> If a player offers Varushka Katarina’s half of the two-piece necklace obtained in [[#O3b. The Rider’s Guidance]], Varushka is delighted to see it, but declines to accept it. “I think there is someone else who needs it more," she says softly, though she isn’t sure who that person might be. 
-## O8f. The Bloody Keep
+Varushka neví, proč se hráči objevili v jejích komnatách, ale je vděčná za každou útěchu či ujištění, které jí mohou poskytnout. Pokud se k ní hráči chovají laskavě a řeknou jí, že chtějí vstoupit do její šatny, varuje je, že tam číhá „on“, „zkrvavený a hladový, plný žalu, vzteku a nenávisti“. (Z tónu jejího hlasu není pochyb, že mluví o Strahdovi.) Pokud se hráči do šatny vydají, varuje je, že je „mladý a slabší, než se může stát“, ale že je to stále nepřítel, jehož je třeba se bát.
+
+Dveře šatny nevedou do šatny apartmá pro hosty. Hráč, který je otevře, se místo toho vynoří v <span class="citation">K23. Servants’ Entrance (p. 59)</span>, jak je popsáno v [[#O8f. Krvavý hrad|O8f. Krvavý hrad]] níže.
+
+> [!abstract]+ **Katarinin náhrdelník**
+> Pokud hráč Varushce nabídne Katarininu polovinu dvoudílného náhrdelníku získanou v [[#O3b. Jezdcovo vedení|O3b. Jezdcovo vedení]], Varushka se nad ním rozzáří, ale odmítne si ho vzít. „Myslím, že je tu někdo jiný, kdo ho potřebuje víc,“ řekne tiše, ačkoli neví, kdo by to mohl být. 
+## O8f. Krvavý hrad
 <span class="citation"><em>This scene takes place in Chapter 4, Area K23.</em></span>
 
-A player who passes through the closet door in [[#O8e. The Fifth Level]] emerges into <span class="citation">K23. Servants’ Entrance (p. 59)</span>, as it was on the day of Strahd’s death nearly four centuries ago. Read:
+Hráč, který projde dveřmi šatny v [[#O8e. Páté podlaží|O8e. Páté podlaží]], se vynoří v <span class="citation">K23. Servants’ Entrance (p. 59)</span> tak, jak vypadal v den Strahdovy smrti téměř před čtyřmi stoletími. Přečtěte:
 
 <div class="description">
-<p>Blood-red light streams in through a window on the east wall. A large, heavy table stands in the center of the floor, half-covered in a puddle of black ink from an overturned inkwell. A bloody dagger has been plunged into the pages of a thick book beside the inkwell, and a man’s corpse lies slumped against the leg of the table just beneath it.</p>
-<p>There is a splintered door in the north wall, and a staircase in the south wall that plunges into darkness. The sounds of distant screams echo from the space below.</p>
+<p>Oknem ve východní zdi proudí krvavě rudé světlo. Uprostřed místnosti stojí velký, těžký stůl, napůl pokrytý kaluží černého inkoustu z převrženého kalamáře. Vedle kalamáře je do stránek tlusté knihy vražena zkrvavená dýka a hned pod ní leží o nohu stolu opřená mužská mrtvola.</p>
+<p>V severní zdi jsou roztříštěné dveře a v jižní zdi schodiště, které se noří do tmy. Zespodu se ozývají vzdálené výkřiky.</p>
 </div>
 
-A player who looks out of the window perceives nothing but an endless, blood-red void. (The door the players entered from still leads back into the guest suite closet.)
+Hráč, který se podívá z okna, nevidí nic než nekonečnou krvavě rudou prázdnotu. (Dveře, jimiž hráči vstoupili, stále vedou zpět do šatny apartmá pro hosty.)
 
-The corpse is clad in a guard’s chain-mail armor. His snapped wooden spear lies discarded on the stones beneath the table not far away. A player who inspects the corpse can discern that his throat was torn open. A successful DC 14 Wisdom (Medicine) check reveals that the man’s flesh was ripped by long, fine claws.
+Mrtvý má na sobě strážnou kroužkovou zbroj. Jeho zlomené dřevěné kopí leží pohozené na dlažbě pod stolem nedaleko. Hráč, který si mrtvolu prohlédne, pozná, že má rozervané hrdlo. Úspěšné ověření Wisdom (Medicine) se DC 14 odhalí, že mužovo maso rozervaly dlouhé, tenké drápy.
 
-The splintered door leads into the Servants’ Rooms (see below). The staircase descends to the Castle Cellar (see below).
-### Servants’ Rooms
+Roztříštěné dveře vedou do pokojů služebnictva (viz níže). Schodiště sestupuje do hradního sklepa (viz níže).
+### Pokoje služebnictva
 <span class="citation"><em>This scene takes place in Chapter 4, Areas K24, K34, and K20.</em></span>
 
-This area includes <span class="citation">K24. Servants’ Quarters (p. 61)</span>, <span class="citation">K34. Servants’ Upper Floor (p. 64)</span>, and <span class="citation">K20. Heart of Sorrow (p. 59)</span>, but as they were on the day of Strahd’s death.
-#### Servants’ Quarters
-A player who passes through the splintered door emerges into <span class="citation">K24. Servants’ Quarters (p. 61)</span>, as it was on the day of Strahd’s death nearly four centuries ago. Read:
+Tato oblast zahrnuje <span class="citation">K24. Servants’ Quarters (p. 61)</span>, <span class="citation">K34. Servants’ Upper Floor (p. 64)</span> a <span class="citation">K20. Heart of Sorrow (p. 59)</span>, ovšem tak, jak vypadaly v den Strahdovy smrti.
+#### Ubikace služebnictva
+Hráč, který projde roztříštěnými dveřmi, se vynoří v <span class="citation">K24. Servants’ Quarters (p. 61)</span> tak, jak vypadaly v den Strahdovy smrti téměř před čtyřmi stoletími. Přečtěte:
 
 <div class="description">
-<p>Crimson light from the windows illuminates a tidy room containing several pieces of simple furniture, including a writing desk, a dozen wooden chairs, and a pair of tables decorated with floral-pattern tablecloths. A narrow staircase with a wooden railing ascends along the north wall.</p>
+<p>Karmínové světlo z oken osvětluje uklizenou místnost s několika kusy prostého nábytku – psacím stolem, tuctem dřevěných židlí a dvojicí stolů prostřených ubrusy s květinovým vzorem. Podél severní zdi stoupá úzké schodiště s dřevěným zábradlím.</p>
 </div>
 
-A player with a passive Wisdom (Perception) score of 10 or greater notices something trembling beneath the tablecloth of the far table. A player who pulls aside the tablecloth reveals Varushka, who is wide-eyed, pale, and obviously terrified. She doesn’t recognize the players, and whispers fearfully for them to “leave her alone" and “flee for their own lives." 
+Hráč s pasivní hodnotou Wisdom (Perception) 10 nebo vyšší si všimne, že se pod ubrusem vzdálenějšího stolu cosi chvěje. Hráč, který ubrus odhrne, odhalí Varushku – s vytřeštěnýma očima, bledou a zjevně vyděšenou. Hráče nepoznává a ustrašeně šeptá, ať ji „nechají být“ a „utečou, dokud jim jde o život“. 
 
-Varushka will not willingly leave her hiding place beneath the table. However, if questioned, Varushka tells them that if they’re searching for “Captain Dilisnya," they’re too late—he just fled down the stairs and escaped outside into the castle courtyard. (Varushka is referring to [[History of Barovia#Arrival of the Mists|Leo Dilisnya]], the captain of Strahd’s guard. She’s bewildered by how he came to be in the servants’ upper quarters—given that she last saw him descending the stairs to the servants' hall—but hasn’t spared the time to think about it too closely, given that the whole world seems to have fallen into insanity.)
+Varushka svůj úkryt pod stolem dobrovolně neopustí. Pokud ji však hráči vyslýchají, řekne jim, že jestli hledají „kapitána Dilisnyu“, jdou pozdě – právě utekl dolů po schodech a ven na hradní nádvoří. (Varushka mluví o [[History of Barovia#Arrival of the Mists|Leo Dilisnyovi]], kapitánovi Strahdovy stráže. Nechápe, jak se ocitl v horních ubikacích služebnictva – naposledy ho viděla sestupovat po schodech do síně služebnictva –, ale vzhledem k tomu, že celý svět jako by propadl šílenství, nad tím příliš nepřemýšlela.)
 
-Varushka is too terrified to share any information other than that “King Strahd" has gone mad, and is currently rampaging through the lower floors of the castle. “The skies have turned red," she sobs. “Are we all going to die?"
-#### Servants’ Upper Floor
-A player who ascends the stairs from the [[#Servants’ Quarters]] emerges into <span class="citation">K34. Servants’ Upper Floor (p. 64)</span>, as it was on the day of Strahd’s death nearly four centuries ago. Read:
+Varushka je příliš vyděšená, než aby prozradila cokoli jiného než to, že „král Strahd“ zešílel a právě řádí v dolních podlažích hradu. „Nebe zrudlo,“ vzlyká. „Všichni zemřeme?“
+#### Horní patro služebnictva
+Hráč, který vystoupá po schodech z [[#Ubikace služebnictva|Ubikace služebnictva]], se vynoří v <span class="citation">K34. Servants’ Upper Floor (p. 64)</span> tak, jak vypadalo v den Strahdovy smrti téměř před čtyřmi stoletími. Přečtěte:
 
 <div class="description">
-<p>Neat rows of small, tidy cots line the left-hand side of this upstairs room. A tall, dusty wardrobe roughly shaped like a coffin, its black doors painted with fey creatures, stands between two full-length mirrors hanging on the south wall. One of the mirrors hangs slightly askew.</p>
+<p>Levou stranu této podkrovní místnosti lemují úhledné řady malých, uklizených lůžek. Mezi dvěma zrcadly v celé výšce, která visí na jižní zdi, stojí vysoká zaprášená skříň zhruba ve tvaru rakve, jejíž černá dvířka jsou pomalovaná vílími bytostmi. Jedno ze zrcadel visí trochu nakřivo.</p>
 </div>
 
-The mirror conceals the secret door described in <span class="citation">K34. Servants’ Upper Floor (p. 64)</span>. It can be pulled open to reveal a small, empty closet that contains a wooden ladder as described in <span class="citation">K34. Servants’ Upper Floor (p. 64)</span>.
-#### North Tower
-A player who passes through the secret door emerges into <span class="citation">K20. Heart of Sorrow (p. 59)</span>, as it was on the day of Strahd’s death nearly four centuries ago. Read:
+Zrcadlo skrývá tajné dveře popsané v <span class="citation">K34. Servants’ Upper Floor (p. 64)</span>. Lze je odklopit a odhalit malou prázdnou komůrku s dřevěným žebříkem, jak je popsáno v <span class="citation">K34. Servants’ Upper Floor (p. 64)</span>.
+#### Severní věž
+Hráč, který projde tajnými dveřmi, se vynoří v <span class="citation">K20. Heart of Sorrow (p. 59)</span> tak, jak vypadalo v den Strahdovy smrti téměř před čtyřmi stoletími. Přečtěte:
 
 <div class="description">
-<p>A yawning, blood-red void surrounds the shattered remains of a once-mighty tower. Above you, shards of pulverized stone drift helplessly through the air, marking the silhouette where a spiral staircase might once have risen into the heights above.</p>
-<p>Below you, dark stone steps descend to a mosaic floor, hugging the outer wall of the ruined tower. In the center of the room below, another set of stairs leads further down.</p>
+<p>Rozbité trosky kdysi mohutné věže obklopuje zející krvavě rudá prázdnota. Nad vámi bezmocně plují vzduchem úlomky rozdrceného kamene a obkreslují siluetu, kudy kdysi mohlo do výšin stoupat točité schodiště.</p>
+<p>Pod vámi sestupují tmavé kamenné schody k mozaikové podlaze, přimknuté k vnější zdi zničené věže. Uprostřed místnosti pod vámi vede další schodiště ještě níž.</p>
 </div>
 
-The lack of stairs makes further ascent in the ruined tower impossible. A player who descends the stairs finds that the corridor leading to <span class="citation">K13. Turret Post Access Hall (p. 57)</span> has partially collapsed, blocking further exploration beyond the corridor’s midpoint.
+Kvůli chybějícím schodům nelze ve zničené věži stoupat výš. Hráč, který sestoupí po schodech, zjistí, že chodba vedoucí do <span class="citation">K13. Turret Post Access Hall (p. 57)</span> se částečně zřítila a za její polovinu se dál prozkoumávat nedá.
 
-The second set of stairs below is as described in <span class="citation">K20a. Tower Hall Stair (p. 59)</span>, and forms a loop with the [[#Castle Cellar]] via <span class="citation">K71. Kingsmen Quarters (p. 79)</span>.
-### Castle Cellar
-#### Servants’ Hall
-A player who descends the stairs from <span class="citation">K23. Servants' Entrance (p. 59)</span> emerges into <span class="citation">K62. Servants’ Hall (p. 76)</span>, as it was on the day of Strahd’s death nearly four centuries ago. Read:
+Druhé schodiště dole odpovídá popisu v <span class="citation">K20a. Tower Hall Stair (p. 59)</span> a tvoří přes <span class="citation">K71. Kingsmen Quarters (p. 79)</span> okruh s [[#Hradní sklep|Hradní sklep]].
+### Hradní sklep
+#### Síň služebnictva
+Hráč, který sestoupí po schodech z <span class="citation">K23. Servants' Entrance (p. 59)</span>, se vynoří v <span class="citation">K62. Servants’ Hall (p. 76)</span> tak, jak vypadala v den Strahdovy smrti téměř před čtyřmi stoletími. Přečtěte:
 
 <div class="description">
-<p>A final scream is cut abruptly silent as you descend the stone stairs. Three corpses clad in bloodied chain mail litter this long hall. The doors to the left and right stand closed, though the twin heavy double doors at the end of the hall have been thrown open. The upper torso of an additional corpse lies slumped at the base of a long, bloody smear along the right-side door, its severed legs discarded along the floor several feet away.</p>
+<p>Když sestupujete po kamenných schodech, poslední výkřik náhle umlkne. Dlouhou síň pokrývají tři mrtvoly v zakrvácených kroužkových zbrojích. Dveře vlevo i vpravo jsou zavřené, ale těžké dvoukřídlé dveře na konci síně jsou dokořán. U paty dlouhé krvavé šmouhy na pravých dveřích leží zhroucený trup další mrtvoly; její useknuté nohy se válejí na podlaze o několik stop dál.</p>
 </div>
 
-The corridor beyond the left-side door leading to <span class="citation">K61. Elevator Trap (p. 74)</span> has been bricked up and is currently inaccessible. The remaining rooms in this area are as follows:
+Chodba za levými dveřmi, která vede do <span class="citation">K61. Elevator Trap (p. 74)</span>, je zazděná a momentálně nepřístupná. Ostatní místnosti v této oblasti jsou tyto:
 
-* ***Wine Cellar.*** The wine cellar is largely as described in <span class="citation">K63. Wine Cellar (p. 77)</span>, but the casks are fresh and new, with no rats present.
-* ***Kitchen.*** The kitchen is largely as described in <span class="citation">K65. Kitchen (p. 78)</span>, but with no odor of decay, no pot bubbling over the fire pit, and the fire pit unlit.
-* ***Butler’s Quarters.*** The butler’s quarters are largely as described in <span class="citation">K66. Butler’s Quarters (p. 78)</span>, but contains only a neat, primly made bed and a chest of drawers filled with clean and pressed tunics, slacks, and undergarments.
-#### Guards’ Meeting Room
-A player who passes through the double doors at the end of the servants’ hall emerges into <span class="citation">K67. Hall of Bones (p. 78)</span>, as it was on the day of Strahd’s death nearly four centuries ago. Read:
+* ***Vinný sklep.*** Vinný sklep do značné míry odpovídá popisu v <span class="citation">K63. Wine Cellar (p. 77)</span>, ale sudy jsou čerstvé a nové a nejsou tu žádné krysy.
+* ***Kuchyně.*** Kuchyně do značné míry odpovídá popisu v <span class="citation">K65. Kitchen (p. 78)</span>, ale bez zápachu hniloby, bez hrnce bublajícího nad ohništěm a s vyhaslým ohništěm.
+* ***Komorníkův pokoj.*** Komorníkův pokoj do značné míry odpovídá popisu v <span class="citation">K66. Butler’s Quarters (p. 78)</span>, ale je v něm jen úhledně, pedantsky ustlaná postel a prádelník plný čistých a vyžehlených kazajek, kalhot a spodního prádla.
+#### Místnost pro porady stráží
+Hráč, který projde dvoukřídlými dveřmi na konci síně služebnictva, se vynoří v <span class="citation">K67. Hall of Bones (p. 78)</span> tak, jak vypadala v den Strahdovy smrti téměř před čtyřmi stoletími. Přečtěte:
 
 <div class="description">
-<p>You emerge from the door into a scene of bloodstained carnage. Red pools cover the floor of this area, which is further littered by a half-dozen broken corpses. Large oak tables, scarred and beaten, lay scattered like toys about the room, their wood crushed and splintered. Above the eastern doors is mounted the skull of a dragon.</p>
-<p>A door stands closed to the south. To the north, a second door hangs slightly ajar.</p>
+<p>Vyjdete ze dveří do krví potřísněné jatky. Podlahu pokrývají rudé kaluže a povaluje se tu půl tuctu zohavených mrtvol. Velké dubové stoly, poničené a otlučené, leží rozházené po místnosti jako hračky, dřevo rozdrcené a roztříštěné. Nad východními dveřmi je připevněna dračí lebka.</p>
+<p>Na jihu jsou zavřené dveře. Na severu visí druhé dveře mírně pootevřené.</p>
 </div>
 
-If the players haven’t previously encountered Strahd, add:
+Pokud se hráči se Strahdem dosud nesetkali, přidejte:
 
 <div class="description">
-<p>A man’s voice roars out from beyond the half-open door: “Coward! Traitor! Reveal yourself, Dilisnya, and I may grant you a quick death like the others. Linger, and I will see that your suffering lasts for <em>centuries</em>."</p>
+<p>Zpoza pootevřených dveří zařve mužský hlas: „Zbabělče! Zrádce! Ukaž se, Dilisnyo, a možná ti dopřeji rychlou smrt jako ostatním. Budeš-li otálet, postarám se, aby tvé utrpení trvalo <em>staletí</em>.“</p>
 </div>
 
-The voice is recognizable as Strahd’s, but more full of emotion and life.
+Hlas lze poznat jako Strahdův, ale je plnější citu a života.
 
-The corridor beyond the southern door leading to <span class="citation">K68. Guards’ Run (p. 79)</span> has been bricked up and is currently inaccessible.
-#### Kingsmen Hall & Quarters
-***Kingsmen Hall.*** A player who passes through the half-open door at the northern end of the guards’ meeting hall, or who enters via the kingsmen quarters (see below), emerges into <span class="citation">K70. Kingsmen Hall (p. 79)</span>, as it was on the day of Strahd’s death nearly four centuries ago. Read:
+Chodba za jižními dveřmi, která vede do <span class="citation">K68. Guards’ Run (p. 79)</span>, je zazděná a momentálně nepřístupná.
+#### Síň a ubikace královské gardy
+***Síň královské gardy.*** Hráč, který projde pootevřenými dveřmi na severním konci místnosti pro porady stráží nebo vstoupí přes ubikace královské gardy (viz níže), se vynoří v <span class="citation">K70. Kingsmen Hall (p. 79)</span> tak, jak vypadala v den Strahdovy smrti téměř před čtyřmi stoletími. Přečtěte:
 
 <div class="description">
-<p>This thirty-foot-square room is a shambles. Scattered furniture lies in heaps near the walls. Broken and bloody corpses lie scattered across the floor, many bearing crumpled and crushed plate armor. Shields and swords jut from the walls as if driven into them by some tremendous force.</p>
-<p>Two doors stand opposite one another in the center of the north wall and the south wall. A dark archway leads out through the east wall.</p>
+<p>Tato místnost o straně třiceti stop je v troskách. Rozházený nábytek leží na hromadách u stěn. Po podlaze jsou roztroušeny zohavené a zkrvavené mrtvoly, mnohé v pomačkaných a rozdrcených plátových zbrojích. Ze stěn trčí štíty a meče, jako by do nich byly vraženy nějakou nesmírnou silou.</p>
+<p>Uprostřed severní a jižní zdi stojí naproti sobě dvoje dveře. Východní zdí vede ven temný oblouk.</p>
 </div>
 
-At the time the players first arrive, this chamber is currently inhabited by a memory of Strahd von Zarovich. If he is present when the players first enter, read:
+Když hráči poprvé dorazí, přebývá v této komnatě vzpomínka na Strahda von Zaroviče. Je-li přítomen, když hráči poprvé vstoupí, přečtěte:
 
 <div class="description">
-<p>A tall, bloody figure stands amidst the carnage—Strahd. His once-pristine attire is marred with bloody stains, splatters of viscera painting a gruesome tableau across his clothes and skin. His pale, near-translucent flesh contrasts sharply with the dark, dripping red that stains his trembling hands, each finger tipped with a long, bloodied claw. Beneath his blood-matted hair, his red eyes burn with a feral glow, his batlike nostrils twitching madly.</p>
-<p>A wounded guard spasms in Strahd’s grasp, then abruptly goes limp as the vampire’s fangs sink deep into his bare, crimson neck. Blood spills from the man’s throat as Strahd drinks greedily, rivulets of blood running down his chest and clothes.</p>
+<p>Uprostřed jatek stojí vysoká zkrvavená postava – Strahd. Jeho kdysi bezvadný oděv hyzdí krvavé skvrny a cákance vnitřností malují na jeho šatech i kůži příšerný obraz. Jeho bledé, téměř průsvitné maso ostře kontrastuje s tmavou, kapající červení, která barví jeho třesoucí se ruce; každý prst končí dlouhým zkrvaveným drápem. Pod krví slepenými vlasy mu divoce žhnou rudé oči a netopýří chřípí se mu šíleně chvěje.</p>
+<p>Raněný strážný se v Strahdově sevření zazmítá a pak náhle ochabne, jak se mu upírovy tesáky zaboří hluboko do obnaženého, karmínového krku. Z mužova hrdla se řine krev, jak Strahd hltavě pije, a po hrudi a šatech mu stékají pramínky krve.</p>
 </div>
 
-> [!warning]+ **Vladimir's Oath**
-> If players have been subjected to Vladimir's *oathbind* feature in [[Arc M - The Dragon's Manor]], it will still be in effect with the memory of Strahd in this scene.
+> [!warning]+ **Vladimírova přísaha**
+> Pokud byli hráči v [[Arc M - The Dragon's Manor|Oblouk M – Dračí sídlo]] podrobeni Vladimírově schopnosti *oathbind*, platí i vůči vzpomínce na Strahda v této scéně.
 
-> [!info]+ **Memory of Strahd**
-> This memory of Strahd has the statistics described in <span class="citation">Strahd von Zarovich (p. 240)</span>, but without the ***spellcasting*** feature, ***charm*** feature, ***children of the night*** feature, or any lair actions. In addition, instead of legendary actions, Strahd can take up to three reactions per round, but only one per turn. (If Strahd would lose his reactions, he loses one reaction instead.) He also gains the following reactions:
+> [!info]+ **Vzpomínka na Strahda**
+> Tato vzpomínka na Strahda má statistiky popsané v <span class="citation">Strahd von Zarovich (p. 240)</span>, ale bez schopností ***spellcasting***, ***charm*** a ***children of the night*** a bez akcí doupěte. Místo legendárních akcí může Strahd navíc provést až tři reakce za kolo, ale jen jednu za tah. (Pokud by Strahd o své reakce přišel, přijde místo toho o jednu reakci.) Získává také následující reakce:
 >
-> * ***Move.*** In response to taking damage from a ranged spell or ability, Strahd moves up to his speed without provoking opportunity attacks toward the attacker.
-> * ***Unarmed Strike.*** In response to a character within 5 feet hitting or missing him with an attack, Strahd makes one ***unarmed strike***.
-> * ***Bite (Costs 2 Reactions).*** In response to a grappled character within 5 feet attacking him, casting a spell, or attempting to escape the grapple, Strahd makes one ***bite*** attack.
+> * ***Move.*** V reakci na zranění od kouzla či schopnosti na dálku se Strahd přesune až o svou rychlost směrem k útočníkovi, aniž by vyvolal příležitostné útoky.
+> * ***Unarmed Strike.*** V reakci na to, že ho postava do 5 stop útokem zasáhne nebo mine, provede Strahd jeden ***unarmed strike***.
+> * ***Bite (Costs 2 Reactions).*** V reakci na to, že na něj sevřená (grappled) postava do 5 stop zaútočí, sešle kouzlo nebo se pokusí ze sevření vymanit, provede Strahd jeden útok ***bite***.
 >
-> If reduced to 0 hit points, Strahd uses his ***misty escape*** feature to transform into a cloud of mist. He then retreats through the crack in the wall described in <span class="citation">K63. Wine Cellar (p. 77)</span>.
+> Pokud klesne na 0 hit pointů, použije Strahd svou schopnost ***misty escape*** a promění se v oblak mlhy. Pak ustoupí prasklinou ve zdi popsanou v <span class="citation">K63. Wine Cellar (p. 77)</span>.
 
-Strahd doesn’t immediately notice players who merely peer into the room instead of entering it. In addition, while in the Nightmare, Strahd is bloodlusted and crazed with rage and grief. While in this state, he has disadvantage on Wisdom and Intelligence checks, reducing his passive Wisdom (Perception) score to 17.
+Strahd si hráčů, kteří do místnosti jen nahlédnou a nevstoupí, hned nevšimne. Dokud je v noční můře, je navíc Strahd posedlý krvežíznivostí a šílený vztekem a žalem. V tomto stavu má nevýhodu na ověření Wisdom a Intelligence, takže jeho pasivní hodnota Wisdom (Perception) klesá na 17.
 
-The players can attempt to lure Strahd away from the door to the chamberlain’s office through magical or other means. If the players fail to hide from him or otherwise reveal themselves, Strahd snarls, “More traitors? I’ll deal with you as I did the last—and soon enough, your ringleader will join you." 
+Hráči se mohou pokusit odlákat Strahda magií či jinými prostředky ode dveří do kanceláře komořího. Pokud se hráčům nepodaří před ním skrýt nebo se jinak prozradí, Strahd zavrčí: „Další zrádci? Naložím s vámi jako s těmi posledními – a brzy se k vám přidá i váš vůdce.“ 
 
-A player who then tells Strahd of Leo Dilisnya’s whereabouts and succeeds on a DC 20 Charisma (Persuasion) check can convince Strahd to allow them and their companions to live. Otherwise, Strahd attacks them on sight, pursuing them wherever they go in the castle. However, if the players retreat into [[#O8e. The Fifth Level]] and close the door, Strahd can’t follow them inside.
+Hráč, který pak Strahdovi prozradí, kde je Leo Dilisnya, a uspěje v ověření Charisma (Persuasion) se DC 20, může Strahda přesvědčit, aby jeho i jeho druhy nechal naživu. Jinak na ně Strahd zaútočí, jakmile je spatří, a pronásleduje je, kamkoli po hradě půjdou. Pokud však hráči ustoupí do [[#O8e. Páté podlaží|O8e. Páté podlaží]] a zavřou dveře, Strahd je dovnitř následovat nemůže.
 
-***Kingsmen Quarters.*** A player who passes through the archway in the kingsmen hall or descends <span class="citation">K20a. Tower Hall Stair (p. 59)</span> from [[#North Tower]] emerges into <span class="citation">K71. Kingsmen Quarters (p. 79)</span>, as it was on the day of Strahd’s death nearly four centuries ago. Read:
+***Ubikace královské gardy.*** Hráč, který projde obloukem v síni královské gardy nebo sestoupí po <span class="citation">K20a. Tower Hall Stair (p. 59)</span> ze [[#Severní věž|Severní věž]], se vynoří v <span class="citation">K71. Kingsmen Quarters (p. 79)</span> tak, jak vypadaly v den Strahdovy smrti téměř před čtyřmi stoletími. Přečtěte:
 
 <div class="description">
-<p>This dark passage runs for twenty feet, connecting an archway to the west with an ascending stone staircase to the east. To the north and south are ten-foot-square alcoves cluttered with cots and fine rugs.</p>
+<p>Tato temná chodba je dlouhá dvacet stop a spojuje oblouk na západě se stoupajícím kamenným schodištěm na východě. Na severu i na jihu jsou výklenky o straně deseti stop, zaplněné lůžky a jemnými koberci.</p>
 </div>
 
-If the players haven’t previously encountered Strahd, add:
+Pokud se hráči se Strahdem dosud nesetkali, přidejte:
 
 <div class="description">
-<p>A man’s voice roars out from beyond the archway: “Coward! Traitor! Reveal yourself, Dilisnya, and I may grant you a quick death like the others. Linger, and I will see that your suffering lasts for <em>centuries</em>."</p>
+<p>Zpoza oblouku zařve mužský hlas: „Zbabělče! Zrádce! Ukaž se, Dilisnyo, a možná ti dopřeji rychlou smrt jako ostatním. Budeš-li otálet, postarám se, aby tvé utrpení trvalo <em>staletí</em>.“</p>
 </div>
 
-The voice is recognizable as Strahd’s, but more full of emotion and life.
-#### Chamberlain’s Office
-Rahadin’s office is largely as described in <span class="citation">K72. Chamberlain’s Office (p. 79)</span>, except Rahadin and the **shadow demon** are not present, and players who uncover the secret door find that it has been bricked up.
+Hlas lze poznat jako Strahdův, ale je plnější citu a života.
+#### Kancelář komořího
+Rahadinova kancelář do značné míry odpovídá popisu v <span class="citation">K72. Chamberlain’s Office (p. 79)</span>, ale Rahadin ani stínový démon (**shadow demon**) tu nejsou a hráči, kteří odhalí tajné dveře, zjistí, že jsou zazděné.
 
-In addition, an ornate golden key that matches the pattern of the guest room keyhole lies upon the table. The key unlocks the locked door to the lounge in [[#O8a. The First Level]].
-## O8g. Escaping the Nightmare
-The first time the players exit [[#O8f. The Bloody Keep]] after obtaining the guest room key, they emerge from the closet door directly into the guest room of [[#O8a. The First Level]].  However, Varushka’s corpse and noose are no longer present in the closet.
+Na stole navíc leží zdobený zlatý klíč, jehož vzor odpovídá klíčové dírce v pokoji pro hosty. Klíč odemyká zamčené dveře do salonku v [[#O8a. První podlaží|O8a. První podlaží]].
+## O8g. Únik z noční můry
+Když hráči poprvé opustí [[#O8f. Krvavý hrad|O8f. Krvavý hrad]] poté, co získali klíč od pokoje pro hosty, vynoří se ze dveří šatny přímo do pokoje pro hosty v [[#O8a. První podlaží|O8a. První podlaží]]. Varushčina mrtvola ani oprátka však už v šatně nejsou.
 
-The first time a player attempts to turn the guest room key in the ornate gold lock of the door leading from <span class="citation">K49. Lounge (p. 70)</span> to <span class="citation">K47. Portrait of Strahd (p. 68)</span>, the key half-turns, then sticks in the lock. A heartbeat later, sharp spikes burst from the metal of the keyhole, forcing that player to succeed on a DC 15 Dexterity saving throw or take 2d4 points of piercing damage. The guest-room clock then chimes again, causing the players to once more suffer the effects of **The Chiming Clock** (see above).
+Když se hráč poprvé pokusí otočit klíčem od pokoje pro hosty ve zdobeném zlatém zámku dveří vedoucích z <span class="citation">K49. Lounge (p. 70)</span> do <span class="citation">K47. Portrait of Strahd (p. 68)</span>, klíč se otočí jen napůl a v zámku uvízne. O úder srdce později vyrazí z kovu klíčové dírky ostré hroty a hráč musí uspět v záchranném hodu na Dexterity se DC 15, jinak utrpí 2d4 bodného (piercing) zranění. Hodiny v pokoji pro hosty pak znovu odbijí a hráči opět utrpí účinky **Odbíjejících hodin** (viz výše).
 
-A moment after the clock chimes, the spirit of Varushka appears behind the players. Read:
+Chvíli poté, co hodiny odbijí, se za hráči zjeví duch Varushky. Přečtěte:
 
 <div class="description">
-<p>Your breath fogs in the air as the temperature plummets, a cold frost creeping across the door’s metal hinges and handle. As a shadow falls across the carpeted floor from behind you, you can hear the sound of a woman’s low, rasping breaths just over your shoulder.</p>
+<p>Teplota prudce klesne a váš dech se mění v páru; po kovových pantech a klice dveří se plíží studená jinovatka. Jak za vámi na koberec padne stín, uslyšíte těsně za svým ramenem tichý, chraptivý ženský dech.</p>
 </div>
 
-Any player who turns around or is already facing her beholds Varushka’s present-day form. Read:
+Každý hráč, který se otočí nebo už k ní stojí čelem, spatří Varushčinu dnešní podobu. Přečtěte:
 
 <div class="description">
-<p>A spectral figure hovers in the air before you—a woman. Her once-white dress is stained with blood, its tattered scraps fluttering like ghostly ribbons in the air behind her. Her hair whips about in a chill, unearthly wind, her tearful eyes blazing with rage and grief. A long, rough scar cuts across the flesh beneath her chin, just above a cascade of blood that seeps eternally from the twin puncture wounds that mark her neck. A necklace hangs from a thin silver cord around her neck, pulled so tight it bites deeply into the skin.</p>
-<p>She stretches out her hands toward you and whispers hoarsely, “<em>No one leaves</em>." In the distance, the guest-room clock begins to chime once more—and a familiar numb sensation begins to pierce through the flesh of your necks.</p>
+<p>Před vámi se ve vzduchu vznáší přízračná postava – žena. Její kdysi bílé šaty jsou potřísněné krví a jejich roztrhané cáry za ní ve vzduchu vlají jako přízračné stuhy. Vlasy jí zmítá mrazivý, nadpozemský vítr a uslzené oči jí planou vztekem a žalem. Přes kůži pod bradou se jí táhne dlouhá, hrubá jizva, těsně nad proudem krve, který věčně prosakuje z dvojice vpichů na jejím krku. Na tenké stříbrné šňůrce kolem krku jí visí náhrdelník, utažený tak pevně, že se jí hluboko zařezává do kůže.</p>
+<p>Natáhne k vám ruce a chraptivě zašeptá: „<em>Nikdo neodejde.</em>“ V dálce začnou hodiny v pokoji pro hosty znovu odbíjet – a kůží na vašich krcích začne pronikat povědomá necitlivost.</p>
 </div>
 
 ![[Varushka.png]]
-<span class="credit">"Varushka" by Caleb Cleveland. Support him on <a href="https://patreon.com/calebisdrawing/">Patreon!</a></span>
+<span class="credit">„Varushka“ – autor: Caleb Cleveland. Podpořte ho na <a href="https://patreon.com/calebisdrawing/">Patreonu!</a></span>
 
-If the players previously obtained Katarina’s necklace in [[#O3b. The Rider’s Guidance]], a player who inspects Varushka’s necklace recognizes it as the matching half of the pair.
+Pokud hráči dříve získali Katarinin náhrdelník v [[#O3b. Jezdcovo vedení|O3b. Jezdcovo vedení]], hráč, který si Varushčin náhrdelník prohlédne, v něm pozná jeho druhou polovinu.
 
-Once Varushka appears, the guest-room clock chimes once each in-game minute, causing the players to once again suffer the effects of **The Chiming Clock** (see above).
+Jakmile se Varushka zjeví, hodiny v pokoji pro hosty odbijí jednou každou herní minutu a hráči opět utrpí účinky **Odbíjejících hodin** (viz výše).
 
-Varushka freely shares that she has taken the players as her prisoners, as she has to all who seek the rest she’s been denied. “You may have found the key where I buried it," she snarls, tears streaming down her cheeks, “but so long as my soul lingers here, I will *never* set you free."
+Varushka otevřeně prozradí, že si hráče vzala za své vězně, stejně jako všechny, kdo hledají odpočinek, jenž jí byl odepřen. „Možná jste našli klíč tam, kde jsem ho pohřbila,“ zavrčí a po tvářích jí tečou slzy, „ale dokud tu má duše prodlévá, *nikdy* vás nepustím.“
 
-If the players attack Varushka, proceed to [[#Varushka’s Rage]] below. If the players attempt to negotiate with Varushka, proceed to [[#Varushka’s Grief]] instead.
-### Varushka’s Grief
-The players can attempt to persuade Varushka to allow them to leave by making any reasonable argument and succeeding on a DC 10 Charisma (Persuasion) check, made with advantage if the players comforted the memory of Varushka in [[#O8e. The Fifth Level]]. The check succeeds automatically if the players inform Varushka that they hold Katarina’s half of her necklace.
+Pokud hráči na Varushku zaútočí, pokračujte na [[#Varushčin hněv|Varushčin hněv]] níže. Pokud se hráči pokusí s Varushkou vyjednávat, pokračujte místo toho na [[#Varushčin žal|Varushčin žal]].
+### Varushčin žal
+Hráči se mohou pokusit přesvědčit Varushku, aby je nechala odejít, jakýmkoli rozumným argumentem a úspěšným ověřením Charisma (Persuasion) se DC 10, které mají s výhodou, pokud v [[#O8e. Páté podlaží|O8e. Páté podlaží]] utěšili vzpomínku na Varushku. Ověření uspěje automaticky, pokud hráči Varushce sdělí, že mají Katarininu polovinu jejího náhrdelníku.
 
-Whether the check succeeds or fails, read:
-
-<div class="description">
-<p>The very room seems to warp and bend around the spirit, the walls bleeding shadows that reach out like fingers to embrace her. As you watch, a nimbus of cold, umbral darkness forms around her, and her eyes darken to a deep, voidlike black.</p>
-</div>
-
-Varushka then angrily counters the players’ argument. (For example, if the players showed her Katarina’s necklace, she insists that they’re lying to her, and the necklace is fake.) If the players’ first Charisma (Persuasion) check was successful, Varushka is uncertain about her response, and a player with a passive Wisdom (Insight) score of 13 or greater recognizes that her defiance is half-hearted and tinged with self-doubt.
-
-As Varushka counters the players’ argument, if any player has a passive Wisdom (Perception) score of 13 or greater, add:
+Ať ověření uspěje, nebo ne, přečtěte:
 
 <div class="description">
-<p>As you observe the halo of shadows surrounding her, you notice that it seems to be not a single shadow, but an assembly of countless overlapping amorphous, indistinct silhouettes. Though Varushka makes no move to acknowledge or recognize their presence, they whisper incessantly into her ears, their cold, hollow voices seeming to darken the room further with every word.</p>
+<p>Samotná místnost se kolem přízraku jakoby kroutí a ohýbá; ze stěn prosakují stíny a natahují se k ní jako prsty, aby ji objaly. Před vašima očima se kolem ní utvoří svatozář studené, stínové temnoty a její oči potemní do hluboké, bezedné černi.</p>
 </div>
 
-A player who asks Varushka or succeeds in a DC 13 Wisdom (Insight) check learns that Varushka neither perceives the silhouettes nor realizes that they’re there. A player who approaches Varushka or who succeeds on a DC 15 Wisdom (Perception) check can make out a few words and phrases from the cacophony of whispers:
+Varushka pak argument hráčů rozzlobeně odmítne. (Pokud jí například hráči ukázali Katarinin náhrdelník, trvá na tom, že jí lžou a náhrdelník je falešný.) Pokud bylo první ověření Charisma (Persuasion) hráčů úspěšné, není si Varushka svou odpovědí jistá a hráč s pasivní hodnotou Wisdom (Insight) 13 nebo vyšší pozná, že její vzdor je polovičatý a prosáklý pochybnostmi o sobě samé.
 
-* “They’ll leave you, just like her."
-* “Why should they escape your fate?"
-* “He took so much from you. This is what you’re owed."
+Pokud má během Varushčiny odpovědi kterýkoli hráč pasivní hodnotu Wisdom (Perception) 13 nebo vyšší, přidejte:
 
-> [!lore]+ **Dark Whispers**
-> The whispering shadows are a manifestation of the [[Lore of Barovia#Dark Powers|Dark Powers]]. Eager to remove Ireena Kolyana from the players’ influence and protection, they have reached out to embrace Varushka’s spirit to dissuade her from allowing the players to escape from her Nightmare.
+<div class="description">
+<p>Když pozorujete svatozář stínů, která ji obklopuje, všimnete si, že to zřejmě není jediný stín, ale shromáždění nesčetných, navzájem se překrývajících beztvarých, nezřetelných siluet. Přestože Varushka nijak nedává najevo, že by o nich věděla, neustále jí šeptají do uší a jejich studené, duté hlasy jako by s každým slovem místnost ještě víc zatemňovaly.</p>
+</div>
 
-The players can again attempt to persuade Varushka to free them by making any reasonable argument and succeeding on a DC 15 Charisma (Persuasion) check. The check is made with disadvantage if the players failed the first Charisma (Persuasion) check. Otherwise, the check is made with advantage if the players’ arguments directly rebut the Dark Powers’ whispers, and succeeds automatically if the players present Varushka with Katarina’s note or its contents.
+Hráč, který se Varushky zeptá nebo uspěje v ověření Wisdom (Insight) se DC 13, zjistí, že Varushka siluety nevnímá a neuvědomuje si, že tam jsou. Hráč, který se k Varushce přiblíží nebo uspěje v ověření Wisdom (Perception) se DC 15, rozezná z kakofonie šepotů několik slov a vět:
 
-If the players succeed on this check, Varushka tearfully relinquishes her supernatural grasp on the key and allows the players to depart. If the players fail the check instead, Varushka attacks. (See [[#Varushka’s Rage]] below).
+* „Opustí tě, stejně jako ona.“
+* „Proč by měli uniknout tvému osudu?“
+* „Tolik ti toho vzal. Tohle ti patří.“
 
-If the players offer Varushka the necklace, she thanks them but declines to keep it. Mournfully, she asks the players to find Katarina if she still lives, or find her grave, asking them to "Keep it in her memory."
-### Varushka’s Rage
+> [!lore]+ **Temné šepoty**
+> Šeptající stíny jsou projevem [[Lore of Barovia#Dark Powers|Temných mocností]]. Dychtí vyrvat Ireenu Kolyana z vlivu a ochrany hráčů, a proto objaly Varushčina ducha, aby ji odradily od toho, aby hráče ze své noční můry propustila.
+
+Hráči se mohou znovu pokusit přesvědčit Varushku, aby je propustila, jakýmkoli rozumným argumentem a úspěšným ověřením Charisma (Persuasion) se DC 15. Pokud hráči v prvním ověření Charisma (Persuasion) neuspěli, mají na toto ověření nevýhodu. Jinak ho mají s výhodou, pokud jejich argumenty přímo vyvracejí šepoty Temných mocností, a uspějí automaticky, pokud Varushce předloží Katarinin vzkaz nebo jeho obsah.
+
+Pokud hráči v tomto ověření uspějí, Varushka v slzách povolí své nadpřirozené sevření klíče a nechá hráče odejít. Pokud hráči v ověření neuspějí, Varushka zaútočí. (Viz [[#Varushčin hněv|Varushčin hněv]] níže.)
+
+Pokud hráči Varushce nabídnou náhrdelník, poděkuje jim, ale odmítne si ho nechat. Žalostně hráče požádá, aby našli Katarinu, pokud ještě žije, nebo její hrob, a „nechali si ho na její památku“.
+### Varushčin hněv
 <br>
 
 <div class="statblock">
@@ -1572,106 +1572,106 @@ If the players offer Varushka the necklace, she thanks them but declines to keep
 <p><strong><em>Calming Whispers.</em></strong> In response to a creature that she can see within 10 feet targeting her with an attack or spell, Varushka forces that creature to succeed on a DC 15 Wisdom saving throw. On a failure, the creature takes 5 (2d4) psychic damage and gains one level of exhaustion for the next minute. If the creature wasn’t already exhausted, it can repeat the saving throw at the end of each of its turns except this one, decreasing its exhaustion by one level on a success.
 </div>
 
-# O9. Waking Up
-Whether the players appease Varushka or defeat her, unlocking and exiting the nightmare version of the guest suite door causes them to reawaken in their physical bodies in the physical guest suite in Castle Ravenloft approximately twenty minutes before dawn with all the benefits of a long rest. Any players who died in the dream also reawaken in their physical bodies with all the benefits of a long rest. If all members of the party die within the nightmare, they die in reality and do not reawaken.
-### O9a. Varushka’s Last Wish
-When the players awaken, Varushka appears to them as a **shadow** on the guest suite wall. Read:
+# O9. Probuzení
+Ať hráči Varushku usmíří, nebo porazí, odemknutím a průchodem dveřmi apartmá pro hosty v noční můře se probudí ve svých fyzických tělech ve skutečném apartmá pro hosty na hradě Ravenloft, přibližně dvacet minut před úsvitem, se všemi výhodami dlouhého odpočinku. Hráči, kteří ve snu zemřeli, se ve svých fyzických tělech také probudí se všemi výhodami dlouhého odpočinku. Pokud v noční můře zemřou všichni členové družiny, zemřou i ve skutečnosti a už se neprobudí.
+### O9a. Varushčino poslední přání
+Když se hráči probudí, zjeví se jim Varushka jako stín (**shadow**) na zdi apartmá. Přečtěte:
 
 <div class="description">
-<p>A woman’s shadow appears on the wall, but with no source to cast it. The figure is slender, bearing the silhouettes of a familiar dress and apron.</p>
+<p>Na zdi se objeví stín ženy, ale nic, co by ho vrhalo. Postava je štíhlá a má siluetu povědomých šatů a zástěry.</p>
 </div>
 
-The players recognize the **shadow** as bearing the same silhouette as Varushka. Though she can’t speak with the players in this form, Varushka can communicate through simple nods and gestures.
+Hráči poznají, že stín (**shadow**) má stejnou siluetu jako Varushka. Přestože s hráči v této podobě nemůže mluvit, dokáže Varushka komunikovat prostým kýváním a gesty.
 
-Shortly after appearing to the players, Varushka opens the door to <span class="citation">K51. Closet (p. 70)</span> and pulls down the hook, allowing the trapdoor to swing open. If asked, she shyly attempts to communicate with the players that she wishes for them to follow her through the trapdoor.
+Krátce poté, co se hráčům zjeví, otevře Varushka dveře do <span class="citation">K51. Closet (p. 70)</span> a stáhne hák, takže se padací dvířka rozevřou. Na požádání se hráčům nesměle snaží sdělit, že chce, aby ji následovali padacími dvířky.
 
-If followed, Varushka guides the players through the trapdoor into <span class="citation">K55. Element Room (p. 72)</span>, then leads them through <span class="citation">K54. Familiar Room (p. 71)</span> up <span class="citation">K48. Offstair (p. 70)</span> toward <span class="citation">K57. Tower Roof (p. 72)</span>. These chambers are largely as originally described, but with the following changes:
+Pokud ji hráči následují, provede je Varushka padacími dvířky do <span class="citation">K55. Element Room (p. 72)</span> a pak přes <span class="citation">K54. Familiar Room (p. 71)</span> nahoru po <span class="citation">K48. Offstair (p. 70)</span> k <span class="citation">K57. Tower Roof (p. 72)</span>. Tyto komnaty do značné míry odpovídají původnímu popisu, ale s následujícími změnami:
 
-* ***Element Room.*** The Element Room contains a *potion of fire breath* and two *potions of healing* hidden amongst the bottles and jars. In addition, there are no **Barovian witches** in the nearby <span class="citation">K56. Cauldron (p. 72)</span>, which is instead guarded by four **brooms of animated attack** leaning against the wall. The brooms animate and attack any intruders on sight, but won’t pursue any players who flee past the Familiar Room into <span class="citation">K48. Offstair (p. 70)</span>.
-* ***Familiar Room.*** There are no **cats** in this room.
+* ***Komnata živlů.*** Mezi lahvemi a sklenicemi v komnatě živlů je ukrytý *potion of fire breath* a dva *potions of healing*. V nedalekém <span class="citation">K56. Cauldron (p. 72)</span> navíc nejsou žádné barovské čarodějnice (**Barovian witches**); místo nich ho střeží čtyři oživlá útočná košťata (**brooms of animated attack**) opřená o zeď. Košťata ožijí a zaútočí na každého vetřelce, kterého spatří, ale nepronásledují hráče, kteří utečou kolem komnaty familiárů na <span class="citation">K48. Offstair (p. 70)</span>.
+* ***Komnata familiárů.*** V této místnosti nejsou žádné kočky (**cats**).
 
-Varushka’s **shadow** halts halfway up <span class="citation">K48. Offstair (p. 70)</span> and gestures to a section of the wall approximately two feet from the floor. A player who inspects this area finds that one of the bricks is loose, allowing it to be removed from the wall. The brick is hollow on the inside, and contains a rolled-up piece of parchment, a small satin pouch, and a copy of the *Seer* Tarokka card.
+Varushčin stín (**shadow**) se zastaví v polovině <span class="citation">K48. Offstair (p. 70)</span> a ukáže na část zdi asi dvě stopy nad podlahou. Hráč, který toto místo prozkoumá, zjistí, že jedna z cihel je uvolněná a lze ji ze zdi vyjmout. Cihla je uvnitř dutá a skrývá svinutý kus pergamenu, malý saténový váček a kartu Tarokky *Věštec* (*Seer*).
 
-The parchment is a note written in simple, large lettering. It reads: “When you gave me this card, you said you had seen a sign of our future together. I’m sorry I never worked up the courage to make that future happen."
+Pergamen je vzkaz napsaný prostým, velkým písmem. Zní: „Když jsi mi dala tuhle kartu, řekla jsi, že jsi viděla znamení naší společné budoucnosti. Mrzí mě, že jsem nikdy nesebrala odvahu, aby se ta budoucnost stala skutečností.“
 
-The pouch contains a diamond ring with a gold band worth 150 gp.
+Ve váčku je prsten se zlatou obroučkou a diamantem v hodnotě 150 gp.
 
-Once the players have retrieved Varushka’s items, her **shadow** vanishes. (See [[#O10. Exploring the Castle]] below for more information should the players attempt to explore the castle after Varushka has left them.)
-# O10. Exploring the Castle
-If the players attempt to explore the castle after waking up, but before Strahd has sent for them, they can do so by exiting the guest suite via the hidden trapdoor in <span class="citation">K51. Closet (p. 70)</span>. 
+Jakmile hráči Varushčiny věci vyzvednou, její stín (**shadow**) zmizí. (Pokud se hráči pokusí hrad prozkoumat poté, co je Varushka opustila, viz [[#O10. Průzkum hradu|O10. Průzkum hradu]] níže.)
+# O10. Průzkum hradu
+Pokud se hráči pokusí po probuzení prozkoumat hrad dřív, než pro ně Strahd pošle, mohou tak učinit, když apartmá pro hosty opustí skrytými padacími dvířky v <span class="citation">K51. Closet (p. 70)</span>. 
 
-The trapdoor exits into the Element Room, which is largely as described in <span class="citation">K55. Element Room (p. 72)</span>, except it also contains a *potion of fire breath* and two *potions of healing* hidden amongst the bottles and jars. There are no **Barovian witches** in the nearby <span class="citation">K56. Cauldron (p. 72)</span>, which is instead guarded by four **brooms of animated attack** leaning against the wall. The brooms animate and attack any intruders on sight, but won’t pursue any players who flee past the Familiar Room into <span class="citation">K48. Offstair (p. 70)</span>.
+Padací dvířka vedou do komnaty živlů, která do značné míry odpovídá popisu v <span class="citation">K55. Element Room (p. 72)</span>, ale mezi lahvemi a sklenicemi je navíc ukrytý *potion of fire breath* a dva *potions of healing*. V nedalekém <span class="citation">K56. Cauldron (p. 72)</span> nejsou žádné barovské čarodějnice (**Barovian witches**); místo nich ho střeží čtyři oživlá útočná košťata (**brooms of animated attack**) opřená o zeď. Košťata ožijí a zaútočí na každého vetřelce, kterého spatří, ale nepronásledují hráče, kteří utečou kolem komnaty familiárů na <span class="citation">K48. Offstair (p. 70)</span>.
 
-The Familiar Room is largely as described in <span class="citation">K54. Familiar Room (p. 71)</span>, but currently contains no **cats**.
+Komnata familiárů do značné míry odpovídá popisu v <span class="citation">K54. Familiar Room (p. 71)</span>, ale momentálně v ní nejsou žádné kočky (**cats**).
 
-The players can either ascend or descend <span class="citation">K48. Offstair (p. 70)</span>. Players who descend the staircase encounter the **vampire spawn** Escher, who remains stationed outside of the guest suite door. Players who successfully bypass Escher can continue to explore the castle as described in **Wandering Players** in [[#O6g. The Broken Drawbridge]] above.
+Hráči mohou po <span class="citation">K48. Offstair (p. 70)</span> vystoupat nahoru, nebo sestoupit dolů. Hráči, kteří po schodišti sestoupí, narazí na upířího zplozence (**vampire spawn**) Eschera, který stále drží stráž před dveřmi apartmá pro hosty. Hráči, kterým se podaří Eschera obejít, mohou dál prozkoumávat hrad, jak je popsáno v rámečku **Toulaví hráči** v [[#O6g. Rozbitý padací most|O6g. Rozbitý padací most]] výše.
 
-Players who ascend the offstair emerge onto <span class="citation">K57. Tower Roof (p. 72)</span>. Players who do so can see a faint, crimson glow pulsating across <span class="citation">K58. Bridge (p. 73)</span> from the interior of <span class="citation">K20. Heart of Sorrow (p. 59)</span>, though the Heart itself isn’t visible from this angle.
+Hráči, kteří po vedlejším schodišti vystoupají, se vynoří na <span class="citation">K57. Tower Roof (p. 72)</span>. Odtud vidí, jak přes <span class="citation">K58. Bridge (p. 73)</span> z nitra <span class="citation">K20. Heart of Sorrow (p. 59)</span> pulzuje slabá karmínová záře, ačkoli samotné Srdce z tohoto úhlu vidět není.
 
-The Heart of Sorrow is largely as described in <span class="citation">K20. Heart of Sorrow (p. 59)</span>. However, the Heart is immune to all damage. In addition, when the players enter the tower from <span class="citation">K58. Bridge (p. 73)</span>, read:
+Srdce žalu do značné míry odpovídá popisu v <span class="citation">K20. Heart of Sorrow (p. 59)</span>. Je však imunní vůči veškerému zranění. Když hráči vstoupí do věže z <span class="citation">K58. Bridge (p. 73)</span>, navíc přečtěte:
 
 <div class="description">
-<p>A large archway leads into the tower’s narrowed heights, the path opening into a cold, sixty-foot-wide landing. The landing is flanked by spiral stone stairs, one vanishing into the tower’s peak above, the other descending into the darkness far below. Ten tarnished halberds hang from mounts above the stairs, their rusted steel glinting wickedly with each flash of lightning.</p>
-<p>The flickering red glow seems to emanate from a large, misshapen object hovering at the tower’s hollow center—and as you step foot upon the landing, the light suddenly flares to life. Floating ten feet above the landing is a ten-foot-diameter human heart forged of red crystal, its depths thrumming with a deep, scarlet light. A sliver of utter darkness, no more than a few inches long, swirls slowly within its depths.</p>
+<p>Velký oblouk vede do zúžených výšin věže a cesta ústí na studenou podestu širokou šedesát stop. Podestu lemují kamenná točitá schodiště – jedno mizí ve špičce věže nad vámi, druhé sestupuje do temnoty hluboko dole. Nad schody visí na držácích deset zašlých halaparten a jejich zrezivělá ocel se s každým zábleskem blesku zlověstně zaleskne.</p>
+<p>Mihotavá rudá záře jako by vycházela z velkého, znetvořeného předmětu, který se vznáší v dutém středu věže – a jakmile vkročíte na podestu, světlo náhle vzplane. Deset stop nad podestou se vznáší lidské srdce o průměru deseti stop, ukované z rudého krystalu, a jeho nitro pulzuje hlubokým šarlatovým světlem. V jeho hlubinách pomalu víří střípek naprosté temnoty, ne delší než pár palců.</p>
 </div>
 
-> [!info]+ **The Sliver of Darkness**
-> The sliver of darkness is the vestige of the Devourer, the fourth sister of the three Ladies of the Fanes. Once known as the Dreamer, she grew envious of the love the First Folk bore for her sisters and forsook her place among them, becoming the Devourer. 
+> [!info]+ **Střípek temnoty**
+> Střípek temnoty je pozůstatkem Požíračky, čtvrté sestry tří Paní svatyní. Kdysi byla známa jako Snílkyně, ale začala závidět lásku, kterou První lid choval k jejím sestrám, zřekla se svého místa mezi nimi a stala se Požíračkou. 
 >
-> The Ladies—the Seeker, the Weaver, and the Huntress—mournfully struck their youngest sister down to protect the people of the valley. The Devourer’s corpse became the Whispering Wall at Yester Hill, but a god cannot fully die. Many years later, the wizards of the Amber Temple came upon the Devourer’s divine spark and sealed it in an amber sarcophagus at the Amber Temple.
+> Paní – Hledačka, Tkadlena a Lovkyně – svou nejmladší sestru se smutkem srazily, aby ochránily lid údolí. Z Požíraččiny mrtvoly se stala Šeptající zeď na Yesterském vrchu, ale bůh nemůže zcela zemřít. O mnoho let později narazili mágové z Jantarového chrámu na Požíraččinu božskou jiskru a zapečetili ji v jantarovém sarkofágu v Jantarovém chrámu.
 >
-> The Devourer was a master of the magic of souls—and so when Strahd first learned of the Grand Conjunction, he realized he could use her knowledge to construct his scheme to escape the Mists. He extracted the vestige of the Devourer from her amber prison in <span class="citation">X33d. Breached Vault (p. 192)</span> and forcefully resealed her in the Heart of Sorrow, where he could call upon her power and knowledge at will. 
+> Požíračka byla mistryní magie duší – a když se Strahd poprvé dozvěděl o Velké konjunkci, pochopil, že může její vědění využít k sestavení plánu, jak uniknout z Mlh. Vyjmul pozůstatek Požíračky z jejího jantarového vězení v <span class="citation">X33d. Breached Vault (p. 192)</span> a násilím ji znovu zapečetil v Srdci žalu, odkud může kdykoli čerpat její moc a vědění. 
 >
-> The Devourer is no willing participant in Strahd’s schemes. However, while entrapped in the Heart of Sorrow, she is powerless to resist his torments.
+> Požíračka se Strahdových plánů neúčastní dobrovolně. Dokud je však uvězněna v Srdci žalu, nedokáže se jeho trýzni bránit.
 
-The tower shakes and pitches as described in <span class="citation">K20. Heart of Sorrow (p. 59)</span>. If a player falls from the stairs, Strahd appears to save them. Read:
-
-<div class="description">
-<p>A pale, clawed hand snatches from the shadows and clasps the base of your neck, stilling your descent. A low, familiar voice murmurs beside your ear, “I hope you would not mean to leave us so soon."</p>
-</div>
-
-The hand and voice belong to Strahd, who deposits the player back on the stairs or landing before joining them. 
-
-Strahd also appears if the players approach one of the upper or lower landings or otherwise linger on the landing nearest the Heart of Sorrow. Regardless of the reason for his appearance, read:
+Věž se otřásá a naklání, jak je popsáno v <span class="citation">K20. Heart of Sorrow (p. 59)</span>. Pokud hráč spadne ze schodů, objeví se Strahd a zachrání ho. Přečtěte:
 
 <div class="description">
-<p>The lightning flashes—and Strahd’s gaunt, pale form looms before you, his crimson eyes glinting in the darkness. “Guests out of their suite before dawn," he intones dryly. “Truly unfortunate."</p>
+<p>Ze stínů vystřelí bledá ruka s drápy a sevře vás za krk, až váš pád ustane. Tichý, povědomý hlas vám zamumlá u ucha: „Doufám, že jste nás nechtěli opustit tak brzy.“</p>
 </div>
 
-After the players have had an opportunity to respond, read or paraphrase:
+Ruka i hlas patří Strahdovi, který hráče postaví zpět na schody nebo podestu a pak se k nim připojí. 
+
+Strahd se objeví také tehdy, pokud se hráči přiblíží k jedné z horních či dolních podest nebo se jinak zdržují na podestě nejblíže Srdci žalu. Ať je důvod jeho příchodu jakýkoli, přečtěte:
 
 <div class="description">
-<p>Strahd draws himself to his full height, the shadows wrapping around his shoulders like a cloak. His eyes flicker behind you, a second flash of lightning illuminating four humanoid figures crawling like spiders across the stone walls above. “My children are so <em>terribly</em> hungry these days." His long, elegant claws twitch, and for an instant, his nostrils seem to flare like a bat’s. “Shall I allow them to make a meal of you?"
+<p>Blýskne se – a před vámi se tyčí Strahdova vychrtlá, bledá postava a jeho karmínové oči se lesknou ve tmě. „Hosté mimo své apartmá ještě před úsvitem,“ pronese suše. „Opravdu nešťastné.“</p>
 </div>
 
-The four figures are ordinary **vampire spawn**.
-
-The players can convince Strahd to keep the vampire spawn from attacking by making a convincing argument or by showing contrition for disobeying his orders. If they do, Strahd dismisses the spawn with a gesture, sending them retreating onto the exterior of the tower. 
-
-If the players make no attempt to appease Strahd, his eyes narrow, and he warns them quietly that they have been invited as guests in his home, but his patience is not endless—and he would be well within his rights as lord of the castle to command whichever punishment he sees fit.
-
-If appeased, Strahd is intrigued to know what drove the players to exit their chambers, as well as by what means they bypassed Escher at the door. (Strahd is fully aware of the secret trapdoor in the guest suite closet, and his eyes glint with amusement if a player attempts to conceal its existence from him.)
-
-> [!info]+ **Confronting Strahd**
-> If confronted regarding Varushka’s nightmare, Strahd raises an eyebrow and notes that the players appear wholly unharmed. “It is not uncommon for rich food to cause ill dreams, after all," he adds serenely. If the players continue to argue that Strahd placed them in danger, Strahd shrugs, adding, “I’m sure you believe what you thought you saw was real. This castle is host to things that have led many a mind astray."
-
-Once appeased, Strahd directs the players to return to their suite, noting he shall send Rahadin to retrieve them shortly. He then adds, “And do try to avoid straying from the path again. It would be most unpleasant to need to revisit this conversation—wouldn’t you agree?" Once the players agree, Strahd departs, assuming his mist form through the use of his ***shapechange*** feature and vanishing into the darkness below.
-# O11. Morning at Ravenloft
-Approximately an hour after dawn, Rahadin knocks on the door of the guest suite. Once the players open the door to greet him, Rahadin coldly informs the players that the drawbridge has been repaired, and that they are to dress and prepare themselves for their departure. If the players are ready to depart, Rahadin leads them downstairs; otherwise, he instructs them to be ready within the next ten minutes.
-
-Once the players are ready, Rahadin leads them down <span class="citation">K21. South Tower Stair (p. 59)</span> into <span class="citation">K9. Guests’ Hall (p. 56)</span>, where Strahd is waiting to meet them.
-
-Strahd thanks the players for joining him for dinner and informs them that his carriage is waiting outside to return them home. “Simply speak the name of the settlement you wish to be taken to, and my steeds shall carry you there," he advises.
-
-As the players move to depart, Strahd claps one of them on the shoulder and smiles, though no warmth reaches his eyes. “I hope you have learned from our time together that I can be a most gracious host." He briefly pauses, then adds, with a dangerous glint in his eyes, “Shall our paths cross less fortuitously, however, be warned that my benevolence, like all things, has its eventual and inevitable end."
-
-As Rahadin escorts the players into <span class="citation">K1. Front Courtyard (p. 52)</span>, they find that the rain has stopped, leaving only a grey and dreary morning behind. Strahd’s black carriage is waiting for the players, the carriage door opening silently at their approach. (The players can command the horses drawing the carriage to take them to Barovia, Vallaki, or Krezk.)
-
-As the carriage pulls away from the courtyard, the players can catch a final glimpse of Strahd’s brides watching them from the large, shattered, moon-shaped window in <span class="citation">K25. Audience Hall (p. 61)</span>. Read the following, modifying it if either Ludmilla or Volenta are dead:
+Poté, co hráči dostanou příležitost odpovědět, přečtěte nebo převyprávějte:
 
 <div class="description">
-<p>As the horses begin to move, your gaze falls upon the great, round window that looks down upon the courtyard. The gaunt figures of Strahd’s three vampiric brides stand beyond it, their visages distorted beneath jagged fingers of broken glass as they watch the carriage slowly pull away.</p>
-<p>As the keep shrinks behind you, the chains of the two gate towers shriek and groan, rusted machinery grinding as it slowly heaves the drawbridge back into the air. The carriage rounds a bend in the road—and the sound of the drawbridge slamming shut echoes through the mountains.
+<p>Strahd se napřímí do celé své výšky a stíny se mu ovinou kolem ramen jako plášť. Jeho oči zalétnou za vás a druhý záblesk blesku osvětlí čtyři humanoidní postavy, které lezou jako pavouci po kamenných zdech nad vámi. „Mé děti mají v těchto dnech <em>strašlivý</em> hlad.“ Jeho dlouhé, elegantní drápy sebou škubnou a na okamžik se mu chřípí roztáhne jako netopýrovi. „Mám jim dovolit, aby si z vás udělaly hostinu?“
 </div>
 
-***Milestone.*** Dining with Strahd and vanquishing Varushka completes a story milestone. When the players depart Ravenloft, award each player 3,500 XP. (This should bring the players to 7th level.) Award each player an additional 500 XP if they reunited Varushka with Katarina’s necklace and retrieved Varushka’s hidden cache. 
+Čtyři postavy jsou obyčejní upíří zplozenci (**vampire spawn**).
+
+Hráči mohou Strahda přesvědčit, aby upíří zplozence zadržel, přesvědčivým argumentem nebo projevem lítosti nad tím, že neuposlechli jeho rozkazy. Pokud tak učiní, Strahd zplozence propustí gestem a ti se stáhnou na vnější stranu věže. 
+
+Pokud se hráči Strahda nepokusí usmířit, jeho oči se zúží a tiše je varuje, že byli pozváni jako hosté do jeho domu, ale jeho trpělivost není nekonečná – a jako pán hradu by měl plné právo nařídit jakýkoli trest, který uzná za vhodný.
+
+Je-li usmířen, zajímá Strahda, co hráče přimělo opustit komnaty a jakým způsobem obešli Eschera u dveří. (Strahd o tajných padacích dvířkách v šatně apartmá dobře ví a jeho oči se pobaveně zalesknou, pokud se před ním hráč pokusí jejich existenci zatajit.)
+
+> [!info]+ **Konfrontace se Strahdem**
+> Pokud hráči Strahda konfrontují s Varushčinou noční můrou, Strahd zvedne obočí a poznamená, že hráči vypadají naprosto nezraněni. „Ostatně není neobvyklé, že těžké jídlo přivodí zlé sny,“ dodá klidně. Pokud hráči dál tvrdí, že je Strahd vystavil nebezpečí, Strahd pokrčí rameny a dodá: „Jistě věříte, že to, co jste si mysleli, že vidíte, bylo skutečné. Tento hrad hostí věci, které už svedly z cesty mnohou mysl.“
+
+Jakmile je usmířen, pošle Strahd hráče zpět do jejich apartmá s poznámkou, že pro ně brzy pošle Rahadina. Pak dodá: „A zkuste se znovu neodchylovat z cesty. Bylo by nanejvýš nepříjemné, kdybychom se k tomuto rozhovoru museli vracet – nemyslíte?“ Jakmile hráči souhlasí, Strahd odejde – pomocí své schopnosti ***shapechange*** na sebe vezme podobu mlhy a zmizí v temnotě pod nimi.
+# O11. Ráno v Ravenloftu
+Přibližně hodinu po úsvitu zaklepe Rahadin na dveře apartmá pro hosty. Jakmile mu hráči otevřou, Rahadin jim chladně oznámí, že padací most byl opraven a že se mají obléknout a připravit k odjezdu. Pokud jsou hráči připraveni k odjezdu, Rahadin je odvede dolů; jinak jim přikáže, aby byli připraveni do deseti minut.
+
+Jakmile jsou hráči připraveni, Rahadin je odvede dolů po <span class="citation">K21. South Tower Stair (p. 59)</span> do <span class="citation">K9. Guests’ Hall (p. 56)</span>, kde na ně čeká Strahd.
+
+Strahd hráčům poděkuje, že s ním povečeřeli, a oznámí jim, že venku na ně čeká jeho kočár, aby je odvezl domů. „Stačí vyslovit jméno osady, kam chcete být odvezeni, a mí oři vás tam donesou,“ poradí jim.
+
+Když se hráči chystají k odchodu, Strahd jednoho z nich poplácá po rameni a usměje se, ačkoli do jeho očí žádná vřelost nedosáhne. „Doufám, že jste se během našeho společného času přesvědčili, že dokážu být nanejvýš laskavým hostitelem.“ Na okamžik se odmlčí a pak s nebezpečným zábleskem v očích dodá: „Pokud se však naše cesty zkříží za méně šťastných okolností, buďte varováni, že má shovívavost, jako všechny věci, má svůj konečný a nevyhnutelný konec.“
+
+Když Rahadin vyvede hráče na <span class="citation">K1. Front Courtyard (p. 52)</span>, zjistí, že déšť ustal a zanechal po sobě jen šedé, ponuré ráno. Strahdův černý kočár na hráče čeká a jeho dvířka se při jejich příchodu tiše otevřou. (Hráči mohou koním táhnoucím kočár přikázat, aby je odvezli do Barovie, Vallaki nebo Krezku.)
+
+Když kočár vyjíždí z nádvoří, mohou hráči naposledy zahlédnout Strahdovy nevěsty, jak je pozorují z velkého rozbitého okna ve tvaru měsíce v <span class="citation">K25. Audience Hall (p. 61)</span>. Přečtěte následující a upravte to, pokud je Ludmilla nebo Volenta mrtvá:
+
+<div class="description">
+<p>Jak se koně dávají do pohybu, váš pohled padne na velké kulaté okno, které shlíží na nádvoří. Za ním stojí vychrtlé postavy tří Strahdových upířích nevěst, jejich tváře zkřivené za zubatými prsty rozbitého skla, a sledují, jak se kočár pomalu vzdaluje.</p>
+<p>Jak se hrad za vámi zmenšuje, řetězy obou bránových věží zaskřípou a zasténají a zrezivělé soukolí skřípe, jak padací most pomalu vytahuje zpět do vzduchu. Kočár zahne v zatáčce cesty – a horami se rozlehne zvuk padacího mostu, který se s třeskem zavřel.
+</div>
+
+***Milník.*** Večeře se Strahdem a přemožení Varushky završuje příběhový milník. Když hráči opustí Ravenloft, udělte každému hráči 3 500 XP. (Tím by hráči měli dosáhnout 7. úrovně.) Každému hráči udělte dalších 500 XP, pokud shledali Varushku s Katarininým náhrdelníkem a vyzvedli Varushčinu skrýš.

@@ -728,7 +728,7 @@ The staff is a *staff of frost*, with the following changes:
 The first time a player picks up the *staff of frost*, if they did so at Vilnius’s request, a soft woman’s voice whispers into their mind: “*Vilnius doesn’t deserve this staff. Use its power to deceive him, and take it for yourself.*"
 
 > [!info]+ **The Whispering Voice**
-> The whispering voice belongs to the Dark Powers, who hope to prevent Vilnius from obtaining the *staff of frost*. A player with a passive Wisdom (Perception) score of 15 or greater discerns that the woman’s voice masks a cacophony of whispers that precede her words. If the player previously heard the whispers of the Dark Powers in [[Arc O - Dinner with the Devil#Varushka’s Grief|Arc O - Dinner with the Devil]] or [[Arc Q - A Shining Beacon#Opatovo vykoupení|Arc Q - A Shining Beacon]], they recognize the whispers as the same.
+> The whispering voice belongs to the Dark Powers, who hope to prevent Vilnius from obtaining the *staff of frost*. A player with a passive Wisdom (Perception) score of 15 or greater discerns that the woman’s voice masks a cacophony of whispers that precede her words. If the player previously heard the whispers of the Dark Powers in [[Arc O - Dinner with the Devil#Varushčin žal|Arc O - Dinner with the Devil]] or [[Arc Q - A Shining Beacon#Opatovo vykoupení|Arc Q - A Shining Beacon]], they recognize the whispers as the same.
 ## S4b. Western Temple, Lower Floor
 ### West Hall
 <span class="citation">This scene takes place in Chapter 13, Areas X5d and X36.</span>
