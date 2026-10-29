@@ -4,7 +4,7 @@ V tomto oblouku se hráči po návratu z hradu Ravenloft v [[Arc P - Ravenloft H
 # Q1. Útěk z Ravenloftu
 Podle toho, jakým způsobem unikli, se hráči, kteří po [[Arc P - Ravenloft Heist|Oblouk P – Loupež v Ravenloftu]] prchají z hradu Ravenloft, mohou pokusit přečkat noc na několika různých místech.
 ## Q1a. Teleportační pánev
-Hráči, kteří z hradu Ravenloft uniknou pomocí teleportační pánve v <span class="citation">K78. Brazier Room (p. 82)</span>, se mohou teleportovat na místa popsaná v [[Arc P - Ravenloft Heist#P11e. Brazier Room|Oblouk P – Loupež v Ravenloftu]]. Odtud mohou najít úkryt takto:
+Hráči, kteří z hradu Ravenloft uniknou pomocí teleportační pánve v <span class="citation">K78. Brazier Room (p. 82)</span>, se mohou teleportovat na místa popsaná v [[Arc P - Ravenloft Heist#P11e. Místnost s pánví|Oblouk P – Loupež v Ravenloftu]]. Odtud mohou najít úkryt takto:
 
 ***Vesnice Barovie.*** Pokud se hráči teleportují na hřbitov ve vesnici Barovii, Ismark Kolyanovich je rád nechá odpočinout v pokojích pro hosty v purkmistrově sídle. Přestože ho překvapí, že se Ireena k hráčům přidala v jejich výpravě za porážkou Strahda, utěšuje ho, že Ireena za dobu strávenou po boku hráčů zesílila a nabyla sebedůvěry i vůle.
 
@@ -22,7 +22,7 @@ Hráči, kteří z hradu Ravenloft uniknou pomocí teleportační pánve v <span
 > [!abstract]+ **Trosky Berezu**
 > Pokud se hráči pokusí prozkoumat další stavby v Berezu, tyto trosky do značné míry odpovídají popisu v <span class="citation">U1. Abandoned Cottages (p. 162)</span>, <span class="citation">U4. Churchyard (p. 164)</span> a <span class="citation">U5. Marina's Monument (p. 164)</span>. V opuštěných chalupách však přebývají čtyři čarodějnice, jak je uvedeno níže, v Ulrichově sídle se neobjevuje duch Lazla Ulricha a kozí ohrada Baby Lysagy odpovídá popisu v [[Arc I - The Walls of Krezk#I4c. The Scrying Spell|I4c. Věštecké kouzlo]].
 
-Pokud se hráči pokusí ukrýt v <span class="citation">U1. Abandoned Cottages (p. 162)</span>, napadnou je dvě barovské kletbářky (**Barovian hexwitches**) a dvě barovské močálové čarodějnice (**Barovian bogwitches**), které odpovídají popisu v [[Arc P - Ravenloft Heist#P9c. Cauldron Room|Oblouk P – Loupež v Ravenloftu]]. Vřava přiláká pozornost sedmi strašáků (**scarecrows**), kteří v močálu drží stráž a dorazí tři kola po začátku boje.
+Pokud se hráči pokusí ukrýt v <span class="citation">U1. Abandoned Cottages (p. 162)</span>, napadnou je dvě barovské kletbářky (**Barovian hexwitches**) a dvě barovské močálové čarodějnice (**Barovian bogwitches**), které odpovídají popisu v [[Arc P - Ravenloft Heist#P9c. Komnata kotle|Oblouk P – Loupež v Ravenloftu]]. Vřava přiláká pozornost sedmi strašáků (**scarecrows**), kteří v močálu drží stráž a dorazí tři kola po začátku boje.
 
  
  > [!combat]- **Boj – Trosky Berezu**  

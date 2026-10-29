@@ -764,7 +764,7 @@ Bezprostředně poté, co duch odpoví na desátou otázku hráčů, zažijí hr
 > * **Vedení a rady**: Nepoužívejte NPC v družině k tomu, aby hráčům přímo dávala řešení hádanek, výzev či strategických rozhodnutí. NPC v družině sice může tiše okomentovat věc, která spadá do jeho odbornosti, ale jasné nápovědy či vedení by mělo nabídnout, jen když se ho hráči přímo zeptají, a rozsah jeho pomoci by měl být poměrně omezený.
 
 > [!info]+ **Artefakt**
-> Soška zobrazená při seanci se v současnosti nachází v hrobce svaté Markovie v <span class="citation">K84. Catacombs (p. 85)</span> a podrobněji je popsána v [[Arc P - Ravenloft Heist#South Crypts, Third Row|Oblouk P – Loupež v Ravenloftu]].
+> Soška zobrazená při seanci se v současnosti nachází v hrobce svaté Markovie v <span class="citation">K84. Catacombs (p. 85)</span> a podrobněji je popsána v [[Arc P - Ravenloft Heist#Jižní hrobky, třetí řada|Oblouk P – Loupež v Ravenloftu]].
 
 ***Milník.*** Naverbování Ezmereldy d'Avenir jako spojenkyně je milníkem příběhu. Když hráči dokončí seanci, udělte každému hráči 1 000 XP.
 ##### Slídilové
